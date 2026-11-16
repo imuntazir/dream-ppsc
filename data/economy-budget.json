@@ -1,0 +1,422 @@
+[
+ {
+  "id": "EC1",
+  "subject": "Economy & Budget",
+  "q": "Who presented the Federal Budget FY2025-26 in the National Assembly?",
+  "options": [
+   "Shaukat Tarin",
+   "Muhammad Aurangzeb",
+   "Ishaq Dar",
+   "Miftah Ismail"
+  ],
+  "answer": 1,
+  "explanation": "Finance Minister Muhammad Aurangzeb presented both the FY26 and FY27 budgets.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC2",
+  "subject": "Economy & Budget",
+  "q": "The Federal Budget FY2025-26 was presented on:",
+  "options": [
+   "12 June 2025",
+   "10 June 2025",
+   "26 June 2025",
+   "1 July 2025"
+  ],
+  "answer": 1,
+  "explanation": "Presented 10 June 2025; passed on 26 June 2025.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC3",
+  "subject": "Economy & Budget",
+  "q": "What was the total outlay (total spending) in the Federal Budget FY2025-26?",
+  "options": [
+   "Rs15.264 trillion",
+   "Rs17.573 trillion",
+   "Rs14.131 trillion",
+   "Rs18.771 trillion"
+  ],
+  "answer": 1,
+  "explanation": "Rs17.573 trillion - about 7% less than the previous year.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC4",
+  "subject": "Economy & Budget",
+  "q": "What was the FBR tax target in the Federal Budget FY2025-26?",
+  "options": [
+   "Rs8.207 trillion",
+   "Rs11.072 trillion",
+   "Rs14.131 trillion",
+   "Rs15.264 trillion"
+  ],
+  "answer": 2,
+  "explanation": "Rs14.131 trillion, up about 18.7%.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC5",
+  "subject": "Economy & Budget",
+  "q": "How much was allocated for defence in the Federal Budget FY2025-26?",
+  "options": [
+   "Rs2.55 trillion",
+   "Rs8.207 trillion",
+   "Rs1 trillion",
+   "Rs3 trillion"
+  ],
+  "answer": 0,
+  "explanation": "Rs2.55 trillion, up about 20% after the May 2025 Pakistan-India conflict.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC6",
+  "subject": "Economy & Budget",
+  "q": "What was the fiscal deficit target in the Federal Budget FY2025-26?",
+  "options": [
+   "2.4% of GDP",
+   "3.6% of GDP",
+   "4.2% of GDP",
+   "3.9% of GDP"
+  ],
+  "answer": 3,
+  "explanation": "Fiscal deficit target 3.9% of GDP; primary surplus target 2.4%.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC7",
+  "subject": "Economy & Budget",
+  "q": "What was the GDP growth target in the Federal Budget FY2025-26?",
+  "options": [
+   "4.2%",
+   "3.7%",
+   "3.6%",
+   "4.0%"
+  ],
+  "answer": 0,
+  "explanation": "Growth target 4.2%; actual growth came in at 3.7%.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC8",
+  "subject": "Economy & Budget",
+  "q": "Government employees got what pay rise in the Federal Budget FY2025-26?",
+  "options": [
+   "10%",
+   "15%",
+   "5%",
+   "7%"
+  ],
+  "answer": 0,
+  "explanation": "10% pay rise; pensions rose 7%. In FY27 the salary rise was 7%.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC9",
+  "subject": "Economy & Budget",
+  "q": "How much was allocated for BISP in the Federal Budget FY2025-26?",
+  "options": [
+   "Rs838 billion",
+   "Rs1.055 trillion",
+   "Rs716 billion",
+   "Rs272 billion"
+  ],
+  "answer": 2,
+  "explanation": "Rs716 billion, up 21%. In FY27 it rose to Rs838 billion.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC10",
+  "subject": "Economy & Budget",
+  "q": "How much was set aside for debt servicing (interest) in FY2025-26?",
+  "options": [
+   "Rs1 trillion",
+   "Rs5.147 trillion",
+   "Rs2.55 trillion",
+   "Rs8.207 trillion"
+  ],
+  "answer": 3,
+  "explanation": "Rs8.207 trillion - almost as big as the whole FBR tax target.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC11",
+  "subject": "Economy & Budget",
+  "q": "The Federal Budget FY2026-27 was presented on:",
+  "options": [
+   "11 June 2026",
+   "12 June 2026",
+   "10 June 2025",
+   "26 June 2026"
+  ],
+  "answer": 1,
+  "explanation": "Presented 12 June 2026; the Economic Survey came a day earlier, 11 June 2026.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC12",
+  "subject": "Economy & Budget",
+  "q": "What was the total outlay in the Federal Budget FY2026-27?",
+  "options": [
+   "Rs11.751 trillion",
+   "Rs15.264 trillion",
+   "Rs18.771 trillion",
+   "Rs17.573 trillion"
+  ],
+  "answer": 2,
+  "explanation": "Rs18.771 trillion, up from Rs17.573 trillion in FY26.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC13",
+  "subject": "Economy & Budget",
+  "q": "What was the FBR tax target in the Federal Budget FY2026-27?",
+  "options": [
+   "Rs18.771 trillion",
+   "Rs15.264 trillion",
+   "Rs14.131 trillion",
+   "Rs11.751 trillion"
+  ],
+  "answer": 1,
+  "explanation": "Rs15.264 trillion - a record, about 17.6% above FY26.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC14",
+  "subject": "Economy & Budget",
+  "q": "How much was allocated for defence in the Federal Budget FY2026-27?",
+  "options": [
+   "Rs1 trillion",
+   "Rs3 trillion",
+   "Rs2.55 trillion",
+   "Rs822 billion"
+  ],
+  "answer": 1,
+  "explanation": "Rs3 trillion, plus about Rs822 billion in military pensions.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC15",
+  "subject": "Economy & Budget",
+  "q": "What was the fiscal deficit target in the Federal Budget FY2026-27?",
+  "options": [
+   "3.9% of GDP",
+   "4.0% of GDP",
+   "3.6% of GDP",
+   "2.0% of GDP"
+  ],
+  "answer": 2,
+  "explanation": "About 3.6% of GDP (Rs7.02 trillion); primary surplus target about 2%.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC16",
+  "subject": "Economy & Budget",
+  "q": "What was the GDP growth target in the Federal Budget FY2026-27?",
+  "options": [
+   "3.7%",
+   "4.0%",
+   "3.6%",
+   "4.2%"
+  ],
+  "answer": 1,
+  "explanation": "Growth target 4%; inflation target 8.2% average.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC17",
+  "subject": "Economy & Budget",
+  "q": "How much was allocated for BISP in the Federal Budget FY2026-27?",
+  "options": [
+   "Rs716 billion",
+   "Rs1.169 trillion",
+   "Rs838 billion",
+   "Rs1 trillion"
+  ],
+  "answer": 2,
+  "explanation": "Rs838 billion, up 17%, covering about 12 million families.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC18",
+  "subject": "Economy & Budget",
+  "q": "What was the Federal PSDP allocation in BOTH the FY26 and FY27 budgets?",
+  "options": [
+   "Rs4.224 trillion",
+   "Rs1 trillion",
+   "Rs2.55 trillion",
+   "Rs3.67 trillion"
+  ],
+  "answer": 1,
+  "explanation": "Rs1 trillion in both years - a favourite examiner trap.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC19",
+  "subject": "Economy & Budget",
+  "q": "The Pakistan Economic Survey 2025-26 was presented on:",
+  "options": [
+   "11 June 2026",
+   "10 June 2025",
+   "12 June 2026",
+   "26 June 2025"
+  ],
+  "answer": 0,
+  "explanation": "Presented 11 June 2026, one day before the FY27 budget.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC20",
+  "subject": "Economy & Budget",
+  "q": "What was the real GDP growth in FY26 according to the Economic Survey 2025-26?",
+  "options": [
+   "4.2%",
+   "3.7%",
+   "3.2%",
+   "2.6%"
+  ],
+  "answer": 1,
+  "explanation": "3.7% - below the 4.2% target but the highest in four years.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC21",
+  "subject": "Economy & Budget",
+  "q": "What was the size of Pakistan's economy in FY26?",
+  "options": [
+   "$380 billion",
+   "$500 billion",
+   "$350 billion",
+   "$452.1 billion"
+  ],
+  "answer": 3,
+  "explanation": "Rs126.9 trillion = $452.1 billion, the largest in history.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC22",
+  "subject": "Economy & Budget",
+  "q": "What was Pakistan's per capita income in FY26?",
+  "options": [
+   "$1,901",
+   "$1,824",
+   "$1,662",
+   "$1,751"
+  ],
+  "answer": 0,
+  "explanation": "$1,901, up from $1,751.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC23",
+  "subject": "Economy & Budget",
+  "q": "How much did overseas Pakistanis send home as remittances in Jul-May FY26?",
+  "options": [
+   "$4.3 billion",
+   "$33.9 billion",
+   "$22 billion",
+   "$26.7 billion"
+  ],
+  "answer": 1,
+  "explanation": "$33.9 billion, up 9%; a record $4.3 billion came in April 2026 alone.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC24",
+  "subject": "Economy & Budget",
+  "q": "Which is the biggest sector of Pakistan's economy?",
+  "options": [
+   "Services",
+   "Agriculture",
+   "Industry",
+   "Construction"
+  ],
+  "answer": 0,
+  "explanation": "Services, about 58% of GDP; agriculture grew 2.89%, industry 3.51%.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC25",
+  "subject": "Economy & Budget",
+  "q": "Who is the Governor of the State Bank of Pakistan?",
+  "options": [
+   "Reza Baqir",
+   "Shamshad Akhtar",
+   "Jameel Ahmad",
+   "Ashraf Mahmood Wathra"
+  ],
+  "answer": 2,
+  "explanation": "Governor Jameel Ahmad; decisions are taken by the Monetary Policy Committee.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC26",
+  "subject": "Economy & Budget",
+  "q": "At its peak, what was the State Bank policy rate?",
+  "options": [
+   "12%",
+   "19.5%",
+   "15%",
+   "22%"
+  ],
+  "answer": 3,
+  "explanation": "22% from June 2023 to April 2024; it then fell step by step to 10.5%.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC27",
+  "subject": "Economy & Budget",
+  "q": "What was the State Bank policy rate in October 2026?",
+  "options": [
+   "11.5%",
+   "11%",
+   "12%",
+   "10.5%"
+  ],
+  "answer": 2,
+  "explanation": "12%, after a 50 bps hike on 26 October 2026.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC28",
+  "subject": "Economy & Budget",
+  "q": "How much is 100 basis points (bps) equal to?",
+  "options": [
+   "1%",
+   "0.1%",
+   "0.5%",
+   "10%"
+  ],
+  "answer": 0,
+  "explanation": "100 bps = 1%. So a 100 bps cut takes the rate from 12% to 11%.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC29",
+  "subject": "Economy & Budget",
+  "q": "Pakistan's current IMF programme is its which number programme?",
+  "options": [
+   "22nd",
+   "24th",
+   "21st",
+   "23rd"
+  ],
+  "answer": 1,
+  "explanation": "The 24th IMF programme; the mission chief is Iva Petrova.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ },
+ {
+  "id": "EC30",
+  "subject": "Economy & Budget",
+  "q": "How large is the IMF Extended Fund Facility (EFF) for Pakistan?",
+  "options": [
+   "About $3 billion",
+   "About $7 billion",
+   "About $1.4 billion",
+   "About $1 billion FY27 — outlay Rs18.771tr, FBR Rs15.264tr, defence Rs3tr, deficit 3.6%, growth 4%. Survey FY26 — growth 3.7%, economy $452.1bn, per capita $1,901, remittances $33.9bn. Policy rate: peak 22%, now 12%. IMF: 24th programme, EFF $7bn."
+  ],
+  "answer": 1,
+  "explanation": "EFF: 37 months, about $7 billion, approved 25 September 2024.",
+  "source": "Team Axiom, Pakistan Economy, Finance & Budget (Ch. 3)"
+ }
+]

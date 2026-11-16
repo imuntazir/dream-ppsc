@@ -1,0 +1,513 @@
+{
+ "total": 1454,
+ "per_subject": {
+  "English": 233,
+  "Urdu": 207,
+  "Islamiat": 160,
+  "Pak Studies": 174,
+  "Current Affairs & GK": 194,
+  "Everyday Science": 169,
+  "Computer": 171,
+  "Math": 116,
+  "Economy & Budget": 30
+ },
+ "with_explanation": 274,
+ "dropped": 99,
+ "dropped_detail": [
+  {
+   "source": "ppsc-bank-urdu.md",
+   "id": "U55",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-urdu.md",
+   "id": "U134",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-urdu.md",
+   "id": "U169",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-urdu.md",
+   "id": "U197",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-islamiat.md",
+   "id": "I19",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-islamiat.md",
+   "id": "I65",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-islamiat.md",
+   "id": "I77",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-islamiat.md",
+   "id": "I82",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-islamiat.md",
+   "id": "I95",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-pakstudies.md",
+   "id": "P189",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-science.md",
+   "id": "S67",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-science.md",
+   "id": "S97",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-science.md",
+   "id": "S98",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-science.md",
+   "id": "S200",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-bank-math.md",
+   "id": "M56",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F1",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F2",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F3",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F4",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F5",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F6",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F7",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F8",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F9",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F10",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F11",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F12",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F13",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F14",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F15",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F16",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F17",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F18",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F19",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F20",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F21",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F22",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F23",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F24",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F25",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F26",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F27",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F28",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F29",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F30",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F31",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F32",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F33",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F34",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F35",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F36",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F37",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F38",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F39",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F40",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F41",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F42",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F43",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F44",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F45",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F46",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F47",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F48",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F49",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F50",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F51",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F52",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F53",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F54",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F55",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F56",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F57",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F58",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F59",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F60",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F61",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F62",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F63",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F64",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F65",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F66",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F67",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F68",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F69",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F70",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F71",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F72",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F73",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F74",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F75",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F76",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F77",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F78",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F79",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F80",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F81",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F86",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F103",
+   "reason": "flagged UNVERIFIED"
+  },
+  {
+   "source": "ppsc-recent-papers-bank.md",
+   "id": "F167",
+   "reason": "flagged UNVERIFIED"
+  }
+ ]
+}

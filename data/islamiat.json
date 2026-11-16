@@ -1,0 +1,2242 @@
+[
+ {
+  "id": "I1",
+  "subject": "Islamiat",
+  "q": "Which Surah of the Holy Quran is without Bismillah?",
+  "options": [
+   "Surah Ya-Sin",
+   "Surah Al-Fatiha",
+   "Surah Al-Mulk",
+   "Surah Al-Tauba"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I2",
+  "subject": "Islamiat",
+  "q": "The word \"Zakat\" literally means:",
+  "options": [
+   "To distribute",
+   "To give",
+   "To purify",
+   "To increase"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I3",
+  "subject": "Islamiat",
+  "q": "Arafat day falls on which Hijri date?",
+  "options": [
+   "1st Muharram",
+   "8th Dhul-Hijjah",
+   "9th Dhul-Hijjah",
+   "10th Dhul-Hijjah"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I4",
+  "subject": "Islamiat",
+  "q": "\"Ahsan-ul-Qasas\" (the best of stories) is in which Surah?",
+  "options": [
+   "Surah Al-Kahf",
+   "Surah Yusuf",
+   "Surah Maryam",
+   "Surah Al-Anbiya"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I5",
+  "subject": "Islamiat",
+  "q": "Which Sahabi's name is mentioned in the Holy Quran?",
+  "options": [
+   "Hazrat Abu Bakr (RA)",
+   "Hazrat Hamza (RA)",
+   "Hazrat Umar (RA)",
+   "Hazrat Zaid bin Haris (RA)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I6",
+  "subject": "Islamiat",
+  "q": "In Ghazwa-e-Ahzab (Khandaq), the mushrik warrior Amr bin Abd Wud was killed by:",
+  "options": [
+   "Hazrat Saad bin Abi Waqas (RA)",
+   "Hazrat Ali (RA)",
+   "Hazrat Umar (RA)",
+   "Hazrat Hamza (RA)"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I7",
+  "subject": "Islamiat",
+  "q": "In which Ghazwa did Hazrat Khalid bin Walid (RA) receive the title \"Saif Ullah\"?",
+  "options": [
+   "Ghazwa-e-Uhud",
+   "Ghazwa-e-Muta",
+   "Ghazwa-e-Badr",
+   "Ghazwa-e-Tabuk"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I8",
+  "subject": "Islamiat",
+  "q": "Hazrat Khalid bin Walid (RA) embraced Islam in:",
+  "options": [
+   "8 AH",
+   "5 AH",
+   "6 AH",
+   "7 AH"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I9",
+  "subject": "Islamiat",
+  "q": "\"Abdul Ka'aba\" was the name of which Sahabi?",
+  "options": [
+   "Hazrat Umar Farooq (RA)",
+   "Hazrat Ali (RA)",
+   "Hazrat Abu Bakr Siddique (RA)",
+   "Hazrat Usman Ghani (RA)"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I10",
+  "subject": "Islamiat",
+  "q": "Which Sahabi is called the greatest Qari (reciter) of the Quran?",
+  "options": [
+   "Hazrat Abu Musa Ash'ari (RA)",
+   "Hazrat Abdullah bin Masud (RA)",
+   "Hazrat Zaid bin Thabit (RA)",
+   "Hazrat Ubayy bin Ka'b (RA)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I11",
+  "subject": "Islamiat",
+  "q": "How many articles were there in the Misaq-e-Madina (Charter of Madinah)?",
+  "options": [
+   "47",
+   "53",
+   "35",
+   "23"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I12",
+  "subject": "Islamiat",
+  "q": "Namaz-e-Istisqa is prayed for:",
+  "options": [
+   "Earthquake",
+   "Solar eclipse",
+   "Rain",
+   "Lunar eclipse"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I13",
+  "subject": "Islamiat",
+  "q": "Ablution (wudu) means:",
+  "options": [
+   "Prayer",
+   "Fasting",
+   "Charity",
+   "Washing of one's body or part of it as a religious rite"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I14",
+  "subject": "Islamiat",
+  "q": "The word \"Zam Zam\" means:",
+  "options": [
+   "To rise",
+   "To flow",
+   "To drink",
+   "To stop"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I15",
+  "subject": "Islamiat",
+  "q": "Jannat-ul-Baqi is located in:",
+  "options": [
+   "Taif",
+   "Madina",
+   "Makkah",
+   "Jeddah"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I16",
+  "subject": "Islamiat",
+  "q": "\"Israel\" is the title of:",
+  "options": [
+   "Hazrat Ishaq (AS)",
+   "Hazrat Ismail (AS)",
+   "Hazrat Yusuf (AS)",
+   "Hazrat Yaqoob (AS)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I17",
+  "subject": "Islamiat",
+  "q": "Sheikh Abdul Qadir Jillani (RA) is buried at:",
+  "options": [
+   "Konya",
+   "Damascus",
+   "Cairo",
+   "Baghdad"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I18",
+  "subject": "Islamiat",
+  "q": "\"There is no compulsion in religion\" is stated in which Surah?",
+  "options": [
+   "Surah Al-Maida",
+   "Surah Al-Imran",
+   "Surah An-Nisa",
+   "Surah Al-Baqarah"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I20",
+  "subject": "Islamiat",
+  "q": "Hajjat-ul-Wida (Farewell Hajj) took place in which Hijri year:",
+  "options": [
+   "10 AH",
+   "8 AH",
+   "11 AH",
+   "9 AH"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I21",
+  "subject": "Islamiat",
+  "q": "Hazrat Abu Bakr (RA) assigned the task of compilation (jama-o-tadveen) of the Quran to which Sahabi:",
+  "options": [
+   "Hazrat Zaid bin Sabit (RA)",
+   "Hazrat Umar (RA)",
+   "Hazrat Ali (RA)",
+   "Hazrat Usman (RA)"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I22",
+  "subject": "Islamiat",
+  "q": "Which book was revealed to Hazrat Dawood (AS):",
+  "options": [
+   "Injeel",
+   "Zaboor",
+   "Quran",
+   "Taurat"
+  ],
+  "answer": 1,
+  "explanation": "reverse of a 1000-bank item - kept as distinct question",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I23",
+  "subject": "Islamiat",
+  "q": "How many Imams are the Aima-e-Arba'a:",
+  "options": [
+   "6",
+   "4",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I24",
+  "subject": "Islamiat",
+  "q": "The conditions of Sulh-e-Hudaibiya were written down (qalam-band) by which Sahabi:",
+  "options": [
+   "Hazrat Umar (RA)",
+   "Hazrat Abu Bakr (RA)",
+   "Hazrat Usman (RA)",
+   "Hazrat Ali (RA)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I25",
+  "subject": "Islamiat",
+  "q": "Which Sahabi participated in ALL the Ghazwat alongside the Holy Prophet (PBUH):",
+  "options": [
+   "Hazrat Talha (RA)",
+   "Hazrat Umar Farooq (RA)",
+   "Hazrat Hamza (RA)",
+   "Hazrat Abu Bakr Siddique (RA)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I26",
+  "subject": "Islamiat",
+  "q": "The book of which Muslim physician was taught in Europe until the 18th century:",
+  "options": [
+   "Ibn-e-Sina",
+   "Ibn Rushd",
+   "Al-Zahrawi",
+   "Al-Razi"
+  ],
+  "answer": 0,
+  "explanation": "Al-Qanoon fil Tibb",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I27",
+  "subject": "Islamiat",
+  "q": "How many verses were revealed in the first revelation (pehli wahi):",
+  "options": [
+   "4",
+   "7",
+   "5",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "first 5 verses of Surah Al-Alaq",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I28",
+  "subject": "Islamiat",
+  "q": "Masjid-e-Nabvi was built in:",
+  "options": [
+   "1 AH",
+   "5 AH",
+   "2 AH",
+   "3 AH"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I29",
+  "subject": "Islamiat",
+  "q": "Hazrat Umar (RA) embraced Islam after being impressed by which Surah:",
+  "options": [
+   "Surah Al-Fatiha",
+   "Surah Ta-Ha",
+   "Surah Al-Ikhlas",
+   "Surah Al-Kahf"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I30",
+  "subject": "Islamiat",
+  "q": "Who was the first child born after the Hijrah:",
+  "options": [
+   "Abu Hurairah",
+   "Abdullah bin Umar",
+   "Zaid bin Sabit",
+   "Abdullah bin Zubair"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I31",
+  "subject": "Islamiat",
+  "q": "Jihad became obligatory in:",
+  "options": [
+   "2 Hijra",
+   "4 Hijra",
+   "1 Hijra",
+   "3 Hijra"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I32",
+  "subject": "Islamiat",
+  "q": "Hazrat Abu Talib passed away in:",
+  "options": [
+   "3rd Nabvi",
+   "10th Nabvi",
+   "8th Nabvi",
+   "7th Nabvi"
+  ],
+  "answer": 1,
+  "explanation": "Aam-ul-Huzn",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I33",
+  "subject": "Islamiat",
+  "q": "Which sin is unpardonable:",
+  "options": [
+   "Backbiting",
+   "Shirk",
+   "Theft",
+   "Telling a lie"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I34",
+  "subject": "Islamiat",
+  "q": "Before Islam, Friday was called:",
+  "options": [
+   "Yaum-ul-Arubah",
+   "Yaum-ul-Sabt",
+   "Yaum-ul-Juma",
+   "Yaum-ul-Ahad"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I35",
+  "subject": "Islamiat",
+  "q": "Which animal was with the Ashab-e-Kahf:",
+  "options": [
+   "Camel",
+   "Cat",
+   "Horse",
+   "Dog"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I36",
+  "subject": "Islamiat",
+  "q": "The duration of Hazrat Ali's (RA) Khilafat was:",
+  "options": [
+   "4 years",
+   "2 years",
+   "10 years",
+   "6 years"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I37",
+  "subject": "Islamiat",
+  "q": "The Quran says \"do not kill your children\" - for fear of:",
+  "options": [
+   "Ill omen",
+   "Poverty and destitution",
+   "Shame",
+   "Burden"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I38",
+  "subject": "Islamiat",
+  "q": "\"Do not leave the path of justice even if it is against ___\" (complete):",
+  "options": [
+   "Your neighbor",
+   "Your own brother",
+   "Your friend",
+   "Your enemy"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I39",
+  "subject": "Islamiat",
+  "q": "In Islamic economics, the backbone (reedh ki haddi) is called:",
+  "options": [
+   "Jizya",
+   "Zakat",
+   "Khiraj",
+   "Ushr"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I40",
+  "subject": "Islamiat",
+  "q": "According to Islamic values, the standard of honor (izzat) is:",
+  "options": [
+   "Wealth",
+   "Good character",
+   "Taqwa",
+   "Honesty"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I41",
+  "subject": "Islamiat",
+  "q": "Which act increases the power of patience (quwwat-e-bardasht):",
+  "options": [
+   "Roza (fasting)",
+   "Zakat",
+   "Ehsan",
+   "Jihad"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I42",
+  "subject": "Islamiat",
+  "q": "The police department was established during the caliphate of which Khalifa-e-Rashid:",
+  "options": [
+   "Hazrat Abu Bakr (RA)",
+   "Hazrat Usman (RA)",
+   "Hazrat Umar (RA)",
+   "Hazrat Ali (RA)"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I43",
+  "subject": "Islamiat",
+  "q": "In which two situations are believers allowed to turn their backs on the battlefield:",
+  "options": [
+   "None of these",
+   "Both A and B",
+   "To join the army",
+   "As a war strategy"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I44",
+  "subject": "Islamiat",
+  "q": "Hazrat Musa (AS) took his nation, saving them from Pharaoh, to which valley:",
+  "options": [
+   "Valley of Tur",
+   "Valley of Sinai",
+   "Valley of Taif",
+   "Valley of Makkah"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I45",
+  "subject": "Islamiat",
+  "q": "Who incited Bani Israel to worship the calf:",
+  "options": [
+   "Pharaoh",
+   "Qaroon",
+   "Haman",
+   "Al-Samiri"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I46",
+  "subject": "Islamiat",
+  "q": "Malka-e-Saba (Queen of Sheba) belongs to the era of which Prophet:",
+  "options": [
+   "Hazrat Musa (AS)",
+   "Hazrat Isa (AS)",
+   "Hazrat Sulaiman (AS)",
+   "Hazrat Dawood (AS)"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I47",
+  "subject": "Islamiat",
+  "q": "Hazrat Khalid bin Walid (RA) participated as a Muslim for the first time in which battle:",
+  "options": [
+   "Muta",
+   "Uhud",
+   "Tabuk",
+   "Badr"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I48",
+  "subject": "Islamiat",
+  "q": "The real name of Hazrat Abu Hurairah (RA) was:",
+  "options": [
+   "Abu Hurairah bin Malik",
+   "Abdul Rehman bin Talib",
+   "Abdullah bin Abbas",
+   "Abdul Rehman bin Sakhar"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I49",
+  "subject": "Islamiat",
+  "q": "How many times is the name \"Ahmed\" mentioned in the Holy Quran:",
+  "options": [
+   "7",
+   "1",
+   "13",
+   "11"
+  ],
+  "answer": 1,
+  "explanation": "Surah As-Saff 61:6",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I50",
+  "subject": "Islamiat",
+  "q": "How many masarif (heads) of Zakat are described in the Holy Quran:",
+  "options": [
+   "7",
+   "9",
+   "8",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "Surah Tauba 9:60",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I51",
+  "subject": "Islamiat",
+  "q": "Who issued the first regular (official) order to collect and write Ahadis:",
+  "options": [
+   "Hazrat Umar bin Khattab (RA)",
+   "Hazrat Umar bin Abdul Aziz (RA)",
+   "Hazrat Ali bin Abi Talib (RA)",
+   "Hazrat Usman bin Affan (RA)"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I52",
+  "subject": "Islamiat",
+  "q": "Surah Hajj consists of 10 Rukus and how many Ayats:",
+  "options": [
+   "70",
+   "78",
+   "82",
+   "75"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I53",
+  "subject": "Islamiat",
+  "q": "Surah Saba is:",
+  "options": [
+   "Makki",
+   "Neither",
+   "Madni",
+   "Both"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I54",
+  "subject": "Islamiat",
+  "q": "Which sect considered the Quran as the creature of Allah:",
+  "options": [
+   "Mu'tazila",
+   "Khawarij",
+   "Asha'ira",
+   "Murji'a"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I55",
+  "subject": "Islamiat",
+  "q": "To which tribe did Hazrat Khalid bin Walid (RA) belong:",
+  "options": [
+   "Banu Makhzum",
+   "Banu Asad",
+   "Banu Ummayya",
+   "Banu Zuhra"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I56",
+  "subject": "Islamiat",
+  "q": "The garden of Fadak was bestowed to the Holy Prophet (PBUH) as:",
+  "options": [
+   "Booty",
+   "Fay",
+   "Loan",
+   "Gift"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I57",
+  "subject": "Islamiat",
+  "q": "The book \"Arbeen\" contains how many Ahadis:",
+  "options": [
+   "20",
+   "30",
+   "50",
+   "40"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I58",
+  "subject": "Islamiat",
+  "q": "\"Mauwazatain\" means:",
+  "options": [
+   "A collection of Ahadis",
+   "Two specific Surahs of the Quran",
+   "Two angels",
+   "Two prayers"
+  ],
+  "answer": 1,
+  "explanation": "Surah Al-Falaq and Surah An-Nas",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I59",
+  "subject": "Islamiat",
+  "q": "Who are the \"Sahibain\":",
+  "options": [
+   "Bukhari and Muslim",
+   "Abu Hanifah and Abu Yusuf",
+   "Shafi and Ahmad",
+   "Malik and Abu Hanifah"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I60",
+  "subject": "Islamiat",
+  "q": "\"Kitab-al-Umm\" is written by:",
+  "options": [
+   "Imam Abu Hanifa",
+   "Imam Ahmad",
+   "Imam Malik",
+   "Imam Shafi"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I61",
+  "subject": "Islamiat",
+  "q": "The foundation of Bait-ul-Hikmah was laid down during:",
+  "options": [
+   "Ottoman Period",
+   "Umayyad Period",
+   "Abbasid Period",
+   "Fatimid Period"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I62",
+  "subject": "Islamiat",
+  "q": "\"Sahifa Hammam bin Munabbih\" was discovered (found) by:",
+  "options": [
+   "Dr. Zakir Naik",
+   "Maulana Azad",
+   "Shibli Nomani",
+   "Dr. Hamidullah"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I63",
+  "subject": "Islamiat",
+  "q": "Who has been titled as the \"Saviour of Islam\" (Najiyy-e-Islam):",
+  "options": [
+   "Caliph Umar (RA)",
+   "Caliph Ali (RA)",
+   "Caliph Abu Bakr (RA)",
+   "Caliph Usman (RA)"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I64",
+  "subject": "Islamiat",
+  "q": "The conqueror of Egypt was:",
+  "options": [
+   "Saad bin Abi Waqas (RA)",
+   "Tariq bin Ziyad",
+   "Khalid bin Walid (RA)",
+   "Amr bin Al-Aas (RA)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I66",
+  "subject": "Islamiat",
+  "q": "Name the Surahs of the Quran named after animals:",
+  "options": [
+   "An-Naml, An-Nahl only",
+   "Al-Fil, Al-Qalam only",
+   "Al-Baqara, Al-Nahl only",
+   "Al-Baqara, Al-An'am, An-Nahl, An-Naml, Al-Ankabut, Al-Fil"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I67",
+  "subject": "Islamiat",
+  "q": "Which Surah is named after a female:",
+  "options": [
+   "Surah Maryam",
+   "Surah Al-Mumtahina",
+   "Surah An-Nisa",
+   "Surah Al-Mujadila"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I68",
+  "subject": "Islamiat",
+  "q": "How many Surahs of the Quran are named after Muhammad (PBUH):",
+  "options": [
+   "Four",
+   "One (Surah Muhammad)",
+   "Two",
+   "Six"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I69",
+  "subject": "Islamiat",
+  "q": "How many times is the name \"Muhammad\" (PBUH) mentioned in the Quran:",
+  "options": [
+   "Seven",
+   "Two",
+   "Three",
+   "Four"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I70",
+  "subject": "Islamiat",
+  "q": "In which Surahs is the name \"Muhammad\" (PBUH) mentioned in the Quran:",
+  "options": [
+   "Al-Fatiha, Al-Ikhlas, Al-Falaq, An-Nas",
+   "Yasin, Ar-Rahman, Al-Mulk, Al-Waqia",
+   "Al-Baqarah, Al-Imran, An-Nisa, Al-Maida",
+   "Al-Imran, Al-Ahzab, Muhammad, Al-Fath"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I71",
+  "subject": "Islamiat",
+  "q": "How many Holy Books are described in the Quran (per source):",
+  "options": [
+   "Seven",
+   "Five",
+   "Three",
+   "Four"
+  ],
+  "answer": 2,
+  "explanation": "note: some count four with Suhuf-e-Ibrahim",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I72",
+  "subject": "Islamiat",
+  "q": "To whom did the Quran refer as \"Bait-ul-Ateeq\":",
+  "options": [
+   "Masjid-e-Nabvi",
+   "Bait-ul-Maqdis",
+   "Masjid-e-Aqsa",
+   "Baitullah (Kaaba)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I73",
+  "subject": "Islamiat",
+  "q": "In which battle were most of the Huffaz-e-Quran martyred:",
+  "options": [
+   "Khandaq",
+   "Badr",
+   "Uhud",
+   "Yamama"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I74",
+  "subject": "Islamiat",
+  "q": "Who solicited Hazrat Abu Bakr (RA) for the compilation (tadveen) of the Quran:",
+  "options": [
+   "Hazrat Usman (RA)",
+   "Hazrat Umar (RA)",
+   "Hazrat Ali (RA)",
+   "Hazrat Talha (RA)"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I75",
+  "subject": "Islamiat",
+  "q": "The first Juma (Friday) prayer was offered by the Holy Prophet (PBUH) in:",
+  "options": [
+   "5 AH",
+   "1 AH",
+   "10 AH",
+   "2 AH"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I76",
+  "subject": "Islamiat",
+  "q": "During Hajj, the number of Faraiz (obligatory duties) is:",
+  "options": [
+   "3",
+   "6",
+   "2",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I78",
+  "subject": "Islamiat",
+  "q": "Ghar-e-Saur (the cave of Saur) is mentioned in which Surah:",
+  "options": [
+   "Al-Tauba",
+   "Al-Baqarah",
+   "Al-Kahf",
+   "Al-Imran"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I79",
+  "subject": "Islamiat",
+  "q": "The age of Hazrat Noah (AS) was:",
+  "options": [
+   "1000 years",
+   "950 years",
+   "900 years",
+   "1200 years"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I80",
+  "subject": "Islamiat",
+  "q": "The age of Hazrat Adam (AS) was:",
+  "options": [
+   "950 years",
+   "900 years",
+   "1100 years",
+   "1000 years"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I81",
+  "subject": "Islamiat",
+  "q": "The attribute of Allah \"Al-Bari\" means:",
+  "options": [
+   "The Forgiver",
+   "The Provider",
+   "The Merciful",
+   "The Maker"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I83",
+  "subject": "Islamiat",
+  "q": "What was the number of Muslims at the time of the Conquest of Makkah:",
+  "options": [
+   "5000",
+   "1000",
+   "14000",
+   "10000"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I84",
+  "subject": "Islamiat",
+  "q": "Who was the first commander of the Islamic army:",
+  "options": [
+   "Hazrat Ali (RA)",
+   "Hazrat Khalid bin Walid (RA)",
+   "Hazrat Zaid bin Haris (RA)",
+   "Hazrat Hamza (RA)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I85",
+  "subject": "Islamiat",
+  "q": "The declaration (elan) of Zakat was made in:",
+  "options": [
+   "5 AH",
+   "1 AH",
+   "2 AH",
+   "9 AH"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I86",
+  "subject": "Islamiat",
+  "q": "The Hijri year (calendar) was introduced by which companion:",
+  "options": [
+   "Hazrat Umar (RA)",
+   "Hazrat Ali (RA)",
+   "Hazrat Abu Bakr (RA)",
+   "Hazrat Usman (RA)"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I87",
+  "subject": "Islamiat",
+  "q": "Usury (Sood) was declared prohibited in:",
+  "options": [
+   "9 AH",
+   "8 AH",
+   "5 AH",
+   "2 AH"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I88",
+  "subject": "Islamiat",
+  "q": "\"Umm-ul-Masakeen\" was the title of which wife of the Holy Prophet (PBUH):",
+  "options": [
+   "Hazrat Hafsa (RA)",
+   "Hazrat Khadija (RA)",
+   "Hazrat Zainab bint Khuzaima (RA)",
+   "Hazrat Ayesha (RA)"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I89",
+  "subject": "Islamiat",
+  "q": "When was the Zakat system fully enforced in the life of the Holy Prophet (PBUH):",
+  "options": [
+   "9 AH",
+   "7 AH",
+   "2 AH",
+   "5 AH"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I90",
+  "subject": "Islamiat",
+  "q": "Hazrat Adam (AS) was created on:",
+  "options": [
+   "Sunday",
+   "Friday",
+   "Monday",
+   "Thursday"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I91",
+  "subject": "Islamiat",
+  "q": "What is the relation of Hazrat Hamza (RA) with the Holy Prophet (PBUH):",
+  "options": [
+   "Nephew",
+   "Uncle",
+   "Brother",
+   "Cousin"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I92",
+  "subject": "Islamiat",
+  "q": "The meeting of Prophet Musa (AS) and Hazrat Khizar (AS) is mentioned in which Surah:",
+  "options": [
+   "Al-Kahf",
+   "Bani Isra'il",
+   "Al-Anbiya",
+   "Al-Qasas"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I93",
+  "subject": "Islamiat",
+  "q": "The first Ghazwa in Islam is:",
+  "options": [
+   "Badr",
+   "Uhud",
+   "Khandaq",
+   "Abwa"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I94",
+  "subject": "Islamiat",
+  "q": "Ghazwa-e-Abwa is also known as:",
+  "options": [
+   "Widdan",
+   "Tabuk",
+   "Ahzab",
+   "Muta"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I96",
+  "subject": "Islamiat",
+  "q": "Which event is called \"Yaum-ul-Furqan\" in the Quran:",
+  "options": [
+   "Ghazwa-e-Badr",
+   "Ghazwa-e-Uhud",
+   "Ghazwa-e-Khyber",
+   "Conquest of Makkah"
+  ],
+  "answer": 0,
+  "explanation": "reverse of a 1000-bank item - kept as distinct question",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I97",
+  "subject": "Islamiat",
+  "q": "In the journey of Miraj, the Prophet (PBUH) was brought two bowls - one had wine and the other had:",
+  "options": [
+   "Dates",
+   "Milk",
+   "Water",
+   "Honey"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I98",
+  "subject": "Islamiat",
+  "q": "Name the first authority for the compilation of Ahadis:",
+  "options": [
+   "Imam Abu Hanifa",
+   "Imam Bukhari",
+   "Imam Maalik",
+   "Imam Ahmad"
+  ],
+  "answer": 2,
+  "explanation": "options from page adapted; Muwatta",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I99",
+  "subject": "Islamiat",
+  "q": "How many Ahadis does Sahih Bukhari contain:",
+  "options": [
+   "9123",
+   "7397",
+   "7900",
+   "7300"
+  ],
+  "answer": 1,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I100",
+  "subject": "Islamiat",
+  "q": "Who was the first poet rewarded by the Holy Prophet (PBUH):",
+  "options": [
+   "Maalik bin Dinar",
+   "Abu Jandal",
+   "Kaab bin Zuhair",
+   "Usamah bin Zaid"
+  ],
+  "answer": 2,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I101",
+  "subject": "Islamiat",
+  "q": "\"Fatwa Qazi Khan\" is an authentic Fatwa of:",
+  "options": [
+   "Fiqah Hanbali",
+   "Fiqah Hanafi",
+   "Fiqah Shafi",
+   "Fiqah Maliki"
+  ],
+  "answer": 1,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I102",
+  "subject": "Islamiat",
+  "q": "\"Al-Ma'een\" is a Surah in which there are:",
+  "options": [
+   "Less than 100 Ayahs",
+   "100 or more Ayahs",
+   "Hard orders",
+   "Simple orders"
+  ],
+  "answer": 1,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I103",
+  "subject": "Islamiat",
+  "q": "In which battle was Musailma Kazzab killed:",
+  "options": [
+   "Badr",
+   "Muta",
+   "Tabuk",
+   "Yamama"
+  ],
+  "answer": 3,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I104",
+  "subject": "Islamiat",
+  "q": "Which Sahabi gave the final opinion about the burial of the Prophet (PBUH):",
+  "options": [
+   "Hazrat Usman (RA)",
+   "Hazrat Abu Bakr (RA)",
+   "Hazrat Umar (RA)",
+   "Hazrat Ali (RA)"
+  ],
+  "answer": 1,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I105",
+  "subject": "Islamiat",
+  "q": "Whose title is \"Syed-ush-Shuhada\":",
+  "options": [
+   "Hazrat Ali (RA)",
+   "Hazrat Jafar (RA)",
+   "Hazrat Hamza (RA)",
+   "Hazrat Abbas (RA)"
+  ],
+  "answer": 2,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I106",
+  "subject": "Islamiat",
+  "q": "The upright stones at some distance from one another (during Hajj) are called:",
+  "options": [
+   "Rami",
+   "Jamarat",
+   "Tawaf",
+   "Wuquf"
+  ],
+  "answer": 1,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I107",
+  "subject": "Islamiat",
+  "q": "What was the last battle (Ghazwa) of the Prophet (PBUH):",
+  "options": [
+   "Tabuk",
+   "Hunain",
+   "Muta",
+   "Khyber"
+  ],
+  "answer": 0,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I108",
+  "subject": "Islamiat",
+  "q": "Who gave the Azan at the Conquest of Makkah:",
+  "options": [
+   "Hazrat Bilal (RA)",
+   "Hazrat Ammar (RA)",
+   "Hazrat Ali (RA)",
+   "Hazrat Usman (RA)"
+  ],
+  "answer": 0,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I109",
+  "subject": "Islamiat",
+  "q": "Before the birth of the Holy Prophet (PBUH), who attacked Makkah:",
+  "options": [
+   "Abraha",
+   "Khusru",
+   "Najashi",
+   "Pilatus"
+  ],
+  "answer": 0,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I110",
+  "subject": "Islamiat",
+  "q": "How many companions were there at the Farewell Sermon at Arafat:",
+  "options": [
+   "124000",
+   "123500",
+   "124500",
+   "125000"
+  ],
+  "answer": 0,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I111",
+  "subject": "Islamiat",
+  "q": "Who gave the idea to dig a ditch in the Battle of Khandaq:",
+  "options": [
+   "Hazrat Salman Farsi (RA)",
+   "Hazrat Ali (RA)",
+   "Qutaibah bin Muslim",
+   "Hazrat Usman (RA)"
+  ],
+  "answer": 0,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I112",
+  "subject": "Islamiat",
+  "q": "Which was the first institution of Islam:",
+  "options": [
+   "Masjid Kufa",
+   "Shiraz",
+   "Aqaz",
+   "Dar-e-Arqam"
+  ],
+  "answer": 3,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I113",
+  "subject": "Islamiat",
+  "q": "Where is Masjid-e-Qiblatain situated:",
+  "options": [
+   "Madina",
+   "Damascus",
+   "Kufa",
+   "Makkah"
+  ],
+  "answer": 0,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I114",
+  "subject": "Islamiat",
+  "q": "For how many years did the Pious Khilafat (Khilafat-e-Rashida) last:",
+  "options": [
+   "25",
+   "30",
+   "10",
+   "20"
+  ],
+  "answer": 1,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I115",
+  "subject": "Islamiat",
+  "q": "During the reign of which Khalifa did Iraq come under Muslim rule:",
+  "options": [
+   "Hazrat Ali (RA)",
+   "Hazrat Abu Bakr (RA)",
+   "Hazrat Umar (RA)",
+   "Hazrat Usman (RA)"
+  ],
+  "answer": 2,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I116",
+  "subject": "Islamiat",
+  "q": "Who is in charge of provisions (rizq):",
+  "options": [
+   "Hazrat Mika'il (AS)",
+   "Hazrat Jibrael (AS)",
+   "Hazrat Izra'il (AS)",
+   "Hazrat Israfeel (AS)"
+  ],
+  "answer": 0,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I117",
+  "subject": "Islamiat",
+  "q": "The Holy Prophet (PBUH) belongs to which family:",
+  "options": [
+   "Adnani",
+   "Makki",
+   "Hashmi",
+   "Qureshi"
+  ],
+  "answer": 2,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I118",
+  "subject": "Islamiat",
+  "q": "In which Surah does Allah say the wives of the Prophet (PBUH) are mothers of the believers:",
+  "options": [
+   "Muhammad",
+   "Yasin",
+   "Al-Ahzab",
+   "Aal-e-Imran"
+  ],
+  "answer": 2,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I119",
+  "subject": "Islamiat",
+  "q": "\"Muhammad is the Messenger of Allah\" is stated in which Surah:",
+  "options": [
+   "Al-Fath",
+   "Ya-Sin",
+   "Al-Muzzammil",
+   "Muhammad"
+  ],
+  "answer": 0,
+  "explanation": "options from page adapted; 48:29",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I120",
+  "subject": "Islamiat",
+  "q": "Which country is called the Land of Prophets:",
+  "options": [
+   "Saudi Arabia",
+   "Iraq",
+   "Palestine",
+   "Syria"
+  ],
+  "answer": 2,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I121",
+  "subject": "Islamiat",
+  "q": "Madrasa Nizamiya Baghdad was founded in:",
+  "options": [
+   "1065",
+   "1060",
+   "1070",
+   "1055"
+  ],
+  "answer": 0,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I122",
+  "subject": "Islamiat",
+  "q": "The 3rd Caliph Hazrat Usman (RA) belongs to which tribe:",
+  "options": [
+   "Banu Nazir",
+   "Banu Abbas",
+   "Banu Umayya",
+   "Banu Hashim"
+  ],
+  "answer": 2,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I123",
+  "subject": "Islamiat",
+  "q": "What was the name of the wife of the third caliph Hazrat Usman (RA):",
+  "options": [
+   "Umm Kulthum (RA)",
+   "Ruqayya (RA)",
+   "Balqees (RA)",
+   "Salma (RA)"
+  ],
+  "answer": 1,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I124",
+  "subject": "Islamiat",
+  "q": "During Abbasid Khilafat the capital was:",
+  "options": [
+   "Kufa",
+   "Damascus",
+   "Madina",
+   "Baghdad"
+  ],
+  "answer": 3,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I125",
+  "subject": "Islamiat",
+  "q": "In which Hijri year did Hazrat Abu Bakr (RA) become Khalifah:",
+  "options": [
+   "12 AH",
+   "2 AH",
+   "11 AH",
+   "16 AH"
+  ],
+  "answer": 2,
+  "explanation": "options from page adapted",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I126",
+  "subject": "Islamiat",
+  "q": "How many Kalimas are there in Islam:",
+  "options": [
+   "4",
+   "6",
+   "7",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I127",
+  "subject": "Islamiat",
+  "q": "What is the meaning of \"Tayyaba\" (in Kalima-e-Tayyaba):",
+  "options": [
+   "Oneness",
+   "Penitence",
+   "Testimony",
+   "Purity"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I128",
+  "subject": "Islamiat",
+  "q": "What is the meaning of \"Shahadat\":",
+  "options": [
+   "Penitence",
+   "Testimony",
+   "Purity",
+   "Worship"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I129",
+  "subject": "Islamiat",
+  "q": "Namaz (Salat) was made obligatory during the Prophet's Miraj in which year of Nabuwat:",
+  "options": [
+   "11th",
+   "8th",
+   "10th",
+   "12th"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I130",
+  "subject": "Islamiat",
+  "q": "After the Kalima, which is the second most important pillar of Islam:",
+  "options": [
+   "Hajj",
+   "Roza",
+   "Salat (Namaz)",
+   "Zakat"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I131",
+  "subject": "Islamiat",
+  "q": "When was Zakat made compulsory:",
+  "options": [
+   "2 AH",
+   "5 AH",
+   "9 AH",
+   "1 AH"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I132",
+  "subject": "Islamiat",
+  "q": "Who said that there was no difference between Salat and Zakat:",
+  "options": [
+   "Hazrat Usman (RA)",
+   "Hazrat Ali (RA)",
+   "Hazrat Abu Bakr (RA)",
+   "Hazrat Umar (RA)"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I133",
+  "subject": "Islamiat",
+  "q": "How many times does the word \"Zakat\" occur in the Holy Quran:",
+  "options": [
+   "22",
+   "32",
+   "82",
+   "40"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I134",
+  "subject": "Islamiat",
+  "q": "Which Caliph did Jihad on the issue of Zakat (against its deniers):",
+  "options": [
+   "Hazrat Usman (RA)",
+   "Hazrat Ali (RA)",
+   "Hazrat Umar (RA)",
+   "Hazrat Abu Bakr (RA)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I135",
+  "subject": "Islamiat",
+  "q": "One who disbelieves in Zakat is a:",
+  "options": [
+   "Munafiq",
+   "Fasiq",
+   "Muslim",
+   "Kafir"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I136",
+  "subject": "Islamiat",
+  "q": "The person liable to pay Zakat is called:",
+  "options": [
+   "Mustahiq",
+   "Sahib-e-Maal",
+   "Aamil",
+   "Sahib-e-Nisab"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I137",
+  "subject": "Islamiat",
+  "q": "How many camels make Zakat payable:",
+  "options": [
+   "40",
+   "10",
+   "20",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I138",
+  "subject": "Islamiat",
+  "q": "How many goats/sheep make Zakat payable:",
+  "options": [
+   "50",
+   "30",
+   "40",
+   "20"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I139",
+  "subject": "Islamiat",
+  "q": "On the Day of Judgement, what will be asked about first:",
+  "options": [
+   "Namaz",
+   "Roza",
+   "Hajj",
+   "Zakat"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I140",
+  "subject": "Islamiat",
+  "q": "How many times is the word \"Zakat\" used in Makki Surahs:",
+  "options": [
+   "22",
+   "12",
+   "42",
+   "32"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I141",
+  "subject": "Islamiat",
+  "q": "What is the rate of Ushr for canal-irrigated land:",
+  "options": [
+   "10 percent",
+   "2.5 percent",
+   "20 percent",
+   "5 percent"
+  ],
+  "answer": 3,
+  "explanation": "1/20",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I142",
+  "subject": "Islamiat",
+  "q": "Who are NOT entitled to receive Zakat:",
+  "options": [
+   "Poor relatives",
+   "Debtors",
+   "Parents, husband, wife and children",
+   "Travelers"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I143",
+  "subject": "Islamiat",
+  "q": "What is the 4th Rukn (pillar) of Islam:",
+  "options": [
+   "Kalima",
+   "Roza (fasting)",
+   "Namaz",
+   "Zakat"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I144",
+  "subject": "Islamiat",
+  "q": "How many Arkan does Roza have:",
+  "options": [
+   "Five",
+   "Four",
+   "Three",
+   "Two"
+  ],
+  "answer": 2,
+  "explanation": "abstaining from eating, drinking and marital relations",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I145",
+  "subject": "Islamiat",
+  "q": "The 1st Ashra of Ramzan is called:",
+  "options": [
+   "Ashra-e-Ibadat",
+   "Ashra-e-Rehmat",
+   "Ashra-e-Maghfirat",
+   "Ashra-e-Najat"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I146",
+  "subject": "Islamiat",
+  "q": "The 2nd Ashra of Ramzan is called:",
+  "options": [
+   "Ashra-e-Najat",
+   "Ashra-e-Rehmat",
+   "Ashra-e-Maghfirat",
+   "Ashra-e-Ibadat"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I147",
+  "subject": "Islamiat",
+  "q": "The 3rd Ashra of Ramzan is called:",
+  "options": [
+   "Ashra-e-Rehmat",
+   "Ashra-e-Ibadat",
+   "Ashra-e-Maghfirat",
+   "Ashra-e-Najat (from Hell's fire)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I148",
+  "subject": "Islamiat",
+  "q": "From which Prophet's age was Hajj started:",
+  "options": [
+   "Hazrat Musa (AS)",
+   "Hazrat Muhammad (PBUH)",
+   "Hazrat Isa (AS)",
+   "Hazrat Ibrahim (AS)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I149",
+  "subject": "Islamiat",
+  "q": "How many Rukns (pillars) does Hajj have:",
+  "options": [
+   "Two",
+   "Four",
+   "Three",
+   "Five"
+  ],
+  "answer": 0,
+  "explanation": "stay at Arafat and Tawaf of the Kaaba",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I150",
+  "subject": "Islamiat",
+  "q": "What is meant by Tawaf:",
+  "options": [
+   "Taking seven rounds around the Khana Kaaba",
+   "Staying at Arafat",
+   "Throwing stones",
+   "Running between Safa and Marwa"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I151",
+  "subject": "Islamiat",
+  "q": "What is read while entering Haram Sharif during Hajj in Ihram:",
+  "options": [
+   "Azan",
+   "Talbiya",
+   "Takbeer",
+   "Durood"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I152",
+  "subject": "Islamiat",
+  "q": "Which stone of the Kaaba wall is kissed:",
+  "options": [
+   "Hateem",
+   "Rukn-e-Yamani",
+   "Hajr-e-Aswad",
+   "Maqam-e-Ibrahim"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I153",
+  "subject": "Islamiat",
+  "q": "Running between Safa and Marwa is called:",
+  "options": [
+   "Tawaf",
+   "Sa'i",
+   "Rami",
+   "Wuquf"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I154",
+  "subject": "Islamiat",
+  "q": "Throwing stones at the three spots is called:",
+  "options": [
+   "Sa'i",
+   "Rami",
+   "Tawaf",
+   "Wuquf"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I155",
+  "subject": "Islamiat",
+  "q": "What is Yaum-ut-Tarwiya and what is done on that day:",
+  "options": [
+   "8 Zil-Hajj, stay at Mina",
+   "7 Zil-Hajj, Tawaf",
+   "10 Zil-Hajj, sacrifice",
+   "9 Zil-Hajj, stay at Arafat"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "I156",
+  "subject": "Islamiat",
+  "q": "What is Yaum-e-Arafat and what is done on that day:",
+  "options": [
+   "8 Zil-Hajj, stay at Mina",
+   "9 Zil-Hajj, stay at Arafat before Maghrib",
+   "9 Zil-Hajj, Muzdalifah",
+   "10 Zil-Hajj, Rami"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "F135",
+  "subject": "Islamiat",
+  "q": "The word uttered before Namaz is called ____?",
+  "options": [
+   "Tashhad",
+   "Takbeer-e-Tahreema",
+   "None of these",
+   "Azan"
+  ],
+  "answer": 3,
+  "explanation": "Namaz se pehle buland awaz mein kaha jane wala kalam Azan hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F137",
+  "subject": "Islamiat",
+  "q": "Al-Razi is famous for?",
+  "options": [
+   "Medicine",
+   "None of these",
+   "Mathematics",
+   "Astronomy"
+  ],
+  "answer": 0,
+  "explanation": "Al-Razi (Rhazes) tib (medicine) mein mashhoor hain.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F150",
+  "subject": "Islamiat",
+  "q": "King of ______ tore away the message of Prophet SAW.",
+  "options": [
+   "Egypt",
+   "Iraq",
+   "Syria",
+   "Iran"
+  ],
+  "answer": 3,
+  "explanation": "Rasool SAW ka khat phaarne wala badshah Iran (Kisra) ka tha.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F159",
+  "subject": "Islamiat",
+  "q": "After the death of Hazrat Muhammad (PBUH)'s mother, who brought Him (SAW) back to Makkah?",
+  "options": [
+   "None of these",
+   "Hazrat Halimah Sa'diyah (RA)",
+   "Hazrat Umm Ayman (RA)",
+   "Hazrat Abu Talib (RA)"
+  ],
+  "answer": 2,
+  "explanation": "Walida ki wafat ke baad Aap SAW ko Makkah Hazrat Umm Ayman (RA) wapas laayeen.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F177",
+  "subject": "Islamiat",
+  "q": "Which type of Hadith are the sayings of the Prophet Muhammad (SAW) as revealed to him by the Almighty Allah?",
+  "options": [
+   "Both A and B",
+   "Hadith Quali",
+   "None of these",
+   "Hadith Qudsi"
+  ],
+  "answer": 3,
+  "explanation": "Allah ki taraf se Aap SAW ko ataa aqwal wali riwayat Hadith Qudsi kehlati hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F178",
+  "subject": "Islamiat",
+  "q": "Who was Al-Khwarizmi?",
+  "options": [
+   "Musician",
+   "Mathematician",
+   "None of these",
+   "Chemist"
+  ],
+  "answer": 1,
+  "explanation": "Al-Khwarizmi mathematician the — algebra ke bani.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F186",
+  "subject": "Islamiat",
+  "q": "Surah Al-Ma'idah is the which Surah of the Holy Quran?",
+  "options": [
+   "5th",
+   "3rd",
+   "4th",
+   "None of these"
+  ],
+  "answer": 0,
+  "explanation": "Surah Al-Ma'idah Quran-e-Pak ki 5th surah hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F187",
+  "subject": "Islamiat",
+  "q": "Which surah is called Ummul Kitab (Mother of the Book)?",
+  "options": [
+   "None of these",
+   "Surah Muhammad",
+   "Surah Fatih",
+   "Surah Bakra"
+  ],
+  "answer": 2,
+  "explanation": "Surah Fatiha ko Ummul Kitab (Kitab ki Maa) kehte hain.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F190",
+  "subject": "Islamiat",
+  "q": "The Pious Caliphate (Khulafa-e-Rashideen) lasted for how many years?",
+  "options": [
+   "None of these",
+   "50 years",
+   "40 years",
+   "30 years"
+  ],
+  "answer": 3,
+  "explanation": "Khulafa-e-Rashideen ka daur kul 30 saal raha.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ }
+]

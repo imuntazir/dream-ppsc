@@ -1,0 +1,3264 @@
+[
+ {
+  "id": "E1",
+  "subject": "English",
+  "q": "Choose the synonym of \"Vocation\":",
+  "options": [
+   "Holiday",
+   "Journey",
+   "Vacation",
+   "Profession"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E2",
+  "subject": "English",
+  "q": "Choose the synonym of \"Surreptitious\":",
+  "options": [
+   "Open",
+   "Secret",
+   "Honest",
+   "Loud"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E3",
+  "subject": "English",
+  "q": "Choose the synonym of \"Aficionado\":",
+  "options": [
+   "Beginner",
+   "Stranger",
+   "Enthusiast",
+   "Critic"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E4",
+  "subject": "English",
+  "q": "Choose the synonym of \"Dainty\":",
+  "options": [
+   "Plain",
+   "Delicate",
+   "Heavy",
+   "Rough"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E5",
+  "subject": "English",
+  "q": "Choose the antonym of \"Forbid\":",
+  "options": [
+   "Ban",
+   "Refuse",
+   "Stop",
+   "Allow"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E6",
+  "subject": "English",
+  "q": "Choose the antonym of \"Irrevocable\":",
+  "options": [
+   "Final",
+   "Reversible",
+   "Permanent",
+   "Binding"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E7",
+  "subject": "English",
+  "q": "Choose the antonym of \"Disparage\":",
+  "options": [
+   "Ignore",
+   "Applaud",
+   "Blame",
+   "Insult"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E8",
+  "subject": "English",
+  "q": "Choose the antonym of \"Haphazard\":",
+  "options": [
+   "Organized",
+   "Careless",
+   "Random",
+   "Hasty"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E9",
+  "subject": "English",
+  "q": "Choose the opposite of the word \"Include\":",
+  "options": [
+   "Exclude",
+   "Contain",
+   "Insert",
+   "Add"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E10",
+  "subject": "English",
+  "q": "Change the narration: I said to her, \"Please sit down.\"",
+  "options": [
+   "I asked her that she sits down.",
+   "I told her sit down.",
+   "I ordered her to sit down.",
+   "I requested her to sit down."
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E11",
+  "subject": "English",
+  "q": "Fill in the blank: She will be a doctor ___ next year.",
+  "options": [
+   "by",
+   "on",
+   "at",
+   "in"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E12",
+  "subject": "English",
+  "q": "Fill in the blank: It is 10 o'clock ___ my watch.",
+  "options": [
+   "on",
+   "in",
+   "by",
+   "at"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E13",
+  "subject": "English",
+  "q": "Choose the correct preposition: Adhere ___.",
+  "options": [
+   "at",
+   "with",
+   "on",
+   "to"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E14",
+  "subject": "English",
+  "q": "What is the meaning of the idiom \"To give up the ghost\"?",
+  "options": [
+   "To give charity",
+   "To surrender",
+   "To run away",
+   "To die"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E15",
+  "subject": "English",
+  "q": "Complete the proverb: You can pull a horse to water but you cannot make him ___.",
+  "options": [
+   "drink",
+   "run",
+   "walk",
+   "swim"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E16",
+  "subject": "English",
+  "q": "Complete the idiom: Add ___ to injury.",
+  "options": [
+   "salt",
+   "insult",
+   "wound",
+   "pain"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E17",
+  "subject": "English",
+  "q": "What is the meaning of \"To take time by the forelock\"?",
+  "options": [
+   "To hurry unnecessarily",
+   "To waste time",
+   "To wait patiently",
+   "To seize the opportunity when it arises"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E18",
+  "subject": "English",
+  "q": "What does \"cock and bull story\" mean?",
+  "options": [
+   "A funny joke",
+   "A false, absurd story",
+   "A true tale",
+   "A brave deed"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E19",
+  "subject": "English",
+  "q": "Huge : Immense :: Small : ?",
+  "options": [
+   "Tiny",
+   "Heavy",
+   "Big",
+   "Large"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E20",
+  "subject": "English",
+  "q": "The study of reptiles is called:",
+  "options": [
+   "Ornithology",
+   "Entomology",
+   "Zoology",
+   "Herpetology"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E21",
+  "subject": "English",
+  "q": "Choose the wrongly spelt word:",
+  "options": [
+   "Literacy",
+   "Literal",
+   "Liberary",
+   "Library"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E22",
+  "subject": "English",
+  "q": "Choose the correct antonym of \"Ruthless\":",
+  "options": [
+   "Cold-Blooded",
+   "Brutal",
+   "Compassionate",
+   "Ferocious"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E23",
+  "subject": "English",
+  "q": "Antonym of \"Ambiguous\" is:",
+  "options": [
+   "Explicit",
+   "Equivocate",
+   "Obscure",
+   "Secular"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E24",
+  "subject": "English",
+  "q": "Choose the correct synonym of \"Ecstasy\":",
+  "options": [
+   "Remorse",
+   "Exultation",
+   "Lugubriousness",
+   "Grimness"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E25",
+  "subject": "English",
+  "q": "Synonym of \"Odour\" is:",
+  "options": [
+   "Smell",
+   "Color",
+   "Taste",
+   "Texture"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E26",
+  "subject": "English",
+  "q": "The Antonym of \"FRUGAL\" is:",
+  "options": [
+   "Simple",
+   "Spendthrift",
+   "Fun",
+   "Economical"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E27",
+  "subject": "English",
+  "q": "Choose the most appropriate antonym of \"Pristine\":",
+  "options": [
+   "Light",
+   "Impure",
+   "None of these",
+   "Heavy"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E28",
+  "subject": "English",
+  "q": "What is the antonym of \"straight\"?",
+  "options": [
+   "Linear",
+   "Zigzag",
+   "None of these",
+   "Direct"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E29",
+  "subject": "English",
+  "q": "The synonym of \"Susceptible\" is:",
+  "options": [
+   "Vulnerable",
+   "Insensitive",
+   "Irregular",
+   "Dubious"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E30",
+  "subject": "English",
+  "q": "What is the antonym of \"Vindictive\"?",
+  "options": [
+   "Careless",
+   "Refined",
+   "Forgiving",
+   "Revengeful"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E31",
+  "subject": "English",
+  "q": "Choose the synonym of \"Partisan\":",
+  "options": [
+   "Mite",
+   "Supporter",
+   "Opponent",
+   "Component"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E32",
+  "subject": "English",
+  "q": "\"Laudable\" means:",
+  "options": [
+   "Profitable",
+   "Commendable",
+   "Lovable",
+   "Affectionate"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E33",
+  "subject": "English",
+  "q": "Synonym of \"Luminary\" is:",
+  "options": [
+   "Shinning",
+   "Pleb",
+   "Glowing",
+   "Celebrity"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E34",
+  "subject": "English",
+  "q": "What is the synonym of \"Profane\"?",
+  "options": [
+   "Condescending",
+   "Design",
+   "Irreverent",
+   "All of these"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E35",
+  "subject": "English",
+  "q": "Choose the correct synonym of \"Conspicuous\":",
+  "options": [
+   "Unclear",
+   "Obscure",
+   "Concealed",
+   "Discernible"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E36",
+  "subject": "English",
+  "q": "The Antonym of \"Pseudonym\" is:",
+  "options": [
+   "Mentality",
+   "Real name",
+   "Famous name",
+   "Assumed name"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E37",
+  "subject": "English",
+  "q": "What is the synonym of \"HAUGHTY\"?",
+  "options": [
+   "Modest",
+   "Humble",
+   "All of these",
+   "Conceited"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E38",
+  "subject": "English",
+  "q": "Synonym of \"Blasphemy\" is:",
+  "options": [
+   "Irreverence",
+   "Unholy",
+   "None of these",
+   "Irrespective"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E39",
+  "subject": "English",
+  "q": "Choose the most suitable synonym of \"Cataclysm\":",
+  "options": [
+   "Trash",
+   "Catastrophe",
+   "Pungent",
+   "Tranquility"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E40",
+  "subject": "English",
+  "q": "Choose the correct antonym of \"Liberty\":",
+  "options": [
+   "Freedom",
+   "Slavery",
+   "Delivered",
+   "Scrupulous"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E41",
+  "subject": "English",
+  "q": "Choose the correct synonym of \"Haggard\":",
+  "options": [
+   "Flabby",
+   "Healthy",
+   "Unworn",
+   "Exhausted"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E42",
+  "subject": "English",
+  "q": "Choose the correct meaning of \"LIMPID\":",
+  "options": [
+   "Relaxed",
+   "Clear",
+   "Opaque",
+   "Calm"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E43",
+  "subject": "English",
+  "q": "Synonym of \"Delete\" is:",
+  "options": [
+   "Efficient",
+   "Nasty",
+   "Remove",
+   "Strange"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E44",
+  "subject": "English",
+  "q": "What is the antonym of \"Benign\"?",
+  "options": [
+   "Foolish",
+   "Malevolent",
+   "Friendly",
+   "Soft"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E45",
+  "subject": "English",
+  "q": "Identify the closest meaning of the word \"sycophancy\":",
+  "options": [
+   "Avariciousness",
+   "Sophistication",
+   "Affection",
+   "Flattery"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E46",
+  "subject": "English",
+  "q": "\"Vigorous\" means:",
+  "options": [
+   "Coward",
+   "Energetic",
+   "Sluggish",
+   "Lethargic"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E47",
+  "subject": "English",
+  "q": "Identify the word most opposite in meaning to \"Viable\":",
+  "options": [
+   "Unworkable",
+   "Motionless",
+   "Corrective",
+   "Feasible"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E48",
+  "subject": "English",
+  "q": "Antonym of \"Gruesome\" is:",
+  "options": [
+   "Dried",
+   "Grisly",
+   "Pleasant",
+   "Bored"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E49",
+  "subject": "English",
+  "q": "Synonym of \"ANGUISH\" is:",
+  "options": [
+   "Agony",
+   "Attack",
+   "Anxious",
+   "Relief"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E50",
+  "subject": "English",
+  "q": "Identify the closest meaning of the underlined word: \"Only astute politicians can meet this situation.\"",
+  "options": [
+   "Wicked",
+   "Corrupt",
+   "Honest",
+   "Shrewd"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E51",
+  "subject": "English",
+  "q": "\"Contraband\" means:",
+  "options": [
+   "Family planning materials",
+   "Banned goods",
+   "Temporary stoppage of trade",
+   "Economic sanctions"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E52",
+  "subject": "English",
+  "q": "Choose the correct meaning of \"Torque\":",
+  "options": [
+   "Tuksh sash",
+   "Turban",
+   "A force that tends to cause rotation",
+   "Jest"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E53",
+  "subject": "English",
+  "q": "Synonym of \"Bravery\" is:",
+  "options": [
+   "Boldness",
+   "Purge",
+   "Coward",
+   "Stable"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E54",
+  "subject": "English",
+  "q": "Antonym of \"Amicable\" is:",
+  "options": [
+   "Courteous",
+   "Hostile",
+   "Polite",
+   "Flexible"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E55",
+  "subject": "English",
+  "q": "Choose the correct antonym of \"Oblivion\":",
+  "options": [
+   "Awareness",
+   "Insensibility",
+   "Disregard",
+   "Indifference"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E56",
+  "subject": "English",
+  "q": "The word \"REX\" stands for:",
+  "options": [
+   "The King",
+   "The Court",
+   "The Parliament",
+   "The Crown"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E57",
+  "subject": "English",
+  "q": "\"Amicus Curiae\" is:",
+  "options": [
+   "Eminent friend",
+   "Friend of court and disinterested advisor",
+   "Arbitrator appointed by a court of law",
+   "Most expensive lawyer"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E58",
+  "subject": "English",
+  "q": "\"Utopia\" means:",
+  "options": [
+   "An island",
+   "An idol",
+   "A paradise",
+   "An ideal land"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E59",
+  "subject": "English",
+  "q": "What is \"Jobbery\"?",
+  "options": [
+   "Robbery performed by a previous employee",
+   "Conduct of public business for private gain",
+   "Flattery of superiors",
+   "Looking for a job enthusiastically"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E60",
+  "subject": "English",
+  "q": "\"Notion\" means:",
+  "options": [
+   "Worth nothing",
+   "Forward",
+   "Idea",
+   "Factual"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E61",
+  "subject": "English",
+  "q": "\"Static\" means:",
+  "options": [
+   "Motionless",
+   "Mathematician",
+   "Straight",
+   "Dynamic"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E62",
+  "subject": "English",
+  "q": "\"Asylum\" means:",
+  "options": [
+   "Embryo",
+   "Refuge",
+   "Diplomat",
+   "Soreness"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E63",
+  "subject": "English",
+  "q": "\"Accolade\" means:",
+  "options": [
+   "Keenness of mind or insight",
+   "An award or salute",
+   "Sharp or harsh in language",
+   "To give up completely"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E64",
+  "subject": "English",
+  "q": "\"Just good enough\" means:",
+  "options": [
+   "Not sufficient time",
+   "An estimated criteria",
+   "None of these",
+   "Good for circumstances"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E65",
+  "subject": "English",
+  "q": "Fill in the blank with the correct preposition: \"There's an eraser ___ the end of my pencil.\"",
+  "options": [
+   "On",
+   "At",
+   "In",
+   "To"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E66",
+  "subject": "English",
+  "q": "Turn to passive voice: \"The boy is riding the horse.\"",
+  "options": [
+   "The horse has been ridden by the girl",
+   "The horse is being ridden by the boy",
+   "The horse was being ridden by the girl",
+   "The horse is ridden by the girl"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E67",
+  "subject": "English",
+  "q": "Change the voice of the following sentence: \"Was she sewing my shirt?\"",
+  "options": [
+   "Had my shirt been sewed by her",
+   "Was my shirt being sewn by her",
+   "Was my shirt been sewing by her",
+   "Was my shirt sewing by her"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E68",
+  "subject": "English",
+  "q": "Change the voice: \"Have you laughed at them?\"",
+  "options": [
+   "They have been laughed at by you",
+   "You have been laughed at by them",
+   "Have you been laughed at them",
+   "Have they been laughed at by you"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E69",
+  "subject": "English",
+  "q": "Indicate the indirect form: Saleem said, \"I do not eat mangoes.\"",
+  "options": [
+   "Saleem said that he does not eat mangoes",
+   "Saleem exclaimed that he does not eat mangoes",
+   "Saleem said that he did not eat mangoes",
+   "Saleem said, he did not eat mangoes"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E70",
+  "subject": "English",
+  "q": "Choose the correct indirect speech of: He asked, \"Who speaks French?\"",
+  "options": [
+   "He wanted to know who spoke French",
+   "He wanted to know which spoke French",
+   "He wanted to know who speak French",
+   "He wanted to know who was to speak French"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E71",
+  "subject": "English",
+  "q": "\"Tahir said, 'It is four o'clock now.' Mark the correct indirect:\"",
+  "options": [
+   "Abdul told that it has been four o'clock then",
+   "Tahir told that it was four o'clock then",
+   "None of these",
+   "Abdul told that it had been four o'clock then"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E72",
+  "subject": "English",
+  "q": "They said, \"We take exercise every day.\"",
+  "options": [
+   "They said that they take exercise every day",
+   "They said that we take exercise every day",
+   "They had said that they take exercise every day",
+   "They said that they took exercise every day"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E73",
+  "subject": "English",
+  "q": "Idiom \"Tie the knot\" means:",
+  "options": [
+   "Criticism",
+   "Enmity",
+   "Getting married",
+   "Friendship"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E74",
+  "subject": "English",
+  "q": "\"Get your goat\" means:",
+  "options": [
+   "To pacify someone",
+   "To irritate someone",
+   "To hug someone",
+   "To soothe someone"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E75",
+  "subject": "English",
+  "q": "Meaning of the proverb \"By fits and starts\":",
+  "options": [
+   "Incompletely",
+   "Suddenly",
+   "Irregularly",
+   "Successfully"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E76",
+  "subject": "English",
+  "q": "Fill in the blank: \"You must stick ___ your promise.\"",
+  "options": [
+   "To",
+   "In",
+   "By",
+   "On"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E77",
+  "subject": "English",
+  "q": "\"He lived ___ Model Town ___ Lahore?\"",
+  "options": [
+   "in at",
+   "at at",
+   "of at",
+   "None of these"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E78",
+  "subject": "English",
+  "q": "Fill in the blank: \"She inquired ___ my health?\"",
+  "options": [
+   "About",
+   "After",
+   "For",
+   "Upon"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E79",
+  "subject": "English",
+  "q": "Fill in the blank: \"You must attend ___ the lecture?\"",
+  "options": [
+   "On",
+   "In",
+   "With",
+   "To"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E80",
+  "subject": "English",
+  "q": "Fill in the blanks: \"Alcohol is injurious ___ health.\"",
+  "options": [
+   "Of",
+   "For",
+   "With",
+   "To"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E81",
+  "subject": "English",
+  "q": "\"It is high time to do something\" means:",
+  "options": [
+   "Desired occasion",
+   "Appropriate time",
+   "Auspicious moment",
+   "Already late"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E82",
+  "subject": "English",
+  "q": "Choose the correct article: \"I don't like ___ dogs?\"",
+  "options": [
+   "The",
+   "A",
+   "Article not required",
+   "An"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E83",
+  "subject": "English",
+  "q": "Complete the idiom: \"Hell hath no fury like ___?\"",
+  "options": [
+   "A woman forgotten",
+   "A devil's advocate",
+   "A woman scorned",
+   "A burned woman"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E84",
+  "subject": "English",
+  "q": "\"Do not change ___ in midstream?\"",
+  "options": [
+   "Idea",
+   "Plans",
+   "Horses",
+   "Hounds"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E85",
+  "subject": "English",
+  "q": "\"You would have seen my garden at its best if you ___ here last week.\"",
+  "options": [
+   "Were",
+   "Had been",
+   "Be",
+   "Should be"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E86",
+  "subject": "English",
+  "q": "Choose the appropriate words: \"Aslam is ___ taller than Wusat?\"",
+  "options": [
+   "As tall as, if not",
+   "Not as tall but as",
+   "As tall, if not",
+   "As if not"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E87",
+  "subject": "English",
+  "q": "\"I congratulated him ___ his success.\"",
+  "options": [
+   "Upon",
+   "For",
+   "On",
+   "At"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E88",
+  "subject": "English",
+  "q": "\"The debate adjourned ___ the following week?\"",
+  "options": [
+   "For",
+   "Into",
+   "With",
+   "To"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E89",
+  "subject": "English",
+  "q": "\"Feel blue\" means:",
+  "options": [
+   "Feel sad",
+   "Feel angry",
+   "Feel happy",
+   "Feel energetic"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E90",
+  "subject": "English",
+  "q": "Choose the appropriate preposition: \"It took me ages to find a space ___ park my car.\"",
+  "options": [
+   "About",
+   "Of",
+   "For",
+   "To"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E91",
+  "subject": "English",
+  "q": "Choose the correct analogy: Graceful : Movement ::",
+  "options": [
+   "Fastidious : Grime",
+   "Servile : Rebellion",
+   "Humorous : Laughter",
+   "Articulate : Speech"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E92",
+  "subject": "English",
+  "q": "Complete the proverb: \"A rolling stone gathers no ___?\"",
+  "options": [
+   "Clay",
+   "Moss",
+   "Grass",
+   "Dirt"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E93",
+  "subject": "English",
+  "q": "\"He boasts ___ his wealth?\"",
+  "options": [
+   "To",
+   "By",
+   "Of",
+   "In"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E94",
+  "subject": "English",
+  "q": "\"Who is knocking ___ the door?\"",
+  "options": [
+   "at",
+   "of",
+   "in",
+   "by"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E95",
+  "subject": "English",
+  "q": "Identify the wrong spelling:",
+  "options": [
+   "Calmness",
+   "Transfer",
+   "Transpyre",
+   "Tranquil"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E96",
+  "subject": "English",
+  "q": "\"The authority failed to carry ___ its statutory duties?\"",
+  "options": [
+   "On",
+   "With",
+   "Up",
+   "Out"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E97",
+  "subject": "English",
+  "q": "Complete the proverb: \"Familiarity breeds ___?\"",
+  "options": [
+   "Contempt",
+   "Friendship",
+   "Bonding",
+   "Enmity"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E98",
+  "subject": "English",
+  "q": "\"I wear glasses ___ reading.\"",
+  "options": [
+   "On",
+   "Upon",
+   "At",
+   "For"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E99",
+  "subject": "English",
+  "q": "Complete the proverb: \"A penny wise ___ foolish.\"",
+  "options": [
+   "Wound",
+   "Pound",
+   "None of these",
+   "Pool"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E100",
+  "subject": "English",
+  "q": "\"She ran ___ him into the courtyard?\"",
+  "options": [
+   "Upon",
+   "To",
+   "After",
+   "Before"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E101",
+  "subject": "English",
+  "q": "\"Take a leaf out of someone's book\" means:",
+  "options": [
+   "To snatch something",
+   "To imitate or emulate someone in a particular way",
+   "None of these",
+   "To cheat"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E102",
+  "subject": "English",
+  "q": "Choose the correct meaning of the idiom: \"To plough the sand?\"",
+  "options": [
+   "To make the desert bloom",
+   "To work in vain",
+   "To do a difficult work",
+   "To make the desert fertile"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E103",
+  "subject": "English",
+  "q": "\"Bootlegging\" is a form of:",
+  "options": [
+   "Indian religion",
+   "Drugs",
+   "Smuggling",
+   "Sketches"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E104",
+  "subject": "English",
+  "q": "Complete the proverb: \"Keep your friends close and your enemies ___.\"",
+  "options": [
+   "Close",
+   "Closer",
+   "Away",
+   "Apart"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E105",
+  "subject": "English",
+  "q": "\"Drought\" is one-word substitution of:",
+  "options": [
+   "Run away from war",
+   "Lack of rain",
+   "A shooting game",
+   "Outdated syrup"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E106",
+  "subject": "English",
+  "q": "Fill in the blank: \"He travelled ___ difficult circumstances?\"",
+  "options": [
+   "Above",
+   "About",
+   "In",
+   "Under"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E107",
+  "subject": "English",
+  "q": "\"You cannot have your ___ and eat it?\"",
+  "options": [
+   "Cake",
+   "Apple",
+   "Bun",
+   "Biscuit"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E108",
+  "subject": "English",
+  "q": "\"I will be ready ___ the time you get there?\"",
+  "options": [
+   "Of",
+   "By",
+   "On",
+   "At"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E109",
+  "subject": "English",
+  "q": "Fill in the blank: \"A cat differs ___ a dog?\"",
+  "options": [
+   "From",
+   "For",
+   "Over",
+   "With"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E110",
+  "subject": "English",
+  "q": "\"Don't count your ___ before they are hatched.\" Complete the proverb:",
+  "options": [
+   "Quails",
+   "Sparrows",
+   "Ducks",
+   "Chickens"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E111",
+  "subject": "English",
+  "q": "Identify the correct spelling:",
+  "options": [
+   "Adulturate",
+   "Adulterat",
+   "Adultarate",
+   "Adulterate"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E112",
+  "subject": "English",
+  "q": "What is the meaning of the idiom/proverb: \"To spill the beans?\"",
+  "options": [
+   "To misbehave",
+   "To keep secret",
+   "None of these",
+   "To revel secret information"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E113",
+  "subject": "English",
+  "q": "The plural of \"sheep\" is:",
+  "options": [
+   "Sheeps",
+   "Sheaves",
+   "Sheepes",
+   "Sheep"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E114",
+  "subject": "English",
+  "q": "What is the synonym of \"Ostensible\"?",
+  "options": [
+   "Latent",
+   "None of these",
+   "Apparent",
+   "Opposite"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E115",
+  "subject": "English",
+  "q": "Which word is wrongly spelt in the following set of words?",
+  "options": [
+   "Ability",
+   "Capacity",
+   "Variety",
+   "None of these"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E116",
+  "subject": "English",
+  "q": "Fill in the blank: \"He knocked ___ two bottles of milk in ten minutes.\"",
+  "options": [
+   "Against",
+   "About",
+   "Up",
+   "Down"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E117",
+  "subject": "English",
+  "q": "\"In a jiffy\" means:",
+  "options": [
+   "A long time",
+   "A very short time",
+   "On the horns of dilemma",
+   "A tensed situation"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E118",
+  "subject": "English",
+  "q": "Synonym of \"Eradicate\" is:",
+  "options": [
+   "Validate",
+   "Eliminate",
+   "To forget",
+   "To forgive"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E119",
+  "subject": "English",
+  "q": "\"He gave his wife a large ___ of flowers on her birthday.\"",
+  "options": [
+   "Bundle",
+   "Pack",
+   "Group",
+   "Bouquet"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E120",
+  "subject": "English",
+  "q": "\"We should give a wide berth to bad characters.\" The idiom \"give a wide berth to\" means:",
+  "options": [
+   "Publicly condemn",
+   "Give publicity to",
+   "Not sympathise with",
+   "Keep away from"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E121",
+  "subject": "English",
+  "q": "\"Sumit had to look high and low before he could find his scooter key.\" The idiom \"high and low\" means:",
+  "options": [
+   "Somewhere",
+   "Nowhere",
+   "Everywhere",
+   "Always"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E122",
+  "subject": "English",
+  "q": "\"You may rush from pillar to post but you stand no chance of getting what you want without a bribe.\" The idiom \"from pillar to post\" means:",
+  "options": [
+   "Go to all post offices",
+   "Rush in all directions and suffer harassment",
+   "Post many letters",
+   "Be very busy"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E123",
+  "subject": "English",
+  "q": "\"At a party he is always high in spirits.\" The idiom \"high spirits\" means:",
+  "options": [
+   "Uncontrollable",
+   "Cheerful",
+   "Talkative",
+   "Drunk"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E124",
+  "subject": "English",
+  "q": "\"She rejected his proposal of marriage point blank.\" The idiom \"point blank\" means:",
+  "options": [
+   "Directly",
+   "Briefly",
+   "Pointedly",
+   "Absurdly"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E125",
+  "subject": "English",
+  "q": "\"We should guard against our green-eyed friends.\" The idiom \"green-eyed\" means:",
+  "options": [
+   "Rich",
+   "Handsome",
+   "Jealous",
+   "Enthusiastic"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E126",
+  "subject": "English",
+  "q": "\"It was a clear case of the pot calling the kettle black when Jagjit said that Ramu was a thief.\" This means:",
+  "options": [
+   "Both are guilty of the same mistake",
+   "A person blaming another for something he has not done",
+   "A person accusing another of being black",
+   "Someone criticizing another for a fault which he himself has"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E127",
+  "subject": "English",
+  "q": "\"The sight of the accident made my flesh creep.\" The idiom \"made my flesh creep\" means:",
+  "options": [
+   "Frightened me",
+   "Worried me",
+   "Confused me",
+   "Drew my attention"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E128",
+  "subject": "English",
+  "q": "\"He is a queer fish; I have failed to understand him.\" The idiom \"a queer fish\" means:",
+  "options": [
+   "A quarrelsome person",
+   "A sensitive person",
+   "A funny person",
+   "A strange person"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E129",
+  "subject": "English",
+  "q": "\"The involvement of the teachers in the scheme of educating proved to be a mare's nest.\" The idiom \"a mare's nest\" means:",
+  "options": [
+   "A successful venture",
+   "A false invention",
+   "A timely discovery",
+   "A noble thing"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E130",
+  "subject": "English",
+  "q": "\"He threw down the gauntlet before him.\" The idiom \"threw down the gauntlet\" means:",
+  "options": [
+   "Abused and insulted him",
+   "Behaved as an important person",
+   "Threw the challenge",
+   "Put conditions"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E131",
+  "subject": "English",
+  "q": "\"The present undergraduate syllabus leaves very little elbow room for teachers to be innovative.\" The idiom \"elbow room\" means:",
+  "options": [
+   "Space",
+   "Freedom",
+   "Room for elbow",
+   "Ground"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E132",
+  "subject": "English",
+  "q": "\"Komal was left high and dry by her friends when she lost all her money.\" The idiom \"left high and dry\" means:",
+  "options": [
+   "Isolated",
+   "Wounded",
+   "Depressed",
+   "Rejected"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E133",
+  "subject": "English",
+  "q": "\"The party stalwarts have advised the president to take it lying down for a while.\" The idiom \"take it lying down\" means:",
+  "options": [
+   "To be cautious",
+   "To show no reaction",
+   "To be on the defensive",
+   "To take rest"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E134",
+  "subject": "English",
+  "q": "\"A movement for world unity is in the offing.\" The idiom \"in the offing\" means:",
+  "options": [
+   "At the end",
+   "About to start",
+   "In the air",
+   "On decline"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E135",
+  "subject": "English",
+  "q": "\"Sita is not cut out for this kind of work.\" The idiom \"cut out for\" means:",
+  "options": [
+   "Recommended",
+   "Suitable",
+   "Considered",
+   "Trained"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E136",
+  "subject": "English",
+  "q": "\"His most trusted friend proved to be a snake in the grass.\" The idiom \"a snake in the grass\" means:",
+  "options": [
+   "A hidden enemy",
+   "Low and mean",
+   "An unreliable and deceitful person",
+   "Cowardly and brutal"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E137",
+  "subject": "English",
+  "q": "\"The politician was able to sway the mob with his gift of the gab.\" The idiom \"gift of the gab\" means:",
+  "options": [
+   "Abundance of promises",
+   "Political foresight",
+   "Flattering words",
+   "Fluency of speech"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E138",
+  "subject": "English",
+  "q": "\"The speaker gave a bird's eye view of the political conditions in the country.\" The idiom \"a bird's eye view\" means:",
+  "options": [
+   "A detailed presentation",
+   "A biased view",
+   "A general view",
+   "A personal view"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E139",
+  "subject": "English",
+  "q": "\"After sowing his wild oats, Ram has decided to stick to the straight and narrow path in future.\" The idiom \"sow one's wild oats\" means:",
+  "options": [
+   "Becoming a farmer",
+   "Going through a period of irresponsible pleasure-seeking",
+   "A period of wildness",
+   "Becoming a gardener"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E140",
+  "subject": "English",
+  "q": "\"When he tells stories about himself, he is inclined to draw the long bow.\" The idiom \"draw the long bow\" means:",
+  "options": [
+   "Get excited",
+   "Exaggerate",
+   "Underrate",
+   "Get emotional"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E141",
+  "subject": "English",
+  "q": "\"He was a king who ruled his subjects with a high hand.\" The idiom \"with a high hand\" means:",
+  "options": [
+   "Conveniently",
+   "Kindly",
+   "Sympathetically",
+   "Oppressively"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E142",
+  "subject": "English",
+  "q": "\"He did me a good turn by recommending me for the post of vice president.\" The idiom \"did me a good turn\" means:",
+  "options": [
+   "Returned my kindness",
+   "Did an act of kindness",
+   "Improved my prospects",
+   "Became suddenly good"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E143",
+  "subject": "English",
+  "q": "\"Being an introvert, he will only eat out his heart.\" The idiom \"eat out one's heart\" means:",
+  "options": [
+   "Suffer silently",
+   "Invite trouble",
+   "Eat too much",
+   "Keep brooding"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E144",
+  "subject": "English",
+  "q": "\"Caesar was done to death by the conspirators.\" The idiom \"done to death\" means:",
+  "options": [
+   "Murdered",
+   "Eliminated",
+   "Removed",
+   "Attacked"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E145",
+  "subject": "English",
+  "q": "\"His boss was always breathing down his neck.\" The idiom \"breathing down his neck\" means:",
+  "options": [
+   "Watching all his actions closely",
+   "Giving him strenuous work",
+   "Abusing and ill-treating him",
+   "Shouting loudly at him"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E146",
+  "subject": "English",
+  "q": "\"After having finished the last project, I find myself at a loose end.\" The idiom \"at a loose end\" means:",
+  "options": [
+   "Happy",
+   "On vacation",
+   "With nothing to do",
+   "Free of troubles"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E147",
+  "subject": "English",
+  "q": "\"It was such a strange affair that I could not make head or tail of it.\" The idiom \"make head or tail of\" means:",
+  "options": [
+   "Understand it",
+   "Tolerate it",
+   "Remember it",
+   "Face it"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E148",
+  "subject": "English",
+  "q": "\"She exhibited remarkable sang froid during the crisis.\" The phrase \"sang froid\" means:",
+  "options": [
+   "Anger",
+   "Composure",
+   "Irritation",
+   "Temper"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E149",
+  "subject": "English",
+  "q": "\"My father strained every nerve to enable me to get settled in life.\" The idiom \"strained every nerve\" means:",
+  "options": [
+   "Tried all tricks",
+   "Bribed several persons",
+   "Spent a large amount",
+   "Worked very hard"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E150",
+  "subject": "English",
+  "q": "\"He bids fair to be an excellent cricketer.\" The idiom \"bids fair\" means:",
+  "options": [
+   "Is ambitious",
+   "Is unlikely",
+   "Seems likely",
+   "Is confident"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E151",
+  "subject": "English",
+  "q": "\"He does not like to be friendly with Sarla; he always gives her a cold shoulder.\" The idiom \"gives her a cold shoulder\" means:",
+  "options": [
+   "Pushes her with his shoulder wherever they meet",
+   "Tries to be unfriendly by taking no notice of her",
+   "Insults her in the presence of others",
+   "Argues with her on any issue"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E152",
+  "subject": "English",
+  "q": "\"It was he who put a spoke in my wheel.\" The idiom \"put a spoke in one's wheel\" means:",
+  "options": [
+   "Tried to cause an accident",
+   "Helped in the execution of the plan",
+   "Thwarted the execution of the plan",
+   "Destroyed the plan"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E153",
+  "subject": "English",
+  "q": "\"The captain played with determination because the honour of the team was at stake.\" The idiom \"at stake\" means:",
+  "options": [
+   "At the top",
+   "Appropriate",
+   "In danger",
+   "Very tense"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E154",
+  "subject": "English",
+  "q": "\"His promotion is on the cards.\" The idiom \"on the cards\" means:",
+  "options": [
+   "Due",
+   "Certain",
+   "Evident",
+   "Probable"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E155",
+  "subject": "English",
+  "q": "Fill in the blank: \"His professional ability proves that he is cut ___ for this job.\"",
+  "options": [
+   "Out",
+   "Down",
+   "Up",
+   "Off"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E156",
+  "subject": "English",
+  "q": "Fill in the blank: \"The history of Hindu religion dates ___ ancient times.\"",
+  "options": [
+   "For",
+   "In",
+   "Since",
+   "From"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E157",
+  "subject": "English",
+  "q": "Fill in the blank: \"Now government servants have the day ___ every Saturday.\"",
+  "options": [
+   "Out",
+   "Cut",
+   "Off",
+   "Since"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E158",
+  "subject": "English",
+  "q": "Fill in the blank: \"Nothing can deter him ___ pursuing his aim of life.\"",
+  "options": [
+   "Of",
+   "In",
+   "For",
+   "From"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E159",
+  "subject": "English",
+  "q": "Fill in the blank: \"In accordance with the advice of a doctor she is ___ diet.\"",
+  "options": [
+   "On",
+   "At",
+   "Off",
+   "Under"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E160",
+  "subject": "English",
+  "q": "Fill in the blank: \"The officials have the habit of fawning ___ ministers.\"",
+  "options": [
+   "On",
+   "At",
+   "Above",
+   "Under"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E161",
+  "subject": "English",
+  "q": "Fill in the blank: \"Kanishka was initiated ___ Buddhism by Buddhist monks.\"",
+  "options": [
+   "In",
+   "Into",
+   "Within",
+   "To"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E162",
+  "subject": "English",
+  "q": "Fill in the blank: \"Co-operation between friends stems ___ mutual consideration.\"",
+  "options": [
+   "From",
+   "Out",
+   "With",
+   "In"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E163",
+  "subject": "English",
+  "q": "Fill in the blank: \"Indians have pinned their hopes ___ the emergence of some superman.\"",
+  "options": [
+   "In",
+   "On",
+   "At",
+   "Upon"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E164",
+  "subject": "English",
+  "q": "Fill in the blank: \"She could not muster courage to stand ___ against the maltreatment.\"",
+  "options": [
+   "To",
+   "Up",
+   "About",
+   "Against"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E165",
+  "subject": "English",
+  "q": "Fill in the blank: \"Strangely her name did not occur ___ me on the second meeting.\"",
+  "options": [
+   "With",
+   "About",
+   "On",
+   "To"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E166",
+  "subject": "English",
+  "q": "Fill in the blank: \"The whole town was plunged ___ sorrow after the massacre of the students.\"",
+  "options": [
+   "With",
+   "To",
+   "Into",
+   "In"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E167",
+  "subject": "English",
+  "q": "Fill in the blank: \"On seeing a robber he at once reached ___ his pistol in his pocket.\"",
+  "options": [
+   "To",
+   "At",
+   "On",
+   "For"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E168",
+  "subject": "English",
+  "q": "Fill in the blank: \"The government acted judiciously to stave ___ the crisis.\"",
+  "options": [
+   "Away",
+   "Off",
+   "Of",
+   "Out"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E169",
+  "subject": "English",
+  "q": "Fill in the blank: \"You cannot expect respect from him because he is lost ___ shame.\"",
+  "options": [
+   "From",
+   "In",
+   "Into",
+   "To"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E170",
+  "subject": "English",
+  "q": "Fill in the blank: \"Dishonesty is always detrimental ___ progress in life.\"",
+  "options": [
+   "For",
+   "In",
+   "Of",
+   "To"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E171",
+  "subject": "English",
+  "q": "Fill in the blank: \"Disintegration of the country is inimical ___ the progress of the people.\"",
+  "options": [
+   "From",
+   "For",
+   "To",
+   "Against"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E172",
+  "subject": "English",
+  "q": "Fill in the blank: \"The court has absolved him ___ all the charges levelled against him.\"",
+  "options": [
+   "In",
+   "From",
+   "Of",
+   "To"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E173",
+  "subject": "English",
+  "q": "Fill in the blank: \"Children by the force of habit are attracted ___ anything that glitters.\"",
+  "options": [
+   "Towards",
+   "To",
+   "With",
+   "By"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E174",
+  "subject": "English",
+  "q": "Fill in the blank: \"Encouraged by the success of his ventures he has decided to embark ___ the expansion programme.\"",
+  "options": [
+   "On",
+   "Upon",
+   "For",
+   "At"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E175",
+  "subject": "English",
+  "q": "Fill in the blank: \"At the sight of his former wife he flew ___ a rage.\"",
+  "options": [
+   "Into",
+   "To",
+   "With",
+   "In"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E176",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Densuace",
+   "Danseuse",
+   "Danseus",
+   "Dansuese"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E177",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Restaurent",
+   "Restarent",
+   "Restaurant",
+   "Restorent"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E178",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Duration",
+   "Economicel",
+   "Dustur",
+   "Electrisity"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E179",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Renaisance",
+   "Thesaurus",
+   "Poresistance",
+   "Conspicous"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E180",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Idiosyncresy",
+   "Ignominious",
+   "Impetous",
+   "Ignoable"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E181",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Excultent",
+   "Repentant",
+   "Inconsistant",
+   "Exponant"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E182",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Norcoctic",
+   "Acoustic",
+   "Permentant",
+   "Pesimist"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E183",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Deliverence",
+   "Demagogue",
+   "Delinquancy",
+   "Delibarative"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E184",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Fulfilment",
+   "Embarrasment",
+   "Denoument",
+   "Harrassment"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E185",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Jubilant",
+   "Ebullent",
+   "Tolerent",
+   "Iminent"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E186",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Advercity",
+   "Accomplice",
+   "Acrimonous",
+   "Agnostik"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E187",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Degine",
+   "Malaign",
+   "Asigne",
+   "Arraign"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E188",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Damege",
+   "Milege",
+   "Cortege",
+   "Plumege"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E189",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Initative",
+   "Exaggerate",
+   "Convinience",
+   "Concesional"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E190",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Nefarious",
+   "Aslduous",
+   "Macaber",
+   "Loqacious"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E191",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Impertinant",
+   "Independant",
+   "Neglegent",
+   "Malignant"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E192",
+  "subject": "English",
+  "q": "Four words are given; out of which only one is correctly spelt. Find the correctly spelt word:",
+  "options": [
+   "Recondite",
+   "Imbrolios",
+   "Qstalt",
+   "Ampasse"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E193",
+  "subject": "English",
+  "q": "The worship of idols or excessive admiration for someone or something is termed as:",
+  "options": [
+   "Atheism",
+   "Heresy",
+   "Idolatry",
+   "Iconoclasm"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E194",
+  "subject": "English",
+  "q": "Impossible to control or restrain is termed as:",
+  "options": [
+   "Unrepressible",
+   "Restrained",
+   "Irrepressible",
+   "Inrepressible"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E195",
+  "subject": "English",
+  "q": "Travelling continuously from place to place, especially for work or teaching, is termed as:",
+  "options": [
+   "Cannibal",
+   "Peripatetic",
+   "Stationary",
+   "Quack"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E196",
+  "subject": "English",
+  "q": "Involving or producing a harsh, discordant mixture of sounds is termed as:",
+  "options": [
+   "Rhythmic",
+   "Ingenuous",
+   "Cacophonous",
+   "Harmonious"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E197",
+  "subject": "English",
+  "q": "The interpretation or study of dreams in order to discover their meanings is termed as:",
+  "options": [
+   "Physiology",
+   "Astrology",
+   "Archaeology",
+   "Oneirocriticism"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E198",
+  "subject": "English",
+  "q": "A small handbag or purse carried by women, especially in the past, is termed as:",
+  "options": [
+   "Briefcase",
+   "Wallet",
+   "Suitcase",
+   "Reticule"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E199",
+  "subject": "English",
+  "q": "A system of government in which one person holds absolute power is termed as:",
+  "options": [
+   "Autocracy",
+   "Aristocracy",
+   "Plutocracy",
+   "Oligarchy"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E200",
+  "subject": "English",
+  "q": "Something that cannot be denied, disproved, or argued against is termed as:",
+  "options": [
+   "Doubtful",
+   "Irrefutable",
+   "Uncertain",
+   "Misleading"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E201",
+  "subject": "English",
+  "q": "Something that involves regular movement from one place to another, especially seasonally, is termed as:",
+  "options": [
+   "Respiratory",
+   "Migratory",
+   "Obituary",
+   "Atheist"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E202",
+  "subject": "English",
+  "q": "Extremely useful or precious is termed as:",
+  "options": [
+   "Tyro",
+   "Fallible",
+   "Decipher",
+   "Invaluable"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E203",
+  "subject": "English",
+  "q": "Four children born from the same mother during the same birth are termed as:",
+  "options": [
+   "Quadrilateral",
+   "Quatrains",
+   "Quadruplets",
+   "Siblings"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E204",
+  "subject": "English",
+  "q": "Having a very unpleasant smell is termed as:",
+  "options": [
+   "Aromatic",
+   "Inimitable",
+   "Malodorous",
+   "Pungent"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E205",
+  "subject": "English",
+  "q": "Required to explain or justify one's actions is termed as:",
+  "options": [
+   "Inaccessible",
+   "Unanswerable",
+   "Versatile",
+   "Answerable"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E206",
+  "subject": "English",
+  "q": "The head or superior of a monastery of monks is termed as an:",
+  "options": [
+   "Bishop",
+   "Priest",
+   "Monk",
+   "Abbot"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E207",
+  "subject": "English",
+  "q": "Complete control of a product, service, or trade by a single person or company is termed as a:",
+  "options": [
+   "Competition",
+   "Monopoly",
+   "Franchise",
+   "Partnership"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E208",
+  "subject": "English",
+  "q": "Having an extremely eager appetite or intense desire for something is termed as:",
+  "options": [
+   "Hesitant",
+   "Voracious",
+   "Reluctant",
+   "Moderate"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E209",
+  "subject": "English",
+  "q": "Relating to the countries, culture, or people of the Western world is termed as:",
+  "options": [
+   "Occidental",
+   "Oriental",
+   "Tribal",
+   "Nomadic"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E210",
+  "subject": "English",
+  "q": "The accidental exchange of initial sounds or letters between words in a phrase is termed as a:",
+  "options": [
+   "Metaphor",
+   "Satire",
+   "Paradox",
+   "Spoonerism"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E211",
+  "subject": "English",
+  "q": "Having an aggressive or fighting attitude is termed as:",
+  "options": [
+   "Bellicose",
+   "Ingenuous",
+   "Fastidious",
+   "Chivalrous"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E212",
+  "subject": "English",
+  "q": "To prove that someone is right, innocent, or free from blame is termed as:",
+  "options": [
+   "Accuse",
+   "Condemn",
+   "Punish",
+   "Vindicate"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E213",
+  "subject": "English",
+  "q": "Theft of another person's writings or ideas and passing them off as one's own is called:",
+  "options": [
+   "Plagiarism",
+   "Pilferage",
+   "Piracy",
+   "Burglary"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E214",
+  "subject": "English",
+  "q": "A solution or remedy that is believed to solve all problems or difficulties is termed as a:",
+  "options": [
+   "Panacea",
+   "Amnesia",
+   "Pancreas",
+   "Parasol"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E215",
+  "subject": "English",
+  "q": "Impossible or difficult to read because of unclear handwriting or print is termed as:",
+  "options": [
+   "Eligible",
+   "Tyro",
+   "Decipher",
+   "Illegible"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "E216",
+  "subject": "English",
+  "q": "Small decorative objects or inexpensive useless items kept in homes are termed as:",
+  "options": [
+   "Knickknacks",
+   "Machinery",
+   "Documents",
+   "Weapons"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "F82",
+  "subject": "English",
+  "q": "What is the antonym of \"Wrath\"?",
+  "options": [
+   "Anger",
+   "Rage",
+   "Fury",
+   "Delight"
+  ],
+  "answer": 3,
+  "explanation": "2026-10-15 cross-check",
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F83",
+  "subject": "English",
+  "q": "Complete: She is overwhelmed ___ grief.",
+  "options": [
+   "By",
+   "Of",
+   "in",
+   "with"
+  ],
+  "answer": 0,
+  "explanation": "2026-10-15 cross-check",
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F84",
+  "subject": "English",
+  "q": "What is the antonym of \"Fickle\"?",
+  "options": [
+   "Variable",
+   "Steadfast",
+   "Unpredictable",
+   "Changeable"
+  ],
+  "answer": 1,
+  "explanation": "2026-10-15 cross-check",
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F85",
+  "subject": "English",
+  "q": "Which is the correct spelling?",
+  "options": [
+   "Questionnar",
+   "Questionare",
+   "Questionaire",
+   "Questionnaire"
+  ],
+  "answer": 3,
+  "explanation": "2026-10-15 cross-check",
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F87",
+  "subject": "English",
+  "q": "Identify the correct punctuation: \"don't to be late\" -",
+  "options": [
+   "Don't be late",
+   "Dont be late",
+   "Don't to be late",
+   "None of these"
+  ],
+  "answer": 0,
+  "explanation": "2026-10-15 cross-check",
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F88",
+  "subject": "English",
+  "q": "Many young men were ___ at street corners for the coffee bar to open.",
+  "options": [
+   "Hanging on",
+   "Hanging back",
+   "Hanging about",
+   "Hanging in"
+  ],
+  "answer": 2,
+  "explanation": "2026-10-15 cross-check",
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F107",
+  "subject": "English",
+  "q": "Don't judge a book _____ its cover.",
+  "options": [
+   "For",
+   "By",
+   "None of these",
+   "With"
+  ],
+  "answer": 1,
+  "explanation": "Judge by — ye fixed phrase hai: 'judge a book by its cover'.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F108",
+  "subject": "English",
+  "q": "Arif is my _______ brother.",
+  "options": [
+   "Older",
+   "Elder",
+   "None of these",
+   "Olde"
+  ],
+  "answer": 1,
+  "explanation": "Khandani rishton (brother/sister) ke liye elder; umar ke farq ke liye 'older'.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F119",
+  "subject": "English",
+  "q": "Which punctuation is used for making contractions?",
+  "options": [
+   "Period",
+   "Comma",
+   "Apostrophe",
+   "None of these"
+  ],
+  "answer": 2,
+  "explanation": "Contractions (don't, can't) banane ke liye apostrophe istemal hota hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F122",
+  "subject": "English",
+  "q": "Change into Indirect Speech: He said to me, “What a lovely garden you have!”",
+  "options": [
+   "None of these",
+   "He told me that what a lovely garden I had.",
+   "He exclaimed with admiration that I had a very lovely garden.",
+   "He said to me that I have a lovely garden."
+  ],
+  "answer": 2,
+  "explanation": "Exclamatory jumlay ka indirect: exclaimed with admiration + that-clause.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F125",
+  "subject": "English",
+  "q": "Which of the following combinations is correct? Who I and you, Between you and me, Between two, Neither I and you",
+  "options": [
+   "Who I and you",
+   "Neither I and you",
+   "Between two",
+   "Between you and me"
+  ],
+  "answer": 3,
+  "explanation": "Preposition ke baad objective case: 'between you and me' (me, him, us).",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F126",
+  "subject": "English",
+  "q": "The suffix “-fy” means ______, as in terrify, beautify, and simplify.",
+  "options": [
+   "To describe",
+   "To make or become",
+   "None of these",
+   "To remove"
+  ],
+  "answer": 1,
+  "explanation": "Suffix -fy ka matlab 'banana' (to make or become): beautify = khoobsurat banana.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F132",
+  "subject": "English",
+  "q": "Analogy: Sun : Heat :: Piano : ?",
+  "options": [
+   "Sound",
+   "Song",
+   "Music",
+   "None of these"
+  ],
+  "answer": 2,
+  "explanation": "Jese Suraj se heat, wese piano se music — cheez : uski paidawar.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F146",
+  "subject": "English",
+  "q": "A _____ of stairs is needed to go to the upper story of the toy shop.",
+  "options": [
+   "Flight",
+   "Set",
+   "None of these",
+   "Group"
+  ],
+  "answer": 0,
+  "explanation": "Seerhiyon ke liye fixed collective noun flight of stairs hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F194",
+  "subject": "English",
+  "q": "Idiom: “Red rag to a bull” means?",
+  "options": [
+   "To calm an angry person",
+   "None of these",
+   "To provoke or anger someone",
+   "To avoid an argument"
+  ],
+  "answer": 2,
+  "explanation": "'Red rag to a bull' = kisi ko uksana / gussa dilana.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F195",
+  "subject": "English",
+  "q": "The Synonym of Obsequious is?",
+  "options": [
+   "Neutral",
+   "Simple",
+   "Servile",
+   "None of these"
+  ],
+  "answer": 2,
+  "explanation": "Obsequious = chaploosi karne wala; synonym servile.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F196",
+  "subject": "English",
+  "q": "The Antonym of Morbid is?",
+  "options": [
+   "Cheerful",
+   "Unhealthy",
+   "Recede",
+   "Partial"
+  ],
+  "answer": 0,
+  "explanation": "Morbid (udasi/mayusi) ka opposite cheerful hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ }
+]

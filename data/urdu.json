@@ -1,0 +1,2900 @@
+[
+ {
+  "id": "U1",
+  "subject": "Urdu",
+  "q": "\"Tasway bahana\" (tasuay bahana) ka matlab hai:",
+  "options": [
+   "Jhootay aansu bahana",
+   "Khush hona",
+   "Gussa karna",
+   "Rona dhona"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U2",
+  "subject": "Urdu",
+  "q": "\"Baal bikaa karna\" ka matlab hai:",
+  "options": [
+   "Qurbani dena",
+   "Baal katwana",
+   "Nuqsaan pohanchana",
+   "Faida pohanchana"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U3",
+  "subject": "Urdu",
+  "q": "\"Kaam ka na kaaj ka, dushman ___ ka\" - muhavra mukammal karein:",
+  "options": [
+   "anaj",
+   "ghar",
+   "paani",
+   "roti"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U4",
+  "subject": "Urdu",
+  "q": "\"Iztirab\" ka mutazaad hai:",
+  "options": [
+   "Ghabrahat",
+   "Sukoon",
+   "Bechaini",
+   "Pareshani"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U5",
+  "subject": "Urdu",
+  "q": "\"Musabaqat\" ke ma'ani hain:",
+  "options": [
+   "Mukhalifat",
+   "Na-insafi",
+   "Bad-unwani",
+   "Muqabla karna"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U6",
+  "subject": "Urdu",
+  "q": "Mukhtasar afsana ka mojid kise mana jata hai?",
+  "options": [
+   "Ibn-e-Insha",
+   "Deputy Nazir Ahmed",
+   "Ahmed Nadeem Qasmi",
+   "Prem Chand"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U7",
+  "subject": "Urdu",
+  "q": "\"Umrao Jaan Ada\" kis ki tehreer hai?",
+  "options": [
+   "Prem Chand",
+   "Hadi Ruswa (Mirza Hadi Ruswa)",
+   "Deputy Nazir Ahmed",
+   "Sir Syed Ahmed Khan"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U8",
+  "subject": "Urdu",
+  "q": "Risala \"Tahzeeb-ul-Akhlaq\" kis ne jari kiya?",
+  "options": [
+   "Anjuman Himayat-e-Islam",
+   "Altaf Hussain Hali",
+   "Maulana Maududi",
+   "Sir Syed Ahmed Khan"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U9",
+  "subject": "Urdu",
+  "q": "\"Ali Pur Ka Aeli\" kis ki tasneef hai?",
+  "options": [
+   "Ashfaq Ahmed",
+   "Bano Qudsia",
+   "Mumtaz Mufti",
+   "Qudratullah Shahab"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U10",
+  "subject": "Urdu",
+  "q": "\"Tanha Tanha\" kis ki kitab hai?",
+  "options": [
+   "Parveen Shakir",
+   "Jaun Elia",
+   "Ahmed Faraz",
+   "Faiz Ahmed Faiz"
+  ],
+  "answer": 2,
+  "explanation": "1957/58",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U11",
+  "subject": "Urdu",
+  "q": "\"Yadgar-e-Ghalib\" kis ne likhi?",
+  "options": [
+   "Altaf Hussain Hali",
+   "Deputy Nazir Ahmed",
+   "Abul Kalam Azad",
+   "Shibli Nomani"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U12",
+  "subject": "Urdu",
+  "q": "\"Begmat ke Aansu\" ke musannif kaun hain?",
+  "options": [
+   "Maulana Azad",
+   "Khwaja Hassan Nizami",
+   "Hasrat Mohani",
+   "Zafar Ali Khan"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U13",
+  "subject": "Urdu",
+  "q": "\"Shab-e-Rafta\" kis ki nazm hai?",
+  "options": [
+   "Faiz Ahmed Faiz",
+   "Noon Meem Rashid",
+   "Akhtar Shirani",
+   "Majeed Amjad"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U14",
+  "subject": "Urdu",
+  "q": "\"Masnavi Murgh Nama\" kis ne likhi?",
+  "options": [
+   "Patras Bokhari",
+   "Rasheed Ahmad Siddiqui",
+   "Mushtaq Ahmed Yusufi",
+   "Ibn-e-Insha"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U15",
+  "subject": "Urdu",
+  "q": "Meeraji ka ta'alluq adab ki kis tehreek se tha?",
+  "options": [
+   "Romani Tehrik",
+   "Taraqqi Pasand Tehrik",
+   "Jadidiyat",
+   "Halqa-e-Arbab-e-Zauq"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U16",
+  "subject": "Urdu",
+  "q": "Faiz Ahmed Faiz ke aakhri ayyam ke majmoo'e ka naam kya hai?",
+  "options": [
+   "Dast-e-Saba",
+   "Ghubar-e-Ayyam",
+   "Nuskha Haye Wafa",
+   "Zindan Nama"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U17",
+  "subject": "Urdu",
+  "q": "Ba-ma'ani wahid lafz ko kya kehte hain?",
+  "options": [
+   "Harf",
+   "Kalma",
+   "Jumla",
+   "Zameer"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U18",
+  "subject": "Urdu",
+  "q": "Isti'ara ke kitne arkaan hain?",
+  "options": [
+   "5",
+   "4",
+   "2",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U19",
+  "subject": "Urdu",
+  "q": "Qawaid (Urdu grammar) ke kitne hisse hain?",
+  "options": [
+   "2 (Sarf-o-Nahw)",
+   "5",
+   "3",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U20",
+  "subject": "Urdu",
+  "q": "Woh fe'l jis mein kisi kaam ka guzre zamane mein hona paya jaye lekin pata na ho ke mazi qareeb hai ya baeed - kehlata hai:",
+  "options": [
+   "Mazi Baeed",
+   "Mazi Mutlaq",
+   "Mazi Qareeb",
+   "Mazi Istimrari"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U21",
+  "subject": "Urdu",
+  "q": "Woh khaas naam jo hukumat ki taraf se diya jaye, kehlata hai:",
+  "options": [
+   "Kunniyat",
+   "Khitab",
+   "Takhallus",
+   "Laqab"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U22",
+  "subject": "Urdu",
+  "q": "\"Awadh Punch\" (Oudh Punch) ke bani kaun thay?",
+  "options": [
+   "Munshi Sajjad Hussain",
+   "Munshi Prem Chand",
+   "Daya Narain Nigam",
+   "Abdul Halim Sharar"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U23",
+  "subject": "Urdu",
+  "q": "Rahman Baba kis daur ke sufi sha'ir thay?",
+  "options": [
+   "Mughal daur",
+   "British daur",
+   "Ghaznavi daur",
+   "Sikh daur"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U24",
+  "subject": "Urdu",
+  "q": "\"Jis nazm mein auliya Allah ki tareef likhi jaye\" use kya kehte hain:",
+  "options": [
+   "Manqabat",
+   "Marsiya",
+   "Qaseeda",
+   "Naat"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U25",
+  "subject": "Urdu",
+  "q": "\"Sabz qadam hona\" muhawra hai - is ka mafhoom hai:",
+  "options": [
+   "Mubarak qadam hona",
+   "Sabz-o-shadab hona",
+   "Manhoos hona",
+   "Khush qismat hona"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U26",
+  "subject": "Urdu",
+  "q": "\"Saint saint kar rakhna\" se kya murad hai:",
+  "options": [
+   "Sab ke samne rakhna",
+   "Chhupa kar rakhna",
+   "Bhool jana",
+   "Hifazat se rakhna"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U27",
+  "subject": "Urdu",
+  "q": "\"Pait katna\" ka matlab hai:",
+  "options": [
+   "Roza rakhna",
+   "Bhook bardasht karna",
+   "Sabar karna",
+   "Khana kam khana"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U28",
+  "subject": "Urdu",
+  "q": "\"Shanay se shana chhalna\" muhawara hai - is ka kya matlab hai:",
+  "options": [
+   "Bohat mushkil hona",
+   "Bohat bheer hona",
+   "Bohat khush hona",
+   "Larai karna"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U29",
+  "subject": "Urdu",
+  "q": "\"Golar ka phool khilna\" muhawara hai - is se kya murad hai:",
+  "options": [
+   "Khushi ka izhar karna",
+   "Raaz mankashif hona",
+   "Ashya ka arzaan milna",
+   "Anhoni baat hona"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U30",
+  "subject": "Urdu",
+  "q": "\"Aankhein pher kar namak bharna\" - is muhawaray se kya murad hai:",
+  "options": [
+   "Ghussa dilana",
+   "Neend urana",
+   "Jabr karna",
+   "Shadeed takleef dena"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U31",
+  "subject": "Urdu",
+  "q": "\"Bakhiye udherna\" ka kya matlab hai:",
+  "options": [
+   "Yaad-dasht likhna",
+   "Darkhwast likhna",
+   "Aib faash karna",
+   "Tazabzub ki halat"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U32",
+  "subject": "Urdu",
+  "q": "\"Pani mein aag lagana\" qawaid ki ro se kya hai:",
+  "options": [
+   "Kahawat",
+   "Roz marra",
+   "Zarb-ul-misal",
+   "Muhawara"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U33",
+  "subject": "Urdu",
+  "q": "\"Paon tale zameen nikalna\" ka mafhoom kya hai:",
+  "options": [
+   "Ghabra jana",
+   "Giraftar ho jana",
+   "Gir jana",
+   "Ghalat fehmi ka shikar hona"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U34",
+  "subject": "Urdu",
+  "q": "\"Teen harf bhejna\" se kya murad hai:",
+  "options": [
+   "Chand roz ka mehman hona",
+   "Bohat pareshan karna",
+   "La'nat bhejna",
+   "Larai jhagra karna"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U35",
+  "subject": "Urdu",
+  "q": "\"Hathaili par ___ jamana\" (muhavra mukammal karein):",
+  "options": [
+   "Saag",
+   "Barf",
+   "Sarson",
+   "Dahi"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U36",
+  "subject": "Urdu",
+  "q": "\"Daman tar hona\" kin ma'anon mein istemal hota hai:",
+  "options": [
+   "Sharminda hona",
+   "Gussa karna",
+   "Khush hona",
+   "Rona / ashk-bari"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U37",
+  "subject": "Urdu",
+  "q": "\"Bagh bagh hona\" ka kya matlab hai:",
+  "options": [
+   "Hairan hona",
+   "Udaas hona",
+   "Gussa karna",
+   "Bohat khush hona"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U38",
+  "subject": "Urdu",
+  "q": "\"Daal na galna\" ka kya matlab hai:",
+  "options": [
+   "Tadbeer kaamyaab na hona",
+   "Waqt zaya karna",
+   "Khana kharab hona",
+   "Bhook na lagna"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U39",
+  "subject": "Urdu",
+  "q": "\"Naak katna\" ka kya matlab hai:",
+  "options": [
+   "Be-izzat karna",
+   "Maafi mangna",
+   "Gussa karna",
+   "Jhagra karna"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U40",
+  "subject": "Urdu",
+  "q": "\"Oont ke munh mein zeera\" ka kya matlab hai:",
+  "options": [
+   "Karwi dawa",
+   "Zaroorat se bohat kam miqdaar",
+   "Bari miqdaar",
+   "Meethi cheez"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U41",
+  "subject": "Urdu",
+  "q": "\"Charagh tale andhera\" ka kya matlab hai:",
+  "options": [
+   "Roshni ka hona",
+   "Apne hi ghar / idare mein kami ka hona",
+   "Raat ka andhera",
+   "Bijli ka jana"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U42",
+  "subject": "Urdu",
+  "q": "\"Aasteen ka saanp\" se kya murad hai:",
+  "options": [
+   "Dost ke bhes mein dushman",
+   "Zehreela saanp",
+   "Khet ka saanp",
+   "Paltu janwar"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U43",
+  "subject": "Urdu",
+  "q": "\"Doodh ka doodh pani ka pani\" ka kya matlab hai:",
+  "options": [
+   "Pani milana",
+   "Hisab karna",
+   "Doodh bechna",
+   "Mukammal insaaf karna"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U44",
+  "subject": "Urdu",
+  "q": "\"Naach na jaane aangan tedha\" ka kya matlab hai:",
+  "options": [
+   "Tedha chalna",
+   "Aangan saaf karna",
+   "Apni na-ahlai ka ilzam doosron par dena",
+   "Naach seekhna"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U45",
+  "subject": "Urdu",
+  "q": "\"Eent ka jawab pathar se dena\" ka kya matlab hai:",
+  "options": [
+   "Larai se bachna",
+   "Maafi mangna",
+   "Sakht ka sakht jawab dena",
+   "Ghar banana"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U46",
+  "subject": "Urdu",
+  "q": "\"Hath malna\" ka kya matlab hai:",
+  "options": [
+   "Hath dhona",
+   "Tali bajana",
+   "Kaam karna",
+   "Pachtana"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U47",
+  "subject": "Urdu",
+  "q": "\"Kamar kasna\" ka kya matlab hai:",
+  "options": [
+   "Kamar bandhna",
+   "So jana",
+   "Beth jana",
+   "Kisi kaam ke liye tayyar hona"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U48",
+  "subject": "Urdu",
+  "q": "\"Pait mein chuhe daudna\" ka kya matlab hai:",
+  "options": [
+   "Bimari hona",
+   "Shadeed bhook lagna",
+   "Dard hona",
+   "Khana hazam hona"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U49",
+  "subject": "Urdu",
+  "q": "\"Zameen aasman ek karna\" ka kya matlab hai:",
+  "options": [
+   "Zameen khodna",
+   "Aasman dekhna",
+   "Safar karna",
+   "Poori koshish karna"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U50",
+  "subject": "Urdu",
+  "q": "\"Chaar chand lagana\" ka kya matlab hai:",
+  "options": [
+   "Chand dekhna",
+   "Raunaq / shaan barhana",
+   "Raat ko jagna",
+   "Roshni karna"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U51",
+  "subject": "Urdu",
+  "q": "\"Kaan bharna\" ka kya matlab hai:",
+  "options": [
+   "Chugli karna",
+   "Kehna sun'na",
+   "Kaan saaf karna",
+   "Sun'na"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U52",
+  "subject": "Urdu",
+  "q": "\"Sar mundwate hi ole pare\" ka kya matlab hai:",
+  "options": [
+   "Barish hona",
+   "Sardard hona",
+   "Kaam shuru hote hi mushkil aa jana",
+   "Baal katwana"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U53",
+  "subject": "Urdu",
+  "q": "\"Ghee ke diye jalana\" ka kya matlab hai:",
+  "options": [
+   "Roshni karna",
+   "Khana pakana",
+   "Khushi manana",
+   "Diye bechna"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U54",
+  "subject": "Urdu",
+  "q": "\"Munh mein pani bhar aana\" ka kya matlab hai:",
+  "options": [
+   "Khana khana",
+   "Lalach / ishtihaq paida hona",
+   "Piyas lagna",
+   "Munh dhona"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U56",
+  "subject": "Urdu",
+  "q": "Zarb-ul-misal mukammal karein: \"Muft ki ___ qazi ko halal\":",
+  "options": [
+   "Maal",
+   "Roti",
+   "Sharab",
+   "Gandum"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U57",
+  "subject": "Urdu",
+  "q": "Zarb-ul-misal mukammal kijiye: \"Subah Banaras shaam ___\":",
+  "options": [
+   "Punjab",
+   "Oudh",
+   "Kashmir",
+   "Agra"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U58",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Aam ke aam ghutliyon ke ___\":",
+  "options": [
+   "Naam",
+   "Kaam",
+   "Daam",
+   "Aam"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U59",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Darya mein rehna aur ___ se bair\":",
+  "options": [
+   "Pani",
+   "Kinara",
+   "Machhli",
+   "Magar machh"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U60",
+  "subject": "Urdu",
+  "q": "\"Khisyani billi khamba noche\" - is zarb-ul-misal se kya murad hai:",
+  "options": [
+   "Pareshan aadmi kuch bhi kar sakta hai",
+   "Ghussa kisi ka nikalna kisi par",
+   "Sharminda aadmi doosron par ghussa nikalta hai",
+   "Sharmindagi mein kuch samajh na aana"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U61",
+  "subject": "Urdu",
+  "q": "\"Maan na maan main tera ___\" (mukammal karein):",
+  "options": [
+   "Mohsin",
+   "Dost",
+   "Mehman",
+   "Meherban"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U62",
+  "subject": "Urdu",
+  "q": "\"Tavayle ki bala bandar ke sar\" se kya murad hai:",
+  "options": [
+   "Kisi ki tareef karna",
+   "Qasoor kisi ka, saza koi aur bhugte",
+   "Kisi ka inaam lena",
+   "Sab durust hain"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U63",
+  "subject": "Urdu",
+  "q": "\"Doobte ko tinke ka sahara\" qawaid ki ro se kya hai:",
+  "options": [
+   "Muhawara",
+   "Zarb-ul-misal",
+   "Roz marra",
+   "Tarkeeb"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U64",
+  "subject": "Urdu",
+  "q": "\"When in Rome do as the Romans do\" ka durust Urdu mutabadil kya hai:",
+  "options": [
+   "Rome mein wahi karo jo Roman karte hain",
+   "Jaisa aaqa waisa naukar",
+   "Jaisa des waisa bhes",
+   "Jaisa malik waisa naukar"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U65",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Chor ki daadhi mein ___\":",
+  "options": [
+   "Pani",
+   "Daagh",
+   "Mitti",
+   "Tinka"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U66",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Neem hakeem ___\":",
+  "options": [
+   "Khatra-e-jism",
+   "Khatra-e-jaan",
+   "Khatra-e-maal",
+   "Khatra-e-imaan"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U67",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Aik anaar sau ___\":",
+  "options": [
+   "Dushman",
+   "Beemar",
+   "Dost",
+   "Mehmaan"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U68",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Billi ke khwab mein ___\":",
+  "options": [
+   "Chhichre",
+   "Machhli",
+   "Gosht",
+   "Doodh"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U69",
+  "subject": "Urdu",
+  "q": "\"Ulta chor kotwal ko dante\" ka kya matlab hai:",
+  "options": [
+   "Mujrim khud ilzam lagaye",
+   "Chor bhag jaye",
+   "Chor pakra jaye",
+   "Kotwal imandar ho"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U70",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Jis ki lathi us ki ___\":",
+  "options": [
+   "Bakri",
+   "Zameen",
+   "Gaaye",
+   "Bhains"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U71",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Aik teer do ___\":",
+  "options": [
+   "Nishane",
+   "Teer",
+   "Parinde",
+   "Shikar"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U72",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Hath kangan ko aarsi ___\":",
+  "options": [
+   "Kab",
+   "Kya",
+   "Kaise",
+   "Kyun"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U73",
+  "subject": "Urdu",
+  "q": "\"Ghar ki murghi daal barabar\" ka kya matlab hai:",
+  "options": [
+   "Daal pakana",
+   "Murghi palna",
+   "Apni cheez ki qadar na karna",
+   "Ghar banana"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U74",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Sau sunar ki ek ___ ki\":",
+  "options": [
+   "Barhai",
+   "Kumhar",
+   "Sunar",
+   "Lohar"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U75",
+  "subject": "Urdu",
+  "q": "Kahawat mukammal karein: \"Jitni chadar dekho utne paon ___\":",
+  "options": [
+   "Phelao",
+   "Sameto",
+   "Dho",
+   "Kato"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U76",
+  "subject": "Urdu",
+  "q": "Urdu qaseeda goi mein Sauda ke baad kis sha'ir ka naam ahem hai:",
+  "options": [
+   "Ghalib",
+   "Zauq",
+   "Momin",
+   "Aatish"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U77",
+  "subject": "Urdu",
+  "q": "Urdu zaban ka pehla novel nigar kise kaha jata hai:",
+  "options": [
+   "Mirza Hadi Ruswa",
+   "Prem Chand",
+   "Abdul Halim Sharar",
+   "Deputy Nazir Ahmed"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U78",
+  "subject": "Urdu",
+  "q": "\"Taubat-un-Nasooh\" kis ne likhi hai:",
+  "options": [
+   "Kamil-ul-Qadri",
+   "Deputy Nazir Ahmed",
+   "Tahir Javed Fazal",
+   "Ashfaq Ahmed"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U79",
+  "subject": "Urdu",
+  "q": "\"Awami sha'ir\" kise kaha jata hai:",
+  "options": [
+   "Maulana Altaf Hussain Hali",
+   "Shibli Nomani",
+   "Nazir Akbarabadi",
+   "Akbar Allahabadi"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U80",
+  "subject": "Urdu",
+  "q": "Taqabuli tanqeed ki bunyad kis ne rakhi:",
+  "options": [
+   "Maulana Altaf Hussain Hali",
+   "Deputy Nazir Ahmed",
+   "Muhammad Hussain Azad",
+   "Shibli Nomani"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U81",
+  "subject": "Urdu",
+  "q": "Dabistan-e-Dilli ke kis sha'ir ne darbari sha'iri na ki:",
+  "options": [
+   "Zauq",
+   "Ghalib",
+   "Sauda",
+   "Momin"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U82",
+  "subject": "Urdu",
+  "q": "\"Anandi\" kis ka afsana hai:",
+  "options": [
+   "Ahmed Nadeem Qasmi",
+   "Prem Chand",
+   "Ghulam Abbas",
+   "Muhammad Hussain Azad"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U83",
+  "subject": "Urdu",
+  "q": "\"Inkar\" kis ka sha'iri majmua hai:",
+  "options": [
+   "Fahmida Riaz",
+   "Parveen Shakir",
+   "Ada Jafri",
+   "Kishwar Naheed"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U84",
+  "subject": "Urdu",
+  "q": "Hafeez Tayyab kis sinf-e-sha'iri ke sha'ir hain:",
+  "options": [
+   "Naat",
+   "Nazm",
+   "Marsiya",
+   "Ghazal"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U85",
+  "subject": "Urdu",
+  "q": "Munnoo Bhai ka asal naam kya hai:",
+  "options": [
+   "Munir Ahmed",
+   "Manzoor Ahmed",
+   "Munir Ahmed Qureshi",
+   "Munir Niazi"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U86",
+  "subject": "Urdu",
+  "q": "Marsiya ka sab se bara naam kaun hai:",
+  "options": [
+   "Mohsin Naqvi",
+   "Mir Dabeer",
+   "Mir Anees",
+   "Josh Malihabadi"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U87",
+  "subject": "Urdu",
+  "q": "\"Marsiya\" ki jama kya hai:",
+  "options": [
+   "Marsiye",
+   "Marsiyon",
+   "Marasi",
+   "Marasiyat"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U88",
+  "subject": "Urdu",
+  "q": "Mizah nigari mein kin ka naam numayan hai:",
+  "options": [
+   "Rasheed Ahmed Siddiqui aur Mukhtar Masood",
+   "Akbar Allahabadi aur Zauq",
+   "Ibn-e-Insha aur Shafiq-ur-Rehman",
+   "Patras Bokhari aur Mushtaq Ahmed Yusufi"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U89",
+  "subject": "Urdu",
+  "q": "\"Awaz-e-Dost\" ke musannif kaun hain:",
+  "options": [
+   "Ashfaq Ahmed",
+   "Mukhtar Masood",
+   "Qudratullah Shahab",
+   "Bano Qudsia"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U90",
+  "subject": "Urdu",
+  "q": "\"Yadoon ki Baraat\" kis ki sawaneh umri hai:",
+  "options": [
+   "Faiz Ahmed Faiz",
+   "Colonel Muhammad Khan",
+   "Qudratullah Shahab",
+   "Josh Malihabadi"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U91",
+  "subject": "Urdu",
+  "q": "Drama \"Anarkali\" ke musannif kaun hain:",
+  "options": [
+   "Ashfaq Ahmed",
+   "Agha Hashr Kashmiri",
+   "Imtiaz Ali Taj",
+   "Kamal Ahmed Rizvi"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U92",
+  "subject": "Urdu",
+  "q": "\"Naqsh-e-Faryadi\" kis ki kitab hai:",
+  "options": [
+   "Jaun Elia",
+   "Parveen Shakir",
+   "Ahmed Faraz",
+   "Faiz Ahmed Faiz"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U93",
+  "subject": "Urdu",
+  "q": "Baba-e-Urdu kaun hain:",
+  "options": [
+   "Shibli Nomani",
+   "Maulvi Abdul Haq",
+   "Sir Syed Ahmed Khan",
+   "Muhammad Hussain Azad"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U94",
+  "subject": "Urdu",
+  "q": "\"Kapas ka Phool\" ke musannif kaun hain:",
+  "options": [
+   "Abdullah Hussain",
+   "Maulvi Abdul Haq",
+   "Ahmed Nadeem Qasmi",
+   "Josh Malihabadi"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U95",
+  "subject": "Urdu",
+  "q": "\"Main kis ke haath pe apna lahoo talash karun / Tamaam shehr ne pehne hue hain dastane\" - ye mashhoor sher kis ka hai:",
+  "options": [
+   "Ahmed Nadeem Qasmi",
+   "Parveen Shakir",
+   "Ghalib",
+   "Mustafa Zaidi"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U96",
+  "subject": "Urdu",
+  "q": "Mashhoor novel \"Khuda ki Basti\" ke musannif kaun hain:",
+  "options": [
+   "Waqar Azeem",
+   "Shaukat Siddiqui",
+   "Amjad Islam Amjad",
+   "Aal Ahmed Saroor"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U97",
+  "subject": "Urdu",
+  "q": "Qaumi zaban ki taraqqi kis idaray ki zimmedari hai:",
+  "options": [
+   "National Book Foundation",
+   "Academy Adabiyat",
+   "Muqtadra-e-Qaumi Zaban",
+   "Majlis Taraqqi-e-Adab"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U98",
+  "subject": "Urdu",
+  "q": "\"Aangan\" kis ka mashhoor novel hai:",
+  "options": [
+   "Qurratulain Hyder",
+   "Bano Qudsia",
+   "Khadija Mastoor",
+   "Ismat Chughtai"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U99",
+  "subject": "Urdu",
+  "q": "Mashhoor novel \"Raja Gidh\" ki musannifa kaun hain:",
+  "options": [
+   "Altaf Fatima",
+   "Bano Qudsia",
+   "Khadija Mastoor",
+   "Kishwar Naheed"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U100",
+  "subject": "Urdu",
+  "q": "\"Dasht-e-Soos\" kis ka novel hai:",
+  "options": [
+   "Bano Qudsia",
+   "Jameela Hashmi",
+   "Khadija Mastoor",
+   "Kishwar Naheed"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U101",
+  "subject": "Urdu",
+  "q": "\"Al-Farooq\" kitab kis ne likhi:",
+  "options": [
+   "Altaf Hussain Hali",
+   "Maulana Azad",
+   "Shibli Nomani",
+   "Syed Sulaiman Nadvi"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U102",
+  "subject": "Urdu",
+  "q": "Urdu sha'iri ke ilawa Mirza Ghalib ne kis sinf-e-nasr mein naam paida kiya:",
+  "options": [
+   "Afsana",
+   "Khutoot",
+   "Drama",
+   "Novel"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U103",
+  "subject": "Urdu",
+  "q": "Allama Iqbal apne aap ko kis hasti ka ma'navi shagird kehte thay:",
+  "options": [
+   "Saadi Shirazi",
+   "Maulana Rumi",
+   "Hafiz Shirazi",
+   "Attar Nishapuri"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U104",
+  "subject": "Urdu",
+  "q": "Risala \"Tahzeeb-ul-Akhlaq\" kis angrezi risalay ki tarz par tha:",
+  "options": [
+   "Times",
+   "Tatler",
+   "Guardian",
+   "Spectator"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U105",
+  "subject": "Urdu",
+  "q": "\"Musawwir-e-Gham\" ka khitab kis adeeb ko mila:",
+  "options": [
+   "Allama Rashid-ul-Khairi",
+   "Prem Chand",
+   "Rajinder Singh Bedi",
+   "Krishan Chander"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U106",
+  "subject": "Urdu",
+  "q": "\"Ye faizan-e-nazar tha ya ke maktab ki karamat / Sikhaye kis ne Ismail ko aadaab-e-farzandi\" - ye sher kis ka hai:",
+  "options": [
+   "Faiz Ahmed Faiz",
+   "Josh Malihabadi",
+   "Altaf Hussain Hali",
+   "Allama Iqbal"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U107",
+  "subject": "Urdu",
+  "q": "Hafeez Jalandhari ki kitab \"Shahnameh Islam\" ka mauzoo kya hai:",
+  "options": [
+   "Pakistan ki tareekh",
+   "Islami masail",
+   "Musalmanon ki tareekh",
+   "Tareekh-e-Islam"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U108",
+  "subject": "Urdu",
+  "q": "Iqbal ne parindon mein \"Shaheen\" ko sab se barh kar kis sifat ki bina par pasand kiya:",
+  "options": [
+   "Parindon ka badshah hai",
+   "Kai kai din bhooka reh sakta hai",
+   "Fiza mein shikar karta hai",
+   "Buland parwaz hai"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U109",
+  "subject": "Urdu",
+  "q": "\"Zikr-e-Iqbal\" ke musannif kaun hain:",
+  "options": [
+   "Salahuddin",
+   "Abdul Majeed Salik",
+   "Haqq Nawaz",
+   "Shorish Kashmiri"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U110",
+  "subject": "Urdu",
+  "q": "\"Umrao Jaan Ada\" ka asal naam kya tha:",
+  "options": [
+   "Khanum",
+   "Naseem Akhtar",
+   "Ameeran",
+   "Bismillah Khan"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U111",
+  "subject": "Urdu",
+  "q": "\"Farhang-e-Iqbal\" ka musannif kaun hai:",
+  "options": [
+   "Ghulam Rasool Mehr",
+   "Shan-ul-Haq Haqqi",
+   "Yousuf Saleem Chishti",
+   "Naseem Amrohvi"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U112",
+  "subject": "Urdu",
+  "q": "Urdu adab ki taweel tareen tareekh kis ne tehreer ki hai:",
+  "options": [
+   "Dr. Tabsum Kashmiri",
+   "Dr. Saleem Akhtar",
+   "Dr. Jameel Jalibi",
+   "Ram Babu Saxena"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U113",
+  "subject": "Urdu",
+  "q": "\"Oudh Punch\" ke mudeer kaun thay:",
+  "options": [
+   "Mehdi Afadi",
+   "Munshi Sajjad Hussain",
+   "Munshi Sanaullah",
+   "Zarif Lucknavi"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U114",
+  "subject": "Urdu",
+  "q": "Allama Iqbal ki kaun si kitab mein un ka Urdu aur Farsi kalam akhatta chhapa hai:",
+  "options": [
+   "Zarb-e-Kaleem",
+   "Bang-e-Dara",
+   "Armaghan-e-Hijaz",
+   "Bal-e-Jibreel"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U115",
+  "subject": "Urdu",
+  "q": "\"Arastu se Eliot tak\" kis ki kitab hai:",
+  "options": [
+   "Akhtar Hussain",
+   "Hasan Askari",
+   "Muhammad Hasan Askari",
+   "Jameel Jalibi"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U116",
+  "subject": "Urdu",
+  "q": "\"Qadam Rao Padam Rao\" Urdu adab ki qadeem masnavi hai - is ke musannif kaun hain:",
+  "options": [
+   "Ram Chandar",
+   "Maulvi Noor Ahmed",
+   "Fakhruddin Nizami",
+   "Wali Dakkani"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U117",
+  "subject": "Urdu",
+  "q": "\"Riwayat aur infiradi salahiyat\" ka nazriya kis ne diya:",
+  "options": [
+   "I. A. Richards",
+   "T. S. Eliot",
+   "Stephenson",
+   "William Henry"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U118",
+  "subject": "Urdu",
+  "q": "Kis sha'ir ki nisbat shehr-e-Iqbal Sialkot se hai:",
+  "options": [
+   "Josh Malihabadi",
+   "Faiz Ahmed Faiz",
+   "Hali",
+   "Munir Niazi"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U119",
+  "subject": "Urdu",
+  "q": "\"Kashf-al-Mahjoob\" kis ne likhi:",
+  "options": [
+   "Khalifa Abdul Hakim",
+   "Hazrat Ali Hajveri",
+   "Maulana Maududi",
+   "Sheikh Abdul Qadir Jilani"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U120",
+  "subject": "Urdu",
+  "q": "\"Khilafat-o-Malukiat\" kis ki kitab hai:",
+  "options": [
+   "Muhammad Hussain Azad",
+   "Abul Kalam Azad",
+   "Altaf Hussain Hali",
+   "Abul Ala Maududi"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U121",
+  "subject": "Urdu",
+  "q": "Urdu adab ka Shakespeare kise kaha jata hai:",
+  "options": [
+   "Agha Hashr Kashmiri",
+   "Deputy Nazir Ahmed",
+   "Khalifa Abdul Hakim",
+   "Allama Iqbal"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U122",
+  "subject": "Urdu",
+  "q": "\"Asaar-us-Sanadeed\" kis ne likhi:",
+  "options": [
+   "Dr. Syed Abdullah",
+   "Agha Hashr Kashmiri",
+   "Sir Syed Ahmed Khan",
+   "Aarif Abdul Mateen"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U123",
+  "subject": "Urdu",
+  "q": "\"Roohe-Iqbal\" kis ne likhi:",
+  "options": [
+   "Sheikh Muhammad Ikram",
+   "Allama Iqbal",
+   "Mukhtar Masood",
+   "Yousaf Hussain Khan"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U124",
+  "subject": "Urdu",
+  "q": "\"Dast-e-Saba\" kis ka sha'iri majmua hai:",
+  "options": [
+   "Munir Niazi",
+   "Ahmed Nadeem Qasmi",
+   "Ahmed Faraz",
+   "Faiz Ahmed Faiz"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U125",
+  "subject": "Urdu",
+  "q": "\"Payam-e-Mashriq\" kis ke jawab mein likhi gayi:",
+  "options": [
+   "Goethe",
+   "Nietzsche",
+   "Ibn-e-Arabi",
+   "Dante"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U126",
+  "subject": "Urdu",
+  "q": "\"Zarb-e-Kaleem\" aur \"Payam-e-Mashriq\" ka Arabi mein tarjuma kis ne kiya:",
+  "options": [
+   "Prof. Arberry",
+   "Madame Eva Meyerovitch",
+   "Dr. Abdul Wahab Azzam",
+   "Prof. Alessander Busani"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U127",
+  "subject": "Urdu",
+  "q": "\"Asrar-o-Ramuz\" kis ne likhi:",
+  "options": [
+   "Mir Taqi Mir",
+   "Sheikh Saadi",
+   "Sir Syed Ahmed Khan",
+   "Allama Iqbal"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U128",
+  "subject": "Urdu",
+  "q": "Urdu ka pehla novel kaun sa hai:",
+  "options": [
+   "Taubat-un-Nasooh",
+   "Aag ka Darya",
+   "Mirat-ul-Uroos",
+   "Ibn-ul-Waqt"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U129",
+  "subject": "Urdu",
+  "q": "\"Firdous-e-Bareen\" kis ka novel hai:",
+  "options": [
+   "Abdul Halim Sharar",
+   "Mirza Hadi Ruswa",
+   "Sajjad Haider Yaldram",
+   "Deputy Nazir Ahmed"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U130",
+  "subject": "Urdu",
+  "q": "\"Ghubar-e-Khatir\" kis sinf-e-adab se ta'alluq rakhti hai:",
+  "options": [
+   "Sawaneh",
+   "Khutoot",
+   "Afsana",
+   "Tazkira"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U131",
+  "subject": "Urdu",
+  "q": "\"Ghubar-e-Khatir\" ke musannif kaun hain:",
+  "options": [
+   "Maulana Maududi",
+   "Altaf Hussain Hali",
+   "Abul Kalam Azad",
+   "Shibli Nomani"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U132",
+  "subject": "Urdu",
+  "q": "\"Soz-e-Watan\" kis ki tehreer hai:",
+  "options": [
+   "Krishan Chander",
+   "Ghulam Abbas",
+   "Prem Chand",
+   "Saadat Hasan Manto"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U133",
+  "subject": "Urdu",
+  "q": "\"Khuda-e-Sukhan\" kise kehte hain:",
+  "options": [
+   "Mirza Ghalib",
+   "Zauq",
+   "Mir Taqi Mir",
+   "Sauda"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U135",
+  "subject": "Urdu",
+  "q": "Ibn-e-Insha aur Mushtaq Ahmed Yusufi mein kya qadar mushtarik hai:",
+  "options": [
+   "Dono sha'ir hain",
+   "Dono sahafi hain",
+   "Dono novel nigar hain",
+   "Dono mizah nigar hain"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U136",
+  "subject": "Urdu",
+  "q": "\"Farhang-e-Asafia\" kis ki tehreer hai:",
+  "options": [
+   "Dr. Jameel Jalibi",
+   "Shan-ul-Haq Haqqi",
+   "Maulvi Abdul Haq",
+   "Syed Ahmed Dehlvi"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U137",
+  "subject": "Urdu",
+  "q": "Mirza Ghalib ka asal naam kya tha:",
+  "options": [
+   "Ibrahim Zauq",
+   "Mirza Ghalib",
+   "Mirza Asad",
+   "Asadullah Khan"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U138",
+  "subject": "Urdu",
+  "q": "Ghalib se pehle Mirza ka takhallus kya tha:",
+  "options": [
+   "Asadullah",
+   "Ghalib",
+   "Mirza",
+   "Asad"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U139",
+  "subject": "Urdu",
+  "q": "Allama Iqbal ki paidaish kab aur kahan hui:",
+  "options": [
+   "9 November 1876, Lahore",
+   "21 April 1877, Sialkot",
+   "21 April 1938, Lahore",
+   "9 November 1877, Sialkot"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U140",
+  "subject": "Urdu",
+  "q": "Allama Iqbal ka inteqal kab hua:",
+  "options": [
+   "21 April 1938",
+   "21 April 1936",
+   "9 November 1938",
+   "11 September 1948"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U141",
+  "subject": "Urdu",
+  "q": "\"Zarb-e-Kaleem\" kis san mein shaya hui:",
+  "options": [
+   "1924",
+   "1938",
+   "1935",
+   "1936"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U142",
+  "subject": "Urdu",
+  "q": "\"Naqsh-e-Faryadi\" Faiz ka kaun sa sha'iri majmua hai:",
+  "options": [
+   "Doosra",
+   "Pehla",
+   "Teesra",
+   "Aakhri"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U143",
+  "subject": "Urdu",
+  "q": "\"Musaddas-e-Hali\" ke musannif kaun hain:",
+  "options": [
+   "Shibli Nomani",
+   "Deputy Nazir Ahmed",
+   "Altaf Hussain Hali",
+   "Muhammad Hussain Azad"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U144",
+  "subject": "Urdu",
+  "q": "\"Seerat-un-Nabi\" kis ne likhi:",
+  "options": [
+   "Shibli Nomani",
+   "Maulana Azad",
+   "Altaf Hussain Hali",
+   "Syed Sulaiman Nadvi"
+  ],
+  "answer": 0,
+  "explanation": "Syed Sulaiman Nadvi ne mukammal ki",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U145",
+  "subject": "Urdu",
+  "q": "\"India Wins Freedom\" ke musannif kaun hain:",
+  "options": [
+   "Shibli Nomani",
+   "Maulana Maududi",
+   "Abul Kalam Azad",
+   "Jawaharlal Nehru"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U146",
+  "subject": "Urdu",
+  "q": "\"Toba Tek Singh\" kis ka afsana hai:",
+  "options": [
+   "Prem Chand",
+   "Saadat Hasan Manto",
+   "Rajinder Singh Bedi",
+   "Krishan Chander"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U147",
+  "subject": "Urdu",
+  "q": "Prem Chand ka asal naam kya tha:",
+  "options": [
+   "Nawab Rai",
+   "Dhanpat Rai",
+   "Munshi Prem",
+   "Prem Chand"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U148",
+  "subject": "Urdu",
+  "q": "\"Khushbu\" kis ka pehla sha'iri majmua hai:",
+  "options": [
+   "Fahmida Riaz",
+   "Kishwar Naheed",
+   "Parveen Shakir",
+   "Ada Jafri"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U149",
+  "subject": "Urdu",
+  "q": "Ibn-e-Insha ka asal naam kya tha:",
+  "options": [
+   "Insha Khan",
+   "Ahmed Khan",
+   "Sher Muhammad Khan",
+   "Muhammad Insha"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U150",
+  "subject": "Urdu",
+  "q": "Patras Bokhari ka asal naam kya tha:",
+  "options": [
+   "Syed Ahmed Shah",
+   "Ahmed Shah Patras",
+   "Syed Patras",
+   "Shah Ahmed"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U151",
+  "subject": "Urdu",
+  "q": "\"Shahab Nama\" kis ki sawaneh umri hai:",
+  "options": [
+   "Ashfaq Ahmed",
+   "Qudratullah Shahab",
+   "Mukhtar Masood",
+   "Bano Qudsia"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U152",
+  "subject": "Urdu",
+  "q": "Ashfaq Ahmed ki ahliya kaun thin:",
+  "options": [
+   "Ismat Chughtai",
+   "Bano Qudsia",
+   "Qurratulain Hyder",
+   "Khadija Mastoor"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U153",
+  "subject": "Urdu",
+  "q": "\"Aag ka Darya\" kis ka novel hai:",
+  "options": [
+   "Abdullah Hussain",
+   "Khadija Mastoor",
+   "Bano Qudsia",
+   "Qurratulain Hyder"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U154",
+  "subject": "Urdu",
+  "q": "\"Udas Naslein\" kis ka novel hai:",
+  "options": [
+   "Shaukat Siddiqui",
+   "Abdullah Hussain",
+   "Intizar Hussain",
+   "Mustansar Hussain Tarar"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U155",
+  "subject": "Urdu",
+  "q": "Taraqqi Pasand Tehrik ka aaghaz kab aur kahan hua:",
+  "options": [
+   "1936, Lucknow",
+   "1939, Lahore",
+   "1947, Karachi",
+   "1932, Delhi"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U156",
+  "subject": "Urdu",
+  "q": "Halqa-e-Arbab-e-Zauq kab qaim hua:",
+  "options": [
+   "1939",
+   "1936",
+   "1932",
+   "1947"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U157",
+  "subject": "Urdu",
+  "q": "Bahadur Shah Zafar ke ustad kaun thay:",
+  "options": [
+   "Ibrahim Zauq",
+   "Momin Khan Momin",
+   "Aatish",
+   "Mirza Ghalib"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U158",
+  "subject": "Urdu",
+  "q": "Josh Malihabadi ka asal naam kya tha:",
+  "options": [
+   "Shabbir Hasan Khan",
+   "Malihabadi",
+   "Josh Khan",
+   "Hasan Josh"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U159",
+  "subject": "Urdu",
+  "q": "Scientific Society kis ne qaim ki:",
+  "options": [
+   "Sir Syed Ahmed Khan",
+   "Altaf Hussain Hali",
+   "Maulvi Abdul Haq",
+   "Shibli Nomani"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U160",
+  "subject": "Urdu",
+  "q": "Fort William College kab qaim hua:",
+  "options": [
+   "1800",
+   "1863",
+   "1857",
+   "1835"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U161",
+  "subject": "Urdu",
+  "q": "Deputy Nazir Ahmed ka pehla novel kaun sa hai:",
+  "options": [
+   "Ibn-ul-Waqt",
+   "Fasana-e-Mubtala",
+   "Taubat-un-Nasooh",
+   "Mirat-ul-Uroos"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U162",
+  "subject": "Urdu",
+  "q": "Allama Iqbal ki nazm \"Shikwa\" un ke kis majmue mein hai:",
+  "options": [
+   "Bal-e-Jibreel",
+   "Zarb-e-Kaleem",
+   "Armaghan-e-Hijaz",
+   "Bang-e-Dara"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U163",
+  "subject": "Urdu",
+  "q": "\"Tere aazad bandon ki na ye dunya na wo dunya / Yahan marne ki pabandi wahan jeene ki pabandi\" - Iqbal ke is sher mein san'at-e-tazaad kitni baar aai hai:",
+  "options": [
+   "Do baar",
+   "Ek baar",
+   "Teen baar",
+   "Chaar baar"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U164",
+  "subject": "Urdu",
+  "q": "Isti'ara ke lughvi ma'ani kya hain:",
+  "options": [
+   "Naqd koi cheez lena",
+   "Udhar lena",
+   "Ishara karna",
+   "Bayan karna"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U165",
+  "subject": "Urdu",
+  "q": "\"Din, raat, saal\" qawaid ki roo se kya kehlate hain:",
+  "options": [
+   "Ism-e-mabham",
+   "Zarf-e-makan",
+   "Zarf-e-zaman",
+   "Harf-e-jarr"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U166",
+  "subject": "Urdu",
+  "q": "\"Mariya bohat zaheen taliba hai\" - is mein \"zaheen taliba\" kya hai:",
+  "options": [
+   "Murakkab-e-izafi",
+   "Murakkab-e-adadi",
+   "Murakkab-e-tausifi",
+   "Murakkab-e-atfi"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U167",
+  "subject": "Urdu",
+  "q": "Ghazal ke matla mein sha'ir kis cheez ka lehaz rakhta hai:",
+  "options": [
+   "Takhallus",
+   "Qafia",
+   "Radeef",
+   "Wazan"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U168",
+  "subject": "Urdu",
+  "q": "\"Tifl-e-Maktab\" tarkeeb ka mafhoom hai:",
+  "options": [
+   "Farigh-ut-taleem",
+   "Na-tajurba-kar",
+   "Parha-likha",
+   "Tajurba-kar"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U170",
+  "subject": "Urdu",
+  "q": "Fe'l-e-mutaddi kise kehte hain:",
+  "options": [
+   "Jo fa'il ke ilawa maf'ool ki bhi zarurat mehsoos kare",
+   "Jo maf'ool ko chahe",
+   "Jo fa'il ko chahe",
+   "Jo kuch na chahe"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U171",
+  "subject": "Urdu",
+  "q": "Wo wasfi naam jo kisi khususiyat ki wajah se mashhoor ho jaye (masalan Shair-e-Mashriq) kya kehlata hai:",
+  "options": [
+   "Kunniyat",
+   "Takhallus",
+   "Laqab",
+   "Khitab"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U172",
+  "subject": "Urdu",
+  "q": "Wo kitab jis mein shu'ara ke halaat-o-waqiaat likhe jate hain kya kehlati hai:",
+  "options": [
+   "Tazkira",
+   "Deewan",
+   "Maktub",
+   "Kulliyat"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U173",
+  "subject": "Urdu",
+  "q": "\"Aab aab hona\" qawaid ki ro se kya hai:",
+  "options": [
+   "Na muhawara hai aur na roz marra",
+   "Muhawara",
+   "Sirf roz marra hai",
+   "Muhawara bhi hai aur roz marra bhi"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U174",
+  "subject": "Urdu",
+  "q": "In mein se durust jumla kaun sa hai (imla):",
+  "options": [
+   "Bhokay log daak na dalain to aur kya karein",
+   "Bhoke log daak na daalen to aur kya karein",
+   "In mein se koi nahi",
+   "Bhoke log daka na daalen to aur kya karein"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U175",
+  "subject": "Urdu",
+  "q": "Haroof-e-tahajji ke aitbaar se lughat mein pehle kaun sa lafz aayega:",
+  "options": [
+   "Laparwah",
+   "Sangdil",
+   "Shafiq",
+   "Zaalim"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U176",
+  "subject": "Urdu",
+  "q": "Kisi ko darkhwast karte waqt durust lafz kya hai:",
+  "options": [
+   "Barah-e-meherbani",
+   "Barai meherbani",
+   "Bara-e-meherbani",
+   "Baraye meherbani"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U177",
+  "subject": "Urdu",
+  "q": "In mein se kaun sa lafz durust hai:",
+  "options": [
+   "Assalam-o-alaikum",
+   "Assalam-o-Alaikum",
+   "Walsalam-o-alaikum",
+   "Aslaam-o-alaikum"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U178",
+  "subject": "Urdu",
+  "q": "Nida'iya ki alamat kahan istemal hoti hai:",
+  "options": [
+   "Jumlon ki tareef par",
+   "Kisi ko bulane / pukaarne ke liye",
+   "Sawaliya jumlon ke aakhir mein",
+   "Sab jawab durust hain"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U179",
+  "subject": "Urdu",
+  "q": "Kalma ki kitni aqsam hain:",
+  "options": [
+   "Do",
+   "Paanch",
+   "Char",
+   "Teen"
+  ],
+  "answer": 3,
+  "explanation": "Ism, Fe'l, Harf; options reconstructed",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U180",
+  "subject": "Urdu",
+  "q": "Wo fe'l jo maf'ool na chahe, kehlata hai:",
+  "options": [
+   "Fe'l-e-majhool",
+   "Fe'l-e-mutaddi",
+   "Fe'l-e-lazim",
+   "Fe'l-e-ma'roof"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U181",
+  "subject": "Urdu",
+  "q": "Wo fe'l jis mein fa'il maloom ho, kehlata hai:",
+  "options": [
+   "Fe'l-e-ma'roof",
+   "Fe'l-e-majhool",
+   "Fe'l-e-mutaddi",
+   "Fe'l-e-lazim"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U182",
+  "subject": "Urdu",
+  "q": "Urdu mein haroof-e-illat kitne hain:",
+  "options": [
+   "Paanch",
+   "Teen",
+   "Char",
+   "Do"
+  ],
+  "answer": 1,
+  "explanation": "alif, wao, ye; options reconstructed",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U183",
+  "subject": "Urdu",
+  "q": "Tashbeeh ke kitne arkaan hain:",
+  "options": [
+   "Char",
+   "Do",
+   "Paanch",
+   "Teen"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U184",
+  "subject": "Urdu",
+  "q": "Ghazal ke pehle sher ko kya kehte hain:",
+  "options": [
+   "Maqta",
+   "She'r",
+   "Husn-e-matla",
+   "Matla"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U185",
+  "subject": "Urdu",
+  "q": "Ghazal ke aakhri sher ko, jis mein takhallus ho, kya kehte hain:",
+  "options": [
+   "Qafia",
+   "Matla",
+   "Maqta",
+   "Radeef"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U186",
+  "subject": "Urdu",
+  "q": "Sha'ir apne kalaam mein jo farzi naam istemal karta hai, use kya kehte hain:",
+  "options": [
+   "Kunniyat",
+   "Khitab",
+   "Takhallus",
+   "Laqab"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U187",
+  "subject": "Urdu",
+  "q": "Wo murakkab jis mein izafat payi jaye, kehlata hai:",
+  "options": [
+   "Murakkab-e-adadi",
+   "Murakkab-e-atfi",
+   "Murakkab-e-tausifi",
+   "Murakkab-e-izafi"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U188",
+  "subject": "Urdu",
+  "q": "\"Ilm\" ki jama kya hai:",
+  "options": [
+   "Ilmon",
+   "Uloom",
+   "Aalim",
+   "Alama"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U189",
+  "subject": "Urdu",
+  "q": "\"Sher\" ki jama kya hai:",
+  "options": [
+   "Ash'aar",
+   "Shairi",
+   "Sheron",
+   "Shu'ara"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U190",
+  "subject": "Urdu",
+  "q": "\"Kitab\" lafz muzakar hai ya mu'annas:",
+  "options": [
+   "Mu'annas",
+   "Dono",
+   "Koi nahi",
+   "Muzakar"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U191",
+  "subject": "Urdu",
+  "q": "\"Raat\" ka mutazad kya hai:",
+  "options": [
+   "Andhera",
+   "Shaam",
+   "Din",
+   "Subah"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U192",
+  "subject": "Urdu",
+  "q": "\"Dost\" ka mutazad kya hai:",
+  "options": [
+   "Hamsaya",
+   "Dushman",
+   "Ajnabi",
+   "Yar"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U193",
+  "subject": "Urdu",
+  "q": "\"Andhera\" ka mutazad kya hai:",
+  "options": [
+   "Din",
+   "Roshni",
+   "Ujala",
+   "Raat"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U194",
+  "subject": "Urdu",
+  "q": "\"Muhabbat\" ka mutaradif kya hai:",
+  "options": [
+   "Ulfat",
+   "Adawat",
+   "Nafrat",
+   "Dushmani"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U195",
+  "subject": "Urdu",
+  "q": "\"Fath\" ka mutaradif hai:",
+  "options": [
+   "Suroor",
+   "Iqbal",
+   "Zafar",
+   "Shikast"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U196",
+  "subject": "Urdu",
+  "q": "\"Naseeb\" ka mutazad kya hai:",
+  "options": [
+   "Muqaddar",
+   "Bad-naseebi",
+   "Taqdeer",
+   "Qismat"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U198",
+  "subject": "Urdu",
+  "q": "\"Asrar-e-Khudi\" kis zaban mein hai:",
+  "options": [
+   "Hindi",
+   "Urdu",
+   "Arabi",
+   "Farsi"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U199",
+  "subject": "Urdu",
+  "q": "Wo nazm jis mein kisi ki tareef bayan ki jaye, kehlata hai:",
+  "options": [
+   "Masnavi",
+   "Hamd",
+   "Qaseeda",
+   "Marsiya"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U200",
+  "subject": "Urdu",
+  "q": "\"Wo nabiyon mein rahmat laqab pane wala\" kis ka misra hai:",
+  "options": [
+   "Chishti",
+   "Hafeez Taib",
+   "Hali",
+   "Maulana Zafar Ali Khan"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U201",
+  "subject": "Urdu",
+  "q": "Ruba'i mein kitne misre hote hain:",
+  "options": [
+   "Do",
+   "Teen",
+   "Char",
+   "Chhe"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U202",
+  "subject": "Urdu",
+  "q": "Sinf-e-musaddas mein kitne misre hote hain:",
+  "options": [
+   "Das",
+   "Aath",
+   "Chhe",
+   "Char"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U203",
+  "subject": "Urdu",
+  "q": "Sinf-e-haiku mein kitne misre hote hain:",
+  "options": [
+   "Do",
+   "Char",
+   "Teen",
+   "Paanch"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U204",
+  "subject": "Urdu",
+  "q": "Qit'a mein kam az kam kitne ash'aar hote hain:",
+  "options": [
+   "Ek",
+   "Char",
+   "Teen",
+   "Do"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "U205",
+  "subject": "Urdu",
+  "q": "Ghazal ke lughvi ma'ani kya hain:",
+  "options": [
+   "Ishq mein she'r-o-sha'iri karna",
+   "In mein se koi nahi",
+   "Aurton se batein karna",
+   "Isharon mein baat karna"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "F104",
+  "subject": "Urdu",
+  "q": "Woh zameer hoti hai jo kisi namaloom, ghair mu'ayyan ya ghair wazeh shakhs, cheez ya jagah ke liye istemal ki jati hai?",
+  "options": [
+   "In mein se koi nahi",
+   "Zameer-e-Istifham",
+   "Zameer-e-Tankeer",
+   "Zameer-e-Shakhsi"
+  ],
+  "answer": 2,
+  "explanation": "Na-maloom shakhs/cheez/jagah ke liye istemal hone wala zameer Zameer-e-Tankeer hai (koi, kuch).",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F151",
+  "subject": "Urdu",
+  "q": "When did Momin Khan Momin die?",
+  "options": [
+   "14 May 1854",
+   "14 May 1853",
+   "14 May 1852",
+   "None of these"
+  ],
+  "answer": 2,
+  "explanation": "Momin Khan Momin ka inteqal 14 May 1852 mein hua.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F155",
+  "subject": "Urdu",
+  "q": "Badalta hai rang aasman kaise kaise. Kis shayar ka shair hai?",
+  "options": [
+   "Mirza Ghalib",
+   "Allama Iqbal",
+   "Akbar Allahabadi",
+   "In mein se koi nahi"
+  ],
+  "answer": 3,
+  "explanation": "Paper ke mutabiq ye shair diye gaye shu'ara mein se kisi ka nahi — None of these.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F156",
+  "subject": "Urdu",
+  "q": "Manto ke afsanon ka pehla majmua kaun sa tha?",
+  "options": [
+   "Aatish Paray",
+   "In mein se koi nahi",
+   "Siyah Hashiye",
+   "Thanda Gosht"
+  ],
+  "answer": 0,
+  "explanation": "Manto ke afsanon ka pehla majmua Aatish Paray tha.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F162",
+  "subject": "Urdu",
+  "q": "Tar damani pe sheikh hamari na jaiyo, daman nichod dein to farishte wuzu karein. Kis shayar ka shair hai?",
+  "options": [
+   "In mein se koi nahi",
+   "Khwaja Mir Dard",
+   "Ghalib",
+   "Mir Taqi Mir"
+  ],
+  "answer": 1,
+  "explanation": "Ye shair Khwaja Mir Dard ka hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F173",
+  "subject": "Urdu",
+  "q": "Who was the first critic to write a critical essay on Faiz Ahmed Faiz?",
+  "options": [
+   "None of these",
+   "Kaleemuddin Ahmad",
+   "Muhammad Hasan Askari",
+   "N. M. Rashed"
+  ],
+  "answer": 2,
+  "explanation": "Faiz Ahmed Faiz par pehla tanqeedi mazmoon Muhammad Hasan Askari ne likha.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ }
+]

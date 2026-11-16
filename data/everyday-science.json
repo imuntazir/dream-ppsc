@@ -1,0 +1,2368 @@
+[
+ {
+  "id": "S38",
+  "subject": "Everyday Science",
+  "q": "Water has maximum density at:",
+  "options": [
+   "4 C",
+   "2 C",
+   "0 C",
+   "10 C"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S39",
+  "subject": "Everyday Science",
+  "q": "A unit of length equal to the average distance between the earth and the sun is called:",
+  "options": [
+   "Light year",
+   "Nautical mile",
+   "Astronomical unit",
+   "Parsec"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S40",
+  "subject": "Everyday Science",
+  "q": "The inferred (infrared) radiation of the sun is strongly absorbed by:",
+  "options": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Water"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S41",
+  "subject": "Everyday Science",
+  "q": "One nautical mile is equal to how many kilometers?",
+  "options": [
+   "2.000 km",
+   "1.852 km",
+   "1.609 km",
+   "1.500 km"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S42",
+  "subject": "Everyday Science",
+  "q": "Joule is the unit of:",
+  "options": [
+   "Pressure",
+   "Power",
+   "Energy",
+   "Force"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S43",
+  "subject": "Everyday Science",
+  "q": "When light travels from a denser medium to a rarer medium, it bends due to:",
+  "options": [
+   "Diffraction",
+   "Scattering",
+   "Refraction",
+   "Reflection"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S44",
+  "subject": "Everyday Science",
+  "q": "When white light passes through a prism, it splits into how many colors?",
+  "options": [
+   "5",
+   "6",
+   "9",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S45",
+  "subject": "Everyday Science",
+  "q": "The splitting of white light into its constituent colors is called:",
+  "options": [
+   "Dispersion",
+   "Reflection",
+   "Polarization",
+   "Refraction"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S46",
+  "subject": "Everyday Science",
+  "q": "The transfer of thermal energy from one substance to another which requires no physical medium is:",
+  "options": [
+   "Conduction",
+   "Advection",
+   "Convection",
+   "Radiation"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S47",
+  "subject": "Everyday Science",
+  "q": "Sound is which type of wave?",
+  "options": [
+   "Stationary wave",
+   "Electromagnetic wave",
+   "Mechanical wave",
+   "Matter wave"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S48",
+  "subject": "Everyday Science",
+  "q": "Radio waves frequency is measured in:",
+  "options": [
+   "Decibel",
+   "Joule",
+   "Hertz",
+   "Watt"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S49",
+  "subject": "Everyday Science",
+  "q": "Which of the following is the most elastic material?",
+  "options": [
+   "Plastic",
+   "Steel",
+   "Glass",
+   "Rubber"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S50",
+  "subject": "Everyday Science",
+  "q": "Iron is an example of a ___ material:",
+  "options": [
+   "Semiconductor",
+   "Insulator",
+   "Non-magnetic",
+   "Magnetic"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S51",
+  "subject": "Everyday Science",
+  "q": "The SI unit of temperature is:",
+  "options": [
+   "Kelvin",
+   "Rankine",
+   "Fahrenheit",
+   "Celsius"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S52",
+  "subject": "Everyday Science",
+  "q": "Choose the correct SI unit of momentum:",
+  "options": [
+   "Kilogram per cubic meter",
+   "Square meter",
+   "Kilogram meters per second",
+   "Newton-second"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S53",
+  "subject": "Everyday Science",
+  "q": "Very High Frequency (VHF) waves have ___ wavelengths:",
+  "options": [
+   "Longest",
+   "Shortest",
+   "Longer",
+   "Shorter"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S54",
+  "subject": "Everyday Science",
+  "q": "A long-sight defect (hypermetropia) is corrected by using a ___ lens:",
+  "options": [
+   "Convex",
+   "Cylindrical",
+   "Diverging",
+   "Concave"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S55",
+  "subject": "Everyday Science",
+  "q": "For a fixed mass of gas at constant temperature, if the volume is decreased, the pressure will:",
+  "options": [
+   "Remain constant",
+   "Decrease",
+   "Increase",
+   "Become zero"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S56",
+  "subject": "Everyday Science",
+  "q": "The density of water is:",
+  "options": [
+   "1.5 g/cm3",
+   "0.5 g/cm3",
+   "1 g/cm3",
+   "2 g/cm3"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S57",
+  "subject": "Everyday Science",
+  "q": "A rainbow is formed when light passes through:",
+  "options": [
+   "An ice crystal",
+   "A water droplet",
+   "A mirror",
+   "A glass prism"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S58",
+  "subject": "Everyday Science",
+  "q": "How many lenses does a pinhole camera use?",
+  "options": [
+   "One",
+   "No lens",
+   "Two",
+   "Three"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S59",
+  "subject": "Everyday Science",
+  "q": "The SI unit of sound intensity level (loudness) is the:",
+  "options": [
+   "Ampere",
+   "Candela",
+   "Hertz",
+   "Decibel"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S60",
+  "subject": "Everyday Science",
+  "q": "When the same note is played on a sitar and a flute, the sounds are distinguished because of difference in:",
+  "options": [
+   "Pitch and loudness",
+   "Loudness only",
+   "Quality (timbre) only",
+   "Pitch, loudness and quality"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S61",
+  "subject": "Everyday Science",
+  "q": "The heat transfer from a hotter place to a colder place, with or without a material medium in between, is called:",
+  "options": [
+   "Conduction",
+   "Advection",
+   "Radiation",
+   "Convection"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S62",
+  "subject": "Everyday Science",
+  "q": "The movement of molecules from high to low concentration, requiring no energy, is called:",
+  "options": [
+   "Diffusion",
+   "Active transport",
+   "Filtration",
+   "Osmosis"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S63",
+  "subject": "Everyday Science",
+  "q": "The process called when gas moves from an area of high pressure to an area of low pressure is:",
+  "options": [
+   "Diffusion",
+   "Osmosis",
+   "Transpiration",
+   "Effusion"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S64",
+  "subject": "Everyday Science",
+  "q": "The principle by which blotting paper absorbs water is:",
+  "options": [
+   "Osmosis",
+   "Diffusion",
+   "Capillary action",
+   "Surface tension"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S65",
+  "subject": "Everyday Science",
+  "q": "Proton and nuclei moving with the speed of light in space are called:",
+  "options": [
+   "Gamma rays",
+   "Beta rays",
+   "Alpha rays",
+   "Cosmic rays"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S66",
+  "subject": "Everyday Science",
+  "q": "Radio, television and cell phones send information through:",
+  "options": [
+   "Electromagnetic wave signals",
+   "Water waves",
+   "Seismic waves",
+   "Sound waves"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S68",
+  "subject": "Everyday Science",
+  "q": "Which element is used in welding (with oxygen)?",
+  "options": [
+   "Acetylene",
+   "Methane",
+   "Hydrogen",
+   "Ethylene"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S69",
+  "subject": "Everyday Science",
+  "q": "Another name for baking soda is:",
+  "options": [
+   "Potassium hydroxide",
+   "Calcium carbonate",
+   "Sodium bicarbonate",
+   "Sodium carbonate"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S70",
+  "subject": "Everyday Science",
+  "q": "The most malleable metal is:",
+  "options": [
+   "Copper",
+   "Silver",
+   "Platinum",
+   "Gold"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S71",
+  "subject": "Everyday Science",
+  "q": "The most abundant metal in the Earth's crust is:",
+  "options": [
+   "Aluminum",
+   "Zinc",
+   "Iron",
+   "Copper"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S72",
+  "subject": "Everyday Science",
+  "q": "The most abundant element in the universe is:",
+  "options": [
+   "Silicon",
+   "Carbon",
+   "Hydrogen",
+   "Oxygen"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S73",
+  "subject": "Everyday Science",
+  "q": "The most abundant element in the Earth's crust is:",
+  "options": [
+   "Hydrogen",
+   "Oxygen",
+   "Carbon dioxide",
+   "Silicon"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S74",
+  "subject": "Everyday Science",
+  "q": "Which gas in chlorofluorocarbons (CFCs) damages the ozone layer most?",
+  "options": [
+   "Fluorine",
+   "Iodine",
+   "Chlorine",
+   "Bromine"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S75",
+  "subject": "Everyday Science",
+  "q": "Copper, gold and silver are called:",
+  "options": [
+   "Transition elements",
+   "Noble gases",
+   "Coinage metals",
+   "Alkali metals"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S76",
+  "subject": "Everyday Science",
+  "q": "A process of breaking down large hydrocarbons into smaller molecules using heat is called:",
+  "options": [
+   "Thermal cracking",
+   "Polymerization",
+   "Fractional distillation",
+   "Hydrogenation"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S77",
+  "subject": "Everyday Science",
+  "q": "Chemically, soap is a:",
+  "options": [
+   "Hydrocarbon",
+   "Acid",
+   "Base",
+   "Salt"
+  ],
+  "answer": 3,
+  "explanation": "options verbatim",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S78",
+  "subject": "Everyday Science",
+  "q": "Air is an example of:",
+  "options": [
+   "A pure substance",
+   "A mixture",
+   "A compound",
+   "An element"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S79",
+  "subject": "Everyday Science",
+  "q": "Radioactivity is measured by which device?",
+  "options": [
+   "Thermometer",
+   "Barometer",
+   "Hygrometer",
+   "Geiger counter"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S80",
+  "subject": "Everyday Science",
+  "q": "Radioactivity was discovered by:",
+  "options": [
+   "Kelvin",
+   "Thomson",
+   "Rutherford",
+   "Becquerel"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S81",
+  "subject": "Everyday Science",
+  "q": "A device which converts chemical energy into electrical energy is called:",
+  "options": [
+   "Motor",
+   "Battery",
+   "Moving-coil meter",
+   "Generator"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S82",
+  "subject": "Everyday Science",
+  "q": "Which gas is commonly used in balloons and airships?",
+  "options": [
+   "Helium",
+   "Hydrogen",
+   "Nitrogen",
+   "Oxygen"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S83",
+  "subject": "Everyday Science",
+  "q": "Which gas can accumulate in poorly ventilated buildings?",
+  "options": [
+   "Helium",
+   "Oxygen",
+   "Hydrogen",
+   "Radon"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S84",
+  "subject": "Everyday Science",
+  "q": "Which of the following components is rich in fat?",
+  "options": [
+   "Bread",
+   "Potato",
+   "Butter",
+   "Rice"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S85",
+  "subject": "Everyday Science",
+  "q": "The main constituent of hemoglobin is:",
+  "options": [
+   "Iron",
+   "Magnesium",
+   "Zinc",
+   "Calcium"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S86",
+  "subject": "Everyday Science",
+  "q": "Iron is an essential mineral needed by the body for the production of:",
+  "options": [
+   "Insulin",
+   "Enzymes",
+   "Bile",
+   "Hemoglobin"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S87",
+  "subject": "Everyday Science",
+  "q": "Which mineral is essential for building bones and teeth, muscle functioning and blood clotting?",
+  "options": [
+   "Potassium",
+   "Sodium",
+   "Calcium",
+   "Iron"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S88",
+  "subject": "Everyday Science",
+  "q": "Which chemical in tobacco causes a smoker to be addicted to smoking?",
+  "options": [
+   "Tar",
+   "Carbon monoxide",
+   "Nicotine",
+   "Caffeine"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S89",
+  "subject": "Everyday Science",
+  "q": "The most important stimulus for tea leaves (the stimulant in tea) is:",
+  "options": [
+   "Caffeine",
+   "Nicotine",
+   "Theobromine",
+   "Tannin"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S90",
+  "subject": "Everyday Science",
+  "q": "By what percentage does water expand when it freezes?",
+  "options": [
+   "5%",
+   "15%",
+   "12%",
+   "9%"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S91",
+  "subject": "Everyday Science",
+  "q": "CNG burns with less efficiency than which gas?",
+  "options": [
+   "Ethane",
+   "Methane",
+   "Propane",
+   "Butane"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S92",
+  "subject": "Everyday Science",
+  "q": "Which of the following is the cheapest and most environmentally friendly source of electricity?",
+  "options": [
+   "Diesel power",
+   "Thermal power",
+   "Nuclear power",
+   "Hydroelectric power"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S93",
+  "subject": "Everyday Science",
+  "q": "Which type of energy is produced during a fission reaction in a nuclear reactor?",
+  "options": [
+   "Light energy",
+   "Thermal energy",
+   "Chemical energy",
+   "Electrical energy"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S94",
+  "subject": "Everyday Science",
+  "q": "Which basic material is used in the fabrication of transistors and chips?",
+  "options": [
+   "Aluminum",
+   "Silicon",
+   "Germanium",
+   "Copper"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S95",
+  "subject": "Everyday Science",
+  "q": "Boiling of an egg is an example of:",
+  "options": [
+   "No change",
+   "Physical change",
+   "Chemical change",
+   "Both physical and chemical change"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S96",
+  "subject": "Everyday Science",
+  "q": "We can change ice from one state to another by changing:",
+  "options": [
+   "Temperature",
+   "Frequency",
+   "Momentum",
+   "Water molecules"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S99",
+  "subject": "Everyday Science",
+  "q": "Which of the following is NOT a vestigial organ of the human being?",
+  "options": [
+   "Eyelid",
+   "Tailbone (coccyx)",
+   "Wisdom teeth",
+   "Appendix"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S100",
+  "subject": "Everyday Science",
+  "q": "Protein synthesis in the cell takes place in the:",
+  "options": [
+   "Mitochondria",
+   "Golgi bodies",
+   "Ribosomes",
+   "Nucleus"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S101",
+  "subject": "Everyday Science",
+  "q": "The doctor known as an eye specialist is called:",
+  "options": [
+   "Cardiologist",
+   "Ophthalmologist",
+   "Dermatologist",
+   "Neurologist"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S102",
+  "subject": "Everyday Science",
+  "q": "Cataract is a disease of the:",
+  "options": [
+   "Eye",
+   "Ear",
+   "Skin",
+   "Liver"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S103",
+  "subject": "Everyday Science",
+  "q": "Which part of the donor's eye is utilized in eye donation?",
+  "options": [
+   "Cornea",
+   "Lens",
+   "Iris",
+   "Retina"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S104",
+  "subject": "Everyday Science",
+  "q": "Which part of the ear is concerned with hearing?",
+  "options": [
+   "Cochlea",
+   "Eardrum",
+   "Pinna",
+   "Ossicles"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S105",
+  "subject": "Everyday Science",
+  "q": "The male reproductive part of the flower is called:",
+  "options": [
+   "Stamen",
+   "Sepal",
+   "Carpel",
+   "Petal"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S106",
+  "subject": "Everyday Science",
+  "q": "Which of the following is a male reproductive organ of a plant?",
+  "options": [
+   "Stalk",
+   "Stamens",
+   "Sepal",
+   "Carpel"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S107",
+  "subject": "Everyday Science",
+  "q": "The interaction of living organisms with each other and with their environment is called:",
+  "options": [
+   "Biome",
+   "Ecosystem",
+   "Niche",
+   "Habitat"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S108",
+  "subject": "Everyday Science",
+  "q": "Which system is responsible for communicating and coordinating body functions?",
+  "options": [
+   "Circulatory system",
+   "Digestive system",
+   "Nervous system",
+   "Respiratory system"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S109",
+  "subject": "Everyday Science",
+  "q": "The basic unit of the animal and human body is the:",
+  "options": [
+   "Neuron",
+   "Tissue",
+   "Cell",
+   "Organ"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S110",
+  "subject": "Everyday Science",
+  "q": "Which is the correct sequence of air passage through the respiratory system during inhalation?",
+  "options": [
+   "Nostrils - Trachea - Pharynx - Larynx - Lungs - Alveoli",
+   "Nostrils - Pharynx - Trachea - Larynx - Alveoli - Lungs",
+   "Nostrils - Pharynx - Larynx - Trachea - Lungs - Alveoli",
+   "Nostrils - Larynx - Pharynx - Trachea - Alveoli - Lungs"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S111",
+  "subject": "Everyday Science",
+  "q": "What is the capacity of human lungs?",
+  "options": [
+   "9 liters",
+   "6 liters",
+   "12 liters",
+   "3 liters"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S112",
+  "subject": "Everyday Science",
+  "q": "Water percentage in blood plasma is about:",
+  "options": [
+   "50%",
+   "70%",
+   "95%",
+   "90%"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S113",
+  "subject": "Everyday Science",
+  "q": "The main artery leaving the left ventricle of the heart is called:",
+  "options": [
+   "Carotid artery",
+   "Pulmonary artery",
+   "Femoral artery",
+   "Aorta"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S114",
+  "subject": "Everyday Science",
+  "q": "ECG is used for the diagnosis of ailments of the:",
+  "options": [
+   "Brain",
+   "Heart",
+   "Kidney",
+   "Liver"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S115",
+  "subject": "Everyday Science",
+  "q": "By taking the pulse rate of the human body, a doctor determines:",
+  "options": [
+   "The health of the lungs",
+   "The condition of the liver",
+   "The amount of blood in the body",
+   "The heartbeat"
+  ],
+  "answer": 3,
+  "explanation": "options verbatim",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S116",
+  "subject": "Everyday Science",
+  "q": "The hardest substance present in the human body is:",
+  "options": [
+   "Cartilage",
+   "Bone",
+   "Dental enamel",
+   "Nail"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S117",
+  "subject": "Everyday Science",
+  "q": "Female vocal cords are generally:",
+  "options": [
+   "Absent",
+   "Same as males",
+   "Shorter and thinner",
+   "Longer and thicker"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S118",
+  "subject": "Everyday Science",
+  "q": "Bronchitis is a disease related to the:",
+  "options": [
+   "Urinary tract",
+   "Nervous system",
+   "Respiratory tract",
+   "Digestive tract"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S119",
+  "subject": "Everyday Science",
+  "q": "Which type of vitamin does the human body get through sunlight?",
+  "options": [
+   "Vitamin D",
+   "Vitamin C",
+   "Vitamin A",
+   "Vitamin K"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S120",
+  "subject": "Everyday Science",
+  "q": "Deficiency of Vitamin A results in:",
+  "options": [
+   "Night blindness",
+   "Scurvy",
+   "Hair fall",
+   "Rickets"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S121",
+  "subject": "Everyday Science",
+  "q": "The lifespan of red blood cells (RBCs) is about ___ days:",
+  "options": [
+   "180",
+   "240",
+   "60",
+   "120"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S122",
+  "subject": "Everyday Science",
+  "q": "Why is the spleen called the graveyard of RBCs?",
+  "options": [
+   "It produces RBCs",
+   "It filters plasma",
+   "It stores oxygen",
+   "It breaks down old and damaged RBCs"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S123",
+  "subject": "Everyday Science",
+  "q": "Red blood corpuscles are formed in the:",
+  "options": [
+   "Heart",
+   "Spleen",
+   "Liver",
+   "Bone marrow"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S124",
+  "subject": "Everyday Science",
+  "q": "The average adult has a blood volume of about ___ liters:",
+  "options": [
+   "7",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S125",
+  "subject": "Everyday Science",
+  "q": "What is a nephron?",
+  "options": [
+   "The smallest unit of the respiratory system",
+   "A type of bone in the human body",
+   "A type of muscle tissue in the heart",
+   "The functional unit of the kidney"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S126",
+  "subject": "Everyday Science",
+  "q": "There are almost ___ nephrons in each kidney of the human body:",
+  "options": [
+   "2,000,000",
+   "1,000,000",
+   "100,000",
+   "500,000"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S127",
+  "subject": "Everyday Science",
+  "q": "Trachoma is a disease of the:",
+  "options": [
+   "Ear",
+   "Eye",
+   "Throat",
+   "Skin"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S128",
+  "subject": "Everyday Science",
+  "q": "Bird flu is caused by:",
+  "options": [
+   "Virus (often H5N1)",
+   "Parasite",
+   "Fungus",
+   "Bacteria"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S129",
+  "subject": "Everyday Science",
+  "q": "Alzheimer is a ___ disease:",
+  "options": [
+   "Respiratory",
+   "Cardiac",
+   "Neurological",
+   "Digestive"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S130",
+  "subject": "Everyday Science",
+  "q": "If a large number of people suffer from a disease at one place and time, it is known as:",
+  "options": [
+   "Pandemic",
+   "Epidemic",
+   "Endemic",
+   "Sporadic"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S131",
+  "subject": "Everyday Science",
+  "q": "Virally infected cells produce and release small proteins called:",
+  "options": [
+   "Antigens",
+   "Histamines",
+   "Antibodies",
+   "Interferons"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S132",
+  "subject": "Everyday Science",
+  "q": "The first antibiotic discovered was:",
+  "options": [
+   "Tetracycline",
+   "Penicillin",
+   "Streptomycin",
+   "Amoxicillin"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S133",
+  "subject": "Everyday Science",
+  "q": "Antibiotics are used to control the growth of:",
+  "options": [
+   "Bacteria",
+   "Plants",
+   "Algae",
+   "Insects"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S134",
+  "subject": "Everyday Science",
+  "q": "Which of the following do bacteria NOT have?",
+  "options": [
+   "Flagella",
+   "Nuclei",
+   "Cell membrane",
+   "Cell wall"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S135",
+  "subject": "Everyday Science",
+  "q": "The study of insects is called:",
+  "options": [
+   "Entomology",
+   "Ichthyology",
+   "Herpetology",
+   "Ornithology"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S136",
+  "subject": "Everyday Science",
+  "q": "Ornithology is the science which deals with:",
+  "options": [
+   "Reptiles",
+   "Study of birds",
+   "Fishes",
+   "Insects"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S137",
+  "subject": "Everyday Science",
+  "q": "The study of the evolution of man as an animal is known as:",
+  "options": [
+   "Sociology",
+   "Ethnology",
+   "Anthropology",
+   "Archaeology"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S138",
+  "subject": "Everyday Science",
+  "q": "Humans belong to which family?",
+  "options": [
+   "Felidae",
+   "Canidae",
+   "Pongidae",
+   "Hominidae (hominids)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S139",
+  "subject": "Everyday Science",
+  "q": "The branch of biology which deals with the study of the nervous system and its disorders is called:",
+  "options": [
+   "Neurology",
+   "Hematology",
+   "Urology",
+   "Herpetology"
+  ],
+  "answer": 0,
+  "explanation": "options verbatim",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S140",
+  "subject": "Everyday Science",
+  "q": "The development of calf muscles in people who wear high heels is a common example of:",
+  "options": [
+   "Use and disuse of organs",
+   "Artificial selection",
+   "Natural selection",
+   "Inheritance of acquired characters"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S141",
+  "subject": "Everyday Science",
+  "q": "Which is the correct statement?",
+  "options": [
+   "Atoms are the basic building blocks of matter, while molecules are formed by the combination of atoms",
+   "Atoms are bigger than molecules",
+   "Atoms are made up of multiple elements, while molecules are made up of a single element",
+   "Atoms can exist independently, while molecules cannot"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S142",
+  "subject": "Everyday Science",
+  "q": "What is the full form of DNA?",
+  "options": [
+   "Deoxyribose Nucleotide Acid",
+   "Deoxyribonucleotide Acid",
+   "Deoxyribonucleic Acid",
+   "Deoxyribosome Nucleic Acid"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S143",
+  "subject": "Everyday Science",
+  "q": "The basic building blocks of matter are known as:",
+  "options": [
+   "Atoms",
+   "Nucleus",
+   "Isotopes",
+   "Molecules"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S144",
+  "subject": "Everyday Science",
+  "q": "Maize is an example of:",
+  "options": [
+   "A gymnosperm",
+   "A monocot",
+   "A fern",
+   "A dicot"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S145",
+  "subject": "Everyday Science",
+  "q": "A plant that cannot prepare its own food is called a:",
+  "options": [
+   "Epiphyte",
+   "Saprophyte",
+   "Autotroph",
+   "Heterotroph"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S146",
+  "subject": "Everyday Science",
+  "q": "Plants respire through:",
+  "options": [
+   "Cuticles",
+   "Stomata",
+   "Epidermis",
+   "Lenticels"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S147",
+  "subject": "Everyday Science",
+  "q": "Plants which grow on other plants are known as:",
+  "options": [
+   "Algae",
+   "Fungi",
+   "Parasites",
+   "Epiphytes"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S148",
+  "subject": "Everyday Science",
+  "q": "Which part of plants produces pollen?",
+  "options": [
+   "Petal",
+   "Ovary",
+   "Carpel",
+   "Stamen"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S149",
+  "subject": "Everyday Science",
+  "q": "Dinosaurs belong to which group of animals?",
+  "options": [
+   "Birds",
+   "Amphibians",
+   "Reptiles",
+   "Mammals"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S150",
+  "subject": "Everyday Science",
+  "q": "Starfish is a/an:",
+  "options": [
+   "Invertebrate",
+   "Both",
+   "None of these",
+   "Vertebrate"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S151",
+  "subject": "Everyday Science",
+  "q": "Fish is a/an:",
+  "options": [
+   "Vertebrate",
+   "Invertebrate",
+   "None of these",
+   "Both"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S152",
+  "subject": "Everyday Science",
+  "q": "Which is NOT a ruminant animal?",
+  "options": [
+   "Horse",
+   "Cow",
+   "Sheep",
+   "Goat"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S153",
+  "subject": "Everyday Science",
+  "q": "The only species of the cat family that lives and hunts in groups is:",
+  "options": [
+   "Leopards",
+   "Tigers",
+   "Lions",
+   "Cheetahs"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S154",
+  "subject": "Everyday Science",
+  "q": "The threadlike structure in fungi is called:",
+  "options": [
+   "Spore",
+   "Hypha",
+   "Mycelium",
+   "Stolon"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S155",
+  "subject": "Everyday Science",
+  "q": "\"Fungus\" is a Latin word which means:",
+  "options": [
+   "Algae",
+   "Moss",
+   "Lichen",
+   "Mushrooms"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S156",
+  "subject": "Everyday Science",
+  "q": "Which of the following is known for its ability to replicate itself?",
+  "options": [
+   "Virus",
+   "Algae",
+   "Fungus",
+   "Bacteria"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S157",
+  "subject": "Everyday Science",
+  "q": "Which of the following is responsible for the largest amount of oxygen on Earth?",
+  "options": [
+   "Trees",
+   "Algae",
+   "Crops",
+   "Grasses"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S158",
+  "subject": "Everyday Science",
+  "q": "Which of the following items is a source of proteins?",
+  "options": [
+   "Meat",
+   "Rice",
+   "Sugar",
+   "Bread"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S159",
+  "subject": "Everyday Science",
+  "q": "It is not advisable to sleep under a tree at night because of the release of:",
+  "options": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Methane"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S160",
+  "subject": "Everyday Science",
+  "q": "Which chemical is used to kill weeds?",
+  "options": [
+   "Fungicides",
+   "Insecticides",
+   "Pesticides",
+   "Herbicides"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S161",
+  "subject": "Everyday Science",
+  "q": "The basic characteristic of a living organism is:",
+  "options": [
+   "Digestion",
+   "Photosynthesis",
+   "Metabolism",
+   "Respiration"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S162",
+  "subject": "Everyday Science",
+  "q": "Total number of bones in the human body at the time of birth is about:",
+  "options": [
+   "270",
+   "106",
+   "170",
+   "206"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S163",
+  "subject": "Everyday Science",
+  "q": "Which branch of medical science deals with the skin of humans?",
+  "options": [
+   "Neurology",
+   "Dermatology",
+   "Ophthalmology",
+   "Cardiology"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S164",
+  "subject": "Everyday Science",
+  "q": "The study related to animals is called:",
+  "options": [
+   "Ecology",
+   "Zoology",
+   "Anatomy",
+   "Botany"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S165",
+  "subject": "Everyday Science",
+  "q": "The study of life is called:",
+  "options": [
+   "Geology",
+   "Chemistry",
+   "Physics",
+   "Biology"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S166",
+  "subject": "Everyday Science",
+  "q": "The study of rocks is called:",
+  "options": [
+   "Meteorology",
+   "Oceanography",
+   "Seismology",
+   "Petrology"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S167",
+  "subject": "Everyday Science",
+  "q": "The study of stars is known as:",
+  "options": [
+   "Astronomy",
+   "Astrology",
+   "Cosmology",
+   "Geology"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S168",
+  "subject": "Everyday Science",
+  "q": "A person who studies rocks and soils is called a:",
+  "options": [
+   "Meteorologist",
+   "Geologist",
+   "Zoologist",
+   "Botanist"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S169",
+  "subject": "Everyday Science",
+  "q": "Etymology is:",
+  "options": [
+   "The study of the atmosphere",
+   "The study of fossils",
+   "The study of the origins of words and how they have changed over time",
+   "The study of insects"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S170",
+  "subject": "Everyday Science",
+  "q": "Molten rock that lies beneath the Earth's surface is called:",
+  "options": [
+   "Granite",
+   "Lava",
+   "Magma",
+   "Basalt"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S171",
+  "subject": "Everyday Science",
+  "q": "Global warming is believed to have started in the:",
+  "options": [
+   "Pre-industrial era",
+   "Post-industrial era",
+   "Stone age",
+   "Ice age"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S172",
+  "subject": "Everyday Science",
+  "q": "The term \"cosmic\" is most closely related to:",
+  "options": [
+   "Weather",
+   "Earth",
+   "Astronomy",
+   "Ocean"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S173",
+  "subject": "Everyday Science",
+  "q": "A solar eclipse occurs when:",
+  "options": [
+   "The earth comes between the moon and the stars",
+   "The sun comes between the earth and the moon",
+   "The earth comes between the sun and the moon",
+   "The moon comes between the earth and the sun"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S174",
+  "subject": "Everyday Science",
+  "q": "The lunar eclipse occurs when:",
+  "options": [
+   "The earth is between the sun and the moon",
+   "The moon comes between the sun and the earth",
+   "None of these",
+   "The sun is between the earth and the moon"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S175",
+  "subject": "Everyday Science",
+  "q": "Which planet has no moon?",
+  "options": [
+   "Mars",
+   "Saturn",
+   "Jupiter",
+   "Venus"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S176",
+  "subject": "Everyday Science",
+  "q": "The most bright (brightest) planet as seen from Earth is:",
+  "options": [
+   "Jupiter",
+   "Venus",
+   "Mars",
+   "Mercury"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S177",
+  "subject": "Everyday Science",
+  "q": "What is the average distance between the Sun and the Earth?",
+  "options": [
+   "50 million km",
+   "100 million km",
+   "200 million km",
+   "150 million km"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S178",
+  "subject": "Everyday Science",
+  "q": "The age of the universe is about:",
+  "options": [
+   "13.7 billion years",
+   "10 billion years",
+   "20 billion years",
+   "4.5 billion years"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S179",
+  "subject": "Everyday Science",
+  "q": "The layer of the atmosphere closest to the Earth's surface is called the:",
+  "options": [
+   "Troposphere",
+   "Exosphere",
+   "Stratosphere",
+   "Ionosphere"
+  ],
+  "answer": 0,
+  "explanation": "options verbatim",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S180",
+  "subject": "Everyday Science",
+  "q": "The ozone layer is at a height of ___ kilometers from the surface of the Earth:",
+  "options": [
+   "100-150",
+   "5-15",
+   "50-80",
+   "15-40"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S181",
+  "subject": "Everyday Science",
+  "q": "Which one of the following reactions happens on the Sun?",
+  "options": [
+   "Nuclear fission of hydrogen into helium",
+   "Nuclear fusion of helium into hydrogen",
+   "Nuclear fission of uranium and plutonium",
+   "Nuclear fusion of hydrogen into helium"
+  ],
+  "answer": 3,
+  "explanation": "options verbatim",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S182",
+  "subject": "Everyday Science",
+  "q": "The Sun is a:",
+  "options": [
+   "Star",
+   "Asteroid",
+   "Planet",
+   "Meteor"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S183",
+  "subject": "Everyday Science",
+  "q": "The Earth completes one rotation on its axis (a sidereal day) in:",
+  "options": [
+   "23 hours, 57 minutes, 9 seconds",
+   "24 hours",
+   "25 hours",
+   "23 hours, 56 minutes, 4 seconds"
+  ],
+  "answer": 3,
+  "explanation": "options verbatim",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S184",
+  "subject": "Everyday Science",
+  "q": "The vertical distance from sea level is called:",
+  "options": [
+   "Orthometric height",
+   "Longitude",
+   "Altitude",
+   "Ellipsoidal height"
+  ],
+  "answer": 2,
+  "explanation": "options verbatim",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S185",
+  "subject": "Everyday Science",
+  "q": "A narrow piece of land separating two water bodies and connecting two land masses is known as:",
+  "options": [
+   "Strait",
+   "Peninsula",
+   "Isthmus",
+   "Archipelago"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S186",
+  "subject": "Everyday Science",
+  "q": "Which side of the hemisphere is getting warmer faster?",
+  "options": [
+   "Neither",
+   "Northern Hemisphere",
+   "Both equally",
+   "Southern Hemisphere"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S187",
+  "subject": "Everyday Science",
+  "q": "Who discovered gravity?",
+  "options": [
+   "Isaac Newton",
+   "Albert Einstein",
+   "Kepler",
+   "Galileo Galilei"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S188",
+  "subject": "Everyday Science",
+  "q": "Albert Einstein is best known for his:",
+  "options": [
+   "Quantum theory",
+   "Theory of Relativity",
+   "Laws of motion",
+   "Big Bang theory"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S189",
+  "subject": "Everyday Science",
+  "q": "The printing press was invented by:",
+  "options": [
+   "Marconi",
+   "Caxton",
+   "Johan Gutenberg",
+   "Edison"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S190",
+  "subject": "Everyday Science",
+  "q": "The stethoscope was invented by:",
+  "options": [
+   "Robert Koch",
+   "Edward Jenner",
+   "Rene Laennec",
+   "Louis Pasteur"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S191",
+  "subject": "Everyday Science",
+  "q": "Who invented soda water?",
+  "options": [
+   "Dalton",
+   "Cavendish",
+   "Joseph Priestley",
+   "Lavoisier"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S192",
+  "subject": "Everyday Science",
+  "q": "Who invented the safety pin in 1829?",
+  "options": [
+   "Joseph Thomson",
+   "Michael Faraday",
+   "Alexander Fleming",
+   "Walter Hunt"
+  ],
+  "answer": 3,
+  "explanation": "options verbatim",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S193",
+  "subject": "Everyday Science",
+  "q": "Which instrument measures the speed of a ship?",
+  "options": [
+   "Pitot meter log",
+   "Manometer",
+   "Sextant",
+   "Periscope"
+  ],
+  "answer": 0,
+  "explanation": "options verbatim",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S194",
+  "subject": "Everyday Science",
+  "q": "A doctor performs his duty for 480 minutes daily. How many hours does he work daily?",
+  "options": [
+   "8 hours",
+   "4 hours",
+   "2 hours",
+   "6 hours"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S195",
+  "subject": "Everyday Science",
+  "q": "The moon is in orbit around which celestial body?",
+  "options": [
+   "Saturn",
+   "Mars",
+   "Earth",
+   "Jupiter"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S196",
+  "subject": "Everyday Science",
+  "q": "During cardiac failure, which of the following is advised as first aid?",
+  "options": [
+   "Mouth-to-mouth resuscitation",
+   "Giving external cardiac massage",
+   "Giving a complete body massage",
+   "Giving cool water to drink"
+  ],
+  "answer": 1,
+  "explanation": "options verbatim; standard first-aid guidance",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S197",
+  "subject": "Everyday Science",
+  "q": "We can store information permanently in:",
+  "options": [
+   "All of these (hard disks, CD/DVD, memory cards)",
+   "CD/DVD",
+   "Hard disks",
+   "Memory cards"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S198",
+  "subject": "Everyday Science",
+  "q": "We can send data from one place to another through:",
+  "options": [
+   "All of these (radio waves, light signals, electrical signals)",
+   "Light signals",
+   "Electrical signals",
+   "Radio waves"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "S199",
+  "subject": "Everyday Science",
+  "q": "Which statement about the demographic transition model is correct? It was given by:",
+  "options": [
+   "Notestein",
+   "Malthus",
+   "Warren Thompson",
+   "Ehrlich"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "F101",
+  "subject": "Everyday Science",
+  "q": "Which particle one does not have / has an ion / no charge?",
+  "options": [
+   "None of these",
+   "Electron",
+   "Neutron",
+   "Proton"
+  ],
+  "answer": 2,
+  "explanation": "Charge nahi rakhta: neutron (electron manfi, proton musbat).",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F102",
+  "subject": "Everyday Science",
+  "q": "Which vitamin helps in the clotting of blood?",
+  "options": [
+   "Vitamin K",
+   "Vitamin D",
+   "Vitamin B",
+   "Vitamin A"
+  ],
+  "answer": 0,
+  "explanation": "Khoon ke jamne (clotting) mein Vitamin K madad karta hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F114",
+  "subject": "Everyday Science",
+  "q": "Severe deficiency of Vitamin C results in?",
+  "options": [
+   "Rickets",
+   "Night Blindness",
+   "Scurvy",
+   "Beriberi"
+  ],
+  "answer": 2,
+  "explanation": "Vitamin C ki shadeed kami se scurvy hota hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F117",
+  "subject": "Everyday Science",
+  "q": "What is meant by Apiary?",
+  "options": [
+   "Place where butterflies are kept",
+   "Place where dogs are kept",
+   "Place for breeding silkworms",
+   "Place where bees are kept"
+  ],
+  "answer": 3,
+  "explanation": "Apiary — wo jagah jahan shehad ki makkhiyan pali jati hain.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F118",
+  "subject": "Everyday Science",
+  "q": "Earthquakes below magnitude 2.0 are called?",
+  "options": [
+   "Minor earthquakes",
+   "Microearthquakes",
+   "Major earthquakes",
+   "None of these"
+  ],
+  "answer": 1,
+  "explanation": "2.0 se kam magnitude ke zalzalay microearthquakes kehlate hain.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F144",
+  "subject": "Everyday Science",
+  "q": "Which small celestial bodies are made of ice, dust, and gases and travel around the Sun in highly elliptical orbits?",
+  "options": [
+   "Asteroids",
+   "None of these",
+   "Meteoroids",
+   "Comets"
+  ],
+  "answer": 3,
+  "explanation": "Barf, gard aur gases se bane, sooraj ke gird bezvi madar wale ajsaam comets hain.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F148",
+  "subject": "Everyday Science",
+  "q": "The rear (back) view mirror used in the vehicles is _____?",
+  "options": [
+   "Parabolic mirror",
+   "Convex mirror",
+   "Concave mirror",
+   "Plane mirror"
+  ],
+  "answer": 1,
+  "explanation": "Gari ka rear-view mirror convex mirror hota hai — wide view deta hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F157",
+  "subject": "Everyday Science",
+  "q": "An isotope is _____?",
+  "options": [
+   "A subatomic particle",
+   "An atom with a specified number of protons and neutrons",
+   "None of these",
+   "The nucleus of the atom"
+  ],
+  "answer": 1,
+  "explanation": "Isotope — woh atom jis mein protons to makhsoos hon, neutrons mukhtalif.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F163",
+  "subject": "Everyday Science",
+  "q": "Establishment of new forests, where no forests existed previously is called _____?",
+  "options": [
+   "Reformation",
+   "None of these",
+   "Deforestation",
+   "Afforestation"
+  ],
+  "answer": 3,
+  "explanation": "Nayi banjar zameen par jungle lagana afforestation hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F183",
+  "subject": "Everyday Science",
+  "q": "Who was the first person to measure the speed of light?",
+  "options": [
+   "Albert Einstein",
+   "Remer",
+   "Galilee",
+   "Ole Romer"
+  ],
+  "answer": 3,
+  "explanation": "Roshni ki raftar sab se pehle Ole Romer ne maapi — option A 'Remer' ghalat spelling wala dhoka hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ }
+]

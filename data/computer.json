@@ -1,0 +1,2396 @@
+[
+ {
+  "id": "C12",
+  "subject": "Computer",
+  "q": "Shortcut key for 1.5 line spacing in MS Word is:",
+  "options": [
+   "Ctrl+5",
+   "Ctrl+4",
+   "Ctrl+6",
+   "Ctrl+3"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C13",
+  "subject": "Computer",
+  "q": "This displays the positioning of text, tabs, margins, indents and other elements on the page:",
+  "options": [
+   "Cursor",
+   "Status bar",
+   "Document window",
+   "Ruler"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C14",
+  "subject": "Computer",
+  "q": "A letter that appears little above the normal text is called:",
+  "options": [
+   "Subscript",
+   "Supertext",
+   "Superscript",
+   "Toptext"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C15",
+  "subject": "Computer",
+  "q": "The desktop database application that is part of the MS Office suite is:",
+  "options": [
+   "None of the above",
+   "MS Excel",
+   "MS Access",
+   "MS PowerPoint"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C16",
+  "subject": "Computer",
+  "q": "The spreadsheet application that comes with MS Office is:",
+  "options": [
+   "MS PowerPoint",
+   "MS Excel",
+   "MS Word",
+   "MS Access"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C17",
+  "subject": "Computer",
+  "q": "To go to a specific location in a document we use:",
+  "options": [
+   "HTML",
+   "None of the above",
+   "Bookmark",
+   "Macro"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C18",
+  "subject": "Computer",
+  "q": "Starting with Microsoft Office 2003, Photo Editor was renamed to:",
+  "options": [
+   "Picture manager",
+   "Photo editor",
+   "Picture editor",
+   "Photo manager"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C19",
+  "subject": "Computer",
+  "q": "The MS Office feature that saves the document automatically after a certain interval is called:",
+  "options": [
+   "AutoSave",
+   "None of the above",
+   "Save As",
+   "Save"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C20",
+  "subject": "Computer",
+  "q": "The HTML editor that was part of Microsoft Office until 2003 was:",
+  "options": [
+   "None of the above",
+   "FrontPage",
+   "Web page",
+   "Explorer"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C21",
+  "subject": "Computer",
+  "q": "The feature used to make a selected sentence ALL CAPITAL LETTERS or all small letters is:",
+  "options": [
+   "Change sentence",
+   "Change letter",
+   "Change case",
+   "Change word"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C22",
+  "subject": "Computer",
+  "q": "In MS Word, a master document contains ___ of subdocuments:",
+  "options": [
+   "Links",
+   "Same data",
+   "Files",
+   "Placeholders"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C23",
+  "subject": "Computer",
+  "q": "In Microsoft Word, ___ can be used to decide the spacing between lines of a paragraph:",
+  "options": [
+   "Indentation",
+   "Line spacing",
+   "Effects",
+   "Alignment"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C24",
+  "subject": "Computer",
+  "q": "In MS Word 2007, ___ is used to move directly to a specific location in a document:",
+  "options": [
+   "Cross-references",
+   "Sub documents",
+   "Bookmarks",
+   "Outlines"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C25",
+  "subject": "Computer",
+  "q": "How can you remove tab stop markers from the ruler?",
+  "options": [
+   "Double click the tab marker and choose Clear All",
+   "All of the above",
+   "Drag the tab stop marker out of the ruler",
+   "Right click the tab stop marker and choose Remove"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C26",
+  "subject": "Computer",
+  "q": "How can you break the current column and start a new column immediately in MS Word?",
+  "options": [
+   "Press Alt+Shift+Enter",
+   "Press Alt+Enter",
+   "Press Ctrl+Shift+Enter",
+   "Press Ctrl+Enter"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C27",
+  "subject": "Computer",
+  "q": "To instruct Word to stop bulleting paragraphs, do any of the following EXCEPT:",
+  "options": [
+   "Click the Bullets button on the Formatting toolbar",
+   "Click the Undo button on the Standard toolbar",
+   "Press the Enter key twice",
+   "Press the Backspace key to remove the bullet"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C28",
+  "subject": "Computer",
+  "q": "The Ctrl+C shortcut key is used in Microsoft Word to:",
+  "options": [
+   "Copy the selected text",
+   "Paste the selected text",
+   "Cut the selected text",
+   "Print the selected text"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C29",
+  "subject": "Computer",
+  "q": "The Word Count command on the Tools menu displays the number of words as well as the number of ___ in the current document:",
+  "options": [
+   "Paragraphs",
+   "All of the above",
+   "Lines",
+   "Characters"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C30",
+  "subject": "Computer",
+  "q": "Change the ___ to create a document in wide format in MS Word:",
+  "options": [
+   "Page orientation",
+   "Paper source",
+   "Page margins",
+   "Paper style"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C31",
+  "subject": "Computer",
+  "q": "Switching between portrait and landscape modes involves the:",
+  "options": [
+   "Header and footer toolbar",
+   "Print layout view",
+   "Page setup dialog box",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C32",
+  "subject": "Computer",
+  "q": "The ___ is a short horizontal line indicating the conclusion of a document:",
+  "options": [
+   "Scroll box",
+   "Status indicator",
+   "End mark",
+   "Insertion point"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C33",
+  "subject": "Computer",
+  "q": "A ___ is not attached to an edge of the Word window; it displays in the middle of the window and can be moved anywhere:",
+  "options": [
+   "Menu bar",
+   "Scroll bar",
+   "Status toolbar",
+   "Floating toolbar"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C34",
+  "subject": "Computer",
+  "q": "The Thesaurus tool in MS Word is used for:",
+  "options": [
+   "Grammar options",
+   "Spelling suggestions",
+   "Synonyms and antonyms",
+   "All of the above"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C35",
+  "subject": "Computer",
+  "q": "What is the shortcut key for the Open dialog box?",
+  "options": [
+   "Shift+F12",
+   "F12",
+   "Alt+F12",
+   "Ctrl+F12"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C36",
+  "subject": "Computer",
+  "q": "You CANNOT close the MS Word application by:",
+  "options": [
+   "Choosing File menu then Exit submenu",
+   "Clicking the X button on the title bar",
+   "Pressing Alt+F4",
+   "Choosing Close from the File menu (this closes only the document)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C37",
+  "subject": "Computer",
+  "q": "Which button allows you to add, delete or change records in your Data Source (mail merge)?",
+  "options": [
+   "Data source button",
+   "Data editing button",
+   "Edit button",
+   "Edit Data Source button"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C38",
+  "subject": "Computer",
+  "q": "The default document name in MS Word is:",
+  "options": [
+   "Presentation1",
+   "Book1",
+   "Document1",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C39",
+  "subject": "Computer",
+  "q": "Which of the following can be used for creating a document?",
+  "options": [
+   "MS Access",
+   "None",
+   "MS Word",
+   "MS Excel"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C40",
+  "subject": "Computer",
+  "q": "The special paste shortcut key is:",
+  "options": [
+   "Both",
+   "None",
+   "Ctrl+Alt+V",
+   "Ctrl+V"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C41",
+  "subject": "Computer",
+  "q": "Which menu in MS Word can be used to change character size and typeface?",
+  "options": [
+   "Tools",
+   "Format",
+   "View",
+   "None"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C42",
+  "subject": "Computer",
+  "q": "While working in MS Word you have to work with:",
+  "options": [
+   "Mouse only",
+   "USB only",
+   "Both mouse and keyboard",
+   "Keyboard only"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C43",
+  "subject": "Computer",
+  "q": "Which menu is selected for printing?",
+  "options": [
+   "Tools",
+   "Edit",
+   "File",
+   "Special"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C44",
+  "subject": "Computer",
+  "q": "Single spacing in an MS Word document causes ___ point line spacing:",
+  "options": [
+   "14",
+   "10",
+   "12",
+   "16"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C45",
+  "subject": "Computer",
+  "q": "Shortcut key to split a table in MS Word is:",
+  "options": [
+   "Ctrl+Alt+Enter",
+   "Alt+Space+Enter",
+   "Alt+Shift+Enter",
+   "Ctrl+Shift+Enter"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C46",
+  "subject": "Computer",
+  "q": "Color and pattern used to fill a closed shape is called:",
+  "options": [
+   "Fill style",
+   "Fill back",
+   "Shape",
+   "WordArt"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C47",
+  "subject": "Computer",
+  "q": "The Ctrl+O shortcut key is used to:",
+  "options": [
+   "Print document",
+   "Save document",
+   "Open document",
+   "Close document"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C48",
+  "subject": "Computer",
+  "q": "Ctrl+J in MS Word:",
+  "options": [
+   "Underlines the text",
+   "None",
+   "Justifies the current line",
+   "Both"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C49",
+  "subject": "Computer",
+  "q": "Graphics in MS Word is called:",
+  "options": [
+   "None",
+   "WordArt",
+   "Clip art",
+   "Home menu"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C50",
+  "subject": "Computer",
+  "q": "In MS Word 2016, which command is NOT available in the Insert menu?",
+  "options": [
+   "Page number",
+   "Columns",
+   "Object",
+   "Table"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C51",
+  "subject": "Computer",
+  "q": "The Ctrl+L shortcut key is used for:",
+  "options": [
+   "Left align",
+   "Increase left margin",
+   "Left indent",
+   "Decrease left margin"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C52",
+  "subject": "Computer",
+  "q": "Which command is NOT available in Print Preview in MS Word 2007?",
+  "options": [
+   "Zoom",
+   "Paragraph",
+   "Preview",
+   "Page setup"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C53",
+  "subject": "Computer",
+  "q": "Where are the Home tab, Insert tab and other tabs located in MS Word 2007?",
+  "options": [
+   "Ribbon",
+   "Title bar",
+   "Status bar",
+   "Scroll"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C54",
+  "subject": "Computer",
+  "q": "Where is the formula bar in MS Word?",
+  "options": [
+   "There is no formula bar in MS Word",
+   "In the Insert tab",
+   "In the Review tab",
+   "In the Home tab"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C55",
+  "subject": "Computer",
+  "q": "Where does the page number appear on the MS Word window?",
+  "options": [
+   "Status bar",
+   "Title bar",
+   "Home bar",
+   "Ribbon"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C56",
+  "subject": "Computer",
+  "q": "Which of the following is NOT an option in the spelling dialog box?",
+  "options": [
+   "Ignore",
+   "Change",
+   "Ignore All",
+   "Edit"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C57",
+  "subject": "Computer",
+  "q": "Which is NOT an option for changing the case of text in MS Word?",
+  "options": [
+   "All of these",
+   "Sentence case",
+   "Toggle case",
+   "Indent case"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C58",
+  "subject": "Computer",
+  "q": "Which toolbars are displayed in the MS Word application window by default?",
+  "options": [
+   "Formatting toolbar",
+   "Drawing toolbar",
+   "Both A and B",
+   "Standard toolbar"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C59",
+  "subject": "Computer",
+  "q": "MS Word is mostly used for:",
+  "options": [
+   "Letters",
+   "All of these",
+   "Creating documents",
+   "Assignments"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C60",
+  "subject": "Computer",
+  "q": "Which shortcut key moves the cursor to the end of the document?",
+  "options": [
+   "None",
+   "Shift+End",
+   "Ctrl+PageDown",
+   "Ctrl+End"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C61",
+  "subject": "Computer",
+  "q": "If you need to change the typeface of a document, which menu will you choose?",
+  "options": [
+   "Edit",
+   "Tools",
+   "Format",
+   "View"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C62",
+  "subject": "Computer",
+  "q": "In Word, the mailing list is known as the:",
+  "options": [
+   "Data source",
+   "Sheet",
+   "Data sheet",
+   "Source"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C63",
+  "subject": "Computer",
+  "q": "Before creating a master document in MS Word, you must switch to:",
+  "options": [
+   "Print layout view",
+   "Normal view",
+   "Web layout view",
+   "Outline view"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C64",
+  "subject": "Computer",
+  "q": "What is the maximum zoom percentage in MS Word?",
+  "options": [
+   "500%",
+   "None of these",
+   "400%",
+   "10%"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C65",
+  "subject": "Computer",
+  "q": "What do you mean by a dialog box?",
+  "options": [
+   "Interactive message box",
+   "Group of options",
+   "Set of controls",
+   "All of the above"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C66",
+  "subject": "Computer",
+  "q": "Which of the following is word processing software?",
+  "options": [
+   "WordPad",
+   "MS Word",
+   "All of these",
+   "WordPerfect"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C67",
+  "subject": "Computer",
+  "q": "In MS Word, the shortcut key used to open the Task Pane is:",
+  "options": [
+   "Ctrl+F2",
+   "Ctrl+Shift+F12",
+   "F1",
+   "Ctrl+F1"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C68",
+  "subject": "Computer",
+  "q": "Borders can be applied to:",
+  "options": [
+   "Cell, text, index",
+   "Cell, text, paragraph",
+   "Paragraphs",
+   "None"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C69",
+  "subject": "Computer",
+  "q": "What is the shortcut key for a manual line break in MS Word?",
+  "options": [
+   "Shift+Enter",
+   "Space+Enter",
+   "None of these",
+   "Ctrl+Enter"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C70",
+  "subject": "Computer",
+  "q": "In MS PowerPoint, F5 is used for:",
+  "options": [
+   "Slide show",
+   "Print preview",
+   "Importing a file",
+   "Saving a file"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C71",
+  "subject": "Computer",
+  "q": "Which of the following bars is NOT available in MS Word?",
+  "options": [
+   "Formula bar",
+   "Toolbar",
+   "Menu bar",
+   "Status bar"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C72",
+  "subject": "Computer",
+  "q": "Which of the following is NOT a page-margin preset?",
+  "options": [
+   "Letter",
+   "Tabloid (a paper size)",
+   "Normal",
+   "Narrow"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C73",
+  "subject": "Computer",
+  "q": "In MS Excel, a change in the appearance of the value or label in a cell is:",
+  "options": [
+   "Formatting",
+   "Editing",
+   "WordArt",
+   "None"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C74",
+  "subject": "Computer",
+  "q": "Which of the following is a graphics solution for Word?",
+  "options": [
+   "Fine art",
+   "Clip art",
+   "WordArt",
+   "None"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C75",
+  "subject": "Computer",
+  "q": "What is the minimum zoom percentage in MS Word?",
+  "options": [
+   "15%",
+   "8%",
+   "None of these",
+   "10%"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C76",
+  "subject": "Computer",
+  "q": "In Microsoft Word, Ctrl+1 is used for:",
+  "options": [
+   "Single line spacing",
+   "1.5 line spacing",
+   "0.5 line spacing",
+   "Double line spacing"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C77",
+  "subject": "Computer",
+  "q": "Microsoft Corporation was founded by:",
+  "options": [
+   "Paul Allen",
+   "Bill Gates",
+   "None",
+   "Both"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C78",
+  "subject": "Computer",
+  "q": "Which one is NOT an image file?",
+  "options": [
+   ".bmp",
+   ".png",
+   "None",
+   ".wmv"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C79",
+  "subject": "Computer",
+  "q": "In MS Word, formatting is classified into ___ types:",
+  "options": [
+   "Three",
+   "Five",
+   "Four",
+   "Two"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C80",
+  "subject": "Computer",
+  "q": "Press ___ to display the print dialog box in MS Word:",
+  "options": [
+   "Ctrl+P",
+   "Ctrl+B",
+   "Alt+P",
+   "Ctrl+N"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C81",
+  "subject": "Computer",
+  "q": "Shortcut key to paste the selected and copied text:",
+  "options": [
+   "Alt+V",
+   "None",
+   "Shift+V",
+   "Ctrl+V"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C82",
+  "subject": "Computer",
+  "q": "The \"Draft\" option appears in which menu?",
+  "options": [
+   "Page layout",
+   "Insert",
+   "View",
+   "None"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C83",
+  "subject": "Computer",
+  "q": "The file that consists of readymade styles used for a presentation is known as:",
+  "options": [
+   "Template",
+   "Pre-formatting",
+   "Wizard",
+   "Auto-style"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C84",
+  "subject": "Computer",
+  "q": "The Ctrl+N shortcut key is used in MS Word to:",
+  "options": [
+   "Create a new document",
+   "Save document",
+   "Open document",
+   "Close document"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C85",
+  "subject": "Computer",
+  "q": "Which can be used as a watermark in a Word document?",
+  "options": [
+   "None",
+   "Both A and B",
+   "Text",
+   "Image"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C86",
+  "subject": "Computer",
+  "q": "Which of the following is NOT an essential component to perform a mail merge operation?",
+  "options": [
+   "Data source",
+   "Main document",
+   "Word fields",
+   "Merge fields"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C87",
+  "subject": "Computer",
+  "q": "In Microsoft Windows, the graphical pattern on the desktop used as background is:",
+  "options": [
+   "Background",
+   "Picture",
+   "Wallpaper",
+   "Icons"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C88",
+  "subject": "Computer",
+  "q": "What is the smallest font size available in the list?",
+  "options": [
+   "10",
+   "12",
+   "6",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C89",
+  "subject": "Computer",
+  "q": "The \"NT\" in Windows NT stands for:",
+  "options": [
+   "Not Test",
+   "New Technology",
+   "Network Technology",
+   "Network Terminal"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C90",
+  "subject": "Computer",
+  "q": "The shortcut key for the Thesaurus tool in MS Word is:",
+  "options": [
+   "Shift+F7",
+   "Shift+F4",
+   "Shift+F8",
+   "Shift+F6"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C91",
+  "subject": "Computer",
+  "q": "Shortcut key to close an application or a window:",
+  "options": [
+   "Ctrl+F4",
+   "Ctrl+B",
+   "Ctrl+F1",
+   "Alt+F4"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C92",
+  "subject": "Computer",
+  "q": "Ctrl+Shift+Right Arrow:",
+  "options": [
+   "Selects the word in the right direction",
+   "Selects the word in the left direction",
+   "All",
+   "Selects the word from the bottom"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C93",
+  "subject": "Computer",
+  "q": "Which of the following is the temporary storage for content copied?",
+  "options": [
+   "Sidebar",
+   "Clipboard",
+   "Header",
+   "Toolbar"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C94",
+  "subject": "Computer",
+  "q": "Which would you use to directly traverse to a particular page?",
+  "options": [
+   "GoTo",
+   "Adding hyperlink",
+   "Document map",
+   "Finding text"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C95",
+  "subject": "Computer",
+  "q": "In MS Word, smaller text raised or dropped from the normal text baseline is called:",
+  "options": [
+   "Superscript and drop cap",
+   "Superscript and subscript",
+   "None of the above",
+   "Subscript and raised cap"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C96",
+  "subject": "Computer",
+  "q": "The MS Office feature that automatically corrects spelling mistakes during typing is called:",
+  "options": [
+   "Auto spell check",
+   "AutoCorrect",
+   "Auto check",
+   "Auto thesaurus"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C97",
+  "subject": "Computer",
+  "q": "What is the shape of the insertion point in MS Word?",
+  "options": [
+   "Vertical line",
+   "Arrow",
+   "Large circle",
+   "Horizontal line"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C98",
+  "subject": "Computer",
+  "q": "Which shortcut key deletes the character to the right of the insertion point in MS Word?",
+  "options": [
+   "Ctrl+Delete",
+   "Delete",
+   "Ctrl+D",
+   "Backspace"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C99",
+  "subject": "Computer",
+  "q": "What is the shortcut key for searching a file in MS Word 2016?",
+  "options": [
+   "Ctrl+O",
+   "Ctrl+S",
+   "Ctrl+F",
+   "Ctrl+H"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C100",
+  "subject": "Computer",
+  "q": "The command used to apply the look of one piece of text to other parts of the document is:",
+  "options": [
+   "Copy",
+   "None of these",
+   "Paste",
+   "Format Painter"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C101",
+  "subject": "Computer",
+  "q": "A Word file is converted into PDF through:",
+  "options": [
+   "New",
+   "None",
+   "Print (Print to PDF)",
+   "Open"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C102",
+  "subject": "Computer",
+  "q": "A screen element of MS Word usually located below the title bar that provides multiple options is the:",
+  "options": [
+   "Menu bar",
+   "Status bar",
+   "None",
+   "Toolbar"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C103",
+  "subject": "Computer",
+  "q": "Which feature is used for monitoring all document changes?",
+  "options": [
+   "Track change",
+   "Edit document",
+   "Track all",
+   "Monitor change"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C104",
+  "subject": "Computer",
+  "q": "The minimum number of rows and columns in an MS Word table is:",
+  "options": [
+   "2 and 2",
+   "1 and 1",
+   "2 and 1",
+   "1 and 2"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C105",
+  "subject": "Computer",
+  "q": "Which of the following is NOT a type of page margin?",
+  "options": [
+   "Left",
+   "Top",
+   "Right",
+   "Center"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C106",
+  "subject": "Computer",
+  "q": "Office 365 debuted in the year:",
+  "options": [
+   "2008",
+   "2011",
+   "None",
+   "2010"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C107",
+  "subject": "Computer",
+  "q": "A green wavy line in an MS Word document represents:",
+  "options": [
+   "Spelling error",
+   "None of these",
+   "Sentence error",
+   "Grammatical error"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C108",
+  "subject": "Computer",
+  "q": "Ctrl+] in MS Word:",
+  "options": [
+   "Increases font size by 1 point",
+   "Makes text bold",
+   "Makes text italic",
+   "Decreases font size by 1 point"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C109",
+  "subject": "Computer",
+  "q": "Ctrl+[ in MS Word:",
+  "options": [
+   "None",
+   "Decreases font size by 1 point",
+   "Increases font size",
+   "Underlines text"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C110",
+  "subject": "Computer",
+  "q": "F7 in MS Word is used for:",
+  "options": [
+   "Save",
+   "Spell check",
+   "Repeat last action",
+   "Help"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C111",
+  "subject": "Computer",
+  "q": "F12 in MS Word opens:",
+  "options": [
+   "Print dialog",
+   "Open dialog",
+   "Close",
+   "Save As option"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C112",
+  "subject": "Computer",
+  "q": "F1 in MS Word opens:",
+  "options": [
+   "Print",
+   "Find",
+   "Save",
+   "Help"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C113",
+  "subject": "Computer",
+  "q": "F4 in MS Word:",
+  "options": [
+   "Repeats the last action",
+   "Saves the file",
+   "Redoes the action",
+   "Undoes the action"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C114",
+  "subject": "Computer",
+  "q": "Shift+F3 in MS Word:",
+  "options": [
+   "Saves the file",
+   "Prints the file",
+   "Finds text",
+   "Changes the selected text case"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C115",
+  "subject": "Computer",
+  "q": "Alt+F4 in MS Word:",
+  "options": [
+   "Creates a new file",
+   "Exits MS Word",
+   "Saves the file",
+   "Prints the file"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C116",
+  "subject": "Computer",
+  "q": "Alt+Ctrl+F in MS Word inserts:",
+  "options": [
+   "A footer",
+   "An endnote",
+   "A header",
+   "A footnote"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C117",
+  "subject": "Computer",
+  "q": "Alt+Ctrl+D in MS Word inserts:",
+  "options": [
+   "A footnote",
+   "An endnote",
+   "A footer",
+   "A header"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C118",
+  "subject": "Computer",
+  "q": "Shift+Alt+T in MS Word inserts:",
+  "options": [
+   "A template",
+   "A table",
+   "The current date",
+   "The current time"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C119",
+  "subject": "Computer",
+  "q": "Shift+Alt+D in MS Word inserts:",
+  "options": [
+   "The current date",
+   "A template",
+   "The current time",
+   "A table"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C120",
+  "subject": "Computer",
+  "q": "Ctrl+D in MS Word opens:",
+  "options": [
+   "Delete command",
+   "The Font dialog box",
+   "Duplicate command",
+   "Date insert"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C121",
+  "subject": "Computer",
+  "q": "Ctrl+W in MS Word:",
+  "options": [
+   "Closes the window",
+   "Saves the file",
+   "Prints the file",
+   "Creates a new file"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C122",
+  "subject": "Computer",
+  "q": "Ctrl+Space in MS Word:",
+  "options": [
+   "Resets highlighted text to the default font",
+   "Saves the file",
+   "Prints the file",
+   "Selects all text"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C123",
+  "subject": "Computer",
+  "q": "What is meant by a dedicated computer?",
+  "options": [
+   "Which is assigned one and only one task",
+   "Which is used by one person only",
+   "Which is meant for application software",
+   "Which uses one kind of software"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C124",
+  "subject": "Computer",
+  "q": "What is the internet?",
+  "options": [
+   "Interconnection of local area networks",
+   "A single network",
+   "Interconnection of wide area networks",
+   "A collection of unrelated computers"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C125",
+  "subject": "Computer",
+  "q": "Which shortcut key is used to select the whole document in MS Word?",
+  "options": [
+   "Ctrl+Q",
+   "Ctrl+A",
+   "Ctrl+H",
+   "Ctrl+T"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C126",
+  "subject": "Computer",
+  "q": "Which shortcut key is used to open an existing file in MS Word?",
+  "options": [
+   "Ctrl+R",
+   "Ctrl+I",
+   "Ctrl+N",
+   "Ctrl+O"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C127",
+  "subject": "Computer",
+  "q": "Which program is run by BIOS to check that hardware components are working properly when the computer is turned ON?",
+  "options": [
+   "None of these",
+   "CMOS",
+   "DMOS",
+   "POST"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C128",
+  "subject": "Computer",
+  "q": "Which expansion slot has the highest speed?",
+  "options": [
+   "AGP",
+   "ISA",
+   "PCI",
+   "APG"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C129",
+  "subject": "Computer",
+  "q": "___ can be used for marking a multiple choice test:",
+  "options": [
+   "Optical mark reader",
+   "Mouse",
+   "Bar code reader",
+   "All of these"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C130",
+  "subject": "Computer",
+  "q": "PCI is an expansion slot; PCI stands for:",
+  "options": [
+   "Peripheral Component Interconnect",
+   "Principle Component Interconnect",
+   "Component Interconnect",
+   "Personal Computer Interconnect"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C131",
+  "subject": "Computer",
+  "q": "In MS Word 2007, while viewing Print Preview, how can you go to the first page of the document?",
+  "options": [
+   "Alt+Shift+Home",
+   "Alt+Ctrl+Top Arrow",
+   "Shift+Ctrl+O",
+   "Ctrl+Home"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C132",
+  "subject": "Computer",
+  "q": "The inventor of the computer mouse was a/an ___ engineer:",
+  "options": [
+   "Russian",
+   "German",
+   "British",
+   "American"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C133",
+  "subject": "Computer",
+  "q": "___ is a silicon chip which carries out a set of instructions and processes data efficiently and accurately:",
+  "options": [
+   "Hard disk",
+   "RAM",
+   "Modem",
+   "Processor"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C134",
+  "subject": "Computer",
+  "q": "___ is also known as a mechanical agent:",
+  "options": [
+   "Computer",
+   "Barcode reader",
+   "Robot",
+   "Fingerprint reader"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C135",
+  "subject": "Computer",
+  "q": "In MS Word 2007, which shortcut key switches to Print Layout view?",
+  "options": [
+   "Alt+Ctrl+P",
+   "Alt+Ctrl+O",
+   "Shift+Ctrl+O",
+   "Alt+Shift+P"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C136",
+  "subject": "Computer",
+  "q": "Individual dots which make up a picture on the monitor screen are called:",
+  "options": [
+   "Colourless spots",
+   "Coloured spots",
+   "Pixies",
+   "Pixels"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C137",
+  "subject": "Computer",
+  "q": "Why are Drop Caps used in a document?",
+  "options": [
+   "To automatically begin each paragraph with a capital letter",
+   "None of these",
+   "To begin a paragraph with a large dropped initial capital letter",
+   "To drop all the capital letters"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C138",
+  "subject": "Computer",
+  "q": "File management is the responsibility of:",
+  "options": [
+   "Operating system",
+   "ROM",
+   "Task Manager",
+   "BIOS"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C139",
+  "subject": "Computer",
+  "q": "What is the use of the \"All Caps\" feature in Microsoft Word?",
+  "options": [
+   "None of these",
+   "It shows all the image captions",
+   "It adds captions for the selected image",
+   "It changes all selected text into capital letters"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C140",
+  "subject": "Computer",
+  "q": "In MS Excel, which function automatically totals a column or row of values?",
+  "options": [
+   "Total",
+   "AVG",
+   "ADD",
+   "SUM"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C141",
+  "subject": "Computer",
+  "q": "After typing header text, how can you quickly enter footer text?",
+  "options": [
+   "None of the above",
+   "Click on \"Switch between Header & Footer\" then type the text",
+   "Both of the above",
+   "Press the PageDown key and type the text for the footer"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C142",
+  "subject": "Computer",
+  "q": "What is the extension of files created in MS Word 97-2003?",
+  "options": [
+   ".doc",
+   ".dom",
+   ".dot",
+   ".txt"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C143",
+  "subject": "Computer",
+  "q": "Which of the following is NOT a term primarily associated with the structure of an MS Excel worksheet?",
+  "options": [
+   "Column",
+   "Row",
+   "Document",
+   "Cell"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C144",
+  "subject": "Computer",
+  "q": "The arrangement of elements such as title and subtitle text, pictures, tables etc. is called:",
+  "options": [
+   "Presentation",
+   "Scheme",
+   "Layout",
+   "Design"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C145",
+  "subject": "Computer",
+  "q": "You can edit existing Excel data by pressing:",
+  "options": [
+   "F4 key",
+   "F1 key",
+   "F3 key",
+   "F2 key"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C146",
+  "subject": "Computer",
+  "q": "NOS stands for:",
+  "options": [
+   "Network Operating System",
+   "Network Operating Source",
+   "New Operating System",
+   "Network Original System"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C147",
+  "subject": "Computer",
+  "q": "In MS Access, which data type is appropriate to store large text and numbers?",
+  "options": [
+   "Memo",
+   "OLE",
+   "None of these",
+   "Text"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C148",
+  "subject": "Computer",
+  "q": "Whereas a computer mouse moves over the table surface, the trackball is:",
+  "options": [
+   "Stationary",
+   "Dragged",
+   "Difficult to move",
+   "Moved in small steps"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C149",
+  "subject": "Computer",
+  "q": "Android was founded in:",
+  "options": [
+   "2003",
+   "2006",
+   "2004",
+   "2005"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C150",
+  "subject": "Computer",
+  "q": "What is the name of the executable file of MS Word?",
+  "options": [
+   "Winword.exe",
+   "MS Word",
+   "Win Word",
+   "MS Word.exe"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C151",
+  "subject": "Computer",
+  "q": "1 terabyte (TB) is equal to:",
+  "options": [
+   "100 GB",
+   "1000 GB",
+   "1024 GB",
+   "1024 MB"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C152",
+  "subject": "Computer",
+  "q": "WAN stands for:",
+  "options": [
+   "Web Area Network",
+   "Wireless Access Node",
+   "Wide Area Network",
+   "World Area Network"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C153",
+  "subject": "Computer",
+  "q": "HTTP stands for:",
+  "options": [
+   "HighText Transfer Protocol",
+   "HyperText Transmission Process",
+   "Home Tool Transfer Protocol",
+   "HyperText Transfer Protocol"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C154",
+  "subject": "Computer",
+  "q": "The first generation of computers used:",
+  "options": [
+   "Vacuum tubes",
+   "Integrated circuits",
+   "Microprocessors",
+   "Transistors"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C155",
+  "subject": "Computer",
+  "q": "The second generation of computers used:",
+  "options": [
+   "VLSI chips",
+   "Transistors",
+   "Integrated circuits",
+   "Vacuum tubes"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C156",
+  "subject": "Computer",
+  "q": "The shortcut key for Undo is:",
+  "options": [
+   "Ctrl+U",
+   "Ctrl+X",
+   "Ctrl+Z",
+   "Ctrl+Y"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C157",
+  "subject": "Computer",
+  "q": "The shortcut key for Save is:",
+  "options": [
+   "Ctrl+V",
+   "Ctrl+S",
+   "Ctrl+O",
+   "Ctrl+P"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C158",
+  "subject": "Computer",
+  "q": "The shortcut key for Print is:",
+  "options": [
+   "Ctrl+P",
+   "Ctrl+N",
+   "Ctrl+O",
+   "Ctrl+S"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C159",
+  "subject": "Computer",
+  "q": "The shortcut key for Find is:",
+  "options": [
+   "Ctrl+G",
+   "Ctrl+F",
+   "Ctrl+D",
+   "Ctrl+H"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C160",
+  "subject": "Computer",
+  "q": "The shortcut key to open the Find and Replace dialog is:",
+  "options": [
+   "Ctrl+H",
+   "Ctrl+R",
+   "Ctrl+E",
+   "Ctrl+F"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C161",
+  "subject": "Computer",
+  "q": "The shortcut key to bold the text is:",
+  "options": [
+   "Ctrl+I",
+   "Ctrl+B",
+   "Ctrl+U",
+   "Ctrl+D"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C162",
+  "subject": "Computer",
+  "q": "The shortcut key to italicize text is:",
+  "options": [
+   "Ctrl+I",
+   "Ctrl+B",
+   "Ctrl+U",
+   "Ctrl+D"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C163",
+  "subject": "Computer",
+  "q": "The shortcut key to underline text is:",
+  "options": [
+   "Ctrl+I",
+   "Ctrl+D",
+   "Ctrl+U",
+   "Ctrl+B"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C164",
+  "subject": "Computer",
+  "q": "WWW stands for:",
+  "options": [
+   "World Wide Web",
+   "World Web Wide",
+   "Web World Wide",
+   "Wide World Web"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C165",
+  "subject": "Computer",
+  "q": "Spam refers to:",
+  "options": [
+   "Deleted emails",
+   "Draft emails",
+   "Wanted emails",
+   "Unwanted emails"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C166",
+  "subject": "Computer",
+  "q": "A firewall is used for:",
+  "options": [
+   "Network security",
+   "Printing documents",
+   "Data backup",
+   "Cooling the CPU"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C167",
+  "subject": "Computer",
+  "q": "The default font in recent versions of MS Word is:",
+  "options": [
+   "Calibri",
+   "Cambria",
+   "Times New Roman",
+   "Arial"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C168",
+  "subject": "Computer",
+  "q": "Which key is used to move to the next cell in a Word table?",
+  "options": [
+   "Shift",
+   "Ctrl",
+   "Enter",
+   "Tab"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C169",
+  "subject": "Computer",
+  "q": "Portrait and landscape are:",
+  "options": [
+   "Page orientations",
+   "Font styles",
+   "Margin types",
+   "Paper sizes"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C170",
+  "subject": "Computer",
+  "q": "Which view shows how the document will look when printed?",
+  "options": [
+   "Outline",
+   "Print Layout",
+   "Draft",
+   "Web Layout"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C171",
+  "subject": "Computer",
+  "q": "A header appears at the:",
+  "options": [
+   "Left margin",
+   "Right margin",
+   "Top of the page",
+   "Bottom of the page"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C172",
+  "subject": "Computer",
+  "q": "A footer appears at the:",
+  "options": [
+   "Top of the page",
+   "Left margin",
+   "Right margin",
+   "Bottom of the page"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C173",
+  "subject": "Computer",
+  "q": "The gutter margin is used for:",
+  "options": [
+   "Line spacing",
+   "Printing",
+   "Text alignment",
+   "Binding"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C174",
+  "subject": "Computer",
+  "q": "Which file is responsible for starting MS Word?",
+  "options": [
+   "Msoffice.exe",
+   "Winword.exe",
+   "Msword.exe",
+   "Word.exe"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C175",
+  "subject": "Computer",
+  "q": "In word processing, what does the I-beam facilitate?",
+  "options": [
+   "Deleting",
+   "Scrolling",
+   "Typing position (insertion point)",
+   "Highlighting"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "C176",
+  "subject": "Computer",
+  "q": "To ensure that a graphic inserted in a document is not distorted when resized, select:",
+  "options": [
+   "Wrap text",
+   "Stretch to fit",
+   "Lock aspect ratio",
+   "Compress picture"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "F109",
+  "subject": "Computer",
+  "q": "SmartArt can be added in PowerPoint through which tab?",
+  "options": [
+   "Home",
+   "Insert",
+   "None of these",
+   "Design"
+  ],
+  "answer": 1,
+  "explanation": "PowerPoint mein SmartArt Insert tab se add hota hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F110",
+  "subject": "Computer",
+  "q": "What is the function of the IFERROR function in MS Excel?",
+  "options": [
+   "None of these",
+   "To add numbers in a range",
+   "To check spelling errors",
+   "To return a specified value if a formula results in an error"
+  ],
+  "answer": 3,
+  "explanation": "IFERROR — agar formula mein error aaye to uski jagah pehle se tay shuda value deta hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F111",
+  "subject": "Computer",
+  "q": "Which option is used to copy formatting from one place and apply it to another?",
+  "options": [
+   "Copy",
+   "Copy formatter",
+   "Formatting",
+   "Format painter"
+  ],
+  "answer": 3,
+  "explanation": "Formatting copy karke lagane wala tool Format Painter hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F112",
+  "subject": "Computer",
+  "q": "What does the term HTTPS means?",
+  "options": [
+   "Hyper Text Translation Protocol Secure",
+   "Hyper Text Translation Protocol Service",
+   "Hyper Text Transfer Protocol Service",
+   "Hyper Text Transfer Protocol Secure"
+  ],
+  "answer": 3,
+  "explanation": "HTTPS = Hyper Text Transfer Protocol Secure.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F129",
+  "subject": "Computer",
+  "q": "What is the main purpose of CAPTCHA?",
+  "options": [
+   "To verify that the user is human",
+   "To block internet access",
+   "To improve image quality",
+   "To speed up website loading times"
+  ],
+  "answer": 0,
+  "explanation": "CAPTCHA ka maqsad ye verify karna hai ke user insan hai, robot nahi.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F130",
+  "subject": "Computer",
+  "q": "Which one of the following is not printer? Pixel printer, Laser, Dot matrix, Inkjet printer",
+  "options": [
+   "Inkjet printer",
+   "Pixel printer",
+   "Dot matrix",
+   "Laser"
+  ],
+  "answer": 1,
+  "explanation": "Laser, Dot matrix, Inkjet printers hain — Pixel printer naam ka koi printer nahi.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ }
+]

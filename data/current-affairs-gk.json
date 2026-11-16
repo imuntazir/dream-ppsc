@@ -1,0 +1,2718 @@
+[
+ {
+  "id": "CA1",
+  "subject": "Current Affairs & GK",
+  "q": "The current President of Pakistan (14th President; oath 10 March 2024) is:",
+  "options": [
+   "Arif Alvi",
+   "Pervez Musharraf",
+   "Mamnoon Hussain",
+   "Asif Ali Zardari"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA2",
+  "subject": "Current Affairs & GK",
+  "q": "The current Prime Minister of Pakistan (24th PM; oath 4 March 2024; second term) is:",
+  "options": [
+   "Imran Khan",
+   "Nawaz Sharif",
+   "Anwaar-ul-Haq Kakar",
+   "Muhammad Shehbaz Sharif"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA3",
+  "subject": "Current Affairs & GK",
+  "q": "The current Chief of Army Staff of Pakistan, promoted to Field Marshal on 20 May 2025, is:",
+  "options": [
+   "Syed Asim Munir",
+   "Ashfaq Parvez Kayani",
+   "Raheel Sharif",
+   "Qamar Javed Bajwa"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA4",
+  "subject": "Current Affairs & GK",
+  "q": "Field Marshal Asim Munir is the ____ officer in Pakistan's history to attain the five-star rank:",
+  "options": [
+   "Fourth",
+   "Second (after Ayub Khan)",
+   "Third",
+   "First"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA5",
+  "subject": "Current Affairs & GK",
+  "q": "The Deputy Prime Minister and Foreign Minister of Pakistan is:",
+  "options": [
+   "Sartaj Aziz",
+   "Bilawal Bhutto Zardari",
+   "Shah Mahmood Qureshi",
+   "Senator Mohammad Ishaq Dar"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA6",
+  "subject": "Current Affairs & GK",
+  "q": "The Finance Minister of Pakistan is:",
+  "options": [
+   "Muhammad Aurangzeb",
+   "Miftah Ismail",
+   "Ishaq Dar",
+   "Shaukat Tarin"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA7",
+  "subject": "Current Affairs & GK",
+  "q": "The Chief Justice of Pakistan (since 26 October 2024) is:",
+  "options": [
+   "Justice Qazi Faez Isa",
+   "Justice Gulzar Ahmed",
+   "Justice Yahya Afridi",
+   "Justice Umar Ata Bandial"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA8",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's general elections 2024 were held on:",
+  "options": [
+   "8 January 2024",
+   "25 July 2024",
+   "8 February 2023",
+   "8 February 2024"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA9",
+  "subject": "Current Affairs & GK",
+  "q": "The 2024 general elections were the ____ general elections of Pakistan:",
+  "options": [
+   "10th",
+   "11th",
+   "13th",
+   "12th"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA10",
+  "subject": "Current Affairs & GK",
+  "q": "According to the 7th (first digital) Population Census 2023, Pakistan's population is:",
+  "options": [
+   "231.40 million",
+   "251.49 million",
+   "207.77 million",
+   "241.49 million"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA11",
+  "subject": "Current Affairs & GK",
+  "q": "The 26th Constitutional Amendment was passed in:",
+  "options": [
+   "December 2024",
+   "November 2025",
+   "October 2024",
+   "October 2023"
+  ],
+  "answer": 2,
+  "explanation": "21 October 2024; judicial reforms, fixed 3-year term for the CJP",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA12",
+  "subject": "Current Affairs & GK",
+  "q": "The IMF approved a $7 billion Extended Fund Facility for Pakistan in:",
+  "options": [
+   "January 2024",
+   "June 2023",
+   "September 2024",
+   "May 2025"
+  ],
+  "answer": 2,
+  "explanation": "25 September 2024; 37-month programme",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA13",
+  "subject": "Current Affairs & GK",
+  "q": "The IMF approved a $1.4 billion Resilience and Sustainability Facility for Pakistan in:",
+  "options": [
+   "May 2025",
+   "January 2026",
+   "November 2024",
+   "September 2024"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA14",
+  "subject": "Current Affairs & GK",
+  "q": "The Managing Director of the IMF is:",
+  "options": [
+   "Christine Lagarde",
+   "Ngozi Okonjo-Iweala",
+   "David Malpass",
+   "Kristalina Georgieva"
+  ],
+  "answer": 3,
+  "explanation": "met PM Shehbaz Sharif at the 81st UNGA session, New York, 23 September 2026",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA15",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan hosted the ICC Champions Trophy 2025 from:",
+  "options": [
+   "19 February 2024",
+   "9 March 2025",
+   "19 January 2025",
+   "19 February 2025"
+  ],
+  "answer": 3,
+  "explanation": "first ICC event hosted by Pakistan in 29 years",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA16",
+  "subject": "Current Affairs & GK",
+  "q": "India won the ICC Champions Trophy 2025 by beating ____ in the final (Dubai, 9 March 2025):",
+  "options": [
+   "Australia (by 6 wickets)",
+   "New Zealand (by 4 wickets)",
+   "South Africa (by 7 wickets)",
+   "Pakistan (by 5 wickets)"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA17",
+  "subject": "Current Affairs & GK",
+  "q": "Which team made its debut in the ICC Champions Trophy 2025?",
+  "options": [
+   "Ireland",
+   "Afghanistan",
+   "Nepal",
+   "Zimbabwe"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA18",
+  "subject": "Current Affairs & GK",
+  "q": "Arshad Nadeem won the Olympic gold medal in men's javelin at Paris 2024 with a throw of:",
+  "options": [
+   "92.97 m (Olympic record)",
+   "90.57 m",
+   "91.79 m",
+   "89.45 m"
+  ],
+  "answer": 0,
+  "explanation": "8 August 2024; first individual Olympic gold for Pakistan",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA19",
+  "subject": "Current Affairs & GK",
+  "q": "Arshad Nadeem won gold at the Asian Athletics Championships 2025 in Gumi, South Korea with:",
+  "options": [
+   "90.18 m",
+   "86.40 m",
+   "84.21 m",
+   "92.97 m"
+  ],
+  "answer": 1,
+  "explanation": "31 May 2025",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA20",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's SUPARCO partnered with China's CNSA for the ____ lunar mission (2028):",
+  "options": [
+   "Artemis II",
+   "Chang'e-6",
+   "Chang'e-8",
+   "Chandrayaan-4"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA21",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's iCube-Qamar satellite was launched in May 2024 with China's:",
+  "options": [
+   "Shenzhou mission",
+   "Long March 9",
+   "Chang'e-6 mission",
+   "Tiangong station"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA22",
+  "subject": "Current Affairs & GK",
+  "q": "Turkish President Recep Tayyip Erdogan visited Pakistan on:",
+  "options": [
+   "12-13 February 2025",
+   "11 February 2025",
+   "12-13 February 2024",
+   "18 February 2025"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA23",
+  "subject": "Current Affairs & GK",
+  "q": "The Pahalgam attack (22 April 2025) was followed by India's Operation Sindoor on:",
+  "options": [
+   "13 June 2025",
+   "22 April 2025",
+   "10 May 2025",
+   "7 May 2025"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA24",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's retaliatory operation during the May 2025 conflict with India was:",
+  "options": [
+   "Operation Radd-ul-Fasaad",
+   "Operation Zarb-e-Azb",
+   "Operation Swift Retort",
+   "Operation Bunyan-um-Marsoos"
+  ],
+  "answer": 3,
+  "explanation": "10 May 2025",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA25",
+  "subject": "Current Affairs & GK",
+  "q": "Lahore Qalandars won PSL 2025 by beating Quetta Gladiators by:",
+  "options": [
+   "5 wickets",
+   "7 wickets",
+   "8 wickets",
+   "6 wickets"
+  ],
+  "answer": 3,
+  "explanation": "25 May 2025, Gaddafi Stadium, Lahore; third PSL title",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA26",
+  "subject": "Current Affairs & GK",
+  "q": "India won the Asia Cup 2025 by beating Pakistan by:",
+  "options": [
+   "4 wickets",
+   "6 wickets",
+   "7 wickets",
+   "5 wickets"
+  ],
+  "answer": 3,
+  "explanation": "Dubai, 28 September 2025; India's ninth Asia Cup title",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA27",
+  "subject": "Current Affairs & GK",
+  "q": "India won the ICC Men's T20 World Cup 2026 by beating New Zealand by:",
+  "options": [
+   "5 wickets",
+   "44 runs",
+   "96 runs",
+   "7 runs"
+  ],
+  "answer": 2,
+  "explanation": "Ahmedabad, 8 March 2026; India's third title; first team to defend the T20 World Cup",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA28",
+  "subject": "Current Affairs & GK",
+  "q": "India won the ICC Women's Cricket World Cup 2025 by beating South Africa by:",
+  "options": [
+   "5 wickets",
+   "7 wickets",
+   "52 runs",
+   "9 runs"
+  ],
+  "answer": 2,
+  "explanation": "Navi Mumbai, 2 November 2025; India's maiden World Cup title",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA29",
+  "subject": "Current Affairs & GK",
+  "q": "Spain won the FIFA World Cup 2026 by beating Argentina:",
+  "options": [
+   "4-2 on penalties",
+   "2-1",
+   "1-0 in extra time",
+   "3-0"
+  ],
+  "answer": 2,
+  "explanation": "New Jersey; Spain's second title after 2010",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA30",
+  "subject": "Current Affairs & GK",
+  "q": "South Africa won the ICC World Test Championship 2025 by beating:",
+  "options": [
+   "Australia",
+   "England",
+   "India",
+   "New Zealand"
+  ],
+  "answer": 0,
+  "explanation": "Lord's, June 2025",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA31",
+  "subject": "Current Affairs & GK",
+  "q": "India won the ICC Men's T20 World Cup 2024 by beating South Africa by:",
+  "options": [
+   "7 runs",
+   "12 runs",
+   "8 wickets",
+   "5 wickets"
+  ],
+  "answer": 0,
+  "explanation": "Barbados, 29 June 2024",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA32",
+  "subject": "Current Affairs & GK",
+  "q": "Islamabad United won PSL 2024 by beating:",
+  "options": [
+   "Quetta Gladiators",
+   "Multan Sultans",
+   "Lahore Qalandars",
+   "Peshawar Zalmi"
+  ],
+  "answer": 1,
+  "explanation": "18 March 2024",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA33",
+  "subject": "Current Affairs & GK",
+  "q": "Player of the Series at the ICC Men's T20 World Cup 2026 was:",
+  "options": [
+   "Rachin Ravindra",
+   "Suryakumar Yadav",
+   "Sanju Samson",
+   "Virat Kohli"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA34",
+  "subject": "Current Affairs & GK",
+  "q": "The most runs at the ICC Men's T20 World Cup 2026 were scored by:",
+  "options": [
+   "Sanju Samson",
+   "Abhishek Sharma",
+   "Travis Head",
+   "Sahibzada Farhan (Pakistan, 383)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA35",
+  "subject": "Current Affairs & GK",
+  "q": "Player of the Series at the ICC Women's Cricket World Cup 2025 was:",
+  "options": [
+   "Laura Wolvaardt",
+   "Smriti Mandhana",
+   "Deepti Sharma",
+   "Harmanpreet Kaur"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA36",
+  "subject": "Current Affairs & GK",
+  "q": "The most runs at the ICC Women's Cricket World Cup 2025 were scored by:",
+  "options": [
+   "Alyssa Healy",
+   "Smriti Mandhana",
+   "Nat Sciver-Brunt",
+   "Laura Wolvaardt (South Africa, 571)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA37",
+  "subject": "Current Affairs & GK",
+  "q": "Player of the Series at the Asia Cup 2025 was:",
+  "options": [
+   "Abhishek Sharma (314 runs)",
+   "Tilak Varma",
+   "Suryakumar Yadav",
+   "Kuldeep Yadav"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA38",
+  "subject": "Current Affairs & GK",
+  "q": "Player of the Match in the ICC Champions Trophy 2025 final was:",
+  "options": [
+   "Rachin Ravindra",
+   "Rohit Sharma (76)",
+   "Shreyas Iyer",
+   "Kuldeep Yadav"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA39",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's rank in the Global Firepower Index 2025 is:",
+  "options": [
+   "17th",
+   "12th",
+   "9th",
+   "15th"
+  ],
+  "answer": 1,
+  "explanation": "out of 145 countries",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA40",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's rank in the Corruption Perceptions Index 2024 is:",
+  "options": [
+   "133rd",
+   "140th",
+   "124th",
+   "135th"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA41",
+  "subject": "Current Affairs & GK",
+  "q": "In February 2025, the Khyber Pakhtunkhwa government decided to rename Peshawar's cricket stadium after:",
+  "options": [
+   "Younis Khan",
+   "Jahangir Khan",
+   "Shahid Afridi",
+   "Imran Khan"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA42",
+  "subject": "Current Affairs & GK",
+  "q": "The suicide bombing at Darul Uloom Haqqania, Akora Khattak (Nowshera) occurred on:",
+  "options": [
+   "28 February 2024",
+   "13 June 2025",
+   "28 February 2025",
+   "22 April 2025"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA43",
+  "subject": "Current Affairs & GK",
+  "q": "PM Shehbaz Sharif inaugurated the Recep Tayyip Erdogan Interchange (F-8, Islamabad) on:",
+  "options": [
+   "28 February 2025",
+   "12 February 2025",
+   "11 February 2025",
+   "18 February 2025"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA44",
+  "subject": "Current Affairs & GK",
+  "q": "The National Assembly of Pakistan has:",
+  "options": [
+   "313 seats",
+   "272 seats",
+   "342 seats",
+   "336 seats (266 general + 60 women + 10 minority)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA45",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan is a non-permanent member of the UN Security Council for the term:",
+  "options": [
+   "2026-2027",
+   "2024-2025",
+   "2023-2024",
+   "2025-2026"
+  ],
+  "answer": 3,
+  "explanation": "elected June 2024",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA46",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's caretaker Prime Minister (August 2023 - March 2024) was:",
+  "options": [
+   "Anwaar-ul-Haq Kakar",
+   "Moeen Qureshi",
+   "Nasir-ul-Mulk",
+   "Shahid Khaqan Abbasi"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA47",
+  "subject": "Current Affairs & GK",
+  "q": "The first woman Chief Minister of Punjab is:",
+  "options": [
+   "Maryam Nawaz (February 2024)",
+   "Firdous Ashiq Awan",
+   "Hina Rabbani Khar",
+   "Sherry Rehman"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA48",
+  "subject": "Current Affairs & GK",
+  "q": "Donald Trump was inaugurated as the 47th US President (second term) on:",
+  "options": [
+   "20 January 2024",
+   "3 November 2024",
+   "20 January 2025",
+   "20 January 2026"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA49",
+  "subject": "Current Affairs & GK",
+  "q": "The Vice President of the USA is:",
+  "options": [
+   "JD Vance",
+   "Mike Pence",
+   "Kamala Harris",
+   "Tim Walz"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA50",
+  "subject": "Current Affairs & GK",
+  "q": "The current President of Iran is:",
+  "options": [
+   "Ali Khamenei",
+   "Masoud Pezeshkian",
+   "Hassan Rouhani",
+   "Ebrahim Raisi"
+  ],
+  "answer": 1,
+  "explanation": "elected July 2024",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA51",
+  "subject": "Current Affairs & GK",
+  "q": "Iranian President Ebrahim Raisi died in a helicopter crash on:",
+  "options": [
+   "1 April 2024",
+   "19 May 2024",
+   "8 December 2024",
+   "19 May 2023"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA52",
+  "subject": "Current Affairs & GK",
+  "q": "The government of Bashar al-Assad in Syria fell on:",
+  "options": [
+   "7 October 2023",
+   "8 December 2024",
+   "8 December 2023",
+   "5 August 2024"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA53",
+  "subject": "Current Affairs & GK",
+  "q": "Sheikh Hasina fled Bangladesh on 5 August 2024; the interim government is headed by:",
+  "options": [
+   "Muhammad Yunus",
+   "Abdul Hamid",
+   "Tarique Rahman",
+   "Khaleda Zia"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA54",
+  "subject": "Current Affairs & GK",
+  "q": "The President of Sri Lanka (elected September 2024) is:",
+  "options": [
+   "Mahinda Rajapaksa",
+   "Ranil Wickremesinghe",
+   "Gotabaya Rajapaksa",
+   "Anura Kumara Dissanayake"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA55",
+  "subject": "Current Affairs & GK",
+  "q": "The Prime Minister of the United Kingdom (Labour won 4 July 2024) is:",
+  "options": [
+   "Boris Johnson",
+   "Keir Starmer",
+   "Rishi Sunak",
+   "Liz Truss"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA56",
+  "subject": "Current Affairs & GK",
+  "q": "Narendra Modi became India's Prime Minister for a third consecutive term in:",
+  "options": [
+   "June 2024",
+   "April 2024",
+   "June 2025",
+   "May 2019"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA57",
+  "subject": "Current Affairs & GK",
+  "q": "Vladimir Putin began his fifth term as President of Russia in:",
+  "options": [
+   "May 2018",
+   "May 2024",
+   "March 2025",
+   "May 2023"
+  ],
+  "answer": 1,
+  "explanation": "elected March 2024",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA58",
+  "subject": "Current Affairs & GK",
+  "q": "The Prime Minister of Canada (since March 2025) is:",
+  "options": [
+   "Mark Carney",
+   "Justin Trudeau",
+   "Pierre Poilievre",
+   "Jagmeet Singh"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA59",
+  "subject": "Current Affairs & GK",
+  "q": "The Chancellor of Germany (since May 2025) is:",
+  "options": [
+   "Friedrich Merz",
+   "Robert Habeck",
+   "Angela Merkel",
+   "Olaf Scholz"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA60",
+  "subject": "Current Affairs & GK",
+  "q": "The President of the European Commission (re-elected July 2024) is:",
+  "options": [
+   "Christine Lagarde",
+   "Ursula von der Leyen",
+   "Charles Michel",
+   "Roberta Metsola"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA61",
+  "subject": "Current Affairs & GK",
+  "q": "Pope Francis died on 21 April 2025; his successor Pope Leo XIV (elected 8 May 2025) is the:",
+  "options": [
+   "First Asian pope",
+   "Youngest pope",
+   "First American pope",
+   "First African pope"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA62",
+  "subject": "Current Affairs & GK",
+  "q": "The Russia-Ukraine war began on:",
+  "options": [
+   "24 February 2023",
+   "24 February 2022",
+   "24 February 2021",
+   "8 March 2022"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA63",
+  "subject": "Current Affairs & GK",
+  "q": "The Gaza war began with the Hamas attack on Israel on:",
+  "options": [
+   "7 October 2024",
+   "27 December 2023",
+   "7 October 2022",
+   "7 October 2023"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA64",
+  "subject": "Current Affairs & GK",
+  "q": "Israel launched Operation Rising Lion against Iran on:",
+  "options": [
+   "1 April 2024",
+   "7 October 2023",
+   "13 June 2025",
+   "13 June 2024"
+  ],
+  "answer": 2,
+  "explanation": "12-day war; the US struck Iranian nuclear sites on 22 June 2025",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA65",
+  "subject": "Current Affairs & GK",
+  "q": "The 2025 SCO Summit was held in:",
+  "options": [
+   "Tianjin, China (31 August - 1 September 2025)",
+   "Astana, Kazakhstan",
+   "Islamabad, Pakistan",
+   "Samarkand, Uzbekistan"
+  ],
+  "answer": 0,
+  "explanation": "largest SCO summit in history; 10 member states",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA66",
+  "subject": "Current Affairs & GK",
+  "q": "The SCO was founded in 2001 in Shanghai; Pakistan became a full member in:",
+  "options": [
+   "2023",
+   "2017 (Astana)",
+   "2005",
+   "2001"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA67",
+  "subject": "Current Affairs & GK",
+  "q": "The 17th BRICS Summit (July 2025) was held in:",
+  "options": [
+   "Rio de Janeiro, Brazil",
+   "Kazan, Russia",
+   "Johannesburg, South Africa",
+   "New Delhi, India"
+  ],
+  "answer": 0,
+  "explanation": "Indonesia became a full BRICS member in January 2025",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA68",
+  "subject": "Current Affairs & GK",
+  "q": "The G20 Summit 2025 was held in:",
+  "options": [
+   "Johannesburg, South Africa (22-23 November 2025)",
+   "New Delhi, India",
+   "Rio de Janeiro, Brazil",
+   "Rome, Italy"
+  ],
+  "answer": 0,
+  "explanation": "first G20 summit with an African presidency",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA69",
+  "subject": "Current Affairs & GK",
+  "q": "The G7 Summit 2025 was held in:",
+  "options": [
+   "Apulia, Italy",
+   "Hiroshima, Japan",
+   "Elmau, Germany",
+   "Kananaskis, Canada (15-17 June 2025)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA70",
+  "subject": "Current Affairs & GK",
+  "q": "COP29 (2024) was held in Baku, Azerbaijan; COP30 (2025) is scheduled in:",
+  "options": [
+   "Belem, Brazil",
+   "Glasgow, UK",
+   "Sharm el-Sheikh, Egypt",
+   "Dubai, UAE"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA71",
+  "subject": "Current Affairs & GK",
+  "q": "The 81st session of the UN General Assembly was held in New York in:",
+  "options": [
+   "September 2025",
+   "December 2026",
+   "September 2024",
+   "September 2026"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA72",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Peace Prize 2025 was awarded to:",
+  "options": [
+   "Antonio Guterres",
+   "Maria Corina Machado (Venezuela)",
+   "Volodymyr Zelensky",
+   "Donald Trump"
+  ],
+  "answer": 1,
+  "explanation": "for promoting democratic rights in Venezuela",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA73",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Prize in Physics 2025 was awarded to Clarke, Devoret and Martinis for:",
+  "options": [
+   "The Higgs boson",
+   "Gravitational waves",
+   "Quantum entanglement",
+   "Macroscopic quantum tunnelling in electric circuits"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA74",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Prize in Chemistry 2025 was awarded to Kitagawa, Robson and Yaghi for:",
+  "options": [
+   "Lithium-ion batteries",
+   "Click chemistry",
+   "CRISPR",
+   "Metal-organic frameworks"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA75",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Prize in Medicine 2025 was awarded to Brunkow, Ramsdell and Sakaguchi for:",
+  "options": [
+   "Hepatitis C virus",
+   "mRNA vaccines",
+   "Peripheral immune tolerance (regulatory T cells)",
+   "microRNA"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA76",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Prize in Literature 2025 was awarded to:",
+  "options": [
+   "Salman Rushdie",
+   "Laszlo Krasznahorkai (Hungary)",
+   "Margaret Atwood",
+   "Haruki Murakami"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA77",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Prize in Economic Sciences 2025 was awarded to Mokyr, Aghion and Howitt for:",
+  "options": [
+   "Auction theory",
+   "Behavioural economics",
+   "Game theory",
+   "Innovation-led growth through creative destruction"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA78",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Peace Prize 2024 was awarded to:",
+  "options": [
+   "Nihon Hidankyo (Japan)",
+   "Maria Ressa",
+   "Dmitry Muratov",
+   "Narges Mohammadi"
+  ],
+  "answer": 0,
+  "explanation": "organisation of atomic-bomb survivors",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA79",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Prize in Literature 2024 was awarded to:",
+  "options": [
+   "Jon Fosse",
+   "Annie Ernaux",
+   "Abdulrazak Gurnah",
+   "Han Kang (South Korea)"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA80",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Prize in Physics 2024 was awarded to Hopfield and Hinton for:",
+  "options": [
+   "Black holes",
+   "Attosecond physics",
+   "Neural networks / machine learning",
+   "Quantum dots"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA81",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Prize in Chemistry 2024 was awarded to Baker, Hassabis and Jumper for:",
+  "options": [
+   "Protein structure prediction",
+   "Gene editing",
+   "Asymmetric organocatalysis",
+   "Batteries"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA82",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Prize in Medicine 2024 was awarded to Ambros and Ruvkun for:",
+  "options": [
+   "Blood groups",
+   "Human genome",
+   "microRNA",
+   "mRNA vaccines"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA83",
+  "subject": "Current Affairs & GK",
+  "q": "The Nobel Prize in Economic Sciences 2024 was awarded to Acemoglu, Johnson and Robinson for work on:",
+  "options": [
+   "Institutions and prosperity",
+   "Poverty",
+   "Climate economics",
+   "Banking"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA84",
+  "subject": "Current Affairs & GK",
+  "q": "The Paris Summer Olympics 2024 were held from:",
+  "options": [
+   "26 July to 11 August 2024",
+   "23 July to 8 August 2024",
+   "26 July to 11 August 2025",
+   "5 to 21 August 2024"
+  ],
+  "answer": 0,
+  "explanation": "USA topped the medal table",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA85",
+  "subject": "Current Affairs & GK",
+  "q": "As of October 2026, the newest country to join the Eurozone is:",
+  "options": [
+   "Romania",
+   "Croatia",
+   "Bulgaria (21st member, 1 January 2026)",
+   "Poland"
+  ],
+  "answer": 2,
+  "explanation": "replaced the Bulgarian lev",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA86",
+  "subject": "Current Affairs & GK",
+  "q": "Croatia became the 20th Eurozone member on:",
+  "options": [
+   "1 January 2024",
+   "1 January 2022",
+   "1 January 2023",
+   "1 January 2026"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA87",
+  "subject": "Current Affairs & GK",
+  "q": "India's Chandrayaan-3 landed on the Moon's south pole on:",
+  "options": [
+   "23 August 2023",
+   "23 August 2022",
+   "14 July 2023",
+   "23 August 2024"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA88",
+  "subject": "Current Affairs & GK",
+  "q": "The Chinese AI company DeepSeek released its R1 model in:",
+  "options": [
+   "March 2025",
+   "November 2022",
+   "January 2025",
+   "January 2024"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA89",
+  "subject": "Current Affairs & GK",
+  "q": "The James Webb Space Telescope was launched in:",
+  "options": [
+   "December 2021",
+   "December 2019",
+   "December 2020",
+   "July 2022"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA90",
+  "subject": "Current Affairs & GK",
+  "q": "The 2028 Summer Olympics will be held in:",
+  "options": [
+   "Paris",
+   "Brisbane",
+   "Los Angeles",
+   "Tokyo"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA91",
+  "subject": "Current Affairs & GK",
+  "q": "The Olympic motto is:",
+  "options": [
+   "\"One World, One Dream\"",
+   "\"Faster, Higher, Stronger\" only",
+   "\"Faster, Higher, Stronger - Together\" (Citius, Altius, Fortius)",
+   "\"Sport for Peace\""
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA92",
+  "subject": "Current Affairs & GK",
+  "q": "A marathon race is:",
+  "options": [
+   "50 km long",
+   "40 km long",
+   "26.2 miles (exactly 42 km)",
+   "42.195 km long"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA93",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of New Zealand is:",
+  "options": [
+   "Canberra",
+   "Christchurch",
+   "Wellington",
+   "Auckland"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA94",
+  "subject": "Current Affairs & GK",
+  "q": "The administrative capital of South Africa is:",
+  "options": [
+   "Cape Town",
+   "Johannesburg",
+   "Pretoria",
+   "Durban"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA95",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Kazakhstan is:",
+  "options": [
+   "Bishkek",
+   "Almaty",
+   "Astana",
+   "Tashkent"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA96",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Uzbekistan is:",
+  "options": [
+   "Dushanbe",
+   "Tashkent",
+   "Samarkand",
+   "Astana"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA97",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Azerbaijan is:",
+  "options": [
+   "Baku",
+   "Tbilisi",
+   "Yerevan",
+   "Ankara"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA98",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Qatar is:",
+  "options": [
+   "Doha",
+   "Kuwait City",
+   "Manama",
+   "Dubai"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA99",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Kuwait is:",
+  "options": [
+   "Doha",
+   "Riyadh",
+   "Muscat",
+   "Kuwait City"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA100",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Oman is:",
+  "options": [
+   "Dubai",
+   "Muscat",
+   "Aden",
+   "Salalah"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA101",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Indonesia is:",
+  "options": [
+   "Surabaya",
+   "Nusantara",
+   "Bali",
+   "Jakarta"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA102",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Malaysia is:",
+  "options": [
+   "Singapore",
+   "Putrajaya",
+   "Kuala Lumpur",
+   "Jakarta"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA103",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of the Philippines is:",
+  "options": [
+   "Jakarta",
+   "Manila",
+   "Cebu",
+   "Davao"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA104",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Vietnam is:",
+  "options": [
+   "Da Nang",
+   "Hue",
+   "Hanoi",
+   "Ho Chi Minh City"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA105",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of South Korea is:",
+  "options": [
+   "Busan",
+   "Pyongyang",
+   "Seoul",
+   "Incheon"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA106",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of North Korea is:",
+  "options": [
+   "Hamhung",
+   "Kaesong",
+   "Seoul",
+   "Pyongyang"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA107",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Myanmar is:",
+  "options": [
+   "Mandalay",
+   "Bangkok",
+   "Yangon",
+   "Naypyidaw"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA108",
+  "subject": "Current Affairs & GK",
+  "q": "The (official) capital of Sri Lanka is:",
+  "options": [
+   "Galle",
+   "Kandy",
+   "Colombo",
+   "Sri Jayawardenepura Kotte"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA109",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Nepal is:",
+  "options": [
+   "Lalitpur",
+   "Kathmandu",
+   "Biratnagar",
+   "Pokhara"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA110",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Kenya is:",
+  "options": [
+   "Mombasa",
+   "Dar es Salaam",
+   "Kampala",
+   "Nairobi"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA111",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Nigeria is:",
+  "options": [
+   "Accra",
+   "Kano",
+   "Abuja",
+   "Lagos"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA112",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Ethiopia is:",
+  "options": [
+   "Nairobi",
+   "Khartoum",
+   "Mogadishu",
+   "Addis Ababa"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA113",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Argentina is:",
+  "options": [
+   "Santiago",
+   "Lima",
+   "Buenos Aires",
+   "Brasilia"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA114",
+  "subject": "Current Affairs & GK",
+  "q": "The capital of Mexico is:",
+  "options": [
+   "Cancun",
+   "Guadalajara",
+   "Mexico City",
+   "Monterrey"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA115",
+  "subject": "Current Affairs & GK",
+  "q": "The currency of New Zealand is the:",
+  "options": [
+   "Australian Dollar",
+   "Euro",
+   "New Zealand Dollar",
+   "Pound"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA116",
+  "subject": "Current Affairs & GK",
+  "q": "The currency of South Africa is the:",
+  "options": [
+   "Dollar",
+   "Rand",
+   "Shilling",
+   "Dinar"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA117",
+  "subject": "Current Affairs & GK",
+  "q": "The currency of Qatar is the:",
+  "options": [
+   "Qatari Riyal",
+   "Dinar",
+   "Saudi Riyal",
+   "Dirham"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA118",
+  "subject": "Current Affairs & GK",
+  "q": "The currency of Kuwait is the:",
+  "options": [
+   "Saudi Riyal",
+   "Kuwaiti Dinar",
+   "Dirham",
+   "Bahraini Dinar"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA119",
+  "subject": "Current Affairs & GK",
+  "q": "Babylon is the old name of:",
+  "options": [
+   "Egypt",
+   "Iran",
+   "Iraq",
+   "Turkey"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA120",
+  "subject": "Current Affairs & GK",
+  "q": "Abyssinia is the old name of:",
+  "options": [
+   "Sudan",
+   "Egypt",
+   "Somalia",
+   "Ethiopia"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA121",
+  "subject": "Current Affairs & GK",
+  "q": "Constantinople is the old name of:",
+  "options": [
+   "Athens",
+   "Ankara",
+   "Istanbul",
+   "Rome"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA122",
+  "subject": "Current Affairs & GK",
+  "q": "Ceylon is the old name of:",
+  "options": [
+   "Maldives",
+   "Sri Lanka",
+   "Thailand",
+   "Myanmar"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA123",
+  "subject": "Current Affairs & GK",
+  "q": "Siam is the old name of:",
+  "options": [
+   "Vietnam",
+   "Thailand",
+   "Cambodia",
+   "Laos"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA124",
+  "subject": "Current Affairs & GK",
+  "q": "Burma is the old name of:",
+  "options": [
+   "Bhutan",
+   "Bangladesh",
+   "Myanmar",
+   "Sri Lanka"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA125",
+  "subject": "Current Affairs & GK",
+  "q": "Persia is the old name of:",
+  "options": [
+   "Egypt",
+   "Iran",
+   "Turkey",
+   "Iraq"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA126",
+  "subject": "Current Affairs & GK",
+  "q": "The Secretariat of the Shanghai Cooperation Organization (SCO) is located in:",
+  "options": [
+   "Moscow",
+   "Shanghai",
+   "Tashkent",
+   "Beijing"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA127",
+  "subject": "Current Affairs & GK",
+  "q": "The Secretariat of ASEAN is located in:",
+  "options": [
+   "Bangkok",
+   "Kuala Lumpur",
+   "Singapore",
+   "Jakarta"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA128",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of OPEC is located in:",
+  "options": [
+   "Brussels",
+   "Vienna",
+   "Geneva",
+   "Riyadh"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA129",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the International Cricket Council (ICC) is located in:",
+  "options": [
+   "London",
+   "Melbourne",
+   "Mumbai",
+   "Dubai"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA130",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of FIFA is located in:",
+  "options": [
+   "Paris",
+   "Zurich",
+   "London",
+   "Geneva"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA131",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the International Olympic Committee (IOC) is located in:",
+  "options": [
+   "Lausanne",
+   "Rome",
+   "Athens",
+   "Paris"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA132",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the D-8 is located in:",
+  "options": [
+   "Tehran",
+   "Cairo",
+   "Istanbul",
+   "Kuala Lumpur"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA133",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the Arab League is located in:",
+  "options": [
+   "Amman",
+   "Riyadh",
+   "Cairo",
+   "Doha"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA134",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan is NOT a member of:",
+  "options": [
+   "NAM",
+   "G-77",
+   "G-7",
+   "D-8"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA135",
+  "subject": "Current Affairs & GK",
+  "q": "The members of the G-7 are:",
+  "options": [
+   "USA, UK, Canada, France, Germany, Italy and Japan",
+   "All European countries",
+   "The G20 minus others",
+   "USA, UK, France, Germany, China, Japan and India"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA136",
+  "subject": "Current Affairs & GK",
+  "q": "The Strait of Messina separates:",
+  "options": [
+   "Greece from Turkey",
+   "England from France",
+   "Spain from Morocco",
+   "Sicily from mainland Italy"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA137",
+  "subject": "Current Affairs & GK",
+  "q": "The Strait of Gibraltar separates:",
+  "options": [
+   "Italy from Sicily",
+   "France from England",
+   "Spain from Morocco",
+   "Turkey from Greece"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA138",
+  "subject": "Current Affairs & GK",
+  "q": "The Bosphorus Strait connects the Black Sea with the:",
+  "options": [
+   "Caspian Sea",
+   "Mediterranean Sea",
+   "Sea of Marmara",
+   "Red Sea"
+  ],
+  "answer": 2,
+  "explanation": "at Istanbul",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA139",
+  "subject": "Current Affairs & GK",
+  "q": "The Strait of Hormuz connects the Persian Gulf with the:",
+  "options": [
+   "Gulf of Oman",
+   "Arabian Sea directly",
+   "Red Sea",
+   "Mediterranean Sea"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA140",
+  "subject": "Current Affairs & GK",
+  "q": "The Strait of Malacca connects the Indian Ocean with the:",
+  "options": [
+   "South China Sea",
+   "Java Sea",
+   "Bay of Bengal",
+   "Pacific Ocean directly"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA141",
+  "subject": "Current Affairs & GK",
+  "q": "The McMahon Line is the border between:",
+  "options": [
+   "India and Myanmar",
+   "Pakistan and Afghanistan",
+   "Pakistan and India",
+   "India and China"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA142",
+  "subject": "Current Affairs & GK",
+  "q": "The 38th Parallel divides:",
+  "options": [
+   "North and South Korea",
+   "East and West Germany",
+   "USA and Canada",
+   "India and China"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA143",
+  "subject": "Current Affairs & GK",
+  "q": "The 49th Parallel forms the border between:",
+  "options": [
+   "The USA and Canada",
+   "France and Germany",
+   "Russia and China",
+   "North and South Korea"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA144",
+  "subject": "Current Affairs & GK",
+  "q": "The Maginot Line is between:",
+  "options": [
+   "Poland and Germany",
+   "France and Germany",
+   "France and Spain",
+   "Belgium and Holland"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA145",
+  "subject": "Current Affairs & GK",
+  "q": "The parliament of Japan is called the:",
+  "options": [
+   "Diet",
+   "Duma",
+   "Majlis",
+   "Knesset"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA146",
+  "subject": "Current Affairs & GK",
+  "q": "The parliament of Israel is called the:",
+  "options": [
+   "Majlis",
+   "Knesset",
+   "Congress",
+   "Diet"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA147",
+  "subject": "Current Affairs & GK",
+  "q": "The parliament of Iran is called the:",
+  "options": [
+   "Majlis",
+   "Knesset",
+   "Diet",
+   "Duma"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA148",
+  "subject": "Current Affairs & GK",
+  "q": "The parliament of Pakistan is called the:",
+  "options": [
+   "National Assembly only",
+   "Senate only",
+   "Majlis-e-Shoora",
+   "Majlis-e-Aam"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA149",
+  "subject": "Current Affairs & GK",
+  "q": "The parliament of Bangladesh is called the:",
+  "options": [
+   "Diet",
+   "Lok Sabha",
+   "Jatiya Sangsad",
+   "Majlis"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA150",
+  "subject": "Current Affairs & GK",
+  "q": "The external intelligence agency of India is:",
+  "options": [
+   "MI6",
+   "RAW",
+   "CIA",
+   "ISI"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA151",
+  "subject": "Current Affairs & GK",
+  "q": "The intelligence agency of Israel is:",
+  "options": [
+   "Shin Bet",
+   "KGB",
+   "Mossad",
+   "CIA"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA152",
+  "subject": "Current Affairs & GK",
+  "q": "AFP is the national news agency of:",
+  "options": [
+   "Britain",
+   "Italy",
+   "France",
+   "Germany"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA153",
+  "subject": "Current Affairs & GK",
+  "q": "Xinhua is the national news agency of:",
+  "options": [
+   "China",
+   "South Korea",
+   "Japan",
+   "Taiwan"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA154",
+  "subject": "Current Affairs & GK",
+  "q": "The largest island in the world is:",
+  "options": [
+   "Borneo",
+   "Madagascar",
+   "Greenland",
+   "Sumatra"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA155",
+  "subject": "Current Affairs & GK",
+  "q": "The largest hot desert in the world is the:",
+  "options": [
+   "Thar",
+   "Kalahari",
+   "Sahara",
+   "Gobi"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA156",
+  "subject": "Current Affairs & GK",
+  "q": "The deepest point in the world's oceans is the:",
+  "options": [
+   "Mariana Trench",
+   "Tonga Trench",
+   "Puerto Rico Trench",
+   "Java Trench"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA157",
+  "subject": "Current Affairs & GK",
+  "q": "The longest river of Asia is the:",
+  "options": [
+   "Yangtze",
+   "Mekong",
+   "Ganges",
+   "Indus"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA158",
+  "subject": "Current Affairs & GK",
+  "q": "The Danube is the river that flows through the most national capitals:",
+  "options": [
+   "6",
+   "4 (Vienna, Bratislava, Budapest, Belgrade)",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA159",
+  "subject": "Current Affairs & GK",
+  "q": "The United Nations has ____ official languages:",
+  "options": [
+   "4",
+   "8",
+   "6 (Arabic, Chinese, English, French, Russian, Spanish)",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA160",
+  "subject": "Current Affairs & GK",
+  "q": "The language with the most native speakers is ____, and with the most total speakers is ____:",
+  "options": [
+   "Mandarin Chinese; English",
+   "English; Mandarin Chinese",
+   "Hindi; Spanish",
+   "Spanish; Hindi"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA161",
+  "subject": "Current Affairs & GK",
+  "q": "A country that is landlocked and surrounded only by landlocked countries is called \"doubly landlocked\"; one example is:",
+  "options": [
+   "Nepal",
+   "Afghanistan",
+   "Switzerland",
+   "Uzbekistan"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA162",
+  "subject": "Current Affairs & GK",
+  "q": "The other doubly landlocked country in the world is:",
+  "options": [
+   "Mongolia",
+   "Luxembourg",
+   "Liechtenstein",
+   "Bolivia"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA163",
+  "subject": "Current Affairs & GK",
+  "q": "World Environment Day is observed on:",
+  "options": [
+   "22 April",
+   "5 June",
+   "5 March",
+   "5 April"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA164",
+  "subject": "Current Affairs & GK",
+  "q": "International Nelson Mandela Day is celebrated on:",
+  "options": [
+   "18 July",
+   "17 July",
+   "15 July",
+   "16 July"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA165",
+  "subject": "Current Affairs & GK",
+  "q": "International Children's Day is observed on:",
+  "options": [
+   "1 June",
+   "20 November",
+   "10 December",
+   "14 February"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA166",
+  "subject": "Current Affairs & GK",
+  "q": "The first artificial satellite, Sputnik 1, was launched in 1957 by the:",
+  "options": [
+   "USA",
+   "France",
+   "USSR",
+   "UK"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA167",
+  "subject": "Current Affairs & GK",
+  "q": "The first human in space (1961) was:",
+  "options": [
+   "Neil Armstrong",
+   "Valentina Tereshkova",
+   "Alan Shepard",
+   "Yuri Gagarin"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "CA168",
+  "subject": "Current Affairs & GK",
+  "q": "The first Moon landing (Apollo 11, 1969) was commanded by:",
+  "options": [
+   "Michael Collins",
+   "Neil Armstrong",
+   "Yuri Gagarin",
+   "Buzz Aldrin"
+  ],
+  "answer": 1,
+  "explanation": "Armstrong first stepped on the Moon",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "F98",
+  "subject": "Current Affairs & GK",
+  "q": "According to Times Higher Education (THE), World University Rankings 2026, who is the No 1 university in Pakistan?",
+  "options": [
+   "All of these",
+   "Government College University Faisalabad",
+   "International Islamic University, Islamabad",
+   "Quaid-e-Azam University (Islamabad)"
+  ],
+  "answer": 3,
+  "explanation": "THE World University Rankings 2026 mein Pakistan ki No.1 university Quaid-e-Azam University (Islamabad) hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F115",
+  "subject": "Current Affairs & GK",
+  "q": "The 2015 climate change conference is called?",
+  "options": [
+   "America",
+   "Paris",
+   "London",
+   "None of these"
+  ],
+  "answer": 1,
+  "explanation": "2015 ki aalmi climate conference Paris mein hui (COP21).",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F124",
+  "subject": "Current Affairs & GK",
+  "q": "The world’s Largest fresh water Lake is?",
+  "options": [
+   "None of these",
+   "Lake Victoria",
+   "Lake Superior",
+   "Great Bear Lake"
+  ],
+  "answer": 2,
+  "explanation": "Duniya ki sab se bari meethay pani ki jheel Lake Superior hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F127",
+  "subject": "Current Affairs & GK",
+  "q": "Asian Games are also known as _____?",
+  "options": [
+   "Asiad",
+   "Olympics",
+   "Commonwealth Games",
+   "Pan-Asian Games"
+  ],
+  "answer": 0,
+  "explanation": "Asian Games ko Asiad bhi kaha jata hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F128",
+  "subject": "Current Affairs & GK",
+  "q": "On which date did Hamas announce the dissolution of its governing body in Gaza?",
+  "options": [
+   "None of these",
+   "4 July 2026",
+   "5 July 2026",
+   "6 July 2026"
+  ],
+  "answer": 3,
+  "explanation": "Paper ke mutabiq Hamas ne Gaza ki governing body 6 July 2026 ko khatam karne ka elan kiya.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F131",
+  "subject": "Current Affairs & GK",
+  "q": "Waterloo, where Napoleon was finally defeated, is situated in ______?",
+  "options": [
+   "Holland",
+   "Germany",
+   "France",
+   "Belgium"
+  ],
+  "answer": 3,
+  "explanation": "Waterloo — jahan Napoleon ko aakhri shikast hui — Belgium mein hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F133",
+  "subject": "Current Affairs & GK",
+  "q": "Greenwich Mean Time (GMT) is the standard time of which of the following countries?",
+  "options": [
+   "UK",
+   "USA",
+   "Germany",
+   "China"
+  ],
+  "answer": 0,
+  "explanation": "GMT (Greenwich Mean Time) UK ka standard time hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F138",
+  "subject": "Current Affairs & GK",
+  "q": "The Fall of Granada took place in which year?",
+  "options": [
+   "1487",
+   "1453",
+   "None of these",
+   "1492"
+  ],
+  "answer": 3,
+  "explanation": "Fall of Granada 1492 mein hua.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F139",
+  "subject": "Current Affairs & GK",
+  "q": "Which gulf lies between India and Sri Lanka?",
+  "options": [
+   "Persian Gulf",
+   "None of these",
+   "Gulf of Mannar",
+   "Gulf of Aden"
+  ],
+  "answer": 2,
+  "explanation": "India aur Sri Lanka ke darmiyan Gulf of Mannar hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F140",
+  "subject": "Current Affairs & GK",
+  "q": "Which mineral is abundantly present in the Atacama Desert?",
+  "options": [
+   "Iron",
+   "None of these",
+   "Copper",
+   "Gold"
+  ],
+  "answer": 2,
+  "explanation": "Atacama Desert mein copper kasrat se paya jata hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F141",
+  "subject": "Current Affairs & GK",
+  "q": "What is the title of the winning novel for the 2026 International Booker Prize?",
+  "options": [
+   "None of these",
+   "he Nights Are Quiet in Tehran",
+   "On Earth As It Is Beneath",
+   "Taiwan Travelogue"
+  ],
+  "answer": 3,
+  "explanation": "Paper ke mutabiq 2026 International Booker Prize jeetne wala novel Taiwan Travelogue hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F142",
+  "subject": "Current Affairs & GK",
+  "q": "In which country was the Summit of Muslim Countries held in December 2019?",
+  "options": [
+   "Turkey",
+   "None of these",
+   "Malaysia",
+   "Saudi Arabia"
+  ],
+  "answer": 2,
+  "explanation": "December 2019 mein Muslim mumalik ka summit Malaysia (Kuala Lumpur) mein hua.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F143",
+  "subject": "Current Affairs & GK",
+  "q": "The global center of innovation and technology is located in?",
+  "options": [
+   "London",
+   "Silicon Valley",
+   "None of these",
+   "New York"
+  ],
+  "answer": 1,
+  "explanation": "Innovation aur technology ka aalmi markaz Silicon Valley hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F147",
+  "subject": "Current Affairs & GK",
+  "q": "World Braille Day is celebrated on what date?",
+  "options": [
+   "None of these",
+   "January 4",
+   "January 5",
+   "January 3"
+  ],
+  "answer": 1,
+  "explanation": "World Braille Day 4 January ko manaya jata hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F149",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the current Prime Minister of the United Kingdom (UK)?",
+  "options": [
+   "Boris Johnson",
+   "Keir Starmer",
+   "Andy Burnham",
+   "None of these"
+  ],
+  "answer": 1,
+  "explanation": "Paper ke mutabiq UK ke maujooda Wazir-e-Azam Keir Starmer hain.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F153",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is the largest trading partner of Pakistan?",
+  "options": [
+   "USA",
+   "Japan",
+   "China",
+   "Saudi Arabia"
+  ],
+  "answer": 2,
+  "explanation": "Pakistan ka sab se bara trading partner China hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F160",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the Current Secretary General of United Nation (UNO)?",
+  "options": [
+   "Kofi Annan",
+   "Antonio Guterres",
+   "None of these",
+   "Ban Ki-moon"
+  ],
+  "answer": 1,
+  "explanation": "UNO ke maujooda Secretary General Antonio Guterres hain.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F161",
+  "subject": "Current Affairs & GK",
+  "q": "The FIFA World Cup 2026 featured how many teams?",
+  "options": [
+   "None of these",
+   "46",
+   "48",
+   "44"
+  ],
+  "answer": 2,
+  "explanation": "FIFA World Cup 2026 mein kul 48 teams theen.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F164",
+  "subject": "Current Affairs & GK",
+  "q": "In which year did Kyoto Protocol come into force?",
+  "options": [
+   "2007",
+   "2004",
+   "1997",
+   "2005"
+  ],
+  "answer": 3,
+  "explanation": "Kyoto Protocol 2005 mein nafiz hua.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F165",
+  "subject": "Current Affairs & GK",
+  "q": "What does the term “Isohyet” mean?",
+  "options": [
+   "A line joining places of equal rainfall",
+   "None of these",
+   "A line joining places of equal temperature",
+   "A line joining places of equal atmospheric pressure"
+  ],
+  "answer": 0,
+  "explanation": "Isohyet — barabar barish wali jagahon ko milane wali farzi lakeer.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F166",
+  "subject": "Current Affairs & GK",
+  "q": "What was the motto/theme of the 81st session of the United Nations General Assembly?",
+  "options": [
+   "None of these",
+   "Restoring Trust, Managing Transformation: A United Nations That Delivers for All",
+   "United Nations Peace, Development and Human Rights",
+   "Better Together: 80 Years and More United Nations for Peace"
+  ],
+  "answer": 1,
+  "explanation": "Paper ke mutabiq UNGA ke 81st session ka motto 'Restoring Trust, Managing Transformation' tha.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F171",
+  "subject": "Current Affairs & GK",
+  "q": "Which country banned “paper gold” trading in 2026?",
+  "options": [
+   "India",
+   "None of these",
+   "China",
+   "Russia"
+  ],
+  "answer": 2,
+  "explanation": "July 2026 mein China ke baray banks (ICBC waghera) ne retail 'paper gold' (leveraged) trading band kar di — jawab China.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F179",
+  "subject": "Current Affairs & GK",
+  "q": "Which country was the first to establish a Space Force in 2019?",
+  "options": [
+   "UK",
+   "None of these",
+   "Uganda",
+   "USA"
+  ],
+  "answer": 3,
+  "explanation": "2019 mein Space Force banane wala pehla mulk USA tha.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F180",
+  "subject": "Current Affairs & GK",
+  "q": "The Five Rings of the Olympic Games Logo represent?",
+  "options": [
+   "Five cities",
+   "Five continents",
+   "Five countries",
+   "Five peoples"
+  ],
+  "answer": 1,
+  "explanation": "Olympic ke 5 rings 5 continents ki numaindagi karte hain.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F181",
+  "subject": "Current Affairs & GK",
+  "q": "Which Country hosted BRICS 11th summit 2019?",
+  "options": [
+   "None of these",
+   "Brazil",
+   "Pakistan",
+   "China"
+  ],
+  "answer": 1,
+  "explanation": "BRICS ka 11th summit (2019) Brazil ne host kiya.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F185",
+  "subject": "Current Affairs & GK",
+  "q": "United Nations Organization (UNO) officially came into existence / was founded / established on?",
+  "options": [
+   "14 October 1945",
+   "10 October 1945",
+   "28 October 1945",
+   "24 October 1945"
+  ],
+  "answer": 3,
+  "explanation": "UNO 24 October 1945 ko bazabta wujood mein aayi.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ }
+]

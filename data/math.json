@@ -1,0 +1,1626 @@
+[
+ {
+  "id": "M10",
+  "subject": "Math",
+  "q": "A boy travels six km per hour. How many meters will he travel in five minutes?",
+  "options": [
+   "300",
+   "500",
+   "400",
+   "600"
+  ],
+  "answer": 1,
+  "explanation": "6 km/h = 100 m/min, x5 = 500 m",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M11",
+  "subject": "Math",
+  "q": "What is the next number? 69, 66, 60, 48, ___.",
+  "options": [
+   "20",
+   "24",
+   "30",
+   "36"
+  ],
+  "answer": 1,
+  "explanation": "differences 3, 6, 12, 24",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M12",
+  "subject": "Math",
+  "q": "(?) squared = 289. The number is:",
+  "options": [
+   "21",
+   "15",
+   "19",
+   "17"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M13",
+  "subject": "Math",
+  "q": "4 is 25% of:",
+  "options": [
+   "20",
+   "8",
+   "16",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M14",
+  "subject": "Math",
+  "q": "10 men can complete a job in 14 days. How long will 4 men take at the same rate?",
+  "options": [
+   "35 days",
+   "40 days",
+   "28 days",
+   "30 days"
+  ],
+  "answer": 0,
+  "explanation": "10x14/4 = 35",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M15",
+  "subject": "Math",
+  "q": "Aslam has to pay zakat on Rs. 74,000 at 2.5%. How much zakat will he pay?",
+  "options": [
+   "Rs. 1,850",
+   "Rs. 2,000",
+   "Rs. 2,500",
+   "Rs. 1,500"
+  ],
+  "answer": 0,
+  "explanation": "74000x0.025 = 1850",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M16",
+  "subject": "Math",
+  "q": "Anwar bought a bag of sugar for Rs. 800 and sold it for Rs. 960. His profit percentage is:",
+  "options": [
+   "25%",
+   "15%",
+   "20%",
+   "18%"
+  ],
+  "answer": 2,
+  "explanation": "160/800 = 20%",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M17",
+  "subject": "Math",
+  "q": "10% profit on Rs. 250 is:",
+  "options": [
+   "Rs. 30",
+   "Rs. 20",
+   "Rs. 35",
+   "Rs. 25"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M18",
+  "subject": "Math",
+  "q": "What is the next number? 2, 3, 5, 7, 11, 13, 17, ___.",
+  "options": [
+   "21",
+   "18",
+   "19",
+   "23"
+  ],
+  "answer": 2,
+  "explanation": "primes",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M19",
+  "subject": "Math",
+  "q": "In an exam 45% students failed and 550 students passed. The total number of students who appeared was:",
+  "options": [
+   "800",
+   "900",
+   "1100",
+   "1000"
+  ],
+  "answer": 3,
+  "explanation": "55% = 550",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M20",
+  "subject": "Math",
+  "q": "If 18 workers can perform a job in 26 days, how many workers are needed to do it in 12 days?",
+  "options": [
+   "39",
+   "42",
+   "36",
+   "45"
+  ],
+  "answer": 0,
+  "explanation": "18x26/12 = 39",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M21",
+  "subject": "Math",
+  "q": "Rashid can read 60 pages per hour. At this rate, how many pages can he read in 29 minutes?",
+  "options": [
+   "30",
+   "29",
+   "35",
+   "25"
+  ],
+  "answer": 1,
+  "explanation": "1 page per minute",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M22",
+  "subject": "Math",
+  "q": "16 squared equals:",
+  "options": [
+   "225",
+   "289",
+   "196",
+   "256"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M23",
+  "subject": "Math",
+  "q": "What is the next number? 109, 106, 101, 94, 85, ___.",
+  "options": [
+   "74",
+   "70",
+   "72",
+   "76"
+  ],
+  "answer": 0,
+  "explanation": "differences 3, 5, 7, 9, 11",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M24",
+  "subject": "Math",
+  "q": "5% of 100 is:",
+  "options": [
+   "5",
+   "500",
+   "50",
+   "0.5"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M25",
+  "subject": "Math",
+  "q": "The income of a broker remains unchanged though the rate of commission is increased from 4% to 5%. The percentage of slump in business is:",
+  "options": [
+   "20%",
+   "1%",
+   "80%",
+   "8%"
+  ],
+  "answer": 0,
+  "explanation": "4/5 = 0.8, so 20% less business",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M26",
+  "subject": "Math",
+  "q": "Raees credits 15% of his salary in a fixed deposit account and spends 30% of the remaining amount on groceries. If the cash in hand is Rs. 2,380, what is his salary?",
+  "options": [
+   "Rs. 4,000",
+   "Rs. 3,500",
+   "Rs. 5,000",
+   "Rs. 4,500"
+  ],
+  "answer": 0,
+  "explanation": "0.85x0.7 = 0.595; 2380/0.595 = 4000",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M27",
+  "subject": "Math",
+  "q": "A man donated 5% of his income to a charitable organization and deposited 20% of the remainder in a bank. If he now has Rs. 1,919 left, what is his income?",
+  "options": [
+   "Rs. 2,300",
+   "Rs. 2,500",
+   "Rs. 2,558.60",
+   "Rs. 2,525"
+  ],
+  "answer": 3,
+  "explanation": "0.95x0.8 = 0.76; 1919/0.76 = 2525",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M28",
+  "subject": "Math",
+  "q": "After spending 40% on machinery, 25% on building, 15% on raw material and 5% on furniture, Haris had a balance of Rs. 1,305. The money he had was:",
+  "options": [
+   "Rs. 6,500",
+   "Rs. 7,225",
+   "Rs. 1,390",
+   "Rs. 8,700"
+  ],
+  "answer": 3,
+  "explanation": "100-85 = 15%; 1305/0.15 = 8700",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M29",
+  "subject": "Math",
+  "q": "75% of a number when added to 75 is equal to the number. The number is:",
+  "options": [
+   "225",
+   "300",
+   "200",
+   "150"
+  ],
+  "answer": 1,
+  "explanation": "0.25x = 75",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M30",
+  "subject": "Math",
+  "q": "A student who secures 20% marks in an examination fails by 30 marks. Another student who secures 32% marks gets 42 marks more than required to pass. The percentage of marks required to pass is:",
+  "options": [
+   "30%",
+   "25%",
+   "28%",
+   "20%"
+  ],
+  "answer": 1,
+  "explanation": "12% = 72 marks, total = 600; pass = 120+30 = 150 = 25%",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M31",
+  "subject": "Math",
+  "q": "In a college election, a candidate secured 62% of the votes and is elected by a majority of 144 votes. The total number of votes polled is:",
+  "options": [
+   "1200",
+   "925",
+   "600",
+   "800"
+  ],
+  "answer": 2,
+  "explanation": "62-38 = 24%; 144/0.24 = 600",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M32",
+  "subject": "Math",
+  "q": "In an election between two candidates, the candidate who gets 30% of the votes polled is defeated by 15,000 votes. The number of votes polled by the winning candidate is:",
+  "options": [
+   "26,250",
+   "15,000",
+   "11,250",
+   "37,500"
+  ],
+  "answer": 0,
+  "explanation": "70-30 = 40% = 15000; total = 37500; winner = 26250",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M33",
+  "subject": "Math",
+  "q": "What will be 80 percent of a number whose 200 percent is 90?",
+  "options": [
+   "36",
+   "45",
+   "72",
+   "40"
+  ],
+  "answer": 0,
+  "explanation": "number = 45, 80% = 36",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M34",
+  "subject": "Math",
+  "q": "The price of cooking oil has increased by 25%. The percentage reduction in use so as not to increase expenditure is:",
+  "options": [
+   "15%",
+   "30%",
+   "20%",
+   "25%"
+  ],
+  "answer": 2,
+  "explanation": "1/1.25 = 0.8, reduce 20%",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M35",
+  "subject": "Math",
+  "q": "Water tax is increased by 20% but its consumption is decreased by 20%. The effect on expenditure is:",
+  "options": [
+   "No change",
+   "4% increase",
+   "4% decrease",
+   "2% increase"
+  ],
+  "answer": 2,
+  "explanation": "1.2x0.8 = 0.96",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M36",
+  "subject": "Math",
+  "q": "On decreasing the price of T.V. sets by 30%, its sale is increased by 20%. The effect on the revenue is:",
+  "options": [
+   "No change",
+   "16% decrease",
+   "16% increase",
+   "10% decrease"
+  ],
+  "answer": 1,
+  "explanation": "0.7x1.2 = 0.84",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M37",
+  "subject": "Math",
+  "q": "A man's basic pay for a 40-hour week is Rs. 20; overtime is paid at 25% above the basic rate. In a certain week his total wage was Rs. 25. He worked for a total of:",
+  "options": [
+   "48 hours",
+   "46 hours",
+   "44 hours",
+   "42 hours"
+  ],
+  "answer": 0,
+  "explanation": "basic rate 0.5/h, OT rate 0.625/h; extra Rs. 5 / 0.625 = 8 h",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M38",
+  "subject": "Math",
+  "q": "The population of a town increases 4% annually but decreases by emigration by 1/2% annually. The increase percent in three years is:",
+  "options": [
+   "12%",
+   "10.87%",
+   "10.5%",
+   "9.5%"
+  ],
+  "answer": 1,
+  "explanation": "net 3.5%/yr; 1.035^3 = 1.1087",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M39",
+  "subject": "Math",
+  "q": "p is six times as large as q. The percent that q is less than p is:",
+  "options": [
+   "75%",
+   "85%",
+   "83.33%",
+   "80%"
+  ],
+  "answer": 2,
+  "explanation": "6q-q",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M40",
+  "subject": "Math",
+  "q": "The price of an article has been reduced by 25%. To restore the original price, the new price must be increased by:",
+  "options": [
+   "25%",
+   "40%",
+   "30%",
+   "33.33%"
+  ],
+  "answer": 3,
+  "explanation": "25/75 = 1/3",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M41",
+  "subject": "Math",
+  "q": "If the side of a square is increased by 30%, its area is increased by:",
+  "options": [
+   "60%",
+   "69%",
+   "30%",
+   "90%"
+  ],
+  "answer": 1,
+  "explanation": "1.3^2 = 1.69",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M42",
+  "subject": "Math",
+  "q": "The length of a rectangle is increased by 60%. By what percent must the width be decreased to maintain the same area?",
+  "options": [
+   "60%",
+   "30%",
+   "37.5%",
+   "40%"
+  ],
+  "answer": 2,
+  "explanation": "1/1.6 = 0.625",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M43",
+  "subject": "Math",
+  "q": "Two numbers are less than a third number by 30% and 37% respectively. The second number is less than the first by:",
+  "options": [
+   "5%",
+   "12%",
+   "7%",
+   "10%"
+  ],
+  "answer": 3,
+  "explanation": "0.70-0.63",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M44",
+  "subject": "Math",
+  "q": "If the side of a square is increased by 25%, its area is increased by:",
+  "options": [
+   "156.25%",
+   "125%",
+   "56.25%",
+   "50%"
+  ],
+  "answer": 2,
+  "explanation": "1.25^2 = 1.5625",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M45",
+  "subject": "Math",
+  "q": "A pupil's marks were wrongly entered as 83 instead of 63. Due to this the average marks of the class increased by 0.5 (half). The number of pupils in the class is:",
+  "options": [
+   "20",
+   "73",
+   "10",
+   "40"
+  ],
+  "answer": 3,
+  "explanation": "20/n = 0.5, n = 40",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M46",
+  "subject": "Math",
+  "q": "The mean of 5 numbers is 34. Three of these numbers are 29, 26 and 35. If the remaining two numbers are in the ratio 1:3, what are the numbers?",
+  "options": [
+   "10, 40",
+   "35, 45",
+   "None of these",
+   "20, 60"
+  ],
+  "answer": 3,
+  "explanation": "total 170; 29+26+35 = 90; remaining 80 in 1:3 = 20, 60",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M47",
+  "subject": "Math",
+  "q": "A hockey team won 6 games and lost 8. What is the ratio of wins to the number of games played?",
+  "options": [
+   "6:8",
+   "8:6",
+   "8:14",
+   "3:7"
+  ],
+  "answer": 3,
+  "explanation": "6/14 = 3:7",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M48",
+  "subject": "Math",
+  "q": "Find the roots of the quadratic equation x^2 + 2x - 15 = 0:",
+  "options": [
+   "3, 5",
+   "-5, 3",
+   "-3, -5",
+   "-3, 5"
+  ],
+  "answer": 1,
+  "explanation": "x+5 x-3",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M49",
+  "subject": "Math",
+  "q": "Complete the series: 9, 25, 49, ___, 121.",
+  "options": [
+   "81",
+   "100",
+   "91",
+   "94"
+  ],
+  "answer": 0,
+  "explanation": "squares of odd numbers 3, 5, 7, 9, 11",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M50",
+  "subject": "Math",
+  "q": "Two numbers are respectively 20% and 25% more than a third number. The first number as a percentage of the second is:",
+  "options": [
+   "80%",
+   "85%",
+   "96%",
+   "125%"
+  ],
+  "answer": 2,
+  "explanation": "120/125 = 0.96",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M51",
+  "subject": "Math",
+  "q": "The average marks of a class of 30 students is 40 and that of another class of 50 students is 60. The average marks of all the students is:",
+  "options": [
+   "47.5",
+   "50",
+   "52.5",
+   "59"
+  ],
+  "answer": 2,
+  "explanation": "1200+3000",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M52",
+  "subject": "Math",
+  "q": "Find the one which does not belong to the group: 8, 27, 64, 125.",
+  "options": [
+   "8",
+   "27",
+   "64",
+   "125"
+  ],
+  "answer": 1,
+  "explanation": "27 is the only odd perfect cube",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M53",
+  "subject": "Math",
+  "q": "Simplify: 37 - [5 + {28 - (19 - 7)}].",
+  "options": [
+   "24",
+   "20",
+   "16",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": "19-7",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M54",
+  "subject": "Math",
+  "q": "Which number will complete the series: 2, 5, 12, 23, 38, 57, ___?",
+  "options": [
+   "84",
+   "72",
+   "80",
+   "76"
+  ],
+  "answer": 2,
+  "explanation": "differences 3, 7, 11, 15, 19, 23",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M55",
+  "subject": "Math",
+  "q": "A car salesman sells 42 red cars and 14 green cars. The ratio of red cars to green cars sold is:",
+  "options": [
+   "3:1",
+   "2:1",
+   "4:1",
+   "7:3"
+  ],
+  "answer": 0,
+  "explanation": "42/14 = 3:1",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M57",
+  "subject": "Math",
+  "q": "What is 15% of 240?",
+  "options": [
+   "36",
+   "40",
+   "30",
+   "32"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M58",
+  "subject": "Math",
+  "q": "200 increased by 10% is:",
+  "options": [
+   "210",
+   "230",
+   "240",
+   "220"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M59",
+  "subject": "Math",
+  "q": "What percent of 80 is 20?",
+  "options": [
+   "25%",
+   "20%",
+   "40%",
+   "30%"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M60",
+  "subject": "Math",
+  "q": "If 60% of a number is 36, the number is:",
+  "options": [
+   "54",
+   "72",
+   "48",
+   "60"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M61",
+  "subject": "Math",
+  "q": "A number increased by 20% gives 72. The original number is:",
+  "options": [
+   "64",
+   "66",
+   "60",
+   "70"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M62",
+  "subject": "Math",
+  "q": "The average of 5, 10, 15, 20, 25 is:",
+  "options": [
+   "13",
+   "15",
+   "12",
+   "18"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M63",
+  "subject": "Math",
+  "q": "The average of the first 10 natural numbers is:",
+  "options": [
+   "5",
+   "10",
+   "5.5",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M64",
+  "subject": "Math",
+  "q": "The average of 12, 18, 24, 30 is:",
+  "options": [
+   "22",
+   "20",
+   "21",
+   "24"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M65",
+  "subject": "Math",
+  "q": "The average of 7 numbers is 21. If the number 30 is removed, the new average is:",
+  "options": [
+   "20",
+   "19.5",
+   "19",
+   "20.5"
+  ],
+  "answer": 1,
+  "explanation": "7x21-30",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M66",
+  "subject": "Math",
+  "q": "Divide Rs. 500 between two persons in the ratio 2:3. Their shares are:",
+  "options": [
+   "Rs. 250, Rs. 250",
+   "Rs. 200, Rs. 300",
+   "Rs. 150, Rs. 350",
+   "Rs. 100, Rs. 400"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M67",
+  "subject": "Math",
+  "q": "If a:b = 3:4 and b:c = 2:3, then a:c is:",
+  "options": [
+   "1:3",
+   "2:3",
+   "3:2",
+   "1:2"
+  ],
+  "answer": 3,
+  "explanation": "3/4 2/3",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M68",
+  "subject": "Math",
+  "q": "The ratio of 25 paise to Rs. 1 is:",
+  "options": [
+   "4:1",
+   "1:4",
+   "1:5",
+   "1:2"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M69",
+  "subject": "Math",
+  "q": "Two numbers are in the ratio 5:7 and their sum is 72. The numbers are:",
+  "options": [
+   "30, 42",
+   "28, 44",
+   "32, 40",
+   "25, 47"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M70",
+  "subject": "Math",
+  "q": "A can do a work in 10 days and B in 15 days. Working together they finish it in:",
+  "options": [
+   "7.5 days",
+   "5 days",
+   "6 days",
+   "8 days"
+  ],
+  "answer": 2,
+  "explanation": "1/10+1/15 = 1/6",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M71",
+  "subject": "Math",
+  "q": "5 workers can build a wall in 12 days. 6 workers can build it in:",
+  "options": [
+   "8 days",
+   "10 days",
+   "15 days",
+   "12 days"
+  ],
+  "answer": 1,
+  "explanation": "5x12/6 = 10",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M72",
+  "subject": "Math",
+  "q": "One tap fills a tank in 6 hours and another in 8 hours. Together they fill it in:",
+  "options": [
+   "3.43 hours",
+   "7 hours",
+   "14 hours",
+   "3 hours"
+  ],
+  "answer": 0,
+  "explanation": "1/6+1/8 = 7/24; 24/7 = 3.43",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M73",
+  "subject": "Math",
+  "q": "A car travels 240 km in 4 hours. Its speed is:",
+  "options": [
+   "50 km/h",
+   "55 km/h",
+   "60 km/h",
+   "65 km/h"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M74",
+  "subject": "Math",
+  "q": "A train running at 90 km/h covers in 2.5 hours:",
+  "options": [
+   "275 km",
+   "200 km",
+   "225 km",
+   "250 km"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M75",
+  "subject": "Math",
+  "q": "A man walks at 5 km/h. The time to cover 20 km is:",
+  "options": [
+   "3 hours",
+   "4 hours",
+   "5 hours",
+   "6 hours"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M76",
+  "subject": "Math",
+  "q": "If 3x + 7 = 22, then x is:",
+  "options": [
+   "3",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M77",
+  "subject": "Math",
+  "q": "If x + y = 10 and x - y = 4, then x is:",
+  "options": [
+   "6",
+   "7",
+   "5",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M78",
+  "subject": "Math",
+  "q": "(x + 3)^2 = x^2 + 6x + ___:",
+  "options": [
+   "3",
+   "12",
+   "9",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M79",
+  "subject": "Math",
+  "q": "Factorize x^2 - 9:",
+  "options": [
+   "(x+3)^2",
+   "(x-3)^2",
+   "(x-3)(x+3)",
+   "(x-9)(x+1)"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M80",
+  "subject": "Math",
+  "q": "If 2^x = 32, then x is:",
+  "options": [
+   "6",
+   "8",
+   "4",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M81",
+  "subject": "Math",
+  "q": "The square root of 625 is:",
+  "options": [
+   "25",
+   "20",
+   "35",
+   "15"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M82",
+  "subject": "Math",
+  "q": "The cube root of 216 is:",
+  "options": [
+   "4",
+   "6",
+   "8",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M83",
+  "subject": "Math",
+  "q": "The LCM of 12 and 18 is:",
+  "options": [
+   "36",
+   "24",
+   "72",
+   "48"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M84",
+  "subject": "Math",
+  "q": "The HCF of 24 and 36 is:",
+  "options": [
+   "12",
+   "18",
+   "6",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M85",
+  "subject": "Math",
+  "q": "The LCM of 8, 12 and 20 is:",
+  "options": [
+   "100",
+   "120",
+   "60",
+   "80"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M86",
+  "subject": "Math",
+  "q": "3/4 + 1/2 equals:",
+  "options": [
+   "1/4",
+   "4/6",
+   "5/4",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M87",
+  "subject": "Math",
+  "q": "0.5 x 0.2 equals:",
+  "options": [
+   "0.1",
+   "1.0",
+   "0.7",
+   "0.01"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M88",
+  "subject": "Math",
+  "q": "7/8 expressed as a decimal is:",
+  "options": [
+   "0.8",
+   "0.75",
+   "0.78",
+   "0.875"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M89",
+  "subject": "Math",
+  "q": "Which is the largest: 2/3, 3/4, 5/6?",
+  "options": [
+   "5/6",
+   "3/4",
+   "All are equal",
+   "2/3"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M90",
+  "subject": "Math",
+  "q": "The area of a rectangle 8 m by 5 m is:",
+  "options": [
+   "26 sq m",
+   "45 sq m",
+   "13 sq m",
+   "40 sq m"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M91",
+  "subject": "Math",
+  "q": "The perimeter of a square of side 9 cm is:",
+  "options": [
+   "81 cm",
+   "27 cm",
+   "36 cm",
+   "18 cm"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M92",
+  "subject": "Math",
+  "q": "The area of a circle of radius 7 cm (pi = 22/7) is:",
+  "options": [
+   "308 sq cm",
+   "88 sq cm",
+   "154 sq cm",
+   "44 sq cm"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M93",
+  "subject": "Math",
+  "q": "The volume of a cube of edge 4 cm is:",
+  "options": [
+   "48 cm3",
+   "16 cm3",
+   "64 cm3",
+   "96 cm3"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M94",
+  "subject": "Math",
+  "q": "The diagonal of a rectangle 3 cm by 4 cm is:",
+  "options": [
+   "5 cm",
+   "7 cm",
+   "12 cm",
+   "6 cm"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M95",
+  "subject": "Math",
+  "q": "A father is 3 times his son's age and the sum of their ages is 48. The son's age is:",
+  "options": [
+   "16 years",
+   "10 years",
+   "12 years",
+   "14 years"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M96",
+  "subject": "Math",
+  "q": "A is 5 years older than B and the sum of their ages is 25. B's age is:",
+  "options": [
+   "15 years",
+   "8 years",
+   "10 years",
+   "12 years"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M97",
+  "subject": "Math",
+  "q": "The ratio of the ages of A and B is 4:5 and the sum of their ages is 36. Their ages are:",
+  "options": [
+   "14, 22",
+   "18, 18",
+   "12, 24",
+   "16, 20"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M98",
+  "subject": "Math",
+  "q": "An article bought for Rs. 500 is sold for Rs. 650. The profit percentage is:",
+  "options": [
+   "25%",
+   "20%",
+   "30%",
+   "35%"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M99",
+  "subject": "Math",
+  "q": "An article sold at a 10% loss for Rs. 180 had a cost price of:",
+  "options": [
+   "Rs. 220",
+   "Rs. 190",
+   "Rs. 210",
+   "Rs. 200"
+  ],
+  "answer": 3,
+  "explanation": "180/0.9 = 200",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M100",
+  "subject": "Math",
+  "q": "A 20% discount on a marked price of Rs. 1,000 gives a selling price of:",
+  "options": [
+   "Rs. 750",
+   "Rs. 800",
+   "Rs. 850",
+   "Rs. 900"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M101",
+  "subject": "Math",
+  "q": "Successive discounts of 10% and 20% on Rs. 500 give a final price of:",
+  "options": [
+   "Rs. 375",
+   "Rs. 350",
+   "Rs. 400",
+   "Rs. 360"
+  ],
+  "answer": 3,
+  "explanation": "500x0.9x0.8 = 360",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M102",
+  "subject": "Math",
+  "q": "The simple interest on Rs. 1,000 at 5% per annum for 2 years is:",
+  "options": [
+   "Rs. 100",
+   "Rs. 200",
+   "Rs. 150",
+   "Rs. 50"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M103",
+  "subject": "Math",
+  "q": "Rs. 2,000 invested at 10% per annum amounts after 1 year to:",
+  "options": [
+   "Rs. 2,400",
+   "Rs. 2,100",
+   "Rs. 2,200",
+   "Rs. 2,000"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M104",
+  "subject": "Math",
+  "q": "The next prime number after 17 is:",
+  "options": [
+   "21",
+   "23",
+   "18",
+   "19"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M105",
+  "subject": "Math",
+  "q": "The sum of the first 50 natural numbers is:",
+  "options": [
+   "1300",
+   "1225",
+   "1250",
+   "1275"
+  ],
+  "answer": 3,
+  "explanation": "50x51/2 = 1275",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M106",
+  "subject": "Math",
+  "q": "2/5 of 100 is:",
+  "options": [
+   "20",
+   "30",
+   "40",
+   "50"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M107",
+  "subject": "Math",
+  "q": "3 dozen plus 5 equals:",
+  "options": [
+   "40",
+   "36",
+   "41",
+   "45"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M108",
+  "subject": "Math",
+  "q": "A man travels 60 km at 30 km/h and returns the same distance at 60 km/h. His average speed for the whole journey is:",
+  "options": [
+   "45 km/h",
+   "40 km/h",
+   "36 km/h",
+   "50 km/h"
+  ],
+  "answer": 1,
+  "explanation": "30+60",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M109",
+  "subject": "Math",
+  "q": "If 2/3 of a number is 24, the number is:",
+  "options": [
+   "48",
+   "36",
+   "32",
+   "30"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC bank"
+ },
+ {
+  "id": "M110",
+  "subject": "Math",
+  "q": "The difference between the largest 3-digit number and the smallest 3-digit number is:",
+  "options": [
+   "888",
+   "899",
+   "900",
+   "999"
+  ],
+  "answer": 1,
+  "explanation": "999-100 = 899",
+  "source": "PPSC bank"
+ },
+ {
+  "id": "F89",
+  "subject": "Math",
+  "q": "If X = 80% of Y and Z = 120% of X, then X:Y:Z = ?",
+  "options": [
+   "20:25:23",
+   "10:15:20",
+   "10:25:30",
+   "20:25:24"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F90",
+  "subject": "Math",
+  "q": "What number multiplied by 3/4 of itself gives 10800?",
+  "options": [
+   "150",
+   "100",
+   "200",
+   "120"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F91",
+  "subject": "Math",
+  "q": "A cube has an edge of 18 cm. How many smaller cubes of 3 cm edge can be cut?",
+  "options": [
+   "81",
+   "216",
+   "18",
+   "36"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F92",
+  "subject": "Math",
+  "q": "The complete square of x^2+18x+81 is:",
+  "options": [
+   "(x+9)^2",
+   "(x-8)^2",
+   "(x+11)^2",
+   "(x+8)^2"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F93",
+  "subject": "Math",
+  "q": "The sum of (mn+4-3) and (-2mn+3) is:",
+  "options": [
+   "mn+3",
+   "-mn+4",
+   "mn+6",
+   "-mn+3"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F94",
+  "subject": "Math",
+  "q": "If x^2-3x-10=0 and one factor is 5, the other factor is:",
+  "options": [
+   "2",
+   "1",
+   "-2",
+   "-1"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F95",
+  "subject": "Math",
+  "q": "Cost price 1500, selling price 1200. Discount percentage?",
+  "options": [
+   "15%",
+   "20%",
+   "10%",
+   "25%"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F96",
+  "subject": "Math",
+  "q": "Find the LCM of 27 and 63:",
+  "options": [
+   "159",
+   "189",
+   "180",
+   "198"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "PPSC Assistant paper 27-04-2025"
+ },
+ {
+  "id": "F113",
+  "subject": "Math",
+  "q": "The ratio between the perimeter and the breadth of a rectangle is 5:1. If the area of the rectangle is 216 sq. cm, what is the length of the rectangle?",
+  "options": [
+   "16 cm",
+   "14 cm",
+   "18 cm",
+   "None of these"
+  ],
+  "answer": 2,
+  "explanation": "Perimeter : breadth = 5:1 aur area 216 se breadth 18 cm nikalti hai (paper ka jawab C).",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F120",
+  "subject": "Math",
+  "q": "Find the smallest number that, when divided by 8, 10, 20, and 30, leaves a remainder of 5 in each case.",
+  "options": [
+   "None of these",
+   "120",
+   "240",
+   "125"
+  ],
+  "answer": 3,
+  "explanation": "8, 10, 20, 30 ka LCM 120; +5 remainder = 125.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F123",
+  "subject": "Math",
+  "q": "If 4x − 2y = 10 and 2x + y = 5, then what is the value of x?",
+  "options": [
+   "2.5",
+   "4.5",
+   "None of these",
+   "3.5"
+  ],
+  "answer": 0,
+  "explanation": "4x − 2y = 10 aur 2x + y = 5 ko hal karo to x = 2.5.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F152",
+  "subject": "Math",
+  "q": "The sum of the ages of a father and his son is 45 years. Five years ago, the father was 6 times as old as his son. What is the present age of the father?",
+  "options": [
+   "40 years",
+   "None of these",
+   "35 years",
+   "30 years"
+  ],
+  "answer": 2,
+  "explanation": "Baap + beta = 45; 5 saal pehle baap beta se 6 guna — baap ki umar 35 saal.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F174",
+  "subject": "Math",
+  "q": "If one side of a regular hexagon is 7 cm, what is its perimeter?",
+  "options": [
+   "35 cm",
+   "49 cm",
+   "None of these",
+   "42 cm"
+  ],
+  "answer": 3,
+  "explanation": "Regular hexagon ka perimeter = 6 × side = 6 × 7 = 42 cm.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F175",
+  "subject": "Math",
+  "q": "The sum of the interior angles of the hexagon is _____?",
+  "options": [
+   "None of these",
+   "720 deg",
+   "900 deg",
+   "540 deg"
+  ],
+  "answer": 1,
+  "explanation": "Hexagon ke androoni zawiyon ka majmoa 720° hota hai.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F176",
+  "subject": "Math",
+  "q": "A 60-degree angle is called a/an?",
+  "options": [
+   "None of these",
+   "Acute angle",
+   "Obtuse angle",
+   "Right angle"
+  ],
+  "answer": 1,
+  "explanation": "60° ka zawiya acute angle kehlata hai (90° se kam).",
+  "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "F182",
+  "subject": "Math",
+  "q": "Who invented Binomial Theorem?",
+  "options": [
+   "Zahrawi",
+   "None of these",
+   "Omar-Khayam",
+   "Khuwarzimi"
+  ],
+  "answer": 2,
+  "explanation": "Paper ke mutabiq Binomial Theorem Omar-Khayam ne ijad ki.",
+  "source": "PPSC Assistant paper 04-10-2026"
+ }
+]
