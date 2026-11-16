@@ -1,4 +1,4 @@
-/* Flow test for Muft Tayyari — drives the real app.js with a minimal DOM stub.
+/* Flow test for Dream PPSC — drives the real app.js with a minimal DOM stub.
    Run: node tools/test_app.js   (from the project root)
    The app code runs in a vm context with a bridge appended to the same script,
    so the test can reach the app's top-level bindings through __MT. */
@@ -76,9 +76,9 @@ const appHtml = () => els.app.innerHTML;
 (async () => {
   await sleep(50); // let fetch().then() resolve
   console.log('== load ==');
-  check('questions loaded (1454)', A.QUESTIONS.length === 1454, 'got ' + A.QUESTIONS.length);
-  check('home rendered with hero', appHtml().includes('Muft Tayyari'));
-  check('home shows question count', appHtml().includes('1,454'));
+  check('questions loaded (5592)', A.QUESTIONS.length === 5592, 'got ' + A.QUESTIONS.length);
+  check('home rendered with hero', appHtml().includes('Dream PPSC'));
+  check('home shows question count', appHtml().includes('5,592'));
 
   console.log('== practice flow ==');
   A.startPractice('Math');

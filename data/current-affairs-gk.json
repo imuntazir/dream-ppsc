@@ -2714,5 +2714,6333 @@
   "answer": 3,
   "explanation": "UNO 24 October 1945 ko bazabta wujood mein aayi.",
   "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "CA169",
+  "subject": "Current Affairs & GK",
+  "q": "In which year did the USSR officially end?",
+  "options": [
+   "1997",
+   "1999",
+   "1989",
+   "1991"
+  ],
+  "answer": 3,
+  "explanation": "The USSR was formally dissolved on 26 December 1991.",
+  "source": "Standard history / Britannica"
+ },
+ {
+  "id": "CA170",
+  "subject": "Current Affairs & GK",
+  "q": "Which country provided $144 million in humanitarian aid to Afghanistan in 2021?",
+  "options": [
+   "UK",
+   "Russia",
+   "Germany",
+   "USA"
+  ],
+  "answer": 3,
+  "explanation": "The US announced $144 million in new humanitarian assistance for Afghanistan on 28 October 2021.",
+  "source": "US State Dept announcement via Zee News / Express Tribune, Oct-Nov 2021"
+ },
+ {
+  "id": "CA171",
+  "subject": "Current Affairs & GK",
+  "q": "The term \"Cold War\" was first used by:",
+  "options": [
+   "Bernard Baruch",
+   "Stalin",
+   "Churchill",
+   "F.D. Roosevelt"
+  ],
+  "answer": 0,
+  "explanation": "Baruch first used it in the post-WWII US-Soviet sense in his 16 April 1947 speech; Orwell had used the phrase generally in 1945.",
+  "source": "Wikipedia 'Cold war (term)' / SC Dept of Archives"
+ },
+ {
+  "id": "CA172",
+  "subject": "Current Affairs & GK",
+  "q": "India procured the S-400 Triumf air defence missile system from:",
+  "options": [
+   "Russia",
+   "US",
+   "Germany",
+   "UK"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "Standard current affairs / Britannica"
+ },
+ {
+  "id": "CA173",
+  "subject": "Current Affairs & GK",
+  "q": "Realism theory in international relations is most closely associated with:",
+  "options": [
+   "Thomas Hobbes",
+   "John Locke",
+   "Hans J. Morgenthau",
+   "Immanuel Kant"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "Standard IR theory / Britannica"
+ },
+ {
+  "id": "CA174",
+  "subject": "Current Affairs & GK",
+  "q": "Which level of analysis explains relations between states?",
+  "options": [
+   "Global level",
+   "Individual level",
+   "Domestic level",
+   "Bureaucratic level"
+  ],
+  "answer": 0,
+  "explanation": "Waltz's third image is the international system (global/systemic level), which explains relations between states.",
+  "source": "Waltz, Man, the State, and War (1959)"
+ },
+ {
+  "id": "CA175",
+  "subject": "Current Affairs & GK",
+  "q": "Hungary remained under Ottoman control for how many years?",
+  "options": [
+   "135",
+   "158",
+   "111",
+   "190"
+  ],
+  "answer": 1,
+  "explanation": "Ottoman Hungary lasted from the occupation of Buda in 1541 to the Treaty of Karlowitz in 1699 = 158 years.",
+  "source": "Wikipedia 'Ottoman Hungary'"
+ },
+ {
+  "id": "CA176",
+  "subject": "Current Affairs & GK",
+  "q": "What was the official theme of the 2016 Rio Olympics?",
+  "options": [
+   "A New World",
+   "Inspire a Generation",
+   "Share the Spirit",
+   "One World, One Dream"
+  ],
+  "answer": 0,
+  "explanation": "Rio 2016's official slogan was 'A New World' (Um Mundo Novo).",
+  "source": "Wikipedia '2016 Summer Olympics marketing' / paralympic.org"
+ },
+ {
+  "id": "CA177",
+  "subject": "Current Affairs & GK",
+  "q": "Which is not an American state?",
+  "options": [
+   "Alaska",
+   "Paraguay",
+   "Texas",
+   "None of these"
+  ],
+  "answer": 1,
+  "explanation": "Paraguay is a South American country; Alaska and Texas are US states.",
+  "source": "Standard geography"
+ },
+ {
+  "id": "CA178",
+  "subject": "Current Affairs & GK",
+  "q": "Burhan Wani died in which year?",
+  "options": [
+   "2021",
+   "2012",
+   "2018",
+   "2016"
+  ],
+  "answer": 3,
+  "explanation": "Burhan Wani was killed on 8 July 2016.",
+  "source": "Standard current affairs"
+ },
+ {
+  "id": "CA179",
+  "subject": "Current Affairs & GK",
+  "q": "Samiullah is associated with which sport?",
+  "options": [
+   "Badminton",
+   "Cricket",
+   "Hockey",
+   "Football"
+  ],
+  "answer": 2,
+  "explanation": "Samiullah Khan is a former Pakistan field hockey player.",
+  "source": "Standard sports knowledge"
+ },
+ {
+  "id": "CA180",
+  "subject": "Current Affairs & GK",
+  "q": "In which year was Malala Yousafzai awarded the Nobel Peace Prize?",
+  "options": [
+   "2016",
+   "2014",
+   "2018",
+   "2012"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "Nobel Prize records"
+ },
+ {
+  "id": "CA181",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the owner of the Hashoo Group?",
+  "options": [
+   "Shahnawaz Hashwani",
+   "Sadruddin Hashwani",
+   "Murtaza Hashwani",
+   "Zafar Hashwani"
+  ],
+  "answer": 1,
+  "explanation": null,
+  "source": "Standard business knowledge"
+ },
+ {
+  "id": "CA182",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the current President of Iran?",
+  "options": [
+   "Ali Khamenei",
+   "Ebrahim Raisi",
+   "Pezeshkian",
+   "Masoud Mokhber"
+  ],
+  "answer": 2,
+  "explanation": "Masoud Pezeshkian became President of Iran in July 2024 (Raisi died May 2024; Khamenei is Supreme Leader).",
+  "source": "Standard current affairs"
+ },
+ {
+  "id": "CA183",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the current Vice President of the USA?",
+  "options": [
+   "Joe Biden",
+   "Mike Pence",
+   "JD Vance",
+   "Kamala Harris"
+  ],
+  "answer": 2,
+  "explanation": "JD Vance became US Vice President in January 2025.",
+  "source": "Standard current affairs"
+ },
+ {
+  "id": "CA184",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the smallest city in the world by population and area?",
+  "options": [
+   "Monaco",
+   "San Marino",
+   "Nauru",
+   "Vatican City"
+  ],
+  "answer": 3,
+  "explanation": null,
+  "source": "Standard geography"
+ },
+ {
+  "id": "CA185",
+  "subject": "Current Affairs & GK",
+  "q": "The ___ river is shared by India, China and Bangladesh:",
+  "options": [
+   "Yamuna",
+   "Indus",
+   "Brahmaputra",
+   "Ganges"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "Standard geography"
+ },
+ {
+  "id": "CA186",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the capital of Bulgaria?",
+  "options": [
+   "Sofia",
+   "Belgrade",
+   "Bucharest",
+   "Zagreb"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "Standard geography"
+ },
+ {
+  "id": "CA187",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Nepal?",
+  "options": [
+   "Lalitpur",
+   "Kathmandu",
+   "Pokhara",
+   "Biratnagar"
+  ],
+  "answer": 1,
+  "explanation": "Kathmandu is the capital of Nepal.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA188",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Cambodia?",
+  "options": [
+   "Vientiane",
+   "Phnom Penh",
+   "Battambang",
+   "Siem Reap"
+  ],
+  "answer": 1,
+  "explanation": "Phnom Penh is the capital of Cambodia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA189",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Thailand?",
+  "options": [
+   "Bangkok",
+   "Chiang Mai",
+   "Phuket",
+   "Pattaya"
+  ],
+  "answer": 0,
+  "explanation": "Bangkok is the capital of Thailand.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA190",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Vietnam?",
+  "options": [
+   "Hue",
+   "Ho Chi Minh City",
+   "Hanoi",
+   "Da Nang"
+  ],
+  "answer": 2,
+  "explanation": "Hanoi is the capital of Vietnam; Ho Chi Minh City is its largest city.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA191",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Myanmar?",
+  "options": [
+   "Naypyidaw",
+   "Yangon",
+   "Mandalay",
+   "Bago"
+  ],
+  "answer": 0,
+  "explanation": "Naypyidaw is the capital of Myanmar; Yangon is the former capital and largest city.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA192",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Bhutan?",
+  "options": [
+   "Phuntsholing",
+   "Paro",
+   "Thimphu",
+   "Punakha"
+  ],
+  "answer": 2,
+  "explanation": "Thimphu is the capital of Bhutan.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA193",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Bangladesh?",
+  "options": [
+   "Chittagong",
+   "Khulna",
+   "Sylhet",
+   "Dhaka"
+  ],
+  "answer": 3,
+  "explanation": "Dhaka is the capital of Bangladesh.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA194",
+  "subject": "Current Affairs & GK",
+  "q": "What is the official (legislative) capital of Sri Lanka?",
+  "options": [
+   "Galle",
+   "Sri Jayawardenepura Kotte",
+   "Kandy",
+   "Colombo"
+  ],
+  "answer": 1,
+  "explanation": "Sri Jayawardenepura Kotte is the legislative capital; Colombo is the executive capital.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA195",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Maldives?",
+  "options": [
+   "Male",
+   "Kulhudhuffushi",
+   "Addu City",
+   "Fuvahmulah"
+  ],
+  "answer": 0,
+  "explanation": "Male is the capital of Maldives.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA196",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Afghanistan?",
+  "options": [
+   "Kabul",
+   "Mazar-i-Sharif",
+   "Kandahar",
+   "Herat"
+  ],
+  "answer": 0,
+  "explanation": "Kabul is the capital of Afghanistan.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA197",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Kazakhstan?",
+  "options": [
+   "Shymkent",
+   "Karaganda",
+   "Almaty",
+   "Astana"
+  ],
+  "answer": 3,
+  "explanation": "Astana is the capital of Kazakhstan; Almaty is its largest city.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA198",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Uzbekistan?",
+  "options": [
+   "Samarkand",
+   "Fergana",
+   "Tashkent",
+   "Bukhara"
+  ],
+  "answer": 2,
+  "explanation": "Tashkent is the capital of Uzbekistan.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA199",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Kyrgyzstan?",
+  "options": [
+   "Bishkek",
+   "Jalal-Abad",
+   "Osh",
+   "Karakol"
+  ],
+  "answer": 0,
+  "explanation": "Bishkek is the capital of Kyrgyzstan.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA200",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Tajikistan?",
+  "options": [
+   "Kulob",
+   "Dushanbe",
+   "Khujand",
+   "Bokhtar"
+  ],
+  "answer": 1,
+  "explanation": "Dushanbe is the capital of Tajikistan.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA201",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Turkmenistan?",
+  "options": [
+   "Dashoguz",
+   "Ashgabat",
+   "Turkmenbashi",
+   "Mary"
+  ],
+  "answer": 1,
+  "explanation": "Ashgabat is the capital of Turkmenistan.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA202",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Mongolia?",
+  "options": [
+   "Darkhan",
+   "Choibalsan",
+   "Ulaanbaatar",
+   "Erdenet"
+  ],
+  "answer": 2,
+  "explanation": "Ulaanbaatar is the capital of Mongolia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA203",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Laos?",
+  "options": [
+   "Luang Prabang",
+   "Pakse",
+   "Vientiane",
+   "Savannakhet"
+  ],
+  "answer": 2,
+  "explanation": "Vientiane is the capital of Laos.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA204",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Malaysia?",
+  "options": [
+   "Kuala Lumpur",
+   "Penang",
+   "Johor Bahru",
+   "Putrajaya"
+  ],
+  "answer": 0,
+  "explanation": "Kuala Lumpur is the capital of Malaysia; Putrajaya is the administrative centre.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA205",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of the Philippines?",
+  "options": [
+   "Davao",
+   "Quezon City",
+   "Manila",
+   "Cebu"
+  ],
+  "answer": 2,
+  "explanation": "Manila is the capital of the Philippines.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA206",
+  "subject": "Current Affairs & GK",
+  "q": "Seoul is the capital of which country?",
+  "options": [
+   "Japan",
+   "South Korea",
+   "China",
+   "North Korea"
+  ],
+  "answer": 1,
+  "explanation": "Seoul is the capital of South Korea; Pyongyang is the capital of North Korea.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA207",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Czechia (Czech Republic)?",
+  "options": [
+   "Ostrava",
+   "Brno",
+   "Bratislava",
+   "Prague"
+  ],
+  "answer": 3,
+  "explanation": "Prague is the capital of Czechia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA208",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Bulgaria?",
+  "options": [
+   "Bucharest",
+   "Varna",
+   "Sofia",
+   "Plovdiv"
+  ],
+  "answer": 2,
+  "explanation": "Sofia is the capital of Bulgaria.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA209",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Albania?",
+  "options": [
+   "Skopje",
+   "Sarajevo",
+   "Pristina",
+   "Tirana"
+  ],
+  "answer": 3,
+  "explanation": "Tirana is the capital of Albania.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA210",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Romania?",
+  "options": [
+   "Timisoara",
+   "Iasi",
+   "Bucharest",
+   "Cluj-Napoca"
+  ],
+  "answer": 2,
+  "explanation": "Bucharest is the capital of Romania.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA211",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Hungary?",
+  "options": [
+   "Budapest",
+   "Szeged",
+   "Vienna",
+   "Debrecen"
+  ],
+  "answer": 0,
+  "explanation": "Budapest is the capital of Hungary.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA212",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Greece?",
+  "options": [
+   "Patras",
+   "Athens",
+   "Thessaloniki",
+   "Sparta"
+  ],
+  "answer": 1,
+  "explanation": "Athens is the capital of Greece.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA213",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Poland?",
+  "options": [
+   "Wroclaw",
+   "Krakow",
+   "Gdansk",
+   "Warsaw"
+  ],
+  "answer": 3,
+  "explanation": "Warsaw is the capital of Poland.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA214",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Ukraine?",
+  "options": [
+   "Odessa",
+   "Lviv",
+   "Kyiv",
+   "Kharkiv"
+  ],
+  "answer": 2,
+  "explanation": "Kyiv is the capital of Ukraine.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA215",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Austria?",
+  "options": [
+   "Graz",
+   "Innsbruck",
+   "Vienna",
+   "Salzburg"
+  ],
+  "answer": 2,
+  "explanation": "Vienna is the capital of Austria.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA216",
+  "subject": "Current Affairs & GK",
+  "q": "Madrid is the capital of which country?",
+  "options": [
+   "Spain",
+   "Mexico",
+   "Italy",
+   "Portugal"
+  ],
+  "answer": 0,
+  "explanation": "Madrid is the capital of Spain.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA217",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Portugal?",
+  "options": [
+   "Porto",
+   "Coimbra",
+   "Braga",
+   "Lisbon"
+  ],
+  "answer": 3,
+  "explanation": "Lisbon is the capital of Portugal.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA218",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Ireland?",
+  "options": [
+   "Dublin",
+   "Cork",
+   "Limerick",
+   "Galway"
+  ],
+  "answer": 0,
+  "explanation": "Dublin is the capital of Ireland.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA219",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Iceland?",
+  "options": [
+   "Hofn",
+   "Reykjavik",
+   "Akureyri",
+   "Selfoss"
+  ],
+  "answer": 1,
+  "explanation": "Reykjavik is the capital of Iceland.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA220",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Finland?",
+  "options": [
+   "Tampere",
+   "Helsinki",
+   "Oulu",
+   "Turku"
+  ],
+  "answer": 1,
+  "explanation": "Helsinki is the capital of Finland.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA221",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Norway?",
+  "options": [
+   "Stavanger",
+   "Bergen",
+   "Trondheim",
+   "Oslo"
+  ],
+  "answer": 3,
+  "explanation": "Oslo is the capital of Norway.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA222",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Denmark?",
+  "options": [
+   "Aarhus",
+   "Odense",
+   "Copenhagen",
+   "Aalborg"
+  ],
+  "answer": 2,
+  "explanation": "Copenhagen is the capital of Denmark.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA223",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Serbia?",
+  "options": [
+   "Belgrade",
+   "Nis",
+   "Pristina",
+   "Novi Sad"
+  ],
+  "answer": 0,
+  "explanation": "Belgrade is the capital of Serbia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA224",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Croatia?",
+  "options": [
+   "Rijeka",
+   "Zagreb",
+   "Dubrovnik",
+   "Split"
+  ],
+  "answer": 1,
+  "explanation": "Zagreb is the capital of Croatia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA225",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Slovakia?",
+  "options": [
+   "Brno",
+   "Kosice",
+   "Bratislava",
+   "Presov"
+  ],
+  "answer": 2,
+  "explanation": "Bratislava is the capital of Slovakia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA226",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Georgia?",
+  "options": [
+   "Batumi",
+   "Rustavi",
+   "Kutaisi",
+   "Tbilisi"
+  ],
+  "answer": 3,
+  "explanation": "Tbilisi is the capital of Georgia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA227",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Somalia?",
+  "options": [
+   "Garowe",
+   "Hargeisa",
+   "Mogadishu",
+   "Kismayo"
+  ],
+  "answer": 2,
+  "explanation": "Mogadishu is the capital of Somalia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA228",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Ethiopia?",
+  "options": [
+   "Gondar",
+   "Addis Ababa",
+   "Dire Dawa",
+   "Mekelle"
+  ],
+  "answer": 1,
+  "explanation": "Addis Ababa is the capital of Ethiopia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA229",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Kenya?",
+  "options": [
+   "Mombasa",
+   "Nairobi",
+   "Nakuru",
+   "Kisumu"
+  ],
+  "answer": 1,
+  "explanation": "Nairobi is the capital of Kenya.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA230",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Nigeria?",
+  "options": [
+   "Abuja",
+   "Lagos",
+   "Kano",
+   "Ibadan"
+  ],
+  "answer": 0,
+  "explanation": "Abuja is the capital of Nigeria; Lagos is its largest city.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA231",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Ghana?",
+  "options": [
+   "Kumasi",
+   "Takoradi",
+   "Accra",
+   "Tamale"
+  ],
+  "answer": 2,
+  "explanation": "Accra is the capital of Ghana.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA232",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Egypt?",
+  "options": [
+   "Cairo",
+   "Giza",
+   "Alexandria",
+   "Luxor"
+  ],
+  "answer": 0,
+  "explanation": "Cairo is the capital of Egypt.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA233",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Morocco?",
+  "options": [
+   "Fez",
+   "Casablanca",
+   "Rabat",
+   "Marrakech"
+  ],
+  "answer": 2,
+  "explanation": "Rabat is the capital of Morocco; Casablanca is its largest city.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA234",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Algeria?",
+  "options": [
+   "Constantine",
+   "Oran",
+   "Annaba",
+   "Algiers"
+  ],
+  "answer": 3,
+  "explanation": "Algiers is the capital of Algeria.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA235",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Tunisia?",
+  "options": [
+   "Sousse",
+   "Tunis",
+   "Sfax",
+   "Kairouan"
+  ],
+  "answer": 1,
+  "explanation": "Tunis is the capital of Tunisia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA236",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Libya?",
+  "options": [
+   "Misrata",
+   "Tobruk",
+   "Benghazi",
+   "Tripoli"
+  ],
+  "answer": 3,
+  "explanation": "Tripoli is the capital of Libya.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA237",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Sudan?",
+  "options": [
+   "Khartoum",
+   "Nyala",
+   "Omdurman",
+   "Port Sudan"
+  ],
+  "answer": 0,
+  "explanation": "Khartoum is the capital of Sudan.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA238",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of South Sudan?",
+  "options": [
+   "Yei",
+   "Juba",
+   "Wau",
+   "Malakal"
+  ],
+  "answer": 1,
+  "explanation": "Juba is the capital of South Sudan.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA239",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Zambia?",
+  "options": [
+   "Kitwe",
+   "Lusaka",
+   "Livingstone",
+   "Ndola"
+  ],
+  "answer": 1,
+  "explanation": "Lusaka is the capital of Zambia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA240",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Zimbabwe?",
+  "options": [
+   "Harare",
+   "Mutare",
+   "Bulawayo",
+   "Victoria Falls"
+  ],
+  "answer": 0,
+  "explanation": "Harare is the capital of Zimbabwe.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA241",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Senegal?",
+  "options": [
+   "Saint-Louis",
+   "Thies",
+   "Ziguinchor",
+   "Dakar"
+  ],
+  "answer": 3,
+  "explanation": "Dakar is the capital of Senegal.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA242",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Canada?",
+  "options": [
+   "Toronto",
+   "Ottawa",
+   "Montreal",
+   "Vancouver"
+  ],
+  "answer": 1,
+  "explanation": "Ottawa is the capital of Canada; Toronto is its largest city.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA243",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Colombia?",
+  "options": [
+   "Cartagena",
+   "Bogota",
+   "Medellin",
+   "Cali"
+  ],
+  "answer": 1,
+  "explanation": "Bogota is the capital of Colombia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA244",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Peru?",
+  "options": [
+   "Arequipa",
+   "Cusco",
+   "Lima",
+   "Trujillo"
+  ],
+  "answer": 2,
+  "explanation": "Lima is the capital of Peru.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA245",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Chile?",
+  "options": [
+   "Concepcion",
+   "Valparaiso",
+   "Santiago",
+   "Antofagasta"
+  ],
+  "answer": 2,
+  "explanation": "Santiago is the capital of Chile.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA246",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of New Zealand?",
+  "options": [
+   "Christchurch",
+   "Auckland",
+   "Wellington",
+   "Hamilton"
+  ],
+  "answer": 2,
+  "explanation": "Wellington is the capital of New Zealand; Auckland is its largest city.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA247",
+  "subject": "Current Affairs & GK",
+  "q": "Big Ben is located in which city?",
+  "options": [
+   "Paris",
+   "London",
+   "Dublin",
+   "Edinburgh"
+  ],
+  "answer": 1,
+  "explanation": "Big Ben (the Elizabeth Tower) stands in London, beside the River Thames.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA248",
+  "subject": "Current Affairs & GK",
+  "q": "The Colosseum is located in which city?",
+  "options": [
+   "Rome",
+   "Naples",
+   "Venice",
+   "Athens"
+  ],
+  "answer": 0,
+  "explanation": "The Colosseum is in Rome, Italy.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA249",
+  "subject": "Current Affairs & GK",
+  "q": "Notre Dame Cathedral is located in which city?",
+  "options": [
+   "Lyon",
+   "Brussels",
+   "Marseille",
+   "Paris"
+  ],
+  "answer": 3,
+  "explanation": "Notre Dame Cathedral is in Paris, France.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA250",
+  "subject": "Current Affairs & GK",
+  "q": "The Eiffel Tower is located in which city?",
+  "options": [
+   "Paris",
+   "Madrid",
+   "Rome",
+   "Berlin"
+  ],
+  "answer": 0,
+  "explanation": "The Eiffel Tower is in Paris, France.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA251",
+  "subject": "Current Affairs & GK",
+  "q": "The River Thames flows through which city?",
+  "options": [
+   "Edinburgh",
+   "London",
+   "Manchester",
+   "Dublin"
+  ],
+  "answer": 1,
+  "explanation": "The River Thames flows through London.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA252",
+  "subject": "Current Affairs & GK",
+  "q": "The River Seine flows through which city?",
+  "options": [
+   "Paris",
+   "Lyon",
+   "Brussels",
+   "Geneva"
+  ],
+  "answer": 0,
+  "explanation": "The River Seine flows through Paris.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA253",
+  "subject": "Current Affairs & GK",
+  "q": "The River Tiber flows through which city?",
+  "options": [
+   "Rome",
+   "Milan",
+   "Venice",
+   "Naples"
+  ],
+  "answer": 0,
+  "explanation": "The River Tiber flows through Rome.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA254",
+  "subject": "Current Affairs & GK",
+  "q": "The Danube river flows through how many national capitals?",
+  "options": [
+   "4",
+   "2",
+   "3",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "The Danube flows through 4 capitals: Vienna, Bratislava, Budapest and Belgrade.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA255",
+  "subject": "Current Affairs & GK",
+  "q": "The Great Wall is located in which country?",
+  "options": [
+   "Japan",
+   "South Korea",
+   "Mongolia",
+   "China"
+  ],
+  "answer": 3,
+  "explanation": "The Great Wall is in China.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA256",
+  "subject": "Current Affairs & GK",
+  "q": "The Taj Mahal is located in which city?",
+  "options": [
+   "Delhi",
+   "Agra",
+   "Jaipur",
+   "Lucknow"
+  ],
+  "answer": 1,
+  "explanation": "The Taj Mahal is in Agra, India.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA257",
+  "subject": "Current Affairs & GK",
+  "q": "The Pyramids of Giza are located in which country?",
+  "options": [
+   "Egypt",
+   "Sudan",
+   "Iraq",
+   "Mexico"
+  ],
+  "answer": 0,
+  "explanation": "The Pyramids of Giza are in Egypt, near Cairo.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA258",
+  "subject": "Current Affairs & GK",
+  "q": "The Statue of Liberty is located in which city?",
+  "options": [
+   "Washington D.C.",
+   "New York",
+   "Boston",
+   "Los Angeles"
+  ],
+  "answer": 1,
+  "explanation": "The Statue of Liberty stands in New York Harbour, USA.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA259",
+  "subject": "Current Affairs & GK",
+  "q": "The Sydney Opera House is located in which city?",
+  "options": [
+   "Brisbane",
+   "Melbourne",
+   "Canberra",
+   "Sydney"
+  ],
+  "answer": 3,
+  "explanation": "The Sydney Opera House is in Sydney, Australia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA260",
+  "subject": "Current Affairs & GK",
+  "q": "The Leaning Tower is located in which city?",
+  "options": [
+   "Rome",
+   "Pisa",
+   "Venice",
+   "Florence"
+  ],
+  "answer": 1,
+  "explanation": "The Leaning Tower is in Pisa, Italy.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA261",
+  "subject": "Current Affairs & GK",
+  "q": "The Acropolis is located in which city?",
+  "options": [
+   "Sparta",
+   "Athens",
+   "Corinth",
+   "Thessaloniki"
+  ],
+  "answer": 1,
+  "explanation": "The Acropolis is in Athens, Greece.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA262",
+  "subject": "Current Affairs & GK",
+  "q": "Hagia Sophia is located in which city?",
+  "options": [
+   "Izmir",
+   "Istanbul",
+   "Ankara",
+   "Antalya"
+  ],
+  "answer": 1,
+  "explanation": "Hagia Sophia is in Istanbul, Turkey.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA263",
+  "subject": "Current Affairs & GK",
+  "q": "Red Square is located in which city?",
+  "options": [
+   "Minsk",
+   "Moscow",
+   "Kyiv",
+   "St Petersburg"
+  ],
+  "answer": 1,
+  "explanation": "Red Square is in Moscow, Russia.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA264",
+  "subject": "Current Affairs & GK",
+  "q": "The Louvre Museum is located in which city?",
+  "options": [
+   "Madrid",
+   "Paris",
+   "London",
+   "Rome"
+  ],
+  "answer": 1,
+  "explanation": "The Louvre Museum is in Paris, France.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA265",
+  "subject": "Current Affairs & GK",
+  "q": "Vatican City, the smallest country in the world, is enclaved within which city?",
+  "options": [
+   "Milan",
+   "Naples",
+   "Rome",
+   "Venice"
+  ],
+  "answer": 2,
+  "explanation": "Vatican City lies inside Rome, Italy.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA266",
+  "subject": "Current Affairs & GK",
+  "q": "The Forbidden City is located in which city?",
+  "options": [
+   "Shanghai",
+   "Beijing",
+   "Nanjing",
+   "Xi'an"
+  ],
+  "answer": 1,
+  "explanation": "The Forbidden City is in Beijing, China.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA267",
+  "subject": "Current Affairs & GK",
+  "q": "The River Nile flows into which sea?",
+  "options": [
+   "Arabian Sea",
+   "Black Sea",
+   "Mediterranean Sea",
+   "Red Sea"
+  ],
+  "answer": 2,
+  "explanation": "The Nile flows north into the Mediterranean Sea.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA268",
+  "subject": "Current Affairs & GK",
+  "q": "Niagara Falls lies on the border of the USA and which country?",
+  "options": [
+   "Mexico",
+   "Cuba",
+   "Canada",
+   "Greenland"
+  ],
+  "answer": 2,
+  "explanation": "Niagara Falls lies on the USA-Canada border.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA269",
+  "subject": "Current Affairs & GK",
+  "q": "Angel Falls, the highest waterfall in the world, is located in which country?",
+  "options": [
+   "Colombia",
+   "Brazil",
+   "Venezuela",
+   "Peru"
+  ],
+  "answer": 2,
+  "explanation": "Angel Falls is in Venezuela.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA270",
+  "subject": "Current Affairs & GK",
+  "q": "Victoria Falls is on which river?",
+  "options": [
+   "Niger",
+   "Congo",
+   "Nile",
+   "Zambezi"
+  ],
+  "answer": 3,
+  "explanation": "Victoria Falls is on the Zambezi river, on the Zambia-Zimbabwe border.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA271",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest hot desert in the world?",
+  "options": [
+   "Thar",
+   "Kalahari",
+   "Sahara",
+   "Gobi"
+  ],
+  "answer": 2,
+  "explanation": "The Sahara is the largest hot desert in the world.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA272",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Australia?",
+  "options": [
+   "Melbourne",
+   "Canberra",
+   "Sydney",
+   "Perth"
+  ],
+  "answer": 1,
+  "explanation": "Canberra is the capital of Australia; Sydney is its largest city.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA273",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Brazil?",
+  "options": [
+   "Sao Paulo",
+   "Brasilia",
+   "Rio de Janeiro",
+   "Salvador"
+  ],
+  "answer": 1,
+  "explanation": "Brasilia is the capital of Brazil; Rio de Janeiro was the former capital.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA274",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Turkey?",
+  "options": [
+   "Izmir",
+   "Ankara",
+   "Bursa",
+   "Istanbul"
+  ],
+  "answer": 1,
+  "explanation": "Ankara is the capital of Turkey; Istanbul is its largest city.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA275",
+  "subject": "Current Affairs & GK",
+  "q": "Which city is the de facto capital (seat of the federal government) of Switzerland?",
+  "options": [
+   "Zurich",
+   "Lucerne",
+   "Bern",
+   "Geneva"
+  ],
+  "answer": 2,
+  "explanation": "Bern is the seat of the Swiss federal government; Switzerland has no official capital.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA276",
+  "subject": "Current Affairs & GK",
+  "q": "Amsterdam is the constitutional capital of which country?",
+  "options": [
+   "Netherlands",
+   "Belgium",
+   "Denmark",
+   "Luxembourg"
+  ],
+  "answer": 0,
+  "explanation": "Amsterdam is the constitutional capital of the Netherlands; the government sits in The Hague.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA277",
+  "subject": "Current Affairs & GK",
+  "q": "Pretoria is the administrative (executive) capital of which country?",
+  "options": [
+   "Kenya",
+   "South Africa",
+   "Zimbabwe",
+   "Zambia"
+  ],
+  "answer": 1,
+  "explanation": "Pretoria is the administrative capital of South Africa.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA278",
+  "subject": "Current Affairs & GK",
+  "q": "Cape Town is the legislative capital of which country?",
+  "options": [
+   "Mozambique",
+   "Botswana",
+   "South Africa",
+   "Namibia"
+  ],
+  "answer": 2,
+  "explanation": "Cape Town is the legislative capital of South Africa.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA279",
+  "subject": "Current Affairs & GK",
+  "q": "Sucre is the constitutional capital of which country?",
+  "options": [
+   "Ecuador",
+   "Paraguay",
+   "Uruguay",
+   "Bolivia"
+  ],
+  "answer": 3,
+  "explanation": "Sucre is the constitutional capital of Bolivia; the seat of government is La Paz.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA280",
+  "subject": "Current Affairs & GK",
+  "q": "Dodoma is the official capital of which country?",
+  "options": [
+   "Rwanda",
+   "Uganda",
+   "Kenya",
+   "Tanzania"
+  ],
+  "answer": 3,
+  "explanation": "Dodoma is the official capital of Tanzania; Dar es Salaam is its largest city.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA281",
+  "subject": "Current Affairs & GK",
+  "q": "Yangon is the former capital and largest city of which country?",
+  "options": [
+   "Cambodia",
+   "Laos",
+   "Myanmar",
+   "Thailand"
+  ],
+  "answer": 2,
+  "explanation": "Yangon was the capital of Myanmar until 2006, when the capital moved to Naypyidaw.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA282",
+  "subject": "Current Affairs & GK",
+  "q": "Which of the following cities is NOT a national capital?",
+  "options": [
+   "Sydney",
+   "Ottawa",
+   "Wellington",
+   "Canberra"
+  ],
+  "answer": 0,
+  "explanation": "Sydney is the largest city of Australia, but the capital is Canberra.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA283",
+  "subject": "Current Affairs & GK",
+  "q": "The Hague is the seat of government of which country?",
+  "options": [
+   "Luxembourg",
+   "Denmark",
+   "Belgium",
+   "Netherlands"
+  ],
+  "answer": 3,
+  "explanation": "The Hague is the seat of government of the Netherlands.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA284",
+  "subject": "Current Affairs & GK",
+  "q": "Colombo is the former capital and commercial capital of which country?",
+  "options": [
+   "Nepal",
+   "Sri Lanka",
+   "Maldives",
+   "Myanmar"
+  ],
+  "answer": 1,
+  "explanation": "Colombo is the former capital of Sri Lanka; the legislative capital is now Sri Jayawardenepura Kotte.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA285",
+  "subject": "Current Affairs & GK",
+  "q": "Which capital-country pair is INCORRECT?",
+  "options": [
+   "Turkey - Ankara",
+   "Australia - Sydney",
+   "Canada - Ottawa",
+   "Brazil - Brasilia"
+  ],
+  "answer": 1,
+  "explanation": "Australia - Sydney is incorrect; the capital of Australia is Canberra.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA286",
+  "subject": "Current Affairs & GK",
+  "q": "Which country has three capitals?",
+  "options": [
+   "South Africa",
+   "Sri Lanka",
+   "Bolivia",
+   "Netherlands"
+  ],
+  "answer": 0,
+  "explanation": "South Africa has three capitals: Pretoria, Cape Town and Bloemfontein.",
+  "source": "PPSC Day 35"
+ },
+ {
+  "id": "CA287",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest country in the world by area?",
+  "options": [
+   "Canada",
+   "China",
+   "Russia",
+   "USA"
+  ],
+  "answer": 2,
+  "explanation": "Russia is the largest country, about 17.1 million sq km.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA288",
+  "subject": "Current Affairs & GK",
+  "q": "Which country has the longest coastline in the world?",
+  "options": [
+   "Australia",
+   "Russia",
+   "Brazil",
+   "Canada"
+  ],
+  "answer": 3,
+  "explanation": "Canada has the longest coastline, about 202,080 km.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA289",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the longest river in the world?",
+  "options": [
+   "Amazon",
+   "Yangtze",
+   "Nile",
+   "Mississippi"
+  ],
+  "answer": 2,
+  "explanation": "The Nile (about 6,650 km) is generally regarded as the longest river.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA290",
+  "subject": "Current Affairs & GK",
+  "q": "Which river carries the largest volume of water in the world?",
+  "options": [
+   "Congo",
+   "Nile",
+   "Niger",
+   "Amazon"
+  ],
+  "answer": 3,
+  "explanation": "The Amazon carries more water than any other river.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA291",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the deepest lake in the world?",
+  "options": [
+   "Lake Tanganyika",
+   "Lake Baikal",
+   "Lake Superior",
+   "Caspian Sea"
+  ],
+  "answer": 1,
+  "explanation": "Lake Baikal in Russia is about 1,642 m deep.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA292",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest lake in the world by area?",
+  "options": [
+   "Lake Baikal",
+   "Lake Victoria",
+   "Caspian Sea",
+   "Lake Superior"
+  ],
+  "answer": 2,
+  "explanation": "The Caspian Sea is the largest lake, about 371,000 sq km.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA293",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the highest mountain peak in the world?",
+  "options": [
+   "K2",
+   "Mount Everest",
+   "Makalu",
+   "Kangchenjunga"
+  ],
+  "answer": 1,
+  "explanation": "Mount Everest is 8,849 m high.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA294",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the longest mountain range in the world?",
+  "options": [
+   "Rocky Mountains",
+   "Alps",
+   "Andes",
+   "Himalayas"
+  ],
+  "answer": 2,
+  "explanation": "The Andes stretch about 7,000 km along South America.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA295",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest island in the world?",
+  "options": [
+   "Greenland",
+   "Sumatra",
+   "Madagascar",
+   "Borneo"
+  ],
+  "answer": 0,
+  "explanation": "Greenland is the largest island in the world.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA296",
+  "subject": "Current Affairs & GK",
+  "q": "What is the deepest point in the world's oceans?",
+  "options": [
+   "Java Trench",
+   "Tonga Trench",
+   "Puerto Rico Trench",
+   "Mariana Trench"
+  ],
+  "answer": 3,
+  "explanation": "The Mariana Trench (Challenger Deep) is about 10,935 m deep.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA297",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest ocean in the world?",
+  "options": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Arctic Ocean",
+   "Indian Ocean"
+  ],
+  "answer": 1,
+  "explanation": "The Pacific Ocean is the largest and deepest ocean.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA298",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the smallest ocean in the world?",
+  "options": [
+   "Indian Ocean",
+   "Atlantic Ocean",
+   "Southern Ocean",
+   "Arctic Ocean"
+  ],
+  "answer": 3,
+  "explanation": "The Arctic Ocean is the smallest ocean.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA299",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the longest river of Asia?",
+  "options": [
+   "Ganges",
+   "Mekong",
+   "Yangtze",
+   "Indus"
+  ],
+  "answer": 2,
+  "explanation": "The Yangtze (about 6,300 km) is the longest river of Asia.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA300",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest desert in the world?",
+  "options": [
+   "Sahara Desert",
+   "Gobi Desert",
+   "Arabian Desert",
+   "Antarctic Desert"
+  ],
+  "answer": 3,
+  "explanation": "The Antarctic Desert is the largest desert; the Sahara is the largest hot desert.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA301",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest river delta in the world?",
+  "options": [
+   "Ganges-Brahmaputra Delta",
+   "Mekong Delta",
+   "Niger Delta",
+   "Nile Delta"
+  ],
+  "answer": 0,
+  "explanation": "The Ganges-Brahmaputra delta (Sundarbans) is the largest delta.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA302",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest peninsula in the world?",
+  "options": [
+   "Iberian Peninsula",
+   "Arabian Peninsula",
+   "Malay Peninsula",
+   "Indian Peninsula"
+  ],
+  "answer": 1,
+  "explanation": "The Arabian Peninsula is the largest peninsula.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA303",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest glacier in the world?",
+  "options": [
+   "Fedchenko Glacier",
+   "Siachen Glacier",
+   "Lambert Glacier",
+   "Baltoro Glacier"
+  ],
+  "answer": 2,
+  "explanation": "Lambert Glacier in Antarctica is the largest glacier.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA304",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest coral reef system in the world?",
+  "options": [
+   "Great Barrier Reef",
+   "Belize Barrier Reef",
+   "Red Sea Coral Reef",
+   "New Caledonia Barrier Reef"
+  ],
+  "answer": 0,
+  "explanation": "The Great Barrier Reef off Australia is the largest coral reef.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA305",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the longest railway line in the world?",
+  "options": [
+   "Trans-Mongolian Railway",
+   "Canadian Pacific Railway",
+   "Orient Express",
+   "Trans-Siberian Railway"
+  ],
+  "answer": 3,
+  "explanation": "The Trans-Siberian Railway is 9,289 km long.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA306",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the most populous country in the world?",
+  "options": [
+   "India",
+   "Indonesia",
+   "USA",
+   "China"
+  ],
+  "answer": 0,
+  "explanation": "India overtook China in 2023 and is now the most populous country.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA307",
+  "subject": "Current Affairs & GK",
+  "q": "How many emirates are there in the United Arab Emirates (UAE)?",
+  "options": [
+   "8",
+   "6",
+   "7",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "The UAE is a federation of 7 emirates.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA308",
+  "subject": "Current Affairs & GK",
+  "q": "How many states are there in the United States of America?",
+  "options": [
+   "52",
+   "48",
+   "50",
+   "51"
+  ],
+  "answer": 2,
+  "explanation": "The USA has 50 states.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA309",
+  "subject": "Current Affairs & GK",
+  "q": "How many provinces are there in Canada?",
+  "options": [
+   "10",
+   "9",
+   "11",
+   "13"
+  ],
+  "answer": 0,
+  "explanation": "Canada has 10 provinces and 3 territories.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA310",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan shares land borders with how many countries?",
+  "options": [
+   "3",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "Pakistan borders China, India, Afghanistan and Iran.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA311",
+  "subject": "Current Affairs & GK",
+  "q": "Bangladesh shares land borders with which two countries?",
+  "options": [
+   "India and Nepal",
+   "Myanmar and Thailand",
+   "India and Bhutan",
+   "India and Myanmar"
+  ],
+  "answer": 3,
+  "explanation": "Bangladesh borders India and Myanmar only.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA312",
+  "subject": "Current Affairs & GK",
+  "q": "Aleppo is a historic city of which country?",
+  "options": [
+   "Lebanon",
+   "Iraq",
+   "Turkey",
+   "Syria"
+  ],
+  "answer": 3,
+  "explanation": "Aleppo is a major city of Syria.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA313",
+  "subject": "Current Affairs & GK",
+  "q": "Nepal is a landlocked country situated between which two countries?",
+  "options": [
+   "China and Bhutan",
+   "India and Bangladesh",
+   "China and Myanmar",
+   "India and China"
+  ],
+  "answer": 3,
+  "explanation": "Nepal lies between India and China.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA314",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is crossed by both the Equator and the Tropic of Capricorn?",
+  "options": [
+   "Peru",
+   "Brazil",
+   "Argentina",
+   "Colombia"
+  ],
+  "answer": 1,
+  "explanation": "Brazil is crossed by the Equator in the north and the Tropic of Capricorn in the south.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA315",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest country of Africa by area?",
+  "options": [
+   "Algeria",
+   "Nigeria",
+   "Sudan",
+   "Egypt"
+  ],
+  "answer": 0,
+  "explanation": "Algeria is the largest country of Africa.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA316",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest country entirely in Europe?",
+  "options": [
+   "Poland",
+   "Spain",
+   "Ukraine",
+   "France"
+  ],
+  "answer": 2,
+  "explanation": "Ukraine is the largest country located entirely in Europe.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA317",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest landlocked country in the world?",
+  "options": [
+   "Mongolia",
+   "Kazakhstan",
+   "Bolivia",
+   "Ethiopia"
+  ],
+  "answer": 1,
+  "explanation": "Kazakhstan is the largest landlocked country.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA318",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the smallest landlocked country in the world?",
+  "options": [
+   "Vatican City",
+   "Liechtenstein",
+   "Andorra",
+   "San Marino"
+  ],
+  "answer": 0,
+  "explanation": "Vatican City is the smallest landlocked country.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA319",
+  "subject": "Current Affairs & GK",
+  "q": "Which of the following is a doubly landlocked country?",
+  "options": [
+   "Nepal",
+   "Afghanistan",
+   "Uzbekistan",
+   "Paraguay"
+  ],
+  "answer": 2,
+  "explanation": "Uzbekistan is doubly landlocked, surrounded only by landlocked countries.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA320",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the other doubly landlocked country in the world besides Uzbekistan?",
+  "options": [
+   "Liechtenstein",
+   "Luxembourg",
+   "Switzerland",
+   "Austria"
+  ],
+  "answer": 0,
+  "explanation": "Liechtenstein is the second doubly landlocked country.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA321",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is completely surrounded by South Africa?",
+  "options": [
+   "Namibia",
+   "Botswana",
+   "Eswatini",
+   "Lesotho"
+  ],
+  "answer": 3,
+  "explanation": "Lesotho is an enclave entirely within South Africa.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA322",
+  "subject": "Current Affairs & GK",
+  "q": "Which two countries are enclaved within Italy?",
+  "options": [
+   "Liechtenstein and Austria",
+   "Monaco and Andorra",
+   "Malta and Cyprus",
+   "Vatican City and San Marino"
+  ],
+  "answer": 3,
+  "explanation": "Vatican City and San Marino both lie inside Italy.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA323",
+  "subject": "Current Affairs & GK",
+  "q": "Which country has the most time zones in the world?",
+  "options": [
+   "France",
+   "Russia",
+   "USA",
+   "Australia"
+  ],
+  "answer": 0,
+  "explanation": "France has 12 time zones, including its overseas territories.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA324",
+  "subject": "Current Affairs & GK",
+  "q": "The Equator passes through how many countries?",
+  "options": [
+   "13",
+   "12",
+   "11",
+   "15"
+  ],
+  "answer": 0,
+  "explanation": "The Equator passes through 13 countries.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA325",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the longest international land border between two countries?",
+  "options": [
+   "India-Bangladesh",
+   "USA-Canada",
+   "USA-Mexico",
+   "Russia-China"
+  ],
+  "answer": 1,
+  "explanation": "The USA-Canada border is 8,891 km long.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA326",
+  "subject": "Current Affairs & GK",
+  "q": "How many countries share a land border with China?",
+  "options": [
+   "15",
+   "14",
+   "13",
+   "12"
+  ],
+  "answer": 1,
+  "explanation": "China shares borders with 14 countries, tied with Russia.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA327",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is known as the Land of the Rising Sun?",
+  "options": [
+   "Thailand",
+   "China",
+   "Japan",
+   "Vietnam"
+  ],
+  "answer": 2,
+  "explanation": "Japan is called the Land of the Rising Sun.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA328",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is known as the Land of the Midnight Sun?",
+  "options": [
+   "Norway",
+   "Sweden",
+   "Finland",
+   "Iceland"
+  ],
+  "answer": 0,
+  "explanation": "Norway is called the Land of the Midnight Sun.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA329",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is known as the Land of a Thousand Lakes?",
+  "options": [
+   "Canada",
+   "Russia",
+   "Sweden",
+   "Finland"
+  ],
+  "answer": 3,
+  "explanation": "Finland is called the Land of a Thousand Lakes.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA330",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is known as the Land of White Elephants?",
+  "options": [
+   "Cambodia",
+   "Laos",
+   "Myanmar",
+   "Thailand"
+  ],
+  "answer": 3,
+  "explanation": "Thailand is called the Land of White Elephants.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA331",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is known as the Land of the Maple Leaf?",
+  "options": [
+   "Canada",
+   "UK",
+   "USA",
+   "New Zealand"
+  ],
+  "answer": 0,
+  "explanation": "Canada is called the Land of the Maple Leaf.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA332",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is known as the Land of the Kangaroo?",
+  "options": [
+   "Australia",
+   "South Africa",
+   "Brazil",
+   "New Zealand"
+  ],
+  "answer": 0,
+  "explanation": "Australia is called the Land of the Kangaroo.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA333",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is known as the Land of the Pyramids?",
+  "options": [
+   "Egypt",
+   "Mexico",
+   "Sudan",
+   "Iraq"
+  ],
+  "answer": 0,
+  "explanation": "Egypt is called the Land of the Pyramids.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA334",
+  "subject": "Current Affairs & GK",
+  "q": "Which plateau is known as the Roof of the World?",
+  "options": [
+   "Pamir Plateau",
+   "Tibetan Plateau",
+   "Alps Plateau",
+   "Andes Plateau"
+  ],
+  "answer": 0,
+  "explanation": "The Pamir Plateau is called the Roof of the World.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA335",
+  "subject": "Current Affairs & GK",
+  "q": "Which country is known as the Sugar Bowl of the World?",
+  "options": [
+   "Philippines",
+   "Jamaica",
+   "Brazil",
+   "Cuba"
+  ],
+  "answer": 3,
+  "explanation": "Cuba is called the Sugar Bowl of the World.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA336",
+  "subject": "Current Affairs & GK",
+  "q": "Which country was called the Gift of the Nile by Herodotus?",
+  "options": [
+   "Ethiopia",
+   "Iraq",
+   "Sudan",
+   "Egypt"
+  ],
+  "answer": 3,
+  "explanation": "Herodotus called Egypt the Gift of the Nile.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA337",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national game of Bhutan?",
+  "options": [
+   "Polo",
+   "Hockey",
+   "Archery",
+   "Wrestling"
+  ],
+  "answer": 2,
+  "explanation": "Archery is the national game of Bhutan.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA338",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national game of Cuba?",
+  "options": [
+   "Baseball",
+   "Cricket",
+   "Volleyball",
+   "Football"
+  ],
+  "answer": 0,
+  "explanation": "Baseball is the national game of Cuba.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA339",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national game of Pakistan?",
+  "options": [
+   "Squash",
+   "Cricket",
+   "Hockey",
+   "Football"
+  ],
+  "answer": 2,
+  "explanation": "Field hockey is the national game of Pakistan.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA340",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national sport of Japan?",
+  "options": [
+   "Sumo wrestling",
+   "Karate",
+   "Kendo",
+   "Judo"
+  ],
+  "answer": 0,
+  "explanation": "Sumo wrestling is the national sport of Japan.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA341",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national game of the United States of America?",
+  "options": [
+   "American football",
+   "Baseball",
+   "Ice hockey",
+   "Basketball"
+  ],
+  "answer": 1,
+  "explanation": "Baseball is the national game of the USA.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA342",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national game of China?",
+  "options": [
+   "Gymnastics",
+   "Badminton",
+   "Volleyball",
+   "Table tennis"
+  ],
+  "answer": 3,
+  "explanation": "Table tennis is the national game of China.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA343",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national game of England?",
+  "options": [
+   "Tennis",
+   "Football",
+   "Cricket",
+   "Rugby"
+  ],
+  "answer": 2,
+  "explanation": "Cricket is the national game of England.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA344",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national winter sport of Canada?",
+  "options": [
+   "Ice hockey",
+   "Lacrosse",
+   "Basketball",
+   "Curling"
+  ],
+  "answer": 0,
+  "explanation": "Ice hockey is the national winter sport of Canada.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA345",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national sport of Spain?",
+  "options": [
+   "Basketball",
+   "Bullfighting",
+   "Handball",
+   "Football"
+  ],
+  "answer": 1,
+  "explanation": "Bullfighting is the traditional national sport of Spain.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA346",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national game of Bangladesh?",
+  "options": [
+   "Hockey",
+   "Football",
+   "Cricket",
+   "Kabaddi"
+  ],
+  "answer": 3,
+  "explanation": "Kabaddi is the national game of Bangladesh.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA347",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national animal of Pakistan?",
+  "options": [
+   "Snow leopard",
+   "Markhor",
+   "Ibex",
+   "Urial"
+  ],
+  "answer": 1,
+  "explanation": "The Markhor is the national animal of Pakistan.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA348",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national bird of Pakistan?",
+  "options": [
+   "Chukar partridge",
+   "Houbara bustard",
+   "Falcon",
+   "Peacock"
+  ],
+  "answer": 0,
+  "explanation": "The chukar partridge is the national bird of Pakistan.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA349",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national animal of India?",
+  "options": [
+   "Indian elephant",
+   "Bengal tiger",
+   "One-horned rhinoceros",
+   "Asiatic lion"
+  ],
+  "answer": 1,
+  "explanation": "The Bengal tiger is the national animal of India.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA350",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national bird of India?",
+  "options": [
+   "Myna",
+   "Sparrow",
+   "Indian peacock",
+   "Koel"
+  ],
+  "answer": 2,
+  "explanation": "The Indian peacock is the national bird of India.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA351",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national animal of Australia?",
+  "options": [
+   "Platypus",
+   "Koala",
+   "Red kangaroo",
+   "Emu"
+  ],
+  "answer": 2,
+  "explanation": "The red kangaroo is the national animal of Australia.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA352",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national animal of China?",
+  "options": [
+   "Red panda",
+   "Tibetan antelope",
+   "Snow leopard",
+   "Giant panda"
+  ],
+  "answer": 3,
+  "explanation": "The giant panda is the national animal of China.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA353",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national bird of the United States of America?",
+  "options": [
+   "Golden eagle",
+   "Bald eagle",
+   "Osprey",
+   "California condor"
+  ],
+  "answer": 1,
+  "explanation": "The bald eagle is the national bird of the USA.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA354",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national flower of Pakistan?",
+  "options": [
+   "Rose",
+   "Sunflower",
+   "Tulip",
+   "Jasmine"
+  ],
+  "answer": 3,
+  "explanation": "Jasmine is the national flower of Pakistan.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA355",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national flower of Japan?",
+  "options": [
+   "Chrysanthemum",
+   "Plum blossom",
+   "Cherry blossom",
+   "Lotus"
+  ],
+  "answer": 2,
+  "explanation": "The cherry blossom (sakura) is the national flower of Japan.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA356",
+  "subject": "Current Affairs & GK",
+  "q": "What is the national animal of Nepal?",
+  "options": [
+   "Snow leopard",
+   "Himalayan tahr",
+   "Yak",
+   "Cow"
+  ],
+  "answer": 3,
+  "explanation": "The cow is the national animal of Nepal.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA357",
+  "subject": "Current Affairs & GK",
+  "q": "The Strait of Gibraltar separates Spain from:",
+  "options": [
+   "Italy",
+   "Morocco",
+   "Algeria",
+   "France"
+  ],
+  "answer": 1,
+  "explanation": "The Strait of Gibraltar separates Spain from Morocco.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA358",
+  "subject": "Current Affairs & GK",
+  "q": "The Strait of Messina separates Sicily from:",
+  "options": [
+   "France",
+   "Mainland Italy",
+   "Spain",
+   "Greece"
+  ],
+  "answer": 1,
+  "explanation": "The Strait of Messina separates Sicily from mainland Italy.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA359",
+  "subject": "Current Affairs & GK",
+  "q": "The McMahon Line is the border between India and:",
+  "options": [
+   "Myanmar",
+   "Afghanistan",
+   "Pakistan",
+   "China"
+  ],
+  "answer": 3,
+  "explanation": "The McMahon Line is the border between India and China.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA360",
+  "subject": "Current Affairs & GK",
+  "q": "The Durand Line is the border between Pakistan and:",
+  "options": [
+   "Afghanistan",
+   "India",
+   "Iran",
+   "China"
+  ],
+  "answer": 0,
+  "explanation": "The Durand Line (1893) is the border between Pakistan and Afghanistan.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA361",
+  "subject": "Current Affairs & GK",
+  "q": "The Suez Canal connects the Mediterranean Sea with the:",
+  "options": [
+   "Arabian Sea",
+   "Atlantic Ocean",
+   "Red Sea",
+   "Black Sea"
+  ],
+  "answer": 2,
+  "explanation": "The Suez Canal connects the Mediterranean Sea with the Red Sea.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA362",
+  "subject": "Current Affairs & GK",
+  "q": "Babylon is the old name of which country?",
+  "options": [
+   "Iraq",
+   "Iran",
+   "Egypt",
+   "Turkey"
+  ],
+  "answer": 0,
+  "explanation": "Babylon is the old name of Iraq.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA363",
+  "subject": "Current Affairs & GK",
+  "q": "Abyssinia is the old name of which country?",
+  "options": [
+   "Somalia",
+   "Ethiopia",
+   "Sudan",
+   "Egypt"
+  ],
+  "answer": 1,
+  "explanation": "Abyssinia is the old name of Ethiopia.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA364",
+  "subject": "Current Affairs & GK",
+  "q": "Constantinople is the old name of which city?",
+  "options": [
+   "Athens",
+   "Ankara",
+   "Istanbul",
+   "Rome"
+  ],
+  "answer": 2,
+  "explanation": "Constantinople is the old name of Istanbul.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA365",
+  "subject": "Current Affairs & GK",
+  "q": "Siam is the old name of which country?",
+  "options": [
+   "Laos",
+   "Thailand",
+   "Cambodia",
+   "Vietnam"
+  ],
+  "answer": 1,
+  "explanation": "Siam is the old name of Thailand.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA366",
+  "subject": "Current Affairs & GK",
+  "q": "Burma is the old name of which country?",
+  "options": [
+   "Bhutan",
+   "Bangladesh",
+   "Sri Lanka",
+   "Myanmar"
+  ],
+  "answer": 3,
+  "explanation": "Burma is the old name of Myanmar.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA367",
+  "subject": "Current Affairs & GK",
+  "q": "RAW is the external intelligence agency of which country?",
+  "options": [
+   "Pakistan",
+   "Bangladesh",
+   "India",
+   "Nepal"
+  ],
+  "answer": 2,
+  "explanation": "RAW (Research and Analysis Wing) is the external intelligence agency of India.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA368",
+  "subject": "Current Affairs & GK",
+  "q": "Mossad is the intelligence agency of which country?",
+  "options": [
+   "UK",
+   "Russia",
+   "Israel",
+   "USA"
+  ],
+  "answer": 2,
+  "explanation": "Mossad is the intelligence agency of Israel.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA369",
+  "subject": "Current Affairs & GK",
+  "q": "Who was the first human in space (1961)?",
+  "options": [
+   "Alan Shepard",
+   "Valentina Tereshkova",
+   "Yuri Gagarin",
+   "Neil Armstrong"
+  ],
+  "answer": 2,
+  "explanation": "Yuri Gagarin became the first human in space in 1961.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA370",
+  "subject": "Current Affairs & GK",
+  "q": "Universal Children's Day is observed on:",
+  "options": [
+   "10 December",
+   "20 November",
+   "14 February",
+   "1 June"
+  ],
+  "answer": 1,
+  "explanation": "Universal Children's Day is observed on 20 November.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA371",
+  "subject": "Current Affairs & GK",
+  "q": "Who was the first woman in space?",
+  "options": [
+   "Kalpana Chawla",
+   "Peggy Whitson",
+   "Valentina Tereshkova",
+   "Sally Ride"
+  ],
+  "answer": 2,
+  "explanation": "Valentina Tereshkova was the first woman in space (1963).",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA372",
+  "subject": "Current Affairs & GK",
+  "q": "What is the currency of Japan?",
+  "options": [
+   "Yen",
+   "Yuan",
+   "Won",
+   "Ringgit"
+  ],
+  "answer": 0,
+  "explanation": "The currency of Japan is the yen.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA373",
+  "subject": "Current Affairs & GK",
+  "q": "What is the currency of South Africa?",
+  "options": [
+   "Rand",
+   "Shilling",
+   "Dollar",
+   "Dinar"
+  ],
+  "answer": 0,
+  "explanation": "The currency of South Africa is the rand.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA374",
+  "subject": "Current Affairs & GK",
+  "q": "What is the currency of Kuwait?",
+  "options": [
+   "Saudi Riyal",
+   "Bahraini Dinar",
+   "Dirham",
+   "Kuwaiti Dinar"
+  ],
+  "answer": 3,
+  "explanation": "The currency of Kuwait is the Kuwaiti dinar.",
+  "source": "PPSC Day 36"
+ },
+ {
+  "id": "CA375",
+  "subject": "Current Affairs & GK",
+  "q": "The United Nations was founded on:",
+  "options": [
+   "10 December 1948",
+   "1 January 1946",
+   "24 October 1945",
+   "26 June 1945"
+  ],
+  "answer": 2,
+  "explanation": "The UN came into existence on 24 October 1945 when its Charter came into force.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA376",
+  "subject": "Current Affairs & GK",
+  "q": "The Charter of the United Nations was signed at:",
+  "options": [
+   "New York",
+   "Geneva",
+   "London",
+   "San Francisco"
+  ],
+  "answer": 3,
+  "explanation": "The UN Charter was signed on 26 June 1945 at San Francisco.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA377",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the United Nations is located in:",
+  "options": [
+   "The Hague",
+   "Paris",
+   "Geneva",
+   "New York"
+  ],
+  "answer": 3,
+  "explanation": "The UN headquarters is in New York City, USA.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA378",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan joined the United Nations on:",
+  "options": [
+   "1 January 1948",
+   "30 September 1947",
+   "14 August 1947",
+   "24 October 1945"
+  ],
+  "answer": 1,
+  "explanation": "Pakistan became a member of the UN on 30 September 1947.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA379",
+  "subject": "Current Affairs & GK",
+  "q": "Who was the first Secretary-General of the United Nations?",
+  "options": [
+   "U Thant",
+   "Dag Hammarskjold",
+   "Trygve Lie",
+   "Kurt Waldheim"
+  ],
+  "answer": 2,
+  "explanation": "Trygve Lie of Norway was the first UN Secretary-General (1946-1952).",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA380",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the principal judicial organ of the United Nations?",
+  "options": [
+   "ECOSOC",
+   "Security Council",
+   "International Court of Justice",
+   "UNESCO"
+  ],
+  "answer": 2,
+  "explanation": "The ICJ is the principal judicial organ of the UN.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA381",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the International Court of Justice is at:",
+  "options": [
+   "Paris",
+   "The Hague",
+   "Geneva",
+   "New York"
+  ],
+  "answer": 1,
+  "explanation": "The ICJ sits at the Peace Palace in The Hague, Netherlands.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA382",
+  "subject": "Current Affairs & GK",
+  "q": "How many judges are there in the International Court of Justice?",
+  "options": [
+   "19",
+   "11",
+   "21",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "The ICJ has 15 judges, elected for nine-year terms.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA383",
+  "subject": "Current Affairs & GK",
+  "q": "How many permanent members are there in the UN Security Council?",
+  "options": [
+   "10",
+   "7",
+   "15",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "The Security Council has 5 permanent members with veto power.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA384",
+  "subject": "Current Affairs & GK",
+  "q": "What is the total membership of the UN Security Council?",
+  "options": [
+   "10",
+   "12",
+   "15",
+   "20"
+  ],
+  "answer": 2,
+  "explanation": "The Security Council has 15 members: 5 permanent and 10 non-permanent.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA385",
+  "subject": "Current Affairs & GK",
+  "q": "Which of the following is NOT a permanent member of the UN Security Council?",
+  "options": [
+   "USA",
+   "Germany",
+   "China",
+   "France"
+  ],
+  "answer": 1,
+  "explanation": "Germany is not a permanent member; the five are USA, UK, France, Russia and China.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA386",
+  "subject": "Current Affairs & GK",
+  "q": "The veto power in the UN Security Council is held by:",
+  "options": [
+   "The ten non-permanent members",
+   "The five permanent members",
+   "The Secretary-General",
+   "All UN members"
+  ],
+  "answer": 1,
+  "explanation": "Only the five permanent members can veto a Security Council resolution.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA387",
+  "subject": "Current Affairs & GK",
+  "q": "United Nations Day is observed every year on:",
+  "options": [
+   "26 June",
+   "10 December",
+   "24 October",
+   "7 April"
+  ],
+  "answer": 2,
+  "explanation": "UN Day is observed on 24 October, the anniversary of the UN's founding.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA388",
+  "subject": "Current Affairs & GK",
+  "q": "Which of the following is NOT an official language of the United Nations?",
+  "options": [
+   "Arabic",
+   "Chinese",
+   "Spanish",
+   "German"
+  ],
+  "answer": 3,
+  "explanation": "German is not a UN official language; the six are Arabic, Chinese, English, French, Russian and Spanish.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA389",
+  "subject": "Current Affairs & GK",
+  "q": "Dag Hammarskjold, who served as UN Secretary-General from 1953 to 1961, belonged to which country?",
+  "options": [
+   "Austria",
+   "Norway",
+   "Finland",
+   "Sweden"
+  ],
+  "answer": 3,
+  "explanation": "Dag Hammarskjold was from Sweden; he died in a plane crash in 1961.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA390",
+  "subject": "Current Affairs & GK",
+  "q": "The first session of the UN General Assembly was held in:",
+  "options": [
+   "New York",
+   "Geneva",
+   "Paris",
+   "London"
+  ],
+  "answer": 3,
+  "explanation": "The first UN General Assembly session was held in London in January 1946.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA391",
+  "subject": "Current Affairs & GK",
+  "q": "The first peacekeeping mission of the United Nations was:",
+  "options": [
+   "UNTSO",
+   "UNEF",
+   "UNFICYP",
+   "ONUC"
+  ],
+  "answer": 0,
+  "explanation": "UNTSO (1948), in the Middle East, was the UN's first peacekeeping mission.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA392",
+  "subject": "Current Affairs & GK",
+  "q": "How many members are there in the Economic and Social Council (ECOSOC) of the UN?",
+  "options": [
+   "47",
+   "36",
+   "58",
+   "54"
+  ],
+  "answer": 3,
+  "explanation": "ECOSOC has 54 member states.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA393",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of UNESCO is located in:",
+  "options": [
+   "Paris",
+   "Vienna",
+   "Rome",
+   "Geneva"
+  ],
+  "answer": 0,
+  "explanation": "UNESCO, founded in 1945, is headquartered in Paris.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA394",
+  "subject": "Current Affairs & GK",
+  "q": "UNESCO was founded in the year:",
+  "options": [
+   "1946",
+   "1948",
+   "1945",
+   "1950"
+  ],
+  "answer": 2,
+  "explanation": "UNESCO was founded on 16 November 1945.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA395",
+  "subject": "Current Affairs & GK",
+  "q": "SAARC was founded on:",
+  "options": [
+   "25 September 1969",
+   "8 December 1985",
+   "8 August 1967",
+   "8 December 1980"
+  ],
+  "answer": 1,
+  "explanation": "SAARC was founded on 8 December 1985 in Dhaka.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA396",
+  "subject": "Current Affairs & GK",
+  "q": "The Secretariat of SAARC is located in:",
+  "options": [
+   "Colombo",
+   "New Delhi",
+   "Kathmandu",
+   "Dhaka"
+  ],
+  "answer": 2,
+  "explanation": "The SAARC Secretariat is in Kathmandu, Nepal.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA397",
+  "subject": "Current Affairs & GK",
+  "q": "Which country joined SAARC last as its eighth member?",
+  "options": [
+   "Bhutan",
+   "Nepal",
+   "Afghanistan",
+   "Maldives"
+  ],
+  "answer": 2,
+  "explanation": "Afghanistan joined SAARC in 2007 as the eighth member.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA398",
+  "subject": "Current Affairs & GK",
+  "q": "The first SAARC Summit was held in:",
+  "options": [
+   "Dhaka",
+   "Colombo",
+   "Kathmandu",
+   "Islamabad"
+  ],
+  "answer": 0,
+  "explanation": "The first SAARC Summit was held in Dhaka in December 1985.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA399",
+  "subject": "Current Affairs & GK",
+  "q": "SAFTA (South Asian Free Trade Area) came into force in:",
+  "options": [
+   "2004",
+   "2006",
+   "2008",
+   "2010"
+  ],
+  "answer": 1,
+  "explanation": "SAFTA came into force on 1 January 2006.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA400",
+  "subject": "Current Affairs & GK",
+  "q": "The Organization of Islamic Cooperation (OIC) was founded on:",
+  "options": [
+   "25 September 1970",
+   "25 September 1967",
+   "25 September 1969",
+   "25 September 1968"
+  ],
+  "answer": 2,
+  "explanation": "The OIC was founded on 25 September 1969 in Rabat.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA401",
+  "subject": "Current Affairs & GK",
+  "q": "The OIC was founded in the wake of which incident?",
+  "options": [
+   "Yom Kippur War",
+   "Six-Day War",
+   "Arson attack on Al-Aqsa Mosque",
+   "Gulf War"
+  ],
+  "answer": 2,
+  "explanation": "The OIC was created after the arson attack on Al-Aqsa Mosque in Jerusalem in August 1969.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA402",
+  "subject": "Current Affairs & GK",
+  "q": "How many member states does the OIC have?",
+  "options": [
+   "56",
+   "54",
+   "55",
+   "57"
+  ],
+  "answer": 3,
+  "explanation": "The OIC has 57 member states, making it the second largest intergovernmental organisation after the UN.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA403",
+  "subject": "Current Affairs & GK",
+  "q": "The second OIC Summit was held in:",
+  "options": [
+   "Rabat",
+   "Makkah",
+   "Lahore",
+   "Jeddah"
+  ],
+  "answer": 2,
+  "explanation": "The second OIC Summit was held in Lahore in February 1974.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA404",
+  "subject": "Current Affairs & GK",
+  "q": "ASEAN was founded on:",
+  "options": [
+   "8 August 1965",
+   "8 August 1966",
+   "8 August 1967",
+   "8 August 1970"
+  ],
+  "answer": 2,
+  "explanation": "ASEAN was founded on 8 August 1967 through the Bangkok Declaration.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA405",
+  "subject": "Current Affairs & GK",
+  "q": "ASEAN was founded by how many countries?",
+  "options": [
+   "10",
+   "5",
+   "6",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "ASEAN was founded by 5 countries: Indonesia, Malaysia, Philippines, Singapore and Thailand.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA406",
+  "subject": "Current Affairs & GK",
+  "q": "Which of the following lists the five founding members of ASEAN?",
+  "options": [
+   "Thailand, Cambodia, Laos, Vietnam, Myanmar",
+   "Indonesia, India, Pakistan, Bangladesh, Nepal",
+   "Malaysia, Brunei, Vietnam, Laos, Myanmar",
+   "Indonesia, Malaysia, Philippines, Singapore, Thailand"
+  ],
+  "answer": 3,
+  "explanation": "The five ASEAN founders are Indonesia, Malaysia, Philippines, Singapore and Thailand.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA407",
+  "subject": "Current Affairs & GK",
+  "q": "The Shanghai Cooperation Organization (SCO) was founded in:",
+  "options": [
+   "2005",
+   "2001",
+   "1996",
+   "1998"
+  ],
+  "answer": 1,
+  "explanation": "The SCO was founded in June 2001 in Shanghai.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA408",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan became a full member of the SCO in:",
+  "options": [
+   "2019",
+   "2017",
+   "2015",
+   "2021"
+  ],
+  "answer": 1,
+  "explanation": "Pakistan (and India) became full SCO members at the Astana Summit in June 2017.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA409",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the Economic Cooperation Organization (ECO) is in:",
+  "options": [
+   "Islamabad",
+   "Istanbul",
+   "Tehran",
+   "Ankara"
+  ],
+  "answer": 2,
+  "explanation": "The ECO Secretariat is in Tehran, Iran.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA410",
+  "subject": "Current Affairs & GK",
+  "q": "ECO was originally founded as the Regional Cooperation for Development (RCD) in:",
+  "options": [
+   "1970",
+   "1964",
+   "1985",
+   "1960"
+  ],
+  "answer": 1,
+  "explanation": "RCD was founded in 1964 by Pakistan, Iran and Turkey; it became ECO in 1985.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA411",
+  "subject": "Current Affairs & GK",
+  "q": "The Arab League was founded in:",
+  "options": [
+   "1948",
+   "1945",
+   "1942",
+   "1952"
+  ],
+  "answer": 1,
+  "explanation": "The Arab League was founded on 22 March 1945.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA412",
+  "subject": "Current Affairs & GK",
+  "q": "The Arab League was founded in which city?",
+  "options": [
+   "Riyadh",
+   "Cairo",
+   "Baghdad",
+   "Amman"
+  ],
+  "answer": 1,
+  "explanation": "The Arab League was founded in Cairo, where its headquarters is also located.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA413",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the Commonwealth of Nations is in:",
+  "options": [
+   "New York",
+   "London",
+   "Geneva",
+   "Canberra"
+  ],
+  "answer": 1,
+  "explanation": "The Commonwealth Secretariat is at Marlborough House, London.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA414",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan rejoined the Commonwealth in:",
+  "options": [
+   "1972",
+   "2007",
+   "1989",
+   "1999"
+  ],
+  "answer": 2,
+  "explanation": "Pakistan left the Commonwealth in 1972 and rejoined in 1989.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA415",
+  "subject": "Current Affairs & GK",
+  "q": "The D-8 Organization for Economic Cooperation was founded in:",
+  "options": [
+   "1995",
+   "1999",
+   "1997",
+   "1996"
+  ],
+  "answer": 2,
+  "explanation": "The D-8 was founded on 15 June 1997 in Istanbul.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA416",
+  "subject": "Current Affairs & GK",
+  "q": "How many member countries are there in the D-8?",
+  "options": [
+   "10",
+   "8",
+   "7",
+   "12"
+  ],
+  "answer": 1,
+  "explanation": "The D-8 has 8 members, including Pakistan.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA417",
+  "subject": "Current Affairs & GK",
+  "q": "The Non-Aligned Movement (NAM) was founded in:",
+  "options": [
+   "1961",
+   "1979",
+   "1955",
+   "1960"
+  ],
+  "answer": 0,
+  "explanation": "NAM was founded in 1961; its first summit was held in Belgrade.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA418",
+  "subject": "Current Affairs & GK",
+  "q": "The first NAM Summit was held in:",
+  "options": [
+   "Belgrade",
+   "Cairo",
+   "Bandung",
+   "Havana"
+  ],
+  "answer": 0,
+  "explanation": "The first NAM Summit was held in Belgrade, Yugoslavia, in September 1961.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA419",
+  "subject": "Current Affairs & GK",
+  "q": "The Bandung Conference, the precursor of the Non-Aligned Movement, was held in:",
+  "options": [
+   "1955",
+   "1961",
+   "1965",
+   "1950"
+  ],
+  "answer": 0,
+  "explanation": "The Asian-African (Bandung) Conference was held in Indonesia in April 1955.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA420",
+  "subject": "Current Affairs & GK",
+  "q": "The International Monetary Fund (IMF) was founded in:",
+  "options": [
+   "1947",
+   "1950",
+   "1945",
+   "1944"
+  ],
+  "answer": 3,
+  "explanation": "The IMF was created at the Bretton Woods Conference in 1944.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA421",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the International Monetary Fund is in:",
+  "options": [
+   "Geneva",
+   "London",
+   "Washington DC",
+   "New York"
+  ],
+  "answer": 2,
+  "explanation": "The IMF is headquartered in Washington DC, USA.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA422",
+  "subject": "Current Affairs & GK",
+  "q": "The IMF was created at which conference?",
+  "options": [
+   "Potsdam Conference",
+   "Yalta Conference",
+   "San Francisco Conference",
+   "Bretton Woods Conference"
+  ],
+  "answer": 3,
+  "explanation": "The IMF and the World Bank were both created at Bretton Woods in 1944.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA423",
+  "subject": "Current Affairs & GK",
+  "q": "How many member countries does the IMF have?",
+  "options": [
+   "188",
+   "189",
+   "191",
+   "193"
+  ],
+  "answer": 2,
+  "explanation": "The IMF has 191 member countries.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA424",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the World Bank is in:",
+  "options": [
+   "Geneva",
+   "Washington DC",
+   "New York",
+   "Paris"
+  ],
+  "answer": 1,
+  "explanation": "The World Bank is headquartered in Washington DC.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA425",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the President of the World Bank (since June 2023)?",
+  "options": [
+   "David Malpass",
+   "Ajay Banga",
+   "Kristalina Georgieva",
+   "Jim Yong Kim"
+  ],
+  "answer": 1,
+  "explanation": "Ajay Banga became President of the World Bank in June 2023.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA426",
+  "subject": "Current Affairs & GK",
+  "q": "The World Bank was founded in the year:",
+  "options": [
+   "1945",
+   "1944",
+   "1950",
+   "1946"
+  ],
+  "answer": 1,
+  "explanation": "The World Bank was founded in 1944 at Bretton Woods.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA427",
+  "subject": "Current Affairs & GK",
+  "q": "How many member countries does the IBRD (World Bank's lending arm) have?",
+  "options": [
+   "191",
+   "185",
+   "189",
+   "193"
+  ],
+  "answer": 2,
+  "explanation": "The IBRD has 189 member countries.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA428",
+  "subject": "Current Affairs & GK",
+  "q": "The World Trade Organization (WTO) was founded on:",
+  "options": [
+   "1 January 1995",
+   "1 January 1990",
+   "1 January 1993",
+   "1 January 2000"
+  ],
+  "answer": 0,
+  "explanation": "The WTO came into being on 1 January 1995, replacing GATT.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA429",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the World Trade Organization is in:",
+  "options": [
+   "Geneva",
+   "Vienna",
+   "New York",
+   "Paris"
+  ],
+  "answer": 0,
+  "explanation": "The WTO is headquartered in Geneva, Switzerland.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA430",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the Director-General of the World Trade Organization?",
+  "options": [
+   "Roberto Azevedo",
+   "Pascal Lamy",
+   "Ngozi Okonjo-Iweala",
+   "Supachai Panitchpakdi"
+  ],
+  "answer": 2,
+  "explanation": "Ngozi Okonjo-Iweala of Nigeria is the WTO Director-General.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA431",
+  "subject": "Current Affairs & GK",
+  "q": "GATT was replaced by the WTO in:",
+  "options": [
+   "1990",
+   "2000",
+   "1993",
+   "1995"
+  ],
+  "answer": 3,
+  "explanation": "GATT was replaced by the WTO on 1 January 1995.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA432",
+  "subject": "Current Affairs & GK",
+  "q": "BRICS was founded in the year:",
+  "options": [
+   "2010",
+   "2011",
+   "2006",
+   "2009"
+  ],
+  "answer": 3,
+  "explanation": "BRICS held its first summit in Yekaterinburg, Russia, in June 2009.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA433",
+  "subject": "Current Affairs & GK",
+  "q": "Which of the following are the original five members of BRICS?",
+  "options": [
+   "Brazil, Russia, India, China, Indonesia",
+   "Brazil, Russia, India, China, Egypt",
+   "Brazil, Russia, India, China, Iran",
+   "Brazil, Russia, India, China, South Africa"
+  ],
+  "answer": 3,
+  "explanation": "The original BRICS members are Brazil, Russia, India, China and South Africa.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA434",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the New Development Bank (BRICS Bank) is in:",
+  "options": [
+   "New Delhi",
+   "Moscow",
+   "Shanghai",
+   "Beijing"
+  ],
+  "answer": 2,
+  "explanation": "The New Development Bank is headquartered in Shanghai, China.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA435",
+  "subject": "Current Affairs & GK",
+  "q": "Who was the first President of the New Development Bank?",
+  "options": [
+   "K. V. Kamath",
+   "Jin Liqun",
+   "Dilma Rousseff",
+   "Ajay Banga"
+  ],
+  "answer": 0,
+  "explanation": "K. V. Kamath of India was the first President of the New Development Bank.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA436",
+  "subject": "Current Affairs & GK",
+  "q": "OPEC was founded in the year:",
+  "options": [
+   "1960",
+   "1965",
+   "1959",
+   "1958"
+  ],
+  "answer": 0,
+  "explanation": "OPEC was founded in September 1960.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA437",
+  "subject": "Current Affairs & GK",
+  "q": "OPEC was founded in which city?",
+  "options": [
+   "Tehran",
+   "Riyadh",
+   "Baghdad",
+   "Vienna"
+  ],
+  "answer": 2,
+  "explanation": "OPEC was founded in Baghdad in 1960; its headquarters later moved to Vienna.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA438",
+  "subject": "Current Affairs & GK",
+  "q": "The Asian Development Bank (ADB) was founded in:",
+  "options": [
+   "1966",
+   "1960",
+   "1970",
+   "1975"
+  ],
+  "answer": 0,
+  "explanation": "The ADB was founded on 19 December 1966.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA439",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the Asian Development Bank is in:",
+  "options": [
+   "Jakarta",
+   "Bangkok",
+   "Manila",
+   "Tokyo"
+  ],
+  "answer": 2,
+  "explanation": "The ADB is headquartered in Manila, Philippines.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA440",
+  "subject": "Current Affairs & GK",
+  "q": "NATO was founded in the year:",
+  "options": [
+   "1955",
+   "1947",
+   "1945",
+   "1949"
+  ],
+  "answer": 3,
+  "explanation": "NATO was founded on 4 April 1949 through the Washington Treaty.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA441",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of NATO is in:",
+  "options": [
+   "Paris",
+   "Brussels",
+   "London",
+   "Washington"
+  ],
+  "answer": 1,
+  "explanation": "NATO is headquartered in Brussels, Belgium.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA442",
+  "subject": "Current Affairs & GK",
+  "q": "How many member countries does NATO have (as of 2024)?",
+  "options": [
+   "35",
+   "32",
+   "30",
+   "28"
+  ],
+  "answer": 1,
+  "explanation": "NATO has 32 members after Sweden joined in March 2024.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA443",
+  "subject": "Current Affairs & GK",
+  "q": "Which country joined NATO most recently, in March 2024?",
+  "options": [
+   "Sweden",
+   "Ukraine",
+   "Finland",
+   "North Macedonia"
+  ],
+  "answer": 0,
+  "explanation": "Sweden became NATO's 32nd member in March 2024; Finland had joined in 2023.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA444",
+  "subject": "Current Affairs & GK",
+  "q": "The G7 group of advanced economies was founded in:",
+  "options": [
+   "1985",
+   "1980",
+   "1975",
+   "1973"
+  ],
+  "answer": 2,
+  "explanation": "The G7 (then G6) was founded in 1975.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA445",
+  "subject": "Current Affairs & GK",
+  "q": "The G20 group was founded in:",
+  "options": [
+   "1997",
+   "2001",
+   "1995",
+   "1999"
+  ],
+  "answer": 3,
+  "explanation": "The G20 was founded in 1999 in response to the Asian financial crisis.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA446",
+  "subject": "Current Affairs & GK",
+  "q": "Which organisation joined the G20 as a permanent member in 2023?",
+  "options": [
+   "ASEAN",
+   "SAARC",
+   "Arab League",
+   "African Union"
+  ],
+  "answer": 3,
+  "explanation": "The African Union became a permanent G20 member at the New Delhi Summit in 2023.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA447",
+  "subject": "Current Affairs & GK",
+  "q": "SEATO (Southeast Asia Treaty Organization) was dissolved in:",
+  "options": [
+   "1980",
+   "1975",
+   "1977",
+   "1979"
+  ],
+  "answer": 2,
+  "explanation": "SEATO was dissolved on 30 June 1977.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA448",
+  "subject": "Current Affairs & GK",
+  "q": "CENTO was formerly known as the:",
+  "options": [
+   "Baghdad Pact",
+   "SEATO",
+   "Warsaw Pact",
+   "Manila Pact"
+  ],
+  "answer": 0,
+  "explanation": "CENTO began as the Baghdad Pact (1955) and was renamed CENTO in 1959.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA449",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan was a member of which two Cold War alliances?",
+  "options": [
+   "SEATO and CENTO",
+   "Warsaw Pact and SEATO",
+   "NATO and SEATO",
+   "CENTO and NATO"
+  ],
+  "answer": 0,
+  "explanation": "Pakistan joined SEATO in 1954 and CENTO in 1955.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA450",
+  "subject": "Current Affairs & GK",
+  "q": "The Indus Waters Treaty was signed in the year:",
+  "options": [
+   "1962",
+   "1958",
+   "1960",
+   "1965"
+  ],
+  "answer": 2,
+  "explanation": "The Indus Waters Treaty was signed on 19 September 1960.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA451",
+  "subject": "Current Affairs & GK",
+  "q": "The Indus Waters Treaty was signed by:",
+  "options": [
+   "Bhutto and Indira Gandhi",
+   "Nehru and Ayub Khan",
+   "Jinnah and Liaquat Ali Khan",
+   "Zia-ul-Haq and Rajiv Gandhi"
+  ],
+  "answer": 1,
+  "explanation": "The treaty was signed by Indian PM Jawaharlal Nehru and President Ayub Khan.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA452",
+  "subject": "Current Affairs & GK",
+  "q": "Under the Indus Waters Treaty, which rivers were allocated to India?",
+  "options": [
+   "Ravi, Beas, Sutlej",
+   "Jhelum, Chenab, Ravi",
+   "Indus, Jhelum, Chenab",
+   "Indus, Ravi, Beas"
+  ],
+  "answer": 0,
+  "explanation": "The eastern rivers Ravi, Beas and Sutlej were allocated to India; the western rivers to Pakistan.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA453",
+  "subject": "Current Affairs & GK",
+  "q": "The Indus Waters Treaty was signed in which city?",
+  "options": [
+   "Karachi",
+   "Washington",
+   "New Delhi",
+   "Lahore"
+  ],
+  "answer": 0,
+  "explanation": "The Indus Waters Treaty was signed in Karachi on 19 September 1960.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA454",
+  "subject": "Current Affairs & GK",
+  "q": "The Geneva Accords of 1954 ended which war?",
+  "options": [
+   "Vietnam War of 1975",
+   "Second World War",
+   "First Indochina War",
+   "Korean War"
+  ],
+  "answer": 2,
+  "explanation": "The Geneva Accords of 1954 ended the First Indochina War between France and Vietnam.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA455",
+  "subject": "Current Affairs & GK",
+  "q": "Under the Geneva Accords of 1954, Vietnam was divided at the:",
+  "options": [
+   "Equator",
+   "17th Parallel",
+   "49th Parallel",
+   "38th Parallel"
+  ],
+  "answer": 1,
+  "explanation": "Vietnam was temporarily divided at the 17th Parallel in 1954.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA456",
+  "subject": "Current Affairs & GK",
+  "q": "The Simla Agreement was signed in the year:",
+  "options": [
+   "1972",
+   "1974",
+   "1966",
+   "1971"
+  ],
+  "answer": 0,
+  "explanation": "The Simla Agreement was signed on 2 July 1972 after the 1971 war.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA457",
+  "subject": "Current Affairs & GK",
+  "q": "The Simla Agreement was signed between:",
+  "options": [
+   "India and China",
+   "India and Pakistan",
+   "Pakistan and USSR",
+   "Pakistan and China"
+  ],
+  "answer": 1,
+  "explanation": "The Simla Agreement was signed between India and Pakistan.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA458",
+  "subject": "Current Affairs & GK",
+  "q": "The Tashkent Declaration was signed in the year:",
+  "options": [
+   "1962",
+   "1965",
+   "1971",
+   "1966"
+  ],
+  "answer": 3,
+  "explanation": "The Tashkent Declaration was signed on 10 January 1966 after the 1965 war.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA459",
+  "subject": "Current Affairs & GK",
+  "q": "The Tashkent Declaration was mediated by:",
+  "options": [
+   "USSR",
+   "UK",
+   "United Nations",
+   "USA"
+  ],
+  "answer": 0,
+  "explanation": "The Tashkent Declaration was mediated by Soviet Premier Alexei Kosygin.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA460",
+  "subject": "Current Affairs & GK",
+  "q": "The Lahore Declaration was signed in the year:",
+  "options": [
+   "1997",
+   "1999",
+   "2001",
+   "1998"
+  ],
+  "answer": 1,
+  "explanation": "The Lahore Declaration was signed on 21 February 1999 by Nawaz Sharif and Atal Bihari Vajpayee.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA461",
+  "subject": "Current Affairs & GK",
+  "q": "The Paris Agreement on climate change was adopted in:",
+  "options": [
+   "1997",
+   "2005",
+   "2015",
+   "2021"
+  ],
+  "answer": 2,
+  "explanation": "The Paris Agreement was adopted in December 2015 at COP21.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA462",
+  "subject": "Current Affairs & GK",
+  "q": "The Kyoto Protocol was adopted in:",
+  "options": [
+   "2005",
+   "1997",
+   "2015",
+   "1992"
+  ],
+  "answer": 1,
+  "explanation": "The Kyoto Protocol was adopted in December 1997 and came into force in 2005.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA463",
+  "subject": "Current Affairs & GK",
+  "q": "The Nuclear Non-Proliferation Treaty (NPT) was opened for signature in:",
+  "options": [
+   "1963",
+   "1970",
+   "1968",
+   "1975"
+  ],
+  "answer": 2,
+  "explanation": "The NPT was opened for signature in 1968 and came into force in 1970.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA464",
+  "subject": "Current Affairs & GK",
+  "q": "The first Geneva Convention was adopted in:",
+  "options": [
+   "1859",
+   "1863",
+   "1864",
+   "1949"
+  ],
+  "answer": 2,
+  "explanation": "The first Geneva Convention was adopted on 22 August 1864.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA465",
+  "subject": "Current Affairs & GK",
+  "q": "Nagorno-Karabakh is a disputed region between:",
+  "options": [
+   "Azerbaijan and Georgia",
+   "Armenia and Iran",
+   "Armenia and Turkey",
+   "Armenia and Azerbaijan"
+  ],
+  "answer": 3,
+  "explanation": "Nagorno-Karabakh is disputed between Armenia and Azerbaijan.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA466",
+  "subject": "Current Affairs & GK",
+  "q": "Azerbaijan regained full control of Nagorno-Karabakh in:",
+  "options": [
+   "2023",
+   "2020",
+   "2024",
+   "2022"
+  ],
+  "answer": 0,
+  "explanation": "Azerbaijan regained full control of Nagorno-Karabakh in September 2023.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA467",
+  "subject": "Current Affairs & GK",
+  "q": "The Golan Heights were captured by Israel from Syria in:",
+  "options": [
+   "1956",
+   "1948",
+   "1973",
+   "1967"
+  ],
+  "answer": 3,
+  "explanation": "Israel captured the Golan Heights from Syria in the 1967 Six-Day War.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA468",
+  "subject": "Current Affairs & GK",
+  "q": "Boko Haram is a militant group based in:",
+  "options": [
+   "Chad",
+   "Somalia",
+   "Mali",
+   "Nigeria"
+  ],
+  "answer": 3,
+  "explanation": "Boko Haram is based in north-eastern Nigeria.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA469",
+  "subject": "Current Affairs & GK",
+  "q": "Boko Haram was founded in:",
+  "options": [
+   "2002",
+   "1998",
+   "2001",
+   "2000"
+  ],
+  "answer": 0,
+  "explanation": "Boko Haram was founded in 2002 in Maiduguri, Nigeria, by Mohammed Yusuf.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA470",
+  "subject": "Current Affairs & GK",
+  "q": "UNMOGIP (UN Military Observer Group in India and Pakistan) was established in:",
+  "options": [
+   "1949",
+   "1950",
+   "1948",
+   "1952"
+  ],
+  "answer": 0,
+  "explanation": "UNMOGIP was established in January 1949 to monitor the ceasefire in Jammu and Kashmir.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA471",
+  "subject": "Current Affairs & GK",
+  "q": "UNMOGIP monitors the ceasefire in:",
+  "options": [
+   "Jammu and Kashmir",
+   "Palestine",
+   "Cyprus",
+   "Korea"
+  ],
+  "answer": 0,
+  "explanation": "UNMOGIP supervises the ceasefire between India and Pakistan in Jammu and Kashmir.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA472",
+  "subject": "Current Affairs & GK",
+  "q": "The International Committee of the Red Cross (ICRC) was founded in:",
+  "options": [
+   "1863",
+   "1864",
+   "1859",
+   "1861"
+  ],
+  "answer": 0,
+  "explanation": "The ICRC was founded in Geneva in 1863.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA473",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the International Committee of the Red Cross is in:",
+  "options": [
+   "Paris",
+   "Geneva",
+   "New York",
+   "Vienna"
+  ],
+  "answer": 1,
+  "explanation": "The ICRC is headquartered in Geneva, Switzerland.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA474",
+  "subject": "Current Affairs & GK",
+  "q": "The first Nobel Peace Prize (1901) was awarded to:",
+  "options": [
+   "Henry Dunant and Frederic Passy",
+   "Martin Luther King Jr and Desmond Tutu",
+   "Woodrow Wilson and Theodore Roosevelt",
+   "Albert Schweitzer and Mother Teresa"
+  ],
+  "answer": 0,
+  "explanation": "The first Nobel Peace Prize in 1901 went to Henry Dunant and Frederic Passy.",
+  "source": "PPSC Day 37"
+ },
+ {
+  "id": "CA475",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the 14th President of Pakistan (oath 10 March 2024)?",
+  "options": [
+   "Mamnoon Hussain",
+   "Pervez Musharraf",
+   "Arif Alvi",
+   "Asif Ali Zardari"
+  ],
+  "answer": 3,
+  "explanation": "Asif Ali Zardari took oath as the 14th President of Pakistan on 10 March 2024.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA476",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the 24th Prime Minister of Pakistan (oath 4 March 2024, second term)?",
+  "options": [
+   "Muhammad Shehbaz Sharif",
+   "Nawaz Sharif",
+   "Anwaar-ul-Haq Kakar",
+   "Imran Khan"
+  ],
+  "answer": 0,
+  "explanation": "Muhammad Shehbaz Sharif took oath as the 24th Prime Minister on 4 March 2024.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA477",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the Chief of Army Staff promoted to Field Marshal on 20 May 2025?",
+  "options": [
+   "Syed Asim Munir",
+   "Raheel Sharif",
+   "Qamar Javed Bajwa",
+   "Ashfaq Parvez Kayani"
+  ],
+  "answer": 0,
+  "explanation": "General Syed Asim Munir was promoted to Field Marshal on 20 May 2025.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA478",
+  "subject": "Current Affairs & GK",
+  "q": "Field Marshal Asim Munir is the ____ officer in Pakistan's history to hold the five-star rank.",
+  "options": [
+   "Second (after Ayub Khan)",
+   "Fourth",
+   "Third",
+   "First"
+  ],
+  "answer": 0,
+  "explanation": "Asim Munir is the second five-star officer in Pakistan's history, after Ayub Khan.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA479",
+  "subject": "Current Affairs & GK",
+  "q": "Who is Pakistan's Deputy Prime Minister and Foreign Minister?",
+  "options": [
+   "Shah Mahmood Qureshi",
+   "Bilawal Bhutto Zardari",
+   "Sartaj Aziz",
+   "Mohammad Ishaq Dar"
+  ],
+  "answer": 3,
+  "explanation": "Senator Mohammad Ishaq Dar is Pakistan's Deputy Prime Minister and Foreign Minister.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA480",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the Finance Minister of Pakistan?",
+  "options": [
+   "Shaukat Tarin",
+   "Ishaq Dar",
+   "Muhammad Aurangzeb",
+   "Miftah Ismail"
+  ],
+  "answer": 2,
+  "explanation": "Muhammad Aurangzeb is the Finance Minister of Pakistan.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA481",
+  "subject": "Current Affairs & GK",
+  "q": "Who became Chief Justice of Pakistan on 26 October 2024?",
+  "options": [
+   "Justice Gulzar Ahmed",
+   "Justice Yahya Afridi",
+   "Justice Umar Ata Bandial",
+   "Justice Qazi Faez Isa"
+  ],
+  "answer": 1,
+  "explanation": "Justice Yahya Afridi became Chief Justice of Pakistan on 26 October 2024.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA482",
+  "subject": "Current Affairs & GK",
+  "q": "The National Assembly of Pakistan has how many seats?",
+  "options": [
+   "313 seats",
+   "272 seats",
+   "342 seats",
+   "336 seats (266 general + 60 women + 10 minority)"
+  ],
+  "answer": 3,
+  "explanation": "The National Assembly has 336 seats: 266 general, 60 women and 10 minority seats.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA483",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the first woman Chief Minister of Punjab?",
+  "options": [
+   "Maryam Nawaz (February 2024)",
+   "Hina Rabbani Khar",
+   "Sherry Rehman",
+   "Firdous Ashiq Awan"
+  ],
+  "answer": 0,
+  "explanation": "Maryam Nawaz became the first woman Chief Minister of Punjab in February 2024.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA484",
+  "subject": "Current Affairs & GK",
+  "q": "The IMF's $7 billion Extended Fund Facility for Pakistan runs for how long?",
+  "options": [
+   "12 months",
+   "37 months",
+   "48 months",
+   "24 months"
+  ],
+  "answer": 1,
+  "explanation": "The $7 billion EFF approved in September 2024 is a 37-month programme.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA485",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the Managing Director of the IMF?",
+  "options": [
+   "Christine Lagarde",
+   "Kristalina Georgieva",
+   "David Malpass",
+   "Ngozi Okonjo-Iweala"
+  ],
+  "answer": 1,
+  "explanation": "Kristalina Georgieva is the Managing Director of the IMF.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA486",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's SUPARCO partnered with China's CNSA for which lunar mission (2028)?",
+  "options": [
+   "Chang'e-8",
+   "Chang'e-6",
+   "Chandrayaan-4",
+   "Artemis II"
+  ],
+  "answer": 0,
+  "explanation": "SUPARCO partnered with CNSA for the Chang'e-8 lunar mission, planned for 2028.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA487",
+  "subject": "Current Affairs & GK",
+  "q": "The Pahalgam attack took place on:",
+  "options": [
+   "13 June 2025",
+   "7 May 2025",
+   "10 May 2025",
+   "22 April 2025"
+  ],
+  "answer": 3,
+  "explanation": "The Pahalgam attack took place on 22 April 2025.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA488",
+  "subject": "Current Affairs & GK",
+  "q": "India launched Operation Sindoor on:",
+  "options": [
+   "7 May 2025",
+   "22 April 2025",
+   "13 June 2025",
+   "10 May 2025"
+  ],
+  "answer": 0,
+  "explanation": "India launched Operation Sindoor on 7 May 2025, after the Pahalgam attack.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA489",
+  "subject": "Current Affairs & GK",
+  "q": "Operation Bunyan-um-Marsoos was launched on:",
+  "options": [
+   "22 April 2025",
+   "7 May 2025",
+   "10 May 2025",
+   "13 June 2025"
+  ],
+  "answer": 2,
+  "explanation": "Pakistan launched Operation Bunyan-um-Marsoos on 10 May 2025.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA490",
+  "subject": "Current Affairs & GK",
+  "q": "Field Marshal Asim Munir was promoted to the five-star rank on:",
+  "options": [
+   "7 May 2025",
+   "20 May 2025",
+   "10 May 2025",
+   "22 April 2025"
+  ],
+  "answer": 1,
+  "explanation": "General Asim Munir was promoted to Field Marshal on 20 May 2025, after the May conflict.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA491",
+  "subject": "Current Affairs & GK",
+  "q": "The Champions Trophy 2025 was the first ICC event hosted by Pakistan in how many years?",
+  "options": [
+   "32 years",
+   "29 years",
+   "25 years",
+   "19 years"
+  ],
+  "answer": 1,
+  "explanation": "The 2025 Champions Trophy was the first ICC event hosted by Pakistan in 29 years.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA492",
+  "subject": "Current Affairs & GK",
+  "q": "India won the ICC Champions Trophy 2025 final by beating ____ (Dubai, 9 March 2025):",
+  "options": [
+   "South Africa (by 7 wickets)",
+   "Pakistan (by 5 wickets)",
+   "Australia (by 6 wickets)",
+   "New Zealand (by 4 wickets)"
+  ],
+  "answer": 3,
+  "explanation": "India beat New Zealand by 4 wickets in the Champions Trophy 2025 final in Dubai.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA493",
+  "subject": "Current Affairs & GK",
+  "q": "Who was Player of the Match in the Champions Trophy 2025 final?",
+  "options": [
+   "Shreyas Iyer",
+   "Rachin Ravindra",
+   "Kuldeep Yadav",
+   "Rohit Sharma (76)"
+  ],
+  "answer": 3,
+  "explanation": "Rohit Sharma scored 76 and was Player of the Match in the Champions Trophy 2025 final.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA494",
+  "subject": "Current Affairs & GK",
+  "q": "The PSL 2025 final was played on 25 May 2025 at:",
+  "options": [
+   "National Stadium, Karachi",
+   "Gaddafi Stadium, Lahore",
+   "Multan Cricket Stadium",
+   "Rawalpindi Cricket Stadium"
+  ],
+  "answer": 1,
+  "explanation": "The PSL 2025 final was played at Gaddafi Stadium, Lahore, on 25 May 2025.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA495",
+  "subject": "Current Affairs & GK",
+  "q": "PSL 2025 was Lahore Qalandars' ____ PSL title.",
+  "options": [
+   "Third",
+   "Second",
+   "First",
+   "Fourth"
+  ],
+  "answer": 0,
+  "explanation": "PSL 2025 was Lahore Qalandars' third PSL title.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA496",
+  "subject": "Current Affairs & GK",
+  "q": "The Asia Cup 2025 final was played in Dubai on:",
+  "options": [
+   "25 May 2025",
+   "29 June 2024",
+   "28 September 2025",
+   "9 March 2025"
+  ],
+  "answer": 2,
+  "explanation": "The Asia Cup 2025 final was played in Dubai on 28 September 2025.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA497",
+  "subject": "Current Affairs & GK",
+  "q": "The Asia Cup 2025 title was India's ____ Asia Cup title.",
+  "options": [
+   "Eighth",
+   "Tenth",
+   "Seventh",
+   "Ninth"
+  ],
+  "answer": 3,
+  "explanation": "The Asia Cup 2025 title was India's ninth Asia Cup title.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA498",
+  "subject": "Current Affairs & GK",
+  "q": "Who was Player of the Series at the Asia Cup 2025?",
+  "options": [
+   "Tilak Varma",
+   "Suryakumar Yadav",
+   "Abhishek Sharma (314 runs)",
+   "Kuldeep Yadav"
+  ],
+  "answer": 2,
+  "explanation": "Abhishek Sharma was Player of the Series at the Asia Cup 2025 with 314 runs.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA499",
+  "subject": "Current Affairs & GK",
+  "q": "The ICC World Test Championship 2025 final was played at:",
+  "options": [
+   "MCG",
+   "The Oval",
+   "Eden Gardens",
+   "Lord's"
+  ],
+  "answer": 3,
+  "explanation": "The World Test Championship 2025 final was played at Lord's in June 2025.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA500",
+  "subject": "Current Affairs & GK",
+  "q": "The T20 World Cup 2026 final was played at Narendra Modi Stadium, Ahmedabad, on:",
+  "options": [
+   "2 November 2025",
+   "8 March 2026",
+   "29 June 2024",
+   "9 March 2025"
+  ],
+  "answer": 1,
+  "explanation": "The T20 World Cup 2026 final was played at Narendra Modi Stadium, Ahmedabad, on 8 March 2026.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA501",
+  "subject": "Current Affairs & GK",
+  "q": "India's total of 255/5 in the T20 World Cup 2026 final was:",
+  "options": [
+   "The second-highest final total",
+   "The highest total ever in a T20 World Cup final",
+   "The lowest total in a final",
+   "The first 250+ total in a semi-final"
+  ],
+  "answer": 1,
+  "explanation": "India's 255/5 was the highest total ever posted in a T20 World Cup final.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA502",
+  "subject": "Current Affairs & GK",
+  "q": "Who was Player of the Match in the T20 World Cup 2026 final?",
+  "options": [
+   "Sanju Samson",
+   "Jasprit Bumrah (4/15)",
+   "Abhishek Sharma",
+   "Virat Kohli"
+  ],
+  "answer": 1,
+  "explanation": "Jasprit Bumrah took 4/15 and was Player of the Match in the T20 World Cup 2026 final.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA503",
+  "subject": "Current Affairs & GK",
+  "q": "Who was Player of the Series at the T20 World Cup 2026?",
+  "options": [
+   "Suryakumar Yadav",
+   "Virat Kohli",
+   "Rachin Ravindra",
+   "Sanju Samson"
+  ],
+  "answer": 3,
+  "explanation": "Sanju Samson was Player of the Series at the ICC Men's T20 World Cup 2026.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA504",
+  "subject": "Current Affairs & GK",
+  "q": "Who scored the most runs at the T20 World Cup 2026?",
+  "options": [
+   "Abhishek Sharma",
+   "Travis Head",
+   "Sanju Samson",
+   "Sahibzada Farhan (Pakistan, 383)"
+  ],
+  "answer": 3,
+  "explanation": "Pakistan's Sahibzada Farhan scored the most runs at the T20 World Cup 2026: 383 runs.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA505",
+  "subject": "Current Affairs & GK",
+  "q": "Sahibzada Farhan's 383 runs at the T20 World Cup 2026 broke the previous single-edition record of:",
+  "options": [
+   "319 runs (Virat Kohli, 2014)",
+   "350 runs",
+   "300 runs",
+   "289 runs"
+  ],
+  "answer": 0,
+  "explanation": "Farhan's 383 runs broke Virat Kohli's record of 319 runs in a single T20 World Cup edition (2014).",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA506",
+  "subject": "Current Affairs & GK",
+  "q": "Sahibzada Farhan became the first batter to score two centuries in a single T20 World Cup edition; his hundreds came against:",
+  "options": [
+   "New Zealand and Bangladesh",
+   "England and South Africa",
+   "India and Australia",
+   "Namibia and Sri Lanka"
+  ],
+  "answer": 3,
+  "explanation": "Farhan scored his two T20 World Cup 2026 centuries against Namibia and Sri Lanka.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA507",
+  "subject": "Current Affairs & GK",
+  "q": "How many ICC Men's T20 World Cup titles has India won after the 2026 victory?",
+  "options": [
+   "Two",
+   "Four",
+   "One",
+   "Three"
+  ],
+  "answer": 3,
+  "explanation": "After the 2026 win, India has three T20 World Cup titles (2007, 2024, 2026) and was the first team to defend the title.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA508",
+  "subject": "Current Affairs & GK",
+  "q": "The Women's Cricket World Cup 2025 final was played at Navi Mumbai on:",
+  "options": [
+   "28 September 2025",
+   "8 March 2026",
+   "2 November 2025",
+   "9 March 2025"
+  ],
+  "answer": 2,
+  "explanation": "The Women's World Cup 2025 final was played at DY Patil Stadium, Navi Mumbai, on 2 November 2025.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA509",
+  "subject": "Current Affairs & GK",
+  "q": "The Women's World Cup 2025 was India's ____ World Cup title.",
+  "options": [
+   "Second",
+   "Third",
+   "Fourth",
+   "Maiden (first)"
+  ],
+  "answer": 3,
+  "explanation": "The 2025 title was India's maiden Women's Cricket World Cup title.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA510",
+  "subject": "Current Affairs & GK",
+  "q": "Who was Player of the Match in the Women's World Cup 2025 final?",
+  "options": [
+   "Laura Wolvaardt",
+   "Smriti Mandhana",
+   "Deepti Sharma",
+   "Shefali Verma"
+  ],
+  "answer": 3,
+  "explanation": "Shefali Verma was Player of the Match in the Women's World Cup 2025 final.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA511",
+  "subject": "Current Affairs & GK",
+  "q": "Who was Player of the Series at the Women's World Cup 2025?",
+  "options": [
+   "Smriti Mandhana",
+   "Deepti Sharma (22 wickets)",
+   "Laura Wolvaardt",
+   "Harmanpreet Kaur"
+  ],
+  "answer": 1,
+  "explanation": "Deepti Sharma was Player of the Series at the Women's World Cup 2025 with 22 wickets and 215 runs.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA512",
+  "subject": "Current Affairs & GK",
+  "q": "Who scored the most runs at the Women's World Cup 2025?",
+  "options": [
+   "Alyssa Healy",
+   "Smriti Mandhana",
+   "Laura Wolvaardt (South Africa, 571)",
+   "Nat Sciver-Brunt"
+  ],
+  "answer": 2,
+  "explanation": "South Africa's Laura Wolvaardt scored the most runs at the Women's World Cup 2025: 571 runs, a single-edition record.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA513",
+  "subject": "Current Affairs & GK",
+  "q": "On 9 October 2026, Sahibzada Farhan became Pakistan's new:",
+  "options": [
+   "Head coach",
+   "T20I captain",
+   "Test captain",
+   "ODI captain"
+  ],
+  "answer": 1,
+  "explanation": "Sahibzada Farhan became Pakistan's T20I captain on 9 October 2026, after his record T20 World Cup 2026.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA514",
+  "subject": "Current Affairs & GK",
+  "q": "Who scored Spain's winning goal in the FIFA World Cup 2026 final?",
+  "options": [
+   "Lamine Yamal",
+   "Nico Williams",
+   "Rodri",
+   "Ferran Torres (106th minute)"
+  ],
+  "answer": 3,
+  "explanation": "Ferran Torres scored in the 106th minute as Spain beat Argentina 1-0 in the FIFA World Cup 2026 final.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA515",
+  "subject": "Current Affairs & GK",
+  "q": "The FIFA World Cup 2026 final was played at:",
+  "options": [
+   "Maracana, Rio",
+   "MetLife Stadium, New Jersey",
+   "Wembley Stadium, London",
+   "Lusail Stadium, Qatar"
+  ],
+  "answer": 1,
+  "explanation": "The FIFA World Cup 2026 final was played at MetLife Stadium, New Jersey, on 19 July 2026.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA516",
+  "subject": "Current Affairs & GK",
+  "q": "Spain's FIFA World Cup 2026 title was their ____ World Cup title.",
+  "options": [
+   "Third",
+   "First",
+   "Second",
+   "Fourth"
+  ],
+  "answer": 2,
+  "explanation": "The 2026 title was Spain's second World Cup title, after their first in 2010.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA517",
+  "subject": "Current Affairs & GK",
+  "q": "Pope Leo XIV (elected 8 May 2025) is the:",
+  "options": [
+   "First Asian pope",
+   "Youngest pope",
+   "First African pope",
+   "First American pope"
+  ],
+  "answer": 3,
+  "explanation": "Pope Leo XIV, elected on 8 May 2025, is the first American pope.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA518",
+  "subject": "Current Affairs & GK",
+  "q": "Pope Francis died on:",
+  "options": [
+   "21 April 2024",
+   "8 May 2025",
+   "19 May 2024",
+   "21 April 2025"
+  ],
+  "answer": 3,
+  "explanation": "Pope Francis died on 21 April 2025; Pope Leo XIV succeeded him on 8 May 2025.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA519",
+  "subject": "Current Affairs & GK",
+  "q": "How many member states attended the 2025 SCO Summit in Tianjin, the largest SCO summit in history?",
+  "options": [
+   "9",
+   "8",
+   "10",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": "The 2025 SCO Summit in Tianjin had 10 member states and was the largest SCO summit in history.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA520",
+  "subject": "Current Affairs & GK",
+  "q": "Indonesia became a full member of BRICS in:",
+  "options": [
+   "July 2025",
+   "January 2025",
+   "January 2026",
+   "January 2024"
+  ],
+  "answer": 1,
+  "explanation": "Indonesia became a full member of BRICS in January 2025.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA521",
+  "subject": "Current Affairs & GK",
+  "q": "COP30 (2025) was held in:",
+  "options": [
+   "Glasgow, UK",
+   "Sharm el-Sheikh, Egypt",
+   "Dubai, UAE",
+   "Belem, Brazil"
+  ],
+  "answer": 3,
+  "explanation": "COP30 in 2025 was held in Belem, Brazil; COP29 (2024) was held in Baku, Azerbaijan.",
+  "source": "PPSC Day 39"
+ },
+ {
+  "id": "CA522",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Argentina?",
+  "options": [
+   "Cordoba",
+   "Buenos Aires",
+   "Mendoza",
+   "Rosario"
+  ],
+  "answer": 1,
+  "explanation": "Buenos Aires is the capital and largest city of Argentina.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA523",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Indonesia?",
+  "options": [
+   "Medan",
+   "Jakarta",
+   "Bandung",
+   "Surabaya"
+  ],
+  "answer": 1,
+  "explanation": "Jakarta is the capital of Indonesia; the new capital Nusantara is under construction.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA524",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Mexico?",
+  "options": [
+   "Mexico City",
+   "Puebla",
+   "Monterrey",
+   "Guadalajara"
+  ],
+  "answer": 0,
+  "explanation": "Mexico City is the capital and largest city of Mexico.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA525",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Saudi Arabia?",
+  "options": [
+   "Mecca",
+   "Riyadh",
+   "Jeddah",
+   "Dammam"
+  ],
+  "answer": 1,
+  "explanation": "Riyadh is the capital and largest city of Saudi Arabia.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA526",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Iran?",
+  "options": [
+   "Tehran",
+   "Isfahan",
+   "Shiraz",
+   "Mashhad"
+  ],
+  "answer": 0,
+  "explanation": "Tehran is the capital and largest city of Iran.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA527",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Iraq?",
+  "options": [
+   "Baghdad",
+   "Basra",
+   "Mosul",
+   "Kirkuk"
+  ],
+  "answer": 0,
+  "explanation": "Baghdad is the capital and largest city of Iraq.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA528",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Syria?",
+  "options": [
+   "Latakia",
+   "Aleppo",
+   "Damascus",
+   "Homs"
+  ],
+  "answer": 2,
+  "explanation": "Damascus is the capital of Syria and one of the oldest continuously inhabited cities in the world.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA529",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Lebanon?",
+  "options": [
+   "Beirut",
+   "Sidon",
+   "Tyre",
+   "Tripoli"
+  ],
+  "answer": 0,
+  "explanation": "Beirut is the capital and largest city of Lebanon.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA530",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Jordan?",
+  "options": [
+   "Amman",
+   "Irbid",
+   "Zarqa",
+   "Aqaba"
+  ],
+  "answer": 0,
+  "explanation": "Amman is the capital and largest city of Jordan.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA531",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Qatar?",
+  "options": [
+   "Al Rayyan",
+   "Al Wakrah",
+   "Lusail",
+   "Doha"
+  ],
+  "answer": 3,
+  "explanation": "Doha is the capital and largest city of Qatar.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA532",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of the United Arab Emirates?",
+  "options": [
+   "Dubai",
+   "Ajman",
+   "Sharjah",
+   "Abu Dhabi"
+  ],
+  "answer": 3,
+  "explanation": "Abu Dhabi is the capital of the UAE; Dubai is its largest city.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA533",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Kuwait?",
+  "options": [
+   "Hawalli",
+   "Kuwait City",
+   "Salmiya",
+   "Ahmadi"
+  ],
+  "answer": 1,
+  "explanation": "Kuwait City is the capital of Kuwait.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA534",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Oman?",
+  "options": [
+   "Salalah",
+   "Muscat",
+   "Nizwa",
+   "Sohar"
+  ],
+  "answer": 1,
+  "explanation": "Muscat is the capital and largest city of Oman.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA535",
+  "subject": "Current Affairs & GK",
+  "q": "What is the capital of Russia?",
+  "options": [
+   "Novosibirsk",
+   "Kazan",
+   "Moscow",
+   "St Petersburg"
+  ],
+  "answer": 2,
+  "explanation": "Moscow is the capital and largest city of Russia.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA536",
+  "subject": "Current Affairs & GK",
+  "q": "The Burj Khalifa, the tallest building in the world, is located in:",
+  "options": [
+   "Riyadh",
+   "Doha",
+   "Dubai",
+   "Abu Dhabi"
+  ],
+  "answer": 2,
+  "explanation": "The Burj Khalifa stands in Dubai, UAE, and is 828 metres tall.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA537",
+  "subject": "Current Affairs & GK",
+  "q": "The Christ the Redeemer statue stands in:",
+  "options": [
+   "Rio de Janeiro",
+   "Lima",
+   "Buenos Aires",
+   "Sao Paulo"
+  ],
+  "answer": 0,
+  "explanation": "Christ the Redeemer stands in Rio de Janeiro, Brazil, overlooking the city.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA538",
+  "subject": "Current Affairs & GK",
+  "q": "Machu Picchu, the ancient Inca city, is located in:",
+  "options": [
+   "Peru",
+   "Ecuador",
+   "Bolivia",
+   "Chile"
+  ],
+  "answer": 0,
+  "explanation": "Machu Picchu is a 15th-century Inca citadel in the Andes of Peru.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA539",
+  "subject": "Current Affairs & GK",
+  "q": "Angkor Wat, the largest religious monument in the world, is located in:",
+  "options": [
+   "Cambodia",
+   "Thailand",
+   "Laos",
+   "Vietnam"
+  ],
+  "answer": 0,
+  "explanation": "Angkor Wat is a 12th-century temple complex in Cambodia.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA540",
+  "subject": "Current Affairs & GK",
+  "q": "The Brandenburg Gate is located in:",
+  "options": [
+   "Berlin",
+   "Vienna",
+   "Prague",
+   "Munich"
+  ],
+  "answer": 0,
+  "explanation": "The Brandenburg Gate is the famous landmark of Berlin, Germany.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA541",
+  "subject": "Current Affairs & GK",
+  "q": "The Golden Gate Bridge is located in:",
+  "options": [
+   "San Francisco",
+   "Seattle",
+   "Los Angeles",
+   "San Diego"
+  ],
+  "answer": 0,
+  "explanation": "The Golden Gate Bridge spans the Golden Gate strait at San Francisco, USA.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA542",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the second largest country in the world by area?",
+  "options": [
+   "Brazil",
+   "China",
+   "USA",
+   "Canada"
+  ],
+  "answer": 3,
+  "explanation": "Canada is the second largest country in the world after Russia.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA543",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the longest river of South America?",
+  "options": [
+   "Sao Francisco",
+   "Amazon",
+   "Orinoco",
+   "Parana"
+  ],
+  "answer": 1,
+  "explanation": "The Amazon is the longest river of South America and carries the largest volume of water in the world.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA544",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the longest river of Europe?",
+  "options": [
+   "Danube",
+   "Volga",
+   "Rhine",
+   "Dnieper"
+  ],
+  "answer": 1,
+  "explanation": "The Volga, in Russia, is the longest river of Europe.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA545",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the second largest island in the world?",
+  "options": [
+   "Borneo",
+   "Madagascar",
+   "Sumatra",
+   "New Guinea"
+  ],
+  "answer": 3,
+  "explanation": "New Guinea is the second largest island in the world, after Greenland.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA546",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the smallest country in the world?",
+  "options": [
+   "Liechtenstein",
+   "Vatican City",
+   "San Marino",
+   "Monaco"
+  ],
+  "answer": 1,
+  "explanation": "Vatican City, at 0.44 square kilometres, is the smallest country in the world.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA547",
+  "subject": "Current Affairs & GK",
+  "q": "Which country has the most islands in the world?",
+  "options": [
+   "Indonesia",
+   "Sweden",
+   "Canada",
+   "Philippines"
+  ],
+  "answer": 1,
+  "explanation": "Sweden has the most islands in the world, about 221,800.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA548",
+  "subject": "Current Affairs & GK",
+  "q": "Which country has the most natural lakes in the world?",
+  "options": [
+   "Russia",
+   "Finland",
+   "Canada",
+   "USA"
+  ],
+  "answer": 2,
+  "explanation": "Canada has the most natural lakes in the world, about 62 percent of the world total.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA549",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest country of South America by area?",
+  "options": [
+   "Brazil",
+   "Argentina",
+   "Peru",
+   "Chile"
+  ],
+  "answer": 0,
+  "explanation": "Brazil is the largest country of South America by area and population.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA550",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest country of the Middle East by area?",
+  "options": [
+   "Turkey",
+   "Egypt",
+   "Iran",
+   "Saudi Arabia"
+  ],
+  "answer": 3,
+  "explanation": "Saudi Arabia is the largest country of the Middle East by area.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA551",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest island in the Mediterranean Sea?",
+  "options": [
+   "Sicily",
+   "Sardinia",
+   "Cyprus",
+   "Crete"
+  ],
+  "answer": 0,
+  "explanation": "Sicily, part of Italy, is the largest island in the Mediterranean Sea.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA552",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the largest desert of Asia?",
+  "options": [
+   "Thar",
+   "Gobi",
+   "Arabian",
+   "Karakum"
+  ],
+  "answer": 1,
+  "explanation": "The Gobi desert, in Mongolia and China, is the largest desert of Asia.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA553",
+  "subject": "Current Affairs & GK",
+  "q": "Which is the driest desert in the world?",
+  "options": [
+   "Gobi",
+   "Kalahari",
+   "Atacama",
+   "Sahara"
+  ],
+  "answer": 2,
+  "explanation": "The Atacama desert of Chile is the driest desert in the world.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA554",
+  "subject": "Current Affairs & GK",
+  "q": "What is the currency of China?",
+  "options": [
+   "Ringgit",
+   "Yen",
+   "Won",
+   "Yuan"
+  ],
+  "answer": 3,
+  "explanation": "The currency of China is the yuan (also called the renminbi).",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA555",
+  "subject": "Current Affairs & GK",
+  "q": "What is the currency of the United Kingdom?",
+  "options": [
+   "Pound Sterling",
+   "Euro",
+   "Franc",
+   "Dollar"
+  ],
+  "answer": 0,
+  "explanation": "The currency of the United Kingdom is the pound sterling.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA556",
+  "subject": "Current Affairs & GK",
+  "q": "What is the currency of the United Arab Emirates?",
+  "options": [
+   "Dinar",
+   "Dirham",
+   "Pound",
+   "Riyal"
+  ],
+  "answer": 1,
+  "explanation": "The currency of the UAE is the dirham.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA557",
+  "subject": "Current Affairs & GK",
+  "q": "What is the currency of Turkey?",
+  "options": [
+   "Rial",
+   "Lira",
+   "Dinar",
+   "Dirham"
+  ],
+  "answer": 1,
+  "explanation": "The currency of Turkey is the lira.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA558",
+  "subject": "Current Affairs & GK",
+  "q": "Persia is the old name of which country?",
+  "options": [
+   "Egypt",
+   "Turkey",
+   "Iraq",
+   "Iran"
+  ],
+  "answer": 3,
+  "explanation": "Persia is the old name of Iran; the name was officially changed in 1935.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA559",
+  "subject": "Current Affairs & GK",
+  "q": "Ceylon is the old name of which country?",
+  "options": [
+   "Nepal",
+   "Thailand",
+   "Myanmar",
+   "Sri Lanka"
+  ],
+  "answer": 3,
+  "explanation": "Ceylon is the old name of Sri Lanka; the name changed in 1972.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA560",
+  "subject": "Current Affairs & GK",
+  "q": "The parliament of Russia is called the:",
+  "options": [
+   "Knesset",
+   "Majlis",
+   "Duma",
+   "Bundestag"
+  ],
+  "answer": 2,
+  "explanation": "The parliament of Russia is the Federal Assembly, whose lower house is the State Duma.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA561",
+  "subject": "Current Affairs & GK",
+  "q": "The parliament of Germany is called the:",
+  "options": [
+   "National Assembly",
+   "Cortes",
+   "Bundestag",
+   "Diet"
+  ],
+  "answer": 2,
+  "explanation": "The parliament of Germany is the Bundestag (lower house) with the Bundesrat (upper house).",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA562",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the current Secretary-General of the United Nations?",
+  "options": [
+   "Antonio Guterres",
+   "Kofi Annan",
+   "Boutros Boutros-Ghali",
+   "Ban Ki-moon"
+  ],
+  "answer": 0,
+  "explanation": "Antonio Guterres of Portugal has been UN Secretary-General since 2017.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA563",
+  "subject": "Current Affairs & GK",
+  "q": "How many original member states signed the UN Charter in 1945?",
+  "options": [
+   "45",
+   "51",
+   "60",
+   "55"
+  ],
+  "answer": 1,
+  "explanation": "51 countries signed the UN Charter in 1945; the UN now has 193 member states.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA564",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the World Health Organization (WHO) is in:",
+  "options": [
+   "New York",
+   "Paris",
+   "Geneva",
+   "Vienna"
+  ],
+  "answer": 2,
+  "explanation": "The WHO is headquartered in Geneva, Switzerland, and was founded in 1948.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA565",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the Food and Agriculture Organization (FAO) is in:",
+  "options": [
+   "Rome",
+   "Geneva",
+   "Paris",
+   "Madrid"
+  ],
+  "answer": 0,
+  "explanation": "The FAO is headquartered in Rome, Italy, and was founded in 1945.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA566",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of UNICEF is in:",
+  "options": [
+   "Geneva",
+   "New York",
+   "Paris",
+   "Rome"
+  ],
+  "answer": 1,
+  "explanation": "UNICEF is headquartered in New York and was founded in 1946.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA567",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the International Labour Organization (ILO) is in:",
+  "options": [
+   "London",
+   "Rome",
+   "Geneva",
+   "Vienna"
+  ],
+  "answer": 2,
+  "explanation": "The ILO is headquartered in Geneva, Switzerland, and was founded in 1919.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA568",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the International Atomic Energy Agency (IAEA) is in:",
+  "options": [
+   "Paris",
+   "New York",
+   "Geneva",
+   "Vienna"
+  ],
+  "answer": 3,
+  "explanation": "The IAEA is headquartered in Vienna, Austria, and was founded in 1957.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA569",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of INTERPOL is in:",
+  "options": [
+   "Paris",
+   "The Hague",
+   "Brussels",
+   "Lyon"
+  ],
+  "answer": 3,
+  "explanation": "INTERPOL, the International Criminal Police Organization, is headquartered in Lyon, France.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA570",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the International Criminal Court (ICC) is in:",
+  "options": [
+   "Strasbourg",
+   "Brussels",
+   "The Hague",
+   "Geneva"
+  ],
+  "answer": 2,
+  "explanation": "The International Criminal Court is based in The Hague, Netherlands.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA571",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the African Union is in:",
+  "options": [
+   "Accra",
+   "Cairo",
+   "Addis Ababa",
+   "Nairobi"
+  ],
+  "answer": 2,
+  "explanation": "The African Union is headquartered in Addis Ababa, Ethiopia, and was founded in 2002.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA572",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the Association of Southeast Asian Nations (ASEAN) is in:",
+  "options": [
+   "Jakarta",
+   "Bangkok",
+   "Singapore",
+   "Kuala Lumpur"
+  ],
+  "answer": 0,
+  "explanation": "ASEAN is headquartered in Jakarta, Indonesia, and has 10 member states.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA573",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the European Union is in:",
+  "options": [
+   "Brussels",
+   "Paris",
+   "Strasbourg",
+   "Luxembourg"
+  ],
+  "answer": 0,
+  "explanation": "The European Union is headquartered in Brussels, Belgium.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA574",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the Shanghai Cooperation Organization (SCO) is in:",
+  "options": [
+   "Astana",
+   "Shanghai",
+   "Beijing",
+   "Moscow"
+  ],
+  "answer": 2,
+  "explanation": "The SCO is headquartered in Beijing, China, and was founded in 2001.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA575",
+  "subject": "Current Affairs & GK",
+  "q": "The headquarters of the Organization of Islamic Cooperation (OIC) is in:",
+  "options": [
+   "Islamabad",
+   "Riyadh",
+   "Cairo",
+   "Jeddah"
+  ],
+  "answer": 3,
+  "explanation": "The OIC is headquartered in Jeddah, Saudi Arabia, and has 57 member states.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA576",
+  "subject": "Current Affairs & GK",
+  "q": "Which of the following countries joined BRICS as a full member in January 2024?",
+  "options": [
+   "Nigeria",
+   "Egypt",
+   "Indonesia",
+   "Argentina"
+  ],
+  "answer": 1,
+  "explanation": "Egypt, Ethiopia, Iran and the UAE joined BRICS in January 2024; Indonesia joined in 2025.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA577",
+  "subject": "Current Affairs & GK",
+  "q": "The Treaty of Versailles, which ended World War I, was signed in:",
+  "options": [
+   "1921",
+   "1919",
+   "1918",
+   "1920"
+  ],
+  "answer": 1,
+  "explanation": "The Treaty of Versailles was signed on 28 June 1919.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA578",
+  "subject": "Current Affairs & GK",
+  "q": "The Camp David Accords between Egypt and Israel were signed in:",
+  "options": [
+   "1976",
+   "1978",
+   "1973",
+   "1982"
+  ],
+  "answer": 1,
+  "explanation": "The Camp David Accords were signed in 1978, mediated by US President Jimmy Carter.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA579",
+  "subject": "Current Affairs & GK",
+  "q": "The Maastricht Treaty, which created the European Union, was signed in:",
+  "options": [
+   "1995",
+   "1989",
+   "1992",
+   "1997"
+  ],
+  "answer": 2,
+  "explanation": "The Maastricht Treaty was signed in 1992 and came into force in 1993.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA580",
+  "subject": "Current Affairs & GK",
+  "q": "The Dayton Agreement, which ended the Bosnian War, was signed in:",
+  "options": [
+   "1999",
+   "1991",
+   "1993",
+   "1995"
+  ],
+  "answer": 3,
+  "explanation": "The Dayton Agreement was signed in Paris in December 1995.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA581",
+  "subject": "Current Affairs & GK",
+  "q": "The Good Friday Agreement, which brought peace to Northern Ireland, was signed in:",
+  "options": [
+   "2000",
+   "1996",
+   "1994",
+   "1998"
+  ],
+  "answer": 3,
+  "explanation": "The Good Friday Agreement was signed on 10 April 1998.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA582",
+  "subject": "Current Affairs & GK",
+  "q": "Who invented the bicycle?",
+  "options": [
+   "John Dunlop",
+   "Karl von Drais",
+   "Kirkpatrick Macmillan",
+   "James Starley"
+  ],
+  "answer": 1,
+  "explanation": "Karl von Drais invented the first bicycle, the running machine, in 1817.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA583",
+  "subject": "Current Affairs & GK",
+  "q": "Who invented the pneumatic tyre?",
+  "options": [
+   "John Boyd Dunlop",
+   "Andre Michelin",
+   "Charles Goodyear",
+   "Robert Thomson"
+  ],
+  "answer": 0,
+  "explanation": "John Boyd Dunlop invented the pneumatic tyre in 1888.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA584",
+  "subject": "Current Affairs & GK",
+  "q": "Who built the first steamboat to operate commercially?",
+  "options": [
+   "Robert Fulton",
+   "George Stephenson",
+   "John Fitch",
+   "James Watt"
+  ],
+  "answer": 0,
+  "explanation": "Robert Fulton's Clermont made the first successful commercial steamboat voyage in 1807.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA585",
+  "subject": "Current Affairs & GK",
+  "q": "Who invented the elevator safety brake?",
+  "options": [
+   "Nikola Tesla",
+   "Elisha Otis",
+   "Alexander Graham Bell",
+   "Thomas Edison"
+  ],
+  "answer": 1,
+  "explanation": "Elisha Otis invented the safety elevator in 1853; his brake stopped the car if the cable broke.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA586",
+  "subject": "Current Affairs & GK",
+  "q": "Who invented the zipper?",
+  "options": [
+   "Isaac Singer",
+   "Whitcomb Judson",
+   "Elias Howe",
+   "Walter Hunt"
+  ],
+  "answer": 1,
+  "explanation": "Whitcomb Judson invented the modern zipper in 1893.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA587",
+  "subject": "Current Affairs & GK",
+  "q": "Who invented the microwave oven?",
+  "options": [
+   "Guglielmo Marconi",
+   "Edwin Armstrong",
+   "Percy Spencer",
+   "John Logie Baird"
+  ],
+  "answer": 2,
+  "explanation": "Percy Spencer invented the microwave oven in 1945 after noticing a chocolate bar melt near a magnetron.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA588",
+  "subject": "Current Affairs & GK",
+  "q": "Who invented the photocopier?",
+  "options": [
+   "Karl Benz",
+   "James Watt",
+   "Henry Ford",
+   "Chester Carlson"
+  ],
+  "answer": 3,
+  "explanation": "Chester Carlson invented xerography, the basis of the photocopier, in 1938.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA589",
+  "subject": "Current Affairs & GK",
+  "q": "Who invented the mobile phone and made the first handheld call in 1973?",
+  "options": [
+   "Martin Cooper",
+   "Alexander Graham Bell",
+   "Nokia",
+   "Steve Jobs"
+  ],
+  "answer": 0,
+  "explanation": "Martin Cooper of Motorola made the first handheld mobile phone call in 1973.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA590",
+  "subject": "Current Affairs & GK",
+  "q": "Who invented email?",
+  "options": [
+   "Tim Berners-Lee",
+   "Ray Tomlinson",
+   "Bill Gates",
+   "Vint Cerf"
+  ],
+  "answer": 1,
+  "explanation": "Ray Tomlinson invented email in 1971 and chose the @ symbol for addresses.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA591",
+  "subject": "Current Affairs & GK",
+  "q": "Who invented the computer mouse?",
+  "options": [
+   "Charles Babbage",
+   "Steve Jobs",
+   "Alan Turing",
+   "Douglas Engelbart"
+  ],
+  "answer": 3,
+  "explanation": "Douglas Engelbart invented the computer mouse in 1968.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA592",
+  "subject": "Current Affairs & GK",
+  "q": "Who discovered the circulation of blood in the human body?",
+  "options": [
+   "Edward Jenner",
+   "Robert Koch",
+   "William Harvey",
+   "Louis Pasteur"
+  ],
+  "answer": 2,
+  "explanation": "William Harvey described the circulation of blood in 1628.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA593",
+  "subject": "Current Affairs & GK",
+  "q": "Who discovered the cell?",
+  "options": [
+   "Robert Hooke",
+   "Gregor Mendel",
+   "Louis Pasteur",
+   "Antonie van Leeuwenhoek"
+  ],
+  "answer": 0,
+  "explanation": "Robert Hooke discovered the cell in 1665 while examining cork under a microscope.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA594",
+  "subject": "Current Affairs & GK",
+  "q": "Who discovered the planet Uranus?",
+  "options": [
+   "Johannes Kepler",
+   "Isaac Newton",
+   "Galileo Galilei",
+   "William Herschel"
+  ],
+  "answer": 3,
+  "explanation": "William Herschel discovered Uranus in 1781, the first planet found with a telescope.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA595",
+  "subject": "Current Affairs & GK",
+  "q": "Who discovered the planet Neptune?",
+  "options": [
+   "Edwin Hubble",
+   "William Herschel",
+   "Johann Galle",
+   "Clyde Tombaugh"
+  ],
+  "answer": 2,
+  "explanation": "Johann Galle first observed Neptune in 1846, from calculations by Urbain Le Verrier.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA596",
+  "subject": "Current Affairs & GK",
+  "q": "Who first proposed the Big Bang theory?",
+  "options": [
+   "Stephen Hawking",
+   "Albert Einstein",
+   "Georges Lemaitre",
+   "Edwin Hubble"
+  ],
+  "answer": 2,
+  "explanation": "Georges Lemaitre, a Belgian priest and physicist, proposed the Big Bang theory in 1927.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA597",
+  "subject": "Current Affairs & GK",
+  "q": "Who discovered the moons of Jupiter?",
+  "options": [
+   "Galileo Galilei",
+   "Isaac Newton",
+   "Johannes Kepler",
+   "Christiaan Huygens"
+  ],
+  "answer": 0,
+  "explanation": "Galileo discovered the four largest moons of Jupiter in 1610 with his telescope.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA598",
+  "subject": "Current Affairs & GK",
+  "q": "The speed of light in a vacuum is about:",
+  "options": [
+   "150,000 km/s",
+   "300,000 km/s",
+   "200,000 km/s",
+   "400,000 km/s"
+  ],
+  "answer": 1,
+  "explanation": "The speed of light in a vacuum is 299,792 kilometres per second, about 300,000 km/s.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA599",
+  "subject": "Current Affairs & GK",
+  "q": "The chemical symbol of gold is:",
+  "options": [
+   "Go",
+   "Ag",
+   "Gd",
+   "Au"
+  ],
+  "answer": 3,
+  "explanation": "The chemical symbol of gold is Au, from the Latin word aurum.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA600",
+  "subject": "Current Affairs & GK",
+  "q": "The chemical formula of common salt is:",
+  "options": [
+   "KCl",
+   "CaCl2",
+   "NaOH",
+   "NaCl"
+  ],
+  "answer": 3,
+  "explanation": "Common salt is sodium chloride, NaCl.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA601",
+  "subject": "Current Affairs & GK",
+  "q": "A tachometer is used to measure:",
+  "options": [
+   "Speed of a vehicle",
+   "Speed of rotation of a shaft",
+   "Atmospheric pressure",
+   "Electric current"
+  ],
+  "answer": 1,
+  "explanation": "A tachometer measures the speed of rotation of a shaft or engine, in revolutions per minute.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA602",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan won its first Olympic gold medal in hockey at the Rome Olympics in:",
+  "options": [
+   "1960",
+   "1956",
+   "1964",
+   "1968"
+  ],
+  "answer": 0,
+  "explanation": "Pakistan won its first Olympic gold in hockey at Rome 1960, beating India in the final.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA603",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's first individual Olympic medal was won by Mohammad Bashir in:",
+  "options": [
+   "Athletics",
+   "Boxing",
+   "Hockey",
+   "Wrestling"
+  ],
+  "answer": 3,
+  "explanation": "Mohammad Bashir won a bronze in wrestling at Rome 1960, Pakistan's first individual Olympic medal.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA604",
+  "subject": "Current Affairs & GK",
+  "q": "How many Olympic medals has Pakistan won in total (up to 2024)?",
+  "options": [
+   "11",
+   "9",
+   "10",
+   "13"
+  ],
+  "answer": 0,
+  "explanation": "Pakistan has won 11 Olympic medals: 4 gold, 3 silver and 4 bronze.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA605",
+  "subject": "Current Affairs & GK",
+  "q": "The 2025 ICC Champions Trophy final was played at:",
+  "options": [
+   "Gaddafi Stadium Lahore",
+   "Rawalpindi Cricket Stadium",
+   "National Stadium Karachi",
+   "Dubai International Stadium"
+  ],
+  "answer": 3,
+  "explanation": "The 2025 Champions Trophy final was played in Dubai, where India beat New Zealand.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA606",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's squash legend Jahangir Khan retired from professional squash in:",
+  "options": [
+   "1993",
+   "1990",
+   "1998",
+   "1995"
+  ],
+  "answer": 0,
+  "explanation": "Jahangir Khan, who won the British Open 10 times, retired in 1993.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA607",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan won its last Olympic hockey gold medal in:",
+  "options": [
+   "1984",
+   "1968",
+   "1960",
+   "1992"
+  ],
+  "answer": 0,
+  "explanation": "Pakistan won its last Olympic hockey gold at Los Angeles 1984; it has 3 hockey golds in total.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA608",
+  "subject": "Current Affairs & GK",
+  "q": "Who is the only Pakistani cricketer to score a triple century in Test cricket?",
+  "options": [
+   "Javed Miandad",
+   "Hanif Mohammad",
+   "Inzamam-ul-Haq",
+   "Younis Khan"
+  ],
+  "answer": 1,
+  "explanation": "Hanif Mohammad scored 337 against West Indies in 1958, Pakistan's only Test triple century.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA609",
+  "subject": "Current Affairs & GK",
+  "q": "Who was the first Pakistani bowler to take 400 wickets in Test cricket?",
+  "options": [
+   "Waqar Younis",
+   "Danish Kaneria",
+   "Imran Khan",
+   "Wasim Akram"
+  ],
+  "answer": 3,
+  "explanation": "Wasim Akram was the first Pakistani to take 400 Test wickets; he finished with 414.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA610",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan won its first Test series against England in:",
+  "options": [
+   "1971",
+   "1987",
+   "1961",
+   "1954"
+  ],
+  "answer": 3,
+  "explanation": "Pakistan won its first Test series against England 1-0 in 1954, winning the Oval Test.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA611",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan won the ICC T20 World Cup in:",
+  "options": [
+   "2009",
+   "2007",
+   "2012",
+   "2010"
+  ],
+  "answer": 0,
+  "explanation": "Pakistan won the ICC T20 World Cup in 2009, beating Sri Lanka in the final at Lord's.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA612",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan won the ICC Champions Trophy in 2017 by beating:",
+  "options": [
+   "England",
+   "Sri Lanka",
+   "India",
+   "Australia"
+  ],
+  "answer": 2,
+  "explanation": "Pakistan beat India by 180 runs in the 2017 Champions Trophy final at The Oval.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA613",
+  "subject": "Current Affairs & GK",
+  "q": "Which team has won the most Pakistan Super League (PSL) titles, tied on 3?",
+  "options": [
+   "Multan Sultans",
+   "Karachi Kings",
+   "Peshawar Zalmi",
+   "Islamabad United"
+  ],
+  "answer": 3,
+  "explanation": "Islamabad United and Lahore Qalandars have won 3 PSL titles each.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA614",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan conducted its first nuclear tests at Chagai on:",
+  "options": [
+   "11 May 1998",
+   "28 May 1999",
+   "15 August 1998",
+   "28 May 1998"
+  ],
+  "answer": 3,
+  "explanation": "Pakistan conducted its first nuclear tests at Chagai on 28 May 1998, observed as Youm-e-Takbeer.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA615",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan is the world's ____ most populous country.",
+  "options": [
+   "6th",
+   "4th",
+   "5th",
+   "3rd"
+  ],
+  "answer": 2,
+  "explanation": "Pakistan is the fifth most populous country in the world, after India, China, the USA and Indonesia.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA616",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's largest export is:",
+  "options": [
+   "Rice",
+   "Sports goods",
+   "Textiles",
+   "Leather goods"
+  ],
+  "answer": 2,
+  "explanation": "Textiles are Pakistan's largest export, about half of total export earnings.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA617",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's largest trading partner is:",
+  "options": [
+   "USA",
+   "Saudi Arabia",
+   "UAE",
+   "China"
+  ],
+  "answer": 3,
+  "explanation": "China is Pakistan's largest trading partner, mainly through CPEC-related trade.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA618",
+  "subject": "Current Affairs & GK",
+  "q": "The 2025-26 federal budget of Pakistan has a total outlay of about:",
+  "options": [
+   "Rs 17.6 trillion",
+   "Rs 12.5 trillion",
+   "Rs 20.5 trillion",
+   "Rs 14.5 trillion"
+  ],
+  "answer": 0,
+  "explanation": "The federal budget 2025-26 has a total outlay of about Rs 17.57 trillion.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA619",
+  "subject": "Current Affairs & GK",
+  "q": "Workers' remittances to Pakistan in FY 2024-25 reached a record of about:",
+  "options": [
+   "$32 billion",
+   "$28 billion",
+   "$38 billion",
+   "$45 billion"
+  ],
+  "answer": 2,
+  "explanation": "Remittances reached a record $38.3 billion in FY 2024-25.",
+  "source": "PPSC Day 40"
+ },
+ {
+  "id": "CA620",
+  "subject": "Current Affairs & GK",
+  "q": "Pakistan's GSP+ trade status with the European Union has been extended until:",
+  "options": [
+   "2030",
+   "2025",
+   "2026",
+   "2027"
+  ],
+  "answer": 3,
+  "explanation": "The EU extended Pakistan's GSP+ trade status until 2027.",
+  "source": "PPSC Day 40"
  }
 ]

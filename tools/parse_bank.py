@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Parse the PPSC MCQ bank markdown files into clean JSON for Muft Tayyari.
+"""Parse the PPSC MCQ bank markdown files into clean JSON for Dream PPSC.
 
 Sources (all local, pre-verified by the bank compiler):
   - hidden_files/ppsc-bank-{english,urdu,islamiat,pakstudies,current-affairs-gk,
@@ -26,7 +26,7 @@ from collections import Counter, OrderedDict
 from pathlib import Path
 
 BANK = Path.home() / "workspace/goals/ppsc-assistant-bps-16-exam-pass-karna/hidden_files"
-OUT = Path.home() / "workspace/humanity-build/muft-tayyari/data"
+OUT = Path.home() / "workspace/humanity-build/dream-ppsc/data"
 ECON_PDF = Path.home() / "workspace/your_files/pakistan-economy-finance-budget-mcqs.pdf"
 DRILL_PY = BANK / "build_04oct_drill.py"
 

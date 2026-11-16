@@ -1,6 +1,6 @@
-/* Muft Tayyari service worker — offline-first.
+/* Dream PPSC service worker — offline-first.
    Precaches the app shell and the question bank on first visit. */
-const CACHE = 'muft-tayyari-v1';
+const CACHE = 'dream-ppsc-v3';
 const ASSETS = [
   './', './index.html', './styles.css', './app.js',
   './data/questions.json', './manifest.webmanifest',

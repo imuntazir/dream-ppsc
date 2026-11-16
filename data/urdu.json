@@ -2896,5 +2896,6669 @@
   "answer": 2,
   "explanation": "Faiz Ahmed Faiz par pehla tanqeedi mazmoon Muhammad Hasan Askari ne likha.",
   "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "U206",
+  "subject": "Urdu",
+  "q": "\"Dusron ko nasihat, khud mian fasihat\" ka matlab hai:",
+  "options": [
+   "Khamoshi behtar hai",
+   "Dusron ko talqeen, khud kuch bhi nahi",
+   "Dusron ki ghalti maaf karni chahiye",
+   "Dusron ki madad karni chahiye"
+  ],
+  "answer": 1,
+  "explanation": "The proverb describes one who preaches to others but does nothing himself.",
+  "source": "Standard Urdu proverb meaning"
+ },
+ {
+  "id": "U207",
+  "subject": "Urdu",
+  "q": "\"Tareekh-e-Adab-e-Urdu\" jild-e-awwal mein Urdu adab ke kis daur ka ihata hai?",
+  "options": [
+   "1750-1850",
+   "Aaghaz se 1750 tak",
+   "1850-1900",
+   "1900-1950"
+  ],
+  "answer": 1,
+  "explanation": "Jamil Jalibi's first volume covered the beginnings of Urdu literature to the middle of the eighteenth century.",
+  "source": "The News (Jang), review of Tareekh-e-Adab-e-Urdu"
+ },
+ {
+  "id": "U208",
+  "subject": "Urdu",
+  "q": "Kitab \"Angaray\" mein kitne dramay shamil hain?",
+  "options": [
+   "Ek",
+   "Chaar",
+   "Teen",
+   "Do"
+  ],
+  "answer": 0,
+  "explanation": "Angaray (1932) contains nine short stories and one one-act play ('Parde ke Peeche' by Rashid Jahan).",
+  "source": "Wikipedia 'Angarey'"
+ },
+ {
+  "id": "U209",
+  "subject": "Urdu",
+  "q": "Mirza Ghalib ne \"Gul-e-Ra'na\" kis ke kehne par likhi?",
+  "options": [
+   "Allama Iqbal",
+   "Sauda",
+   "Zauq",
+   "Siraj-ud-Din"
+  ],
+  "answer": 3,
+  "explanation": "Ghalib compiled Gul-e-Ra'na (1828) at the behest of Maulvi Sirajuddin Ahmad in Calcutta.",
+  "source": "Dawn, 'Gul-e ra'na: Ghalib's first intikhab'"
+ },
+ {
+  "id": "U210",
+  "subject": "Urdu",
+  "q": "Bano Qudsia ki kitab \"Mard-e-Abresham\" kis shakhsiyat ke baare mein hai?",
+  "options": [
+   "Mumtaz Mufti",
+   "Wasif Ali Wasif",
+   "Qudratullah Shahab",
+   "Ashfaq Ahmed"
+  ],
+  "answer": 2,
+  "explanation": "Mard-e-Abresham portrays the life of Qudrat Ullah Shahab and his connection with Ashfaq Ahmed's family; it is not about Ashfaq Ahmed himself.",
+  "source": "Wikipedia 'Bano Qudsia' / Rekhta"
+ },
+ {
+  "id": "U211",
+  "subject": "Urdu",
+  "q": "\"Farhang-e-Talaffuz\" kis ne likhi?",
+  "options": [
+   "Maulana Ahmed Ali",
+   "Shan-ul-Haq Haqqi",
+   "Dr. Ishtiaq Ahmed",
+   "Zafar Iqbal"
+  ],
+  "answer": 1,
+  "explanation": "Farhang-e-Talaffuz is a pronouncing dictionary of Urdu compiled by Shan-ul-Haq Haqqi.",
+  "source": "Dawn, 9 Oct 2007 / The Friday Times"
+ },
+ {
+  "id": "U212",
+  "subject": "Urdu",
+  "q": "Amir Khusro ko \"Amir\" ka laqab kis ne diya?",
+  "options": [
+   "Shahab-ud-Din Ghori",
+   "Ala-ud-Din Khalji",
+   "Sultan Jalal-ud-Din Firoz Khalji",
+   "Ghiyas-ud-Din Balban"
+  ],
+  "answer": 2,
+  "explanation": "Jalal-ud-Din Firuz Khalji honoured Khusrau in his court and gave him the title 'Amir' (and the post of Mushaf-dar).",
+  "source": "Wikipedia 'Amir Khusrau' / Testbook"
+ },
+ {
+  "id": "U213",
+  "subject": "Urdu",
+  "q": "Mir Anees aur Mir Dabeer ke marsiye aam taur par kis sinf mein hain:",
+  "options": [
+   "Musaddas",
+   "Makhmas",
+   "Mukhammas",
+   "Ruba'i"
+  ],
+  "answer": 0,
+  "explanation": "The classical Urdu marsiya of Anees and Dabeer is invariably in musaddas form (six-line stanzas).",
+  "source": "Express Tribune, 'Marsiya - the poetry of pathos' / standard Urdu literary history"
+ },
+ {
+  "id": "U214",
+  "subject": "Urdu",
+  "q": "Nida'iya ki alamat kaun si hai:",
+  "options": [
+   "(?)",
+   "(.)",
+   "(,)",
+   "(!)"
+  ],
+  "answer": 3,
+  "explanation": "The nida'iya (exclamation) mark is '!'; '?' is istifhamiya, ',' is waqfa, '.' is khatima.",
+  "source": "Standard Urdu punctuation / Wiktionary (Urdu: alamat-i fujaiyya = '!')"
+ },
+ {
+  "id": "U215",
+  "subject": "Urdu",
+  "q": "Urdu qawaid ko ilm ke lihaz se kin do bunyadi shakhon mein taqseem kiya gaya hai?",
+  "options": [
+   "Imla-o-Khushkhati",
+   "Sarf-o-Nahw",
+   "Lughat-o-Adab",
+   "Balaghat-o-Arooz"
+  ],
+  "answer": 1,
+  "explanation": "Urdu qawaid ke do hisse hain: Sarf (lafzon ki saakht) aur Nahw (jumlon ki tarkeeb).",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U216",
+  "subject": "Urdu",
+  "q": "Ilm-e-Sarf mein kis cheez ka bayan hota hai?",
+  "options": [
+   "Lafzon ki saakht aur tasreef ka",
+   "Sher ke wazan ka",
+   "Khatoot ki tehreer ka",
+   "Jumlon ki tarkeeb ka"
+  ],
+  "answer": 0,
+  "explanation": "Sarf lafzon ki saakht ka ilm hai; Nahw jumlon ki tarkeeb ka.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U217",
+  "subject": "Urdu",
+  "q": "Ilm-e-Nahw ka mauzu kya hai?",
+  "options": [
+   "Lafzon ki saakht",
+   "Lughat ke ma'ani",
+   "Jumle mein lafzon ka bahami rabta aur tarkeeb",
+   "Imla ke qaide"
+  ],
+  "answer": 2,
+  "explanation": "Nahw mein jumle ke andar lafzon ke bahami rabte ka bayan hota hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U218",
+  "subject": "Urdu",
+  "q": "Wo lafz jis ke tukre karne par us ka koi ma'ani baqi na rahe, qawaid ki ro se kya kehlata hai?",
+  "options": [
+   "Jumla",
+   "Harf",
+   "Misra",
+   "Kalma"
+  ],
+  "answer": 3,
+  "explanation": "Kalma ba-ma'ani wahid lafz hai; us ke ajza be-ma'ani hote hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U219",
+  "subject": "Urdu",
+  "q": "Kalma ki aqsam mein kaun sa lafz shaamil NAHI hai?",
+  "options": [
+   "Fe'l",
+   "Ism",
+   "Jumla",
+   "Harf"
+  ],
+  "answer": 2,
+  "explanation": "Kalma ki sirf 3 aqsam hain: Ism, Fe'l aur Harf; jumla kalma se banta hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U220",
+  "subject": "Urdu",
+  "q": "Mehmal lafz se kya murad hai?",
+  "options": [
+   "Be-ma'ani lafz",
+   "Harf-e-jarr",
+   "Ba-ma'ani lafz",
+   "Mukammal jumla"
+  ],
+  "answer": 0,
+  "explanation": "Mehmal be-ma'ani hota hai; muammal ba-ma'ani hota hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U221",
+  "subject": "Urdu",
+  "q": "Muammal aur mehmal mein bunyadi farq kya hai?",
+  "options": [
+   "Dono ba-ma'ani hote hain",
+   "Dono jumle hote hain",
+   "Muammal be-ma'ani aur mehmal ba-ma'ani hota hai",
+   "Muammal ba-ma'ani aur mehmal be-ma'ani hota hai"
+  ],
+  "answer": 3,
+  "explanation": "Muammal = ba-ma'ani lafz (kalma); mehmal = be-ma'ani lafz.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U222",
+  "subject": "Urdu",
+  "q": "'Roti-shoti kha lo' mein 'shoti' qawaid ki ro se kya hai?",
+  "options": [
+   "Kalma",
+   "Fe'l",
+   "Mehmal",
+   "Harf"
+  ],
+  "answer": 2,
+  "explanation": "'Shoti' ka koi ma'ani nahin, is liye mehmal hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U223",
+  "subject": "Urdu",
+  "q": "Lafz 'aur' kalma ki kaun si qism hai?",
+  "options": [
+   "Fe'l",
+   "Ism",
+   "Harf",
+   "Zameer"
+  ],
+  "answer": 2,
+  "explanation": "'Aur' do lafzon ko jorta hai aur khud mukammal ma'ani nahin deta - harf hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U224",
+  "subject": "Urdu",
+  "q": "Lafz 'daurta hai' kalma ki kaun si qism hai?",
+  "options": [
+   "Sifat",
+   "Fe'l",
+   "Harf",
+   "Ism"
+  ],
+  "answer": 1,
+  "explanation": "'Daurta hai' kaam ko zamane mein batata hai - fe'l hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U225",
+  "subject": "Urdu",
+  "q": "Ism ki durust tareef kaun si hai?",
+  "options": [
+   "Jumla mukammal karne wala lafz",
+   "Doosre lafz ka mohtaj lafz",
+   "Kaam ko zamane mein batane wala lafz",
+   "Wo ba-ma'ani lafz jo kisi shakhs, cheez, jagah ya sifat ka naam bataye aur apne ma'ani mein khud mukammal ho"
+  ],
+  "answer": 3,
+  "explanation": "Ism apne ma'ani mein khud mukammal hota hai; harf doosre ka mohtaj hota hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U226",
+  "subject": "Urdu",
+  "q": "'Lahore', 'Quaid-e-Azam' aur 'Ravi' ism ki kaun si qism ki misalein hain?",
+  "options": [
+   "Ism-e-Nakra",
+   "Ism-e-Sifat",
+   "Ism-e-Zameer",
+   "Ism-e-Ma'rifa"
+  ],
+  "answer": 3,
+  "explanation": "Ye khaas aur mutayyan naam hain - ism-e-ma'rifa.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U227",
+  "subject": "Urdu",
+  "q": "'Sheher', 'larka' aur 'darya' ism ki kaun si qism hain?",
+  "options": [
+   "Ism-e-Mausool",
+   "Ism-e-Nakra",
+   "Ism-e-Zameer",
+   "Ism-e-Ma'rifa"
+  ],
+  "answer": 1,
+  "explanation": "Ye aam aur ghair-mutayyan naam hain - ism-e-nakra.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U228",
+  "subject": "Urdu",
+  "q": "'Acha', 'bura', 'lamba' ism ki kaun si qism hain?",
+  "options": [
+   "Ism-e-Zat",
+   "Ism-e-Zameer",
+   "Ism-e-Ishaara",
+   "Ism-e-Sifat"
+  ],
+  "answer": 3,
+  "explanation": "Ye khubi/kharabi batate hain - ism-e-sifat.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U229",
+  "subject": "Urdu",
+  "q": "'Mein, tum, wo, hum, aap' qawaid ki ro se kya kehlate hain?",
+  "options": [
+   "Ism-e-Mausool",
+   "Ism-e-Ishaara",
+   "Ism-e-Sifat",
+   "Ism-e-Zameer"
+  ],
+  "answer": 3,
+  "explanation": "Ye ism ki jagah istemal hote hain - ism-e-zameer.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U230",
+  "subject": "Urdu",
+  "q": "'Ye, wo, yeh, woh' kya hain?",
+  "options": [
+   "Ism-e-Istifham",
+   "Ism-e-Mausool",
+   "Ism-e-Ishaara",
+   "Ism-e-Zameer"
+  ],
+  "answer": 2,
+  "explanation": "Ye ishare ke liye istemal hote hain - ism-e-ishaara.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U231",
+  "subject": "Urdu",
+  "q": "'Kaun, kya, kab, kahan, kaise' kya kehlate hain?",
+  "options": [
+   "Haroof-e-Nida",
+   "Ism-e-Zameer",
+   "Ism-e-Istifham",
+   "Ism-e-Ishaara"
+  ],
+  "answer": 2,
+  "explanation": "Ye sawal pochne wale alfaaz hain - ism-e-istifham.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U232",
+  "subject": "Urdu",
+  "q": "'Jo, jis, jise, jinhon ne' qawaid ki ro se kya hain?",
+  "options": [
+   "Ism-e-Ishaara",
+   "Ism-e-Zameer",
+   "Ism-e-Sifat",
+   "Ism-e-Mausool"
+  ],
+  "answer": 3,
+  "explanation": "Ye do jumlon ko jorte hain - ism-e-mausool.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U233",
+  "subject": "Urdu",
+  "q": "'Jo mehnat karta hai, kamyab hota hai' mein 'jo' kya hai?",
+  "options": [
+   "Ism-e-Ishaara",
+   "Harf-e-Atf",
+   "Ism-e-Mausool",
+   "Harf-e-Shart"
+  ],
+  "answer": 2,
+  "explanation": "'Jo' do jumlon ko jor raha hai - ism-e-mausool.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U234",
+  "subject": "Urdu",
+  "q": "'Sachchai', 'bahaduri', 'mohabbat' ism ki kaun si qism ki misalein hain?",
+  "options": [
+   "Ism-e-Zameer",
+   "Ism-e-Zat",
+   "Ism-e-Nakra",
+   "Ism-e-Ma'na"
+  ],
+  "answer": 3,
+  "explanation": "Ye ghair-mahsoos cheezon ke naam hain - ism-e-ma'na.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U235",
+  "subject": "Urdu",
+  "q": "'Darakht', 'mez', 'kitab' ism ki kaun si qism hain?",
+  "options": [
+   "Ism-e-Ma'na",
+   "Ism-e-Sifat",
+   "Ism-e-Zat",
+   "Ism-e-Zameer"
+  ],
+  "answer": 2,
+  "explanation": "Ye khud maujood cheezon ke naam hain - ism-e-zat.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U236",
+  "subject": "Urdu",
+  "q": "Ism-e-Ma'rifa ki pehchan kya hai?",
+  "options": [
+   "Sifat bataye",
+   "Aam aur ghair-mutayyan ho",
+   "Khaas aur mutayyan shakhs, cheez ya jagah ka naam ho",
+   "Sawal pooche"
+  ],
+  "answer": 2,
+  "explanation": "Ma'rifa khaas naam hota hai, nakra aam naam.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U237",
+  "subject": "Urdu",
+  "q": "Darj zeel mein Ism-e-Sifat kaun sa hai?",
+  "options": [
+   "Ghar",
+   "Kahan",
+   "Zaheen",
+   "Wo"
+  ],
+  "answer": 2,
+  "explanation": "'Zaheen' khubi batata hai - ism-e-sifat.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U238",
+  "subject": "Urdu",
+  "q": "'Ye kitab meri hai' mein 'ye' kya hai?",
+  "options": [
+   "Ism-e-Ishaara",
+   "Ism-e-Mausool",
+   "Harf",
+   "Ism-e-Zameer"
+  ],
+  "answer": 0,
+  "explanation": "'Ye' ishare ke liye aaya hai - ism-e-ishaara.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U239",
+  "subject": "Urdu",
+  "q": "Zameer ki bunyadi khasiyat kya hai?",
+  "options": [
+   "Sawal pochta hai",
+   "Kaam batata hai",
+   "Ism ki jagah istemal hota hai",
+   "Jumle jorta hai"
+  ],
+  "answer": 2,
+  "explanation": "Zameer ism ka qaim-maqam hota hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U240",
+  "subject": "Urdu",
+  "q": "Fe'l ki durust tareef kaun si hai?",
+  "options": [
+   "Wo lafz jo kisi kaam ke karne, hone ya sehne ko kisi khaas zamane mein bataye",
+   "Doosre lafz ka mohtaj lafz",
+   "Shakhs ka naam batane wala lafz",
+   "Sifat batane wala lafz"
+  ],
+  "answer": 0,
+  "explanation": "Fe'l mein kaam + zamana dono hote hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U241",
+  "subject": "Urdu",
+  "q": "'Us ne khana khaya' mein fe'l kaun sa lafz hai?",
+  "options": [
+   "Khaya",
+   "Ne",
+   "Us",
+   "Khana"
+  ],
+  "answer": 0,
+  "explanation": "'Khaya' kaam ko guzre zamane mein batata hai - fe'l hai; 'khana' maf'ool hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U242",
+  "subject": "Urdu",
+  "q": "Fe'l-e-Lazim kise kehte hain?",
+  "options": [
+   "Jo naqis ho",
+   "Jo maf'ool chahe",
+   "Jo maf'ool na chahe",
+   "Jis ka fa'il maloom na ho"
+  ],
+  "answer": 2,
+  "explanation": "Lazim fe'l ko maf'ool ki zarurat nahin hoti, masalan 'wo sota hai'.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U243",
+  "subject": "Urdu",
+  "q": "'Bacha rota hai' mein fe'l kya hai?",
+  "options": [
+   "Mutaddi",
+   "Lazim",
+   "Majhool",
+   "Naqis"
+  ],
+  "answer": 1,
+  "explanation": "'Rota hai' ko kisi maf'ool ki zarurat nahin - fe'l-e-lazim.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U244",
+  "subject": "Urdu",
+  "q": "'Us ne seb khaya' mein fe'l kya hai?",
+  "options": [
+   "Majhool",
+   "Lazim",
+   "Mutaddi",
+   "Naqis"
+  ],
+  "answer": 2,
+  "explanation": "'Seb' maf'ool hai, is liye fe'l mutaddi hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U245",
+  "subject": "Urdu",
+  "q": "'Khat likha gaya' mein fe'l kya hai?",
+  "options": [
+   "Fe'l-e-Lazim",
+   "Fe'l-e-Naqis",
+   "Fe'l-e-Majhool",
+   "Fe'l-e-Ma'roof"
+  ],
+  "answer": 2,
+  "explanation": "Fa'il maloom nahin, is liye fe'l-e-majhool hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U246",
+  "subject": "Urdu",
+  "q": "Fe'l-e-Ma'roof ki pehchan kya hai?",
+  "options": [
+   "Maf'ool na ho",
+   "Zamana na ho",
+   "Fa'il maloom ho",
+   "Fa'il na-maloom ho"
+  ],
+  "answer": 2,
+  "explanation": "Ma'roof mein fa'il maloom hota hai, masalan 'Ali ne khat likha'.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U247",
+  "subject": "Urdu",
+  "q": "'Ali ne khat likha' mein 'likha' kya hai?",
+  "options": [
+   "Lazim",
+   "Ma'roof",
+   "Majhool",
+   "Naqis"
+  ],
+  "answer": 1,
+  "explanation": "Fa'il (Ali) maloom hai - fe'l-e-ma'roof.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U248",
+  "subject": "Urdu",
+  "q": "Fe'l-e-Naqis kise kehte hain?",
+  "options": [
+   "Jo maf'ool chahe",
+   "Jo mazi mein ho",
+   "Jis se khabar ke baghair poora ma'ani na nikle",
+   "Jis ka fa'il maloom na ho"
+  ],
+  "answer": 2,
+  "explanation": "'Hai, tha, hoga' naqis fe'l hain - khabar ke baghair adhoore lagte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U249",
+  "subject": "Urdu",
+  "q": "Darj zeel mein fe'l-e-naqis kaun sa hai?",
+  "options": [
+   "Hai / tha / hoga",
+   "Likhta hai",
+   "Khata hai",
+   "Daudta hai"
+  ],
+  "answer": 0,
+  "explanation": "'Hai, tha, hoga' khabar chahte hain - fe'l-e-naqis.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U250",
+  "subject": "Urdu",
+  "q": "'Us ne khana khaya hai' mein kaun sa mazi hai?",
+  "options": [
+   "Mazi Qareeb",
+   "Mazi Istimrari",
+   "Mazi Baeed",
+   "Mazi Mutlaq"
+  ],
+  "answer": 0,
+  "explanation": "'Khaya hai' qareeb ke guzre zamane ko batata hai - mazi qareeb.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U251",
+  "subject": "Urdu",
+  "q": "'Us ne khana khaya tha' mein kaun sa mazi hai?",
+  "options": [
+   "Mazi Baeed",
+   "Mazi Mutlaq",
+   "Mazi Shartiya",
+   "Mazi Qareeb"
+  ],
+  "answer": 0,
+  "explanation": "'Khaya tha' door ke guzre zamane ko batata hai - mazi baeed.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U252",
+  "subject": "Urdu",
+  "q": "'Us ne khana khaya' (baghair 'hai' ya 'tha') mein kaun sa mazi hai?",
+  "options": [
+   "Mazi Baeed",
+   "Mazi Tamannai",
+   "Mazi Mutlaq",
+   "Mazi Qareeb"
+  ],
+  "answer": 2,
+  "explanation": "Jis mein qareeb/baeed ka pata na chale - mazi mutlaq.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U253",
+  "subject": "Urdu",
+  "q": "'Wo khana khata tha' mein kaun sa mazi hai?",
+  "options": [
+   "Mazi Ihtemali",
+   "Mazi Mutlaq",
+   "Mazi Istimrari",
+   "Mazi Qareeb"
+  ],
+  "answer": 2,
+  "explanation": "Jari rehne wale kaam ka bayan - mazi istimrari.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U254",
+  "subject": "Urdu",
+  "q": "'Agar wo aata to mein jata' mein fe'l kis mazi ki misaal hai?",
+  "options": [
+   "Mazi Qareeb",
+   "Mazi Tamannai",
+   "Mazi Baeed",
+   "Mazi Shartiya"
+  ],
+  "answer": 3,
+  "explanation": "Shart ('agar') par mabni mazi - mazi shartiya.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U255",
+  "subject": "Urdu",
+  "q": "'Kaash wo aa jata' mein kaun sa mazi hai?",
+  "options": [
+   "Mazi Mutlaq",
+   "Mazi Shartiya",
+   "Mazi Istimrari",
+   "Mazi Tamannai"
+  ],
+  "answer": 3,
+  "explanation": "Khwahish/tamanna ka izhar - mazi tamannai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U256",
+  "subject": "Urdu",
+  "q": "'Shayad wo kal aaye' mein fe'l kis taraf ishara karta hai?",
+  "options": [
+   "Mazi Baeed",
+   "Mazi Qareeb",
+   "Mazi Mutlaq",
+   "Mazi Ihtemali (shak)"
+  ],
+  "answer": 3,
+  "explanation": "'Shayad' shak ko zahir karta hai - mazi ihtemali.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U257",
+  "subject": "Urdu",
+  "q": "'Wo roz school jata hai' mein 'jata hai' kya zahir karta hai?",
+  "options": [
+   "Haal (aadat)",
+   "Mustaqbil",
+   "Amr",
+   "Mazi"
+  ],
+  "answer": 0,
+  "explanation": "Roz ka mamool haal ka bayan hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U258",
+  "subject": "Urdu",
+  "q": "'Kal wo Lahore jayega' mein fe'l kaun se zamane mein hai?",
+  "options": [
+   "Mazi",
+   "Shartiya",
+   "Mustaqbil",
+   "Haal"
+  ],
+  "answer": 2,
+  "explanation": "'Jayega' aane wale waqt ko batata hai - mustaqbil.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U259",
+  "subject": "Urdu",
+  "q": "Harf ki durust tareef kaun si hai?",
+  "options": [
+   "Kaam ko zamane mein batane wala lafz",
+   "Shakhs ka naam",
+   "Wo lafz jo apne ma'ani mein doosre lafz ka mohtaj ho",
+   "Sifat batane wala lafz"
+  ],
+  "answer": 2,
+  "explanation": "Harf khud mukammal ma'ani nahin deta - doosre lafz ka mohtaj hota hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U260",
+  "subject": "Urdu",
+  "q": "'Se, mein, par, ko, tak' kya kehlate hain?",
+  "options": [
+   "Haroof-e-Atf",
+   "Haroof-e-Nida",
+   "Haroof-e-Nafi",
+   "Haroof-e-Jarr"
+  ],
+  "answer": 3,
+  "explanation": "Ye ism ko fe'l se jorte hain - haroof-e-jarr.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U261",
+  "subject": "Urdu",
+  "q": "'Mez par kitab hai' mein 'par' kya hai?",
+  "options": [
+   "Harf-e-Jarr",
+   "Fe'l",
+   "Ism",
+   "Zameer"
+  ],
+  "answer": 0,
+  "explanation": "'Par' ism (mez) ko jumle se jor raha hai - harf-e-jarr.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U262",
+  "subject": "Urdu",
+  "q": "'Aur, lekin, magar' kya kehlate hain?",
+  "options": [
+   "Haroof-e-Atf",
+   "Haroof-e-Shart",
+   "Haroof-e-Nida",
+   "Haroof-e-Jarr"
+  ],
+  "answer": 0,
+  "explanation": "Ye do lafzon/jumlon ko jorte hain - haroof-e-atf.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U263",
+  "subject": "Urdu",
+  "q": "'Aye dost! idhar aao' mein 'aye' kya hai?",
+  "options": [
+   "Ism",
+   "Harf-e-Jarr",
+   "Harf-e-Atf",
+   "Harf-e-Nida"
+  ],
+  "answer": 3,
+  "explanation": "Pukarne ke liye istemal hua - harf-e-nida.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U264",
+  "subject": "Urdu",
+  "q": "'Nahin, na, mat' kya kehlate hain?",
+  "options": [
+   "Haroof-e-Ta'kid",
+   "Haroof-e-Nafi",
+   "Haroof-e-Nida",
+   "Haroof-e-Jarr"
+  ],
+  "answer": 1,
+  "explanation": "Ye inkar ke liye aate hain - haroof-e-nafi.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U265",
+  "subject": "Urdu",
+  "q": "'Hi' aur 'bhi' (masalan 'wo hi aaya', 'tum bhi chalo') kya hain?",
+  "options": [
+   "Haroof-e-Ta'kid",
+   "Haroof-e-Shart",
+   "Haroof-e-Nafi",
+   "Haroof-e-Jarr"
+  ],
+  "answer": 0,
+  "explanation": "Ye baat par zor dete hain - haroof-e-ta'kid.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U266",
+  "subject": "Urdu",
+  "q": "'Agar, jab' qawaid ki ro se kya kehlate hain?",
+  "options": [
+   "Haroof-e-Shart",
+   "Haroof-e-Tashbeeh",
+   "Haroof-e-Nida",
+   "Haroof-e-Atf"
+  ],
+  "answer": 0,
+  "explanation": "Ye shart lagate hain - haroof-e-shart.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U267",
+  "subject": "Urdu",
+  "q": "'Sa, si, jaisa' (masalan 'chand sa chehra') kya hain?",
+  "options": [
+   "Haroof-e-Atf",
+   "Haroof-e-Tashbeeh",
+   "Haroof-e-Nafi",
+   "Haroof-e-Jarr"
+  ],
+  "answer": 1,
+  "explanation": "Ye mushabehat batate hain - haroof-e-tashbeeh.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U268",
+  "subject": "Urdu",
+  "q": "Harf aur Harf-e-Tahajji mein bunyadi farq kya hai?",
+  "options": [
+   "Dono jumle hain",
+   "Harf kalma ki qism hai jabke harf-e-tahajji alif-be ka har ek harf hai",
+   "Harf-e-tahajji kalma hai",
+   "Koi farq nahin"
+  ],
+  "answer": 1,
+  "explanation": "Harf ma'ani ke lihaz se kalma ki qism hai; harf-e-tahajji sirf abjad ka aik harf hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U269",
+  "subject": "Urdu",
+  "q": "'Wo ghar tak gaya' mein 'tak' kya hai?",
+  "options": [
+   "Zameer",
+   "Fe'l",
+   "Harf-e-Jarr",
+   "Ism"
+  ],
+  "answer": 2,
+  "explanation": "'Tak' had batata hai aur ism ko jorta hai - harf-e-jarr.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U270",
+  "subject": "Urdu",
+  "q": "'Ali aur Ahmed dost hain' mein 'aur' ka kaam kya hai?",
+  "options": [
+   "Inkar karna",
+   "Sawal karna",
+   "Pukarna",
+   "Do ismon ko jorna (atf)"
+  ],
+  "answer": 3,
+  "explanation": "'Aur' do ismon ko jor raha hai - harf-e-atf.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U271",
+  "subject": "Urdu",
+  "q": "'Mat jao' mein 'mat' kya hai?",
+  "options": [
+   "Ism",
+   "Harf-e-Nida",
+   "Harf-e-Nafi (mana karne wala)",
+   "Harf-e-Atf"
+  ],
+  "answer": 2,
+  "explanation": "'Mat' mana karne ke liye aaya - harf-e-nafi.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U272",
+  "subject": "Urdu",
+  "q": "Kalma ki teeno aqsam mein se kaun si qism khud mukammal ma'ani NAHI deti?",
+  "options": [
+   "Teenon deti hain",
+   "Harf",
+   "Fe'l",
+   "Ism"
+  ],
+  "answer": 1,
+  "explanation": "Harf doosre lafz ka mohtaj hota hai; ism aur fe'l khud mukammal hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U273",
+  "subject": "Urdu",
+  "q": "'Kitab ke liye' mein 'ke liye' kya hai?",
+  "options": [
+   "Harf-e-Jarr",
+   "Sifat",
+   "Fe'l",
+   "Ism"
+  ],
+  "answer": 0,
+  "explanation": "'Ke liye' maqsad batata hai - harf-e-jarr ki qism.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U274",
+  "subject": "Urdu",
+  "q": "Wahid aur jama mein bunyadi farq kya hai?",
+  "options": [
+   "Dono aik hain",
+   "Wahid zyada aur jama aik",
+   "Wahid aik aur jama aik se zyada",
+   "Koi farq nahin"
+  ],
+  "answer": 2,
+  "explanation": "Wahid aik cheez, jama aik se zyada cheezon ke liye.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U275",
+  "subject": "Urdu",
+  "q": "'Larka' ki jama kya hai?",
+  "options": [
+   "Larkon",
+   "Larkiyan",
+   "Larkay",
+   "Larke"
+  ],
+  "answer": 3,
+  "explanation": "Alif wale muzakkar lafz aam taur par 'e' lete hain: larka-larke.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U276",
+  "subject": "Urdu",
+  "q": "'Larki' ki jama kya hai?",
+  "options": [
+   "Larka",
+   "Larkiyan",
+   "Larkiyon",
+   "Larke"
+  ],
+  "answer": 1,
+  "explanation": "'I' wale mu'annas lafz 'iyan' lete hain: larki-larkiyan.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U277",
+  "subject": "Urdu",
+  "q": "'Ghora' ki jama kya hai?",
+  "options": [
+   "Ghoron",
+   "Ghora",
+   "Ghore",
+   "Ghoriyan"
+  ],
+  "answer": 2,
+  "explanation": "Alif wale muzakkar lafz ki jama 'e' ke saath: ghora-ghore.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U278",
+  "subject": "Urdu",
+  "q": "'Bacha' ki jama kya hai?",
+  "options": [
+   "Bachay",
+   "Bachi",
+   "Bachon",
+   "Bachche"
+  ],
+  "answer": 3,
+  "explanation": "'Bacha' ki jama 'bachche' hai - ye khaas qaida yaad rakho.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U279",
+  "subject": "Urdu",
+  "q": "'Qalam' ki jama (mukassar) kya hai?",
+  "options": [
+   "Qalamon",
+   "Qalamein",
+   "Aqlam",
+   "Qalam"
+  ],
+  "answer": 2,
+  "explanation": "Jama-e-mukassar mein shakl badal jati hai: qalam-aqlam.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U280",
+  "subject": "Urdu",
+  "q": "'Waqt' ki jama kya hai?",
+  "options": [
+   "Waqtain",
+   "Waqtoun",
+   "Waqt",
+   "Awqat"
+  ],
+  "answer": 3,
+  "explanation": "'Waqt' ki jama-e-mukassar 'awqat' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U281",
+  "subject": "Urdu",
+  "q": "'Shakhs' ki jama kya hai?",
+  "options": [
+   "Shakhsain",
+   "Shakson",
+   "Ashkhaas",
+   "Shakhs"
+  ],
+  "answer": 2,
+  "explanation": "'Shakhs' ki jama 'ashkhaas' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U282",
+  "subject": "Urdu",
+  "q": "'Wazeer' ki jama kya hai?",
+  "options": [
+   "Wazeere",
+   "Wazir",
+   "Wazeeron",
+   "Wuzara"
+  ],
+  "answer": 3,
+  "explanation": "'Wazeer' ki jama-e-mukassar 'wuzara' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U283",
+  "subject": "Urdu",
+  "q": "'Ameer' ki jama kya hai?",
+  "options": [
+   "Ameeron",
+   "Amira",
+   "Ameer",
+   "Umara"
+  ],
+  "answer": 3,
+  "explanation": "'Ameer' ki jama 'umara' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U284",
+  "subject": "Urdu",
+  "q": "'Nazm' ki jama kya hai?",
+  "options": [
+   "Nazam",
+   "Nuzoom",
+   "Nazmein",
+   "Nazmon"
+  ],
+  "answer": 1,
+  "explanation": "'Nazm' ki jama-e-mukassar 'nuzoom' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U285",
+  "subject": "Urdu",
+  "q": "'Sabab' ki jama kya hai?",
+  "options": [
+   "Sabab",
+   "Sababon",
+   "Asbaab",
+   "Sababain"
+  ],
+  "answer": 2,
+  "explanation": "'Sabab' ki jama 'asbaab' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U286",
+  "subject": "Urdu",
+  "q": "'Ustaad' ki jama kya hai?",
+  "options": [
+   "Ustaadain",
+   "Asatiza",
+   "Ustaad",
+   "Ustaadon"
+  ],
+  "answer": 1,
+  "explanation": "'Ustaad' ki mashhoor jama 'asatiza' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U287",
+  "subject": "Urdu",
+  "q": "'Mulk' ki jama kya hai?",
+  "options": [
+   "Mamaalik",
+   "Mulkon",
+   "Mulk",
+   "Mulkein"
+  ],
+  "answer": 0,
+  "explanation": "'Mulk' ki jama-e-mukassar 'mamaalik' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U288",
+  "subject": "Urdu",
+  "q": "'Hakim' ki jama kya hai?",
+  "options": [
+   "Hukkaam",
+   "Hakmein",
+   "Hakeem",
+   "Hakimon"
+  ],
+  "answer": 0,
+  "explanation": "'Hakim' ki jama 'hukkaam' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U289",
+  "subject": "Urdu",
+  "q": "Jama-e-Salem aur Jama-e-Mukassar mein farq kya hai?",
+  "options": [
+   "Salem mein qaida qaim rehta hai, mukassar mein lafz ki shakl toot ya badal jati hai",
+   "Koi farq nahin",
+   "Dono aik hain",
+   "Salem Arabi aur mukassar Farsi hai"
+  ],
+  "answer": 0,
+  "explanation": "Salem = qaide wali jama; mukassar = shakl badalne wali jama.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U290",
+  "subject": "Urdu",
+  "q": "'Mez' ki jama kya hai?",
+  "options": [
+   "Mez",
+   "Mezein",
+   "Mezon",
+   "Mezain"
+  ],
+  "answer": 1,
+  "explanation": "'Mez' ki jama-e-salem 'mezein' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U291",
+  "subject": "Urdu",
+  "q": "'Darakht' ki jama kya hai?",
+  "options": [
+   "Darakhtain",
+   "Adrakht",
+   "Darakht",
+   "Darakhton"
+  ],
+  "answer": 3,
+  "explanation": "'Darakht' ki jama 'darakhton' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U292",
+  "subject": "Urdu",
+  "q": "'Dost' ki jama kya hai?",
+  "options": [
+   "Dono durust",
+   "Dostan",
+   "Doston",
+   "Dost"
+  ],
+  "answer": 0,
+  "explanation": "'Dost' ki jama 'doston' aur 'dostaan' dono mustamil hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U293",
+  "subject": "Urdu",
+  "q": "'Sheher' ki jama kya hai?",
+  "options": [
+   "Sheher",
+   "Shuhur",
+   "Shehron",
+   "Sheharain"
+  ],
+  "answer": 2,
+  "explanation": "'Sheher' ki jama-e-salem 'shehron' hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U294",
+  "subject": "Urdu",
+  "q": "'Qalam' muzakkar hai ya mu'annas?",
+  "options": [
+   "Mu'annas",
+   "Muzakkar",
+   "Koi nahin",
+   "Dono"
+  ],
+  "answer": 1,
+  "explanation": "'Qalam' muzakkar hai - 'kala qalam' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U295",
+  "subject": "Urdu",
+  "q": "'Chaadar' muzakkar hai ya mu'annas?",
+  "options": [
+   "Dono",
+   "Muzakkar",
+   "Mu'annas",
+   "Koi nahin"
+  ],
+  "answer": 2,
+  "explanation": "'Chaadar' mu'annas hai - 'safaid chaadar' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U296",
+  "subject": "Urdu",
+  "q": "'Darwaza' muzakkar hai ya mu'annas?",
+  "options": [
+   "Koi nahin",
+   "Dono",
+   "Muzakkar",
+   "Mu'annas"
+  ],
+  "answer": 2,
+  "explanation": "'Darwaza' muzakkar hai - 'bara darwaza' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U297",
+  "subject": "Urdu",
+  "q": "'Khirki' muzakkar hai ya mu'annas?",
+  "options": [
+   "Muzakkar",
+   "Koi nahin",
+   "Dono",
+   "Mu'annas"
+  ],
+  "answer": 3,
+  "explanation": "'Khirki' mu'annas hai - 'khuli khirki' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U298",
+  "subject": "Urdu",
+  "q": "'Darya' muzakkar hai ya mu'annas?",
+  "options": [
+   "Mu'annas",
+   "Koi nahin",
+   "Muzakkar",
+   "Dono"
+  ],
+  "answer": 2,
+  "explanation": "'Darya' muzakkar hai - 'gehra darya' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U299",
+  "subject": "Urdu",
+  "q": "'Kashti' muzakkar hai ya mu'annas?",
+  "options": [
+   "Koi nahin",
+   "Dono",
+   "Mu'annas",
+   "Muzakkar"
+  ],
+  "answer": 2,
+  "explanation": "'Kashti' mu'annas hai - 'tooti kashti' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U300",
+  "subject": "Urdu",
+  "q": "'Pani' muzakkar hai ya mu'annas? (sochein!)",
+  "options": [
+   "Muzakkar",
+   "Koi nahin",
+   "Dono",
+   "Mu'annas"
+  ],
+  "answer": 0,
+  "explanation": "'Pani' 'i' par khatm hone ke bawajood muzakkar hai - 'thanda pani' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U301",
+  "subject": "Urdu",
+  "q": "'Dahi' muzakkar hai ya mu'annas?",
+  "options": [
+   "Dono",
+   "Koi nahin",
+   "Mu'annas",
+   "Muzakkar"
+  ],
+  "answer": 3,
+  "explanation": "'Dahi' muzakkar hai - 'khatta dahi' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U302",
+  "subject": "Urdu",
+  "q": "'Zabaan' muzakkar hai ya mu'annas?",
+  "options": [
+   "Koi nahin",
+   "Mu'annas",
+   "Dono",
+   "Muzakkar"
+  ],
+  "answer": 1,
+  "explanation": "'Zabaan' mu'annas hai - 'meethi zabaan' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U303",
+  "subject": "Urdu",
+  "q": "'Awaaz' muzakkar hai ya mu'annas?",
+  "options": [
+   "Muzakkar",
+   "Koi nahin",
+   "Dono",
+   "Mu'annas"
+  ],
+  "answer": 3,
+  "explanation": "'Awaaz' mu'annas hai - 'oonchi awaaz' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U304",
+  "subject": "Urdu",
+  "q": "'Suraj' aur 'Chand' ka jins kya hai?",
+  "options": [
+   "Dono muzakkar",
+   "Dono mu'annas",
+   "Suraj muzakkar, Chand mu'annas",
+   "Suraj mu'annas, Chand muzakkar"
+  ],
+  "answer": 0,
+  "explanation": "'Suraj' aur 'Chand' dono muzakkar hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U305",
+  "subject": "Urdu",
+  "q": "'Raat', 'Subah' aur 'Shaam' ka jins kya hai?",
+  "options": [
+   "Teenon muzakkar",
+   "Teenon mu'annas",
+   "Subah muzakkar",
+   "Raat muzakkar"
+  ],
+  "answer": 1,
+  "explanation": "Waqt ke ye teenon naam mu'annas hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U306",
+  "subject": "Urdu",
+  "q": "'Haathi' aur 'Moti' ka jins kya hai?",
+  "options": [
+   "Haathi mu'annas",
+   "Dono mu'annas",
+   "Dono muzakkar (istisna: 'i' par khatm phir bhi muzakkar)",
+   "Moti mu'annas"
+  ],
+  "answer": 2,
+  "explanation": "Ye mashhoor istisnaat hain - 'i' par khatm hone ke bawajood muzakkar.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U307",
+  "subject": "Urdu",
+  "q": "'Tasveer' muzakkar hai ya mu'annas?",
+  "options": [
+   "Mu'annas",
+   "Muzakkar",
+   "Koi nahin",
+   "Dono"
+  ],
+  "answer": 0,
+  "explanation": "'Tasveer' mu'annas hai - 'khoobsurat tasveer' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U308",
+  "subject": "Urdu",
+  "q": "'Ghee' muzakkar hai ya mu'annas?",
+  "options": [
+   "Muzakkar",
+   "Mu'annas",
+   "Koi nahin",
+   "Dono"
+  ],
+  "answer": 0,
+  "explanation": "'Ghee' muzakkar hai - 'khalis ghee' kehte hain.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U309",
+  "subject": "Urdu",
+  "q": "'Zaheen larka' tarkeeb ke lihaz se kya hai?",
+  "options": [
+   "Murakkab-e-Atfi",
+   "Murakkab-e-Tausifi",
+   "Murakkab-e-Izafi",
+   "Murakkab-e-Adadi"
+  ],
+  "answer": 1,
+  "explanation": "Sifat + mausoof ka murakkab - murakkab-e-tausifi.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U310",
+  "subject": "Urdu",
+  "q": "'Do kitabein' tarkeeb ke lihaz se kya hai?",
+  "options": [
+   "Murakkab-e-Adadi",
+   "Murakkab-e-Atfi",
+   "Murakkab-e-Izafi",
+   "Murakkab-e-Tausifi"
+  ],
+  "answer": 0,
+  "explanation": "Tadad batane wala murakkab - murakkab-e-adadi.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U311",
+  "subject": "Urdu",
+  "q": "'Maa-baap' tarkeeb ke lihaz se kya hai?",
+  "options": [
+   "Murakkab-e-Izafi",
+   "Murakkab-e-Atfi",
+   "Murakkab-e-Adadi",
+   "Murakkab-e-Tausifi"
+  ],
+  "answer": 1,
+  "explanation": "Atf se jura murakkab - murakkab-e-atfi.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U312",
+  "subject": "Urdu",
+  "q": "'Ali zaheen hai' mein 'Ali' qawaid ki ro se kya hai?",
+  "options": [
+   "Fe'l",
+   "Mubtada",
+   "Harf",
+   "Khabar"
+  ],
+  "answer": 1,
+  "explanation": "Jis ke baare mein kaha jaye wo mubtada hai; 'zaheen hai' khabar hai.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U313",
+  "subject": "Urdu",
+  "q": "'Subah', 'kal' aur 'aaj' qawaid ki ro se kya kehlate hain?",
+  "options": [
+   "Zarf-e-Zaman",
+   "Ism-e-Zameer",
+   "Harf-e-Jarr",
+   "Zarf-e-Makan"
+  ],
+  "answer": 0,
+  "explanation": "Ye waqt batate hain - zarf-e-zaman.",
+  "source": "PPSC Day 16"
+ },
+ {
+  "id": "U314",
+  "subject": "Urdu",
+  "q": "'Iztirab' ka mutazad kaun sa lafz hai?",
+  "options": [
+   "Beqarari",
+   "Pareshani",
+   "Sukoon",
+   "Ghabrahat"
+  ],
+  "answer": 2,
+  "explanation": "Iztirab (bechaini) ka mutazad sukoon (itminan) hai; ye jora recent papers mein aaya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U315",
+  "subject": "Urdu",
+  "q": "'Dushman' ka mutazad kya hai?",
+  "options": [
+   "Hamsaya",
+   "Khasm",
+   "Ajnabi",
+   "Dost"
+  ],
+  "answer": 3,
+  "explanation": "Dushman ka mutazad dost hai; khasm bhi dushman ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U316",
+  "subject": "Urdu",
+  "q": "'Subah' ka mutazad kaun sa hai?",
+  "options": [
+   "Dopahar",
+   "Ujala",
+   "Sawera",
+   "Shaam"
+  ],
+  "answer": 3,
+  "explanation": "Subah ka mutazad shaam hai; sawera subah ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U317",
+  "subject": "Urdu",
+  "q": "'Tareeki' ka mutazad kya hai?",
+  "options": [
+   "Subah",
+   "Ujala",
+   "Din",
+   "Raat"
+  ],
+  "answer": 1,
+  "explanation": "Tareeki (andhera) ka mutazad ujala hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U318",
+  "subject": "Urdu",
+  "q": "'Muhabbat' ka mutazad kaun sa lafz hai?",
+  "options": [
+   "Wafa",
+   "Nafrat",
+   "Ulfat",
+   "Dosti"
+  ],
+  "answer": 1,
+  "explanation": "Muhabbat ka mutazad nafrat hai; ulfat aur wafa is ke mutaradif hain.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U319",
+  "subject": "Urdu",
+  "q": "'Shikast' ka mutazad kya hai?",
+  "options": [
+   "Kami",
+   "Fath",
+   "Haar",
+   "Zafar"
+  ],
+  "answer": 1,
+  "explanation": "Shikast (haar) ka mutazad fath hai; zafar fath ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U320",
+  "subject": "Urdu",
+  "q": "'Jahalat' ka mutazad kaun sa hai?",
+  "options": [
+   "Nadani",
+   "Ilm",
+   "Bewaqoofi",
+   "La-ilmi"
+  ],
+  "answer": 1,
+  "explanation": "Jahalat ka mutazad ilm hai; nadani jahalat ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U321",
+  "subject": "Urdu",
+  "q": "'Ghareeb' ka mutazad kya hai?",
+  "options": [
+   "Muflis",
+   "Ameer",
+   "Nadar",
+   "Fakeer"
+  ],
+  "answer": 1,
+  "explanation": "Ghareeb ka mutazad ameer hai; fakeer ghareeb ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U322",
+  "subject": "Urdu",
+  "q": "'Murda' ka mutazad kaun sa lafz hai?",
+  "options": [
+   "Zinda",
+   "Fana",
+   "Bejaan",
+   "Khatm"
+  ],
+  "answer": 0,
+  "explanation": "Murda ka mutazad zinda hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U323",
+  "subject": "Urdu",
+  "q": "'Udaas' ka mutazad kya hai?",
+  "options": [
+   "Ranjida",
+   "Ghamgeen",
+   "Khush",
+   "Afsurda"
+  ],
+  "answer": 2,
+  "explanation": "Udaas ka mutazad khush hai; ghamgeen udaas ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U324",
+  "subject": "Urdu",
+  "q": "'Bad' ka mutazad kaun sa hai?",
+  "options": [
+   "Kharab",
+   "Bura",
+   "Naik",
+   "Zalim"
+  ],
+  "answer": 2,
+  "explanation": "Bad ka mutazad naik hai; bura bad ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U325",
+  "subject": "Urdu",
+  "q": "'Jhoot' ka mutazad kya hai?",
+  "options": [
+   "Fareb",
+   "Sach",
+   "Dhoka",
+   "Makr"
+  ],
+  "answer": 1,
+  "explanation": "Jhoot ka mutazad sach hai; fareb jhoot ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U326",
+  "subject": "Urdu",
+  "q": "'Susti' ka mutazad kaun sa lafz hai?",
+  "options": [
+   "Kaahili",
+   "Neend",
+   "Aaram",
+   "Mehnat"
+  ],
+  "answer": 3,
+  "explanation": "Susti ka mutazad mehnat hai; kaahili susti ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U327",
+  "subject": "Urdu",
+  "q": "'Tez' ka mutazad kya hai?",
+  "options": [
+   "Garam",
+   "Phurtela",
+   "Ahista",
+   "Chust"
+  ],
+  "answer": 2,
+  "explanation": "Tez ka mutazad ahista (sust) hai; chust tez ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U328",
+  "subject": "Urdu",
+  "q": "'Thanda' ka mutazad kaun sa hai?",
+  "options": [
+   "Barfani",
+   "Sard",
+   "Thanda",
+   "Garam"
+  ],
+  "answer": 3,
+  "explanation": "Thanda ka mutazad garam hai; sard thanda ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U329",
+  "subject": "Urdu",
+  "q": "'Purana' ka mutazad kya hai?",
+  "options": [
+   "Naya",
+   "Qadeem",
+   "Atiq",
+   "Boseeda"
+  ],
+  "answer": 0,
+  "explanation": "Purana ka mutazad naya hai; qadeem purana ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U330",
+  "subject": "Urdu",
+  "q": "'Bara' ka mutazad kaun sa lafz hai?",
+  "options": [
+   "Chota",
+   "Buland",
+   "Wasee'",
+   "Azeem"
+  ],
+  "answer": 0,
+  "explanation": "Bara ka mutazad chota hai; azeem bara ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U331",
+  "subject": "Urdu",
+  "q": "'Tang' ka mutazad kya hai?",
+  "options": [
+   "Wasee'",
+   "Sakht",
+   "Chota",
+   "Mahdood"
+  ],
+  "answer": 0,
+  "explanation": "Tang ka mutazad wasee' (khula) hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U332",
+  "subject": "Urdu",
+  "q": "'Patla' ka mutazad kaun sa hai?",
+  "options": [
+   "Mota",
+   "Nazuk",
+   "Bareek",
+   "Dubla"
+  ],
+  "answer": 0,
+  "explanation": "Patla ka mutazad mota hai; dubla patla ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U333",
+  "subject": "Urdu",
+  "q": "'Door' ka mutazad kya hai?",
+  "options": [
+   "Mushkil",
+   "Lamba",
+   "Door",
+   "Qareeb"
+  ],
+  "answer": 3,
+  "explanation": "Door ka mutazad qareeb hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U334",
+  "subject": "Urdu",
+  "q": "'Mushkil' ka mutazad kaun sa lafz hai?",
+  "options": [
+   "Kathin",
+   "Aasan",
+   "Dushwar",
+   "Pechida"
+  ],
+  "answer": 1,
+  "explanation": "Mushkil ka mutazad aasan hai; dushwar mushkil ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U335",
+  "subject": "Urdu",
+  "q": "'Zyada' ka mutazad kya hai?",
+  "options": [
+   "Kaseer",
+   "Bharpoor",
+   "Kam",
+   "Zyada"
+  ],
+  "answer": 2,
+  "explanation": "Zyada ka mutazad kam hai; kaseer zyada ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U336",
+  "subject": "Urdu",
+  "q": "'Haram' ka mutazad kaun sa hai?",
+  "options": [
+   "Mamnu'",
+   "Halal",
+   "Na-jaiz",
+   "Makruh"
+  ],
+  "answer": 1,
+  "explanation": "Haram ka mutazad halal hai; na-jaiz haram ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U337",
+  "subject": "Urdu",
+  "q": "'Zulm' ka mutazad kya hai?",
+  "options": [
+   "Taddi",
+   "Jabr",
+   "Sitam",
+   "Insaf"
+  ],
+  "answer": 3,
+  "explanation": "Zulm ka mutazad insaf hai; sitam zulm ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U338",
+  "subject": "Urdu",
+  "q": "'Jang' ka mutazad kaun sa lafz hai?",
+  "options": [
+   "Larai",
+   "Fasad",
+   "Aman",
+   "Harb"
+  ],
+  "answer": 2,
+  "explanation": "Jang ka mutazad aman hai; harb jang ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U339",
+  "subject": "Urdu",
+  "q": "'Barbadi' ka mutazad kya hai?",
+  "options": [
+   "Zawal",
+   "Falah",
+   "Tabahi",
+   "Nuqsan"
+  ],
+  "answer": 1,
+  "explanation": "Barbadi ka mutazad falah (kamyabi) hai; tabahi barbadi ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U340",
+  "subject": "Urdu",
+  "q": "'Sakhti' ka mutazad kaun sa hai?",
+  "options": [
+   "Sakht",
+   "Karakht",
+   "Narmi",
+   "Kathor"
+  ],
+  "answer": 2,
+  "explanation": "Sakhti ka mutazad narmi hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U341",
+  "subject": "Urdu",
+  "q": "'Buzdili' ka mutazad kya hai?",
+  "options": [
+   "Khauf",
+   "Dar",
+   "Jurrat",
+   "Kamzori"
+  ],
+  "answer": 2,
+  "explanation": "Buzdili ka mutazad jurrat hai; dar buzdili ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U342",
+  "subject": "Urdu",
+  "q": "'Na-insafi' ka mutazad kaun sa lafz hai?",
+  "options": [
+   "Zulm",
+   "Jabr",
+   "Adl",
+   "Sitam"
+  ],
+  "answer": 2,
+  "explanation": "Na-insafi ka mutazad adl (insaf) hai; zulm na-insafi ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U343",
+  "subject": "Urdu",
+  "q": "'Bimari' ka mutazad kya hai?",
+  "options": [
+   "Rog",
+   "Sehat",
+   "Marz",
+   "Aafat"
+  ],
+  "answer": 1,
+  "explanation": "Bimari ka mutazad sehat hai; marz bimari ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U344",
+  "subject": "Urdu",
+  "q": "'Ghurbat' ka mutazad kaun sa hai?",
+  "options": [
+   "Tangdasti",
+   "Daulat",
+   "Muflisi",
+   "Faqr"
+  ],
+  "answer": 1,
+  "explanation": "Ghurbat ka mutazad daulat hai; faqr ghurbat ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U345",
+  "subject": "Urdu",
+  "q": "'Mayusi' ka mutazad kya hai?",
+  "options": [
+   "Na-umeedi",
+   "Hasrat",
+   "Umeed",
+   "Afsos"
+  ],
+  "answer": 2,
+  "explanation": "Mayusi ka mutazad umeed hai; na-umeedi mayusi ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U346",
+  "subject": "Urdu",
+  "q": "'Intiha' ka mutazad kaun sa lafz hai?",
+  "options": [
+   "Anjam",
+   "Ikhtitam",
+   "Aakhir",
+   "Ibtida"
+  ],
+  "answer": 3,
+  "explanation": "Intiha ka mutazad ibtida hai; aakhir intiha ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U347",
+  "subject": "Urdu",
+  "q": "'Posheeda' ka mutazad kya hai?",
+  "options": [
+   "Makhfi",
+   "Chhupa",
+   "Batin",
+   "Zahir"
+  ],
+  "answer": 3,
+  "explanation": "Posheeda ka mutazad zahir hai; makhfi posheeda ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U348",
+  "subject": "Urdu",
+  "q": "'Andar' ka mutazad kaun sa hai?",
+  "options": [
+   "Andar",
+   "Kharij",
+   "Bahir",
+   "Darun"
+  ],
+  "answer": 2,
+  "explanation": "Andar ka mutazad bahir hai; kharij bhi bahir ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U349",
+  "subject": "Urdu",
+  "q": "'Peeche' ka mutazad kya hai?",
+  "options": [
+   "Pas",
+   "Aage",
+   "Aqab",
+   "Pichhe"
+  ],
+  "answer": 1,
+  "explanation": "Peeche ka mutazad aage hai; aqab peeche ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U350",
+  "subject": "Urdu",
+  "q": "'Neeche' ka mutazad kaun sa lafz hai?",
+  "options": [
+   "Tahat",
+   "Zeer",
+   "Upar",
+   "Neeche"
+  ],
+  "answer": 2,
+  "explanation": "Neeche ka mutazad upar hai; zeer neeche ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U351",
+  "subject": "Urdu",
+  "q": "'Band' ka mutazad kya hai?",
+  "options": [
+   "Bandish",
+   "Khula",
+   "Muqaffal",
+   "Ruka"
+  ],
+  "answer": 1,
+  "explanation": "Band ka mutazad khula hai; muqaffal band ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U352",
+  "subject": "Urdu",
+  "q": "'Karwa' ka mutazad kaun sa hai?",
+  "options": [
+   "Karela",
+   "Karwa",
+   "Talkh",
+   "Meetha"
+  ],
+  "answer": 3,
+  "explanation": "Karwa ka mutazad meetha hai; talkh karwa ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U353",
+  "subject": "Urdu",
+  "q": "'Ganda' ka mutazad kya hai?",
+  "options": [
+   "Saaf",
+   "Napak",
+   "Ghaliz",
+   "Maila"
+  ],
+  "answer": 0,
+  "explanation": "Ganda ka mutazad saaf hai; maila ganda ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U354",
+  "subject": "Urdu",
+  "q": "'Ulfat' ka mutaradif kaun sa lafz hai?",
+  "options": [
+   "Dosti",
+   "Wafa",
+   "Nafrat",
+   "Muhabbat"
+  ],
+  "answer": 3,
+  "explanation": "Ulfat muhabbat ka mutaradif hai; nafrat is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U355",
+  "subject": "Urdu",
+  "q": "'Zafar' ka mutaradif kya hai?",
+  "options": [
+   "Kami",
+   "Fath",
+   "Haar",
+   "Shikast"
+  ],
+  "answer": 1,
+  "explanation": "Zafar fath ka mutaradif hai; shikast is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U356",
+  "subject": "Urdu",
+  "q": "'Mashaqqat' ka mutaradif kaun sa hai?",
+  "options": [
+   "Mehnat",
+   "Neend",
+   "Aaram",
+   "Susti"
+  ],
+  "answer": 0,
+  "explanation": "Mashaqqat mehnat ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U357",
+  "subject": "Urdu",
+  "q": "'Musarrat' ka mutaradif kya hai?",
+  "options": [
+   "Khushi",
+   "Ranj",
+   "Gham",
+   "Udaasi"
+  ],
+  "answer": 0,
+  "explanation": "Musarrat khushi ka mutaradif hai; gham is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U358",
+  "subject": "Urdu",
+  "q": "'Anduh' ka mutaradif kaun sa lafz hai?",
+  "options": [
+   "Gham",
+   "Musarrat",
+   "Khushi",
+   "Sukoon"
+  ],
+  "answer": 0,
+  "explanation": "Anduh gham ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U359",
+  "subject": "Urdu",
+  "q": "'Falak' ka mutaradif kya hai?",
+  "options": [
+   "Aasman",
+   "Chaand",
+   "Sitaara",
+   "Zameen"
+  ],
+  "answer": 0,
+  "explanation": "Falak aasman ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U360",
+  "subject": "Urdu",
+  "q": "'Arz' ka mutaradif kaun sa hai?",
+  "options": [
+   "Falak",
+   "Zameen",
+   "Aasman",
+   "Pahar"
+  ],
+  "answer": 1,
+  "explanation": "Arz zameen ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U361",
+  "subject": "Urdu",
+  "q": "'Bahr' ka mutaradif kya hai?",
+  "options": [
+   "Darya",
+   "Nadi",
+   "Jheel",
+   "Samandar"
+  ],
+  "answer": 3,
+  "explanation": "Bahr samandar ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U362",
+  "subject": "Urdu",
+  "q": "'Koh' ka mutaradif kaun sa lafz hai?",
+  "options": [
+   "Dasht",
+   "Pahar",
+   "Waadi",
+   "Darya"
+  ],
+  "answer": 1,
+  "explanation": "Koh pahar ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U363",
+  "subject": "Urdu",
+  "q": "'Danish' ka mutaradif kya hai?",
+  "options": [
+   "Jahalat",
+   "Nadani",
+   "Bewaqoofi",
+   "Ilm"
+  ],
+  "answer": 3,
+  "explanation": "Danish ilm ka mutaradif hai; jahalat is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U364",
+  "subject": "Urdu",
+  "q": "'Khirad' ka mutaradif kaun sa hai?",
+  "options": [
+   "Aqal",
+   "Nadani",
+   "Bewaqoofi",
+   "Jahalat"
+  ],
+  "answer": 0,
+  "explanation": "Khirad aqal ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U365",
+  "subject": "Urdu",
+  "q": "'Hayat' ka mutaradif kya hai?",
+  "options": [
+   "Zindagi",
+   "Wafat",
+   "Ajal",
+   "Maut"
+  ],
+  "answer": 0,
+  "explanation": "Hayat zindagi ka mutaradif hai; maut is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U366",
+  "subject": "Urdu",
+  "q": "'Ajal' ka mutaradif kaun sa lafz hai?",
+  "options": [
+   "Hayat",
+   "Zindagi",
+   "Maut",
+   "Umar"
+  ],
+  "answer": 2,
+  "explanation": "Ajal maut ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U367",
+  "subject": "Urdu",
+  "q": "'Parvardigar' ka mutaradif kya hai?",
+  "options": [
+   "Insaan",
+   "Banda",
+   "Rab",
+   "Makhlooq"
+  ],
+  "answer": 2,
+  "explanation": "Parvardigar Rab ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U368",
+  "subject": "Urdu",
+  "q": "'Bashar' ka mutaradif kaun sa hai?",
+  "options": [
+   "Farishta",
+   "Haywan",
+   "Insaan",
+   "Jinn"
+  ],
+  "answer": 2,
+  "explanation": "Bashar insaan ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U369",
+  "subject": "Urdu",
+  "q": "'Tifl' ka mutaradif kya hai?",
+  "options": [
+   "Nojawan",
+   "Budha",
+   "Jawan",
+   "Bacha"
+  ],
+  "answer": 3,
+  "explanation": "Tifl bacha ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U370",
+  "subject": "Urdu",
+  "q": "'Habib' ka mutaradif kaun sa lafz hai?",
+  "options": [
+   "Dushman",
+   "Ajnabi",
+   "Dost",
+   "Khasm"
+  ],
+  "answer": 2,
+  "explanation": "Habib dost ka mutaradif hai; dushman is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U371",
+  "subject": "Urdu",
+  "q": "'Adu' ka mutaradif kya hai?",
+  "options": [
+   "Yaar",
+   "Habib",
+   "Dost",
+   "Dushman"
+  ],
+  "answer": 3,
+  "explanation": "Adu dushman ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U372",
+  "subject": "Urdu",
+  "q": "'Zaman' ka mutaradif kaun sa hai?",
+  "options": [
+   "Jagah",
+   "Daur",
+   "Makan",
+   "Waqt"
+  ],
+  "answer": 3,
+  "explanation": "Zaman waqt ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U373",
+  "subject": "Urdu",
+  "q": "'Aalam' ka mutaradif kya hai?",
+  "options": [
+   "Duniya",
+   "Dozakh",
+   "Zameen",
+   "Aasman"
+  ],
+  "answer": 0,
+  "explanation": "Aalam duniya ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U374",
+  "subject": "Urdu",
+  "q": "'Tandurusti' ka mutaradif kaun sa lafz hai?",
+  "options": [
+   "Bimari",
+   "Sehat",
+   "Marz",
+   "Aafat"
+  ],
+  "answer": 1,
+  "explanation": "Tandurusti sehat ka mutaradif hai; bimari is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U375",
+  "subject": "Urdu",
+  "q": "'Marz' ka mutaradif kya hai?",
+  "options": [
+   "Shifa",
+   "Sehat",
+   "Ilaaj",
+   "Bimari"
+  ],
+  "answer": 3,
+  "explanation": "Marz bimari ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U376",
+  "subject": "Urdu",
+  "q": "'Muallim' ka mutaradif kaun sa hai?",
+  "options": [
+   "Ustaad",
+   "Shagird",
+   "Talib",
+   "Muta'allim"
+  ],
+  "answer": 0,
+  "explanation": "Muallim ustaad ka mutaradif hai; shagird is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U377",
+  "subject": "Urdu",
+  "q": "'Muta'allim' ka mutaradif kya hai?",
+  "options": [
+   "Ustaad",
+   "Muallim",
+   "Shagird",
+   "Murabbi"
+  ],
+  "answer": 2,
+  "explanation": "Muta'allim (seekhne wala) shagird ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U378",
+  "subject": "Urdu",
+  "q": "'Sultan' ka mutaradif kaun sa lafz hai?",
+  "options": [
+   "Sipahi",
+   "Badshah",
+   "Wazeer",
+   "Ra'aya"
+  ],
+  "answer": 1,
+  "explanation": "Sultan badshah ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U379",
+  "subject": "Urdu",
+  "q": "'Danai' ka mutaradif kya hai?",
+  "options": [
+   "Hikmat",
+   "Nadani",
+   "Bewaqoofi",
+   "Jahalat"
+  ],
+  "answer": 0,
+  "explanation": "Danai hikmat ka mutaradif hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U380",
+  "subject": "Urdu",
+  "q": "'Himmat' ka mutaradif kaun sa hai?",
+  "options": [
+   "Dar",
+   "Jurrat",
+   "Khauf",
+   "Buzdili"
+  ],
+  "answer": 1,
+  "explanation": "Himmat jurrat ka mutaradif hai; buzdili is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U381",
+  "subject": "Urdu",
+  "q": "'Taqdeer' ka mutaradif kya hai?",
+  "options": [
+   "Bad-naseebi",
+   "Hasrat",
+   "Qismat",
+   "Afsos"
+  ],
+  "answer": 2,
+  "explanation": "Taqdeer qismat ka mutaradif hai; bad-naseebi is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U382",
+  "subject": "Urdu",
+  "q": "'Musabaqat' ka mutaradif kaun sa lafz hai?",
+  "options": [
+   "Muqadma",
+   "Munazra",
+   "Mukhalifat",
+   "Muqabla"
+  ],
+  "answer": 3,
+  "explanation": "Musabaqat muqabla ka mutaradif hai; ye jora recent PPSC papers mein aaya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U383",
+  "subject": "Urdu",
+  "q": "'Bechaini' ka mutaradif kya hai?",
+  "options": [
+   "Sukoon",
+   "Iztirab",
+   "Itminan",
+   "Qarar"
+  ],
+  "answer": 1,
+  "explanation": "Bechaini iztirab ka mutaradif hai; sukoon is ka mutazad hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U384",
+  "subject": "Urdu",
+  "q": "Ilm-e-Nahw mein 'jumla' se kya murad hai?",
+  "options": [
+   "Ba-ma'ani wahid lafz",
+   "Haroof ka majmoo'a",
+   "Do ya zyada ba-ma'ani kalmon ka wo majmoo'a jis se poora ma'ani nikalta ho",
+   "Sher ka aik misra"
+  ],
+  "answer": 2,
+  "explanation": "Jumla do ya zyada ba-ma'ani kalmon ka majmoo'a hai jo poora ma'ani de.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U385",
+  "subject": "Urdu",
+  "q": "'Ali school gaya.' jumla ki kaun si qism hai?",
+  "options": [
+   "Khabriya",
+   "Istifhamiya",
+   "Insha'iya",
+   "Tamannai"
+  ],
+  "answer": 0,
+  "explanation": "Is mein khabar di gayi hai (sach/jhoot ka imkan), is liye jumla-e-khabriya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U386",
+  "subject": "Urdu",
+  "q": "'Kya Ali school gaya?' jumla ki kaun si qism hai?",
+  "options": [
+   "Istifhamiya",
+   "Amriya",
+   "Khabriya",
+   "Nahiya"
+  ],
+  "answer": 0,
+  "explanation": "Sawal poocha gaya hai, is liye jumla-e-istifhamiya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U387",
+  "subject": "Urdu",
+  "q": "'Ali, school jao!' kya hai?",
+  "options": [
+   "Amriya",
+   "Tamannai",
+   "Istifhamiya",
+   "Khabriya"
+  ],
+  "answer": 0,
+  "explanation": "Hukm diya gaya hai, is liye jumla-e-amriya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U388",
+  "subject": "Urdu",
+  "q": "'Mat jao!' jumla ki kaun si qism hai?",
+  "options": [
+   "Nahiya",
+   "Khabriya",
+   "Amriya",
+   "Shartiya"
+  ],
+  "answer": 0,
+  "explanation": "Mana kiya gaya hai, is liye jumla-e-nahiya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U389",
+  "subject": "Urdu",
+  "q": "'Kaash Ali aa jata!' kya hai?",
+  "options": [
+   "Tamannai",
+   "Shartiya",
+   "Khabriya",
+   "Amriya"
+  ],
+  "answer": 0,
+  "explanation": "Khwahish zahir hui hai, is liye jumla-e-tamannai hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U390",
+  "subject": "Urdu",
+  "q": "'Agar wo aata to main jata.' kya hai?",
+  "options": [
+   "Shartiya",
+   "Nida'iya",
+   "Khabriya",
+   "Tamannai"
+  ],
+  "answer": 0,
+  "explanation": "Shart lagai gayi hai (agar...to), is liye jumla-e-shartiya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U391",
+  "subject": "Urdu",
+  "q": "Jumla-e-Khabriya aur Insha'iya mein bunyadi farq kya hai?",
+  "options": [
+   "Khabriya mein khabar hoti hai jismein sach/jhoot ka imkan ho, jabke insha'iya mein talab ya khwahish hoti hai",
+   "Khabriya lamba hota hai",
+   "Koi farq nahi",
+   "Insha'iya mein fe'l nahi hota"
+  ],
+  "answer": 0,
+  "explanation": "Khabriya mein khabar (sach/jhoot mumkin), insha'iya mein amr/nahi/sawal/khwahish hoti hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U392",
+  "subject": "Urdu",
+  "q": "'Us ne khana khaya.' kya hai?",
+  "options": [
+   "Jumla-e-khabriya (musbat)",
+   "Jumla-e-shartiya",
+   "Jumla-e-manfi",
+   "Jumla-e-insha'iya"
+  ],
+  "answer": 0,
+  "explanation": "Khabar di gayi hai aur nafi nahi, is liye khabriya musbat hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U393",
+  "subject": "Urdu",
+  "q": "Manfi jumla ki pehchan kya hai?",
+  "options": [
+   "Lamba hona",
+   "Hukm ka hona",
+   "Nahin / na / mat ka hona",
+   "Sawal ka nishan"
+  ],
+  "answer": 2,
+  "explanation": "Manfi jumle mein nahin, na ya mat aata hai, masalan 'wo nahi aaya'.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U394",
+  "subject": "Urdu",
+  "q": "'Wo kal nahi aaya.' kya hai?",
+  "options": [
+   "Tamannai",
+   "Musbat",
+   "Istifhamiya",
+   "Manfi"
+  ],
+  "answer": 3,
+  "explanation": "'Nahi' aane se jumla manfi hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U395",
+  "subject": "Urdu",
+  "q": "'Aye dost! idhar aao.' kya hai?",
+  "options": [
+   "Tamannai",
+   "Khabriya",
+   "Nida'iya",
+   "Shartiya"
+  ],
+  "answer": 2,
+  "explanation": "Pukara gaya hai (aye), is liye jumla-e-nida'iya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U396",
+  "subject": "Urdu",
+  "q": "Mubtada kise kehte hain?",
+  "options": [
+   "Fe'l ka fa'il",
+   "Wo ism jis ke baare mein kuch kaha jaye",
+   "Wo lafz jo mubtada ke baare mein bataye",
+   "Jumle ka aakhri lafz"
+  ],
+  "answer": 1,
+  "explanation": "Mubtada wo ism hai jis ke baare mein kuch kaha jata hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U397",
+  "subject": "Urdu",
+  "q": "Khabar kise kehte hain?",
+  "options": [
+   "Harf-e-jarr",
+   "Wo lafz jo mubtada ke baare mein bataye",
+   "Jumle ka pehla lafz",
+   "Fe'l ka maf'ool"
+  ],
+  "answer": 1,
+  "explanation": "Khabar wo lafz hai jo mubtada ke baare mein batata hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U398",
+  "subject": "Urdu",
+  "q": "'Talib-e-ilm mehnati hai.' mein mubtada kaun sa hai?",
+  "options": [
+   "Mehnati hai",
+   "Hai",
+   "Talib-e-ilm",
+   "Mehnati"
+  ],
+  "answer": 2,
+  "explanation": "Talib-e-ilm ke baare mein kaha gaya hai, is liye ye mubtada hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U399",
+  "subject": "Urdu",
+  "q": "'Talib-e-ilm mehnati hai.' mein khabar kaun si hai?",
+  "options": [
+   "Hai",
+   "Talib-e-ilm",
+   "Mehnati hai",
+   "Ilm"
+  ],
+  "answer": 2,
+  "explanation": "Mehnati hai talib-e-ilm ke baare mein batata hai, is liye khabar hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U400",
+  "subject": "Urdu",
+  "q": "Nahw mein mubtada ko kya kehte hain?",
+  "options": [
+   "Fe'l",
+   "Khabar",
+   "Musnad-ilaihi",
+   "Musnad"
+  ],
+  "answer": 2,
+  "explanation": "Mubtada ko musnad-ilaihi kehte hain (jis ki taraf isnad ho).",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U401",
+  "subject": "Urdu",
+  "q": "Nahw mein khabar ko kya kehte hain?",
+  "options": [
+   "Musnad",
+   "Fa'il",
+   "Mubtada",
+   "Musnad-ilaihi"
+  ],
+  "answer": 0,
+  "explanation": "Khabar ko musnad kehte hain (jo mubtada ki taraf mansoob ho).",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U402",
+  "subject": "Urdu",
+  "q": "Jumla-e-Ismiya kise kehte hain?",
+  "options": [
+   "Jo ism se shuru ho",
+   "Jo fe'l se shuru ho",
+   "Jo harf se shuru ho",
+   "Jo sawal ho"
+  ],
+  "answer": 0,
+  "explanation": "Jo jumla ism se shuru ho use jumla-e-ismiya kehte hain.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U403",
+  "subject": "Urdu",
+  "q": "Jumla-e-Fi'liya kise kehte hain?",
+  "options": [
+   "Jo ism se shuru ho",
+   "Jo harf se shuru ho",
+   "Jo fe'l se shuru ho",
+   "Jo sawal ho"
+  ],
+  "answer": 2,
+  "explanation": "Jo jumla fe'l se shuru ho use jumla-e-fi'liya kehte hain.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U404",
+  "subject": "Urdu",
+  "q": "'Parho apna sabaq.' kya hai?",
+  "options": [
+   "Tamannai",
+   "Amriya",
+   "Istifhamiya",
+   "Khabriya"
+  ],
+  "answer": 1,
+  "explanation": "Hukm diya gaya hai, is liye jumla-e-amriya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U405",
+  "subject": "Urdu",
+  "q": "'Tum kahan rehte ho?' kya hai?",
+  "options": [
+   "Nahiya",
+   "Amriya",
+   "Istifhamiya",
+   "Khabriya"
+  ],
+  "answer": 2,
+  "explanation": "Sawal hai, is liye jumla-e-istifhamiya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U406",
+  "subject": "Urdu",
+  "q": "'Wo roz warzish karta hai.' kya hai?",
+  "options": [
+   "Insha'iya",
+   "Shartiya",
+   "Khabriya",
+   "Tamannai"
+  ],
+  "answer": 2,
+  "explanation": "Khabar di gayi hai, is liye jumla-e-khabriya hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U407",
+  "subject": "Urdu",
+  "q": "Insha'iya jumle ki pehchan kya hai?",
+  "options": [
+   "Sach/jhoot ka imkan ho",
+   "Khabar di jaye",
+   "Amr, nahi, sawal, khwahish ya pukar ho",
+   "Fe'l na ho"
+  ],
+  "answer": 2,
+  "explanation": "Insha'iya mein talab ya jazba hota hai, sach/jhoot ka imkan nahi.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U408",
+  "subject": "Urdu",
+  "q": "Murakkab-e-taam kise kehte hain?",
+  "options": [
+   "Ba-ma'ani wahid lafz",
+   "Adhoora ma'ani dene wala",
+   "Haroof ka majmoo'a",
+   "Poora ma'ani dene wala murakkab (mukammal jumla)"
+  ],
+  "answer": 3,
+  "explanation": "Murakkab-e-taam poora ma'ani deta hai, ya'ni mukammal jumla.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U409",
+  "subject": "Urdu",
+  "q": "Murakkab-e-naqis kise kehte hain?",
+  "options": [
+   "Adhoora ma'ani dene wala murakkab",
+   "Harf-e-jarr",
+   "Poora ma'ani dene wala",
+   "Mukammal jumla"
+  ],
+  "answer": 0,
+  "explanation": "Murakkab-e-naqis adhoora ma'ani deta hai, masalan 'kitab mez par'.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U410",
+  "subject": "Urdu",
+  "q": "'Kitab mez par' qawaid ki ro se kya hai?",
+  "options": [
+   "Murakkab-e-naqis",
+   "Jumla",
+   "Khabriya",
+   "Murakkab-e-taam"
+  ],
+  "answer": 0,
+  "explanation": "Ma'ani adhoora hai (kitab mez par kya?), is liye murakkab-e-naqis hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U411",
+  "subject": "Urdu",
+  "q": "'Kitab mez par hai.' qawaid ki ro se kya hai?",
+  "options": [
+   "Tarkeeb",
+   "Murakkab-e-naqis",
+   "Harf",
+   "Murakkab-e-taam (mukammal jumla)"
+  ],
+  "answer": 3,
+  "explanation": "Poora ma'ani nikalta hai, is liye murakkab-e-taam ya'ni mukammal jumla hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U412",
+  "subject": "Urdu",
+  "q": "'Jo mehnat karta hai' qawaid ki ro se kya hai?",
+  "options": [
+   "Murakkab-e-naqis",
+   "Murakkab-e-taam",
+   "Mukammal jumla",
+   "Khabriya"
+  ],
+  "answer": 0,
+  "explanation": "Jumla adhoora hai (phir kya?), is liye murakkab-e-naqis hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U413",
+  "subject": "Urdu",
+  "q": "'Main kal Lahore jaunga.' kya hai?",
+  "options": [
+   "Tamannai",
+   "Insha'iya",
+   "Istifhamiya",
+   "Khabriya (musbat)"
+  ],
+  "answer": 3,
+  "explanation": "Khabar di gayi hai aur nafi nahi, is liye jumla-e-khabriya musbat hai.",
+  "source": "PPSC Day 17"
+ },
+ {
+  "id": "U414",
+  "subject": "Urdu",
+  "q": "'Taswe bahana' muhavare ka durust mafhoom kya hai?",
+  "options": [
+   "Zor zor se hansna",
+   "Khana kha kar so jana",
+   "Chup chaap beth jana",
+   "Naqli aansu bahana, jhoot-moot rona"
+  ],
+  "answer": 3,
+  "explanation": "Taswe bahana = naqli aansu bahana, jhoot-moot rona (dikhave ka rona).",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U415",
+  "subject": "Urdu",
+  "q": "'Baal bika karna' se kya murad hai?",
+  "options": [
+   "Daulat kamana",
+   "Baal katwana",
+   "Bahut khush hona",
+   "Nuqsan uthana"
+  ],
+  "answer": 3,
+  "explanation": "Baal bika karna = nuqsan uthana; baalon se is ka koi lafzi ta'alluq nahi.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U416",
+  "subject": "Urdu",
+  "q": "'Naak mein dam karna' ka mafhoom kya hai?",
+  "options": [
+   "Bahut tang/pareshan karna",
+   "Naak saaf karna",
+   "Gehri saans lena",
+   "Khushbu lagana"
+  ],
+  "answer": 0,
+  "explanation": "Naak mein dam karna = bahut tang karna; naak ka koi lafzi amal nahi.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U417",
+  "subject": "Urdu",
+  "q": "'Paani paani hona' ka mafhoom kya hai?",
+  "options": [
+   "Tairna seekhna",
+   "Piyas lagna",
+   "Sharminda hona",
+   "Nahane jana"
+  ],
+  "answer": 2,
+  "explanation": "Paani paani hona = sharminda hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U418",
+  "subject": "Urdu",
+  "q": "'Sar mundate hi ole parna' se kya murad hai?",
+  "options": [
+   "Sardard hona",
+   "Baal katwana",
+   "Barish hona",
+   "Kaam shuru hote hi mushkil aa jana"
+  ],
+  "answer": 3,
+  "explanation": "Sar mundate hi ole parna = kaam shuru hote hi mushkil aa jana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U419",
+  "subject": "Urdu",
+  "q": "'Ungli uthana' ka kya matlab hai?",
+  "options": [
+   "Ungli kat jana",
+   "Ishaara karna",
+   "Madad mangna",
+   "Ilzam lagana"
+  ],
+  "answer": 3,
+  "explanation": "Kisi par ungli uthana = us par ilzam lagana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U420",
+  "subject": "Urdu",
+  "q": "'Taang araana' se kya murad hai?",
+  "options": [
+   "Rukawat dalna",
+   "Sair ko jana",
+   "Tez daudna",
+   "Taang toot jana"
+  ],
+  "answer": 0,
+  "explanation": "Taang araana = kisi kaam mein rukawat dalna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U421",
+  "subject": "Urdu",
+  "q": "'Daal na galna' ka mafhoom kya hai?",
+  "options": [
+   "Khana kharab hona",
+   "Bartan jal jana",
+   "Bhook na lagna",
+   "Tadbeer kaamyaab na hona"
+  ],
+  "answer": 3,
+  "explanation": "Daal na galna = tadbeer ya chaal kaamyaab na hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U422",
+  "subject": "Urdu",
+  "q": "'Ghee ke diye jalana' se kya murad hai?",
+  "options": [
+   "Khushi manana",
+   "Khana pakana",
+   "Diye bechna",
+   "Bijli jalana"
+  ],
+  "answer": 0,
+  "explanation": "Ghee ke diye jalana = khushi manana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U423",
+  "subject": "Urdu",
+  "q": "'Chiraag tale andhera' ka kya matlab hai?",
+  "options": [
+   "Bijli ka chale jana",
+   "Raat ka andhera",
+   "Apne hi ghar/idare mein kami ka hona",
+   "Roshni ka phailna"
+  ],
+  "answer": 2,
+  "explanation": "Chiraag tale andhera = apne hi ghar ya idare mein kami ka hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U424",
+  "subject": "Urdu",
+  "q": "'Baat ka batangar banana' se kya murad hai?",
+  "options": [
+   "Baat khatm kar dena",
+   "Khamosh rehna",
+   "Hamesha sach bolna",
+   "Mamuli baat ko barha charha kar pesh karna"
+  ],
+  "answer": 3,
+  "explanation": "Baat ka batangar banana = mamuli baat ko barha charha kar pesh karna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U425",
+  "subject": "Urdu",
+  "q": "'Naani yaad aana' ka mafhoom kya hai?",
+  "options": [
+   "Sakht takleef/museebat mein phansna",
+   "Naani se mulaqat hona",
+   "Bachpan yaad aana",
+   "Bahut khush hona"
+  ],
+  "answer": 0,
+  "explanation": "Naani yaad aana = sakht takleef ya museebat mein phansna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U426",
+  "subject": "Urdu",
+  "q": "'Chhakke chhura dena' se kya murad hai?",
+  "options": [
+   "Buri tarah hara dena, hosh ura dena",
+   "Chhakka maarna",
+   "Cricket khelna",
+   "Chhakke kha lena"
+  ],
+  "answer": 0,
+  "explanation": "Chhakke chhura dena = buri tarah hara dena.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U427",
+  "subject": "Urdu",
+  "q": "'Aag babula hona' ka kya matlab hai?",
+  "options": [
+   "Aag lagana",
+   "Garmi lagna",
+   "Khana pakana",
+   "Shadeed ghussa karna"
+  ],
+  "answer": 3,
+  "explanation": "Aag babula hona = shadeed ghusse mein aana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U428",
+  "subject": "Urdu",
+  "q": "'Aasman sar par uthana' se kya murad hai?",
+  "options": [
+   "Barish ki dua karna",
+   "Hungama/shor machana",
+   "Aasman ko dekhna",
+   "Ooncha makaan banana"
+  ],
+  "answer": 1,
+  "explanation": "Aasman sar par uthana = hungama ya shor machana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U429",
+  "subject": "Urdu",
+  "q": "'Zameen aasman ek karna' ka mafhoom kya hai?",
+  "options": [
+   "Aasman ko chhuna",
+   "Poori koshish karna",
+   "Lamba safar karna",
+   "Zameen khodna"
+  ],
+  "answer": 1,
+  "explanation": "Zameen aasman ek karna = poori koshish karna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U430",
+  "subject": "Urdu",
+  "q": "'Din mein taare nazar aana' se kya murad hai?",
+  "options": [
+   "Sitaare dekhna",
+   "Sakht takleef aana, hosh ur jana",
+   "Raat ko jagna",
+   "Aasman ka saaf hona"
+  ],
+  "answer": 1,
+  "explanation": "Din mein taare nazar aana = sakht takleef aana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U431",
+  "subject": "Urdu",
+  "q": "'Lohe ke chane chabana' ka kya matlab hai?",
+  "options": [
+   "Daant mazboot karna",
+   "Bahut mushkil kaam karna",
+   "Chane khana",
+   "Loha khana"
+  ],
+  "answer": 1,
+  "explanation": "Lohe ke chane chabana = bahut mushkil kaam karna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U432",
+  "subject": "Urdu",
+  "q": "'Kaan par joon na rengna' se kya murad hai?",
+  "options": [
+   "Kaan mein dard hona",
+   "Joon ka katna",
+   "Behra ho jana",
+   "Bilkul asar na hona"
+  ],
+  "answer": 3,
+  "explanation": "Kaan par joon na rengna = kisi baat ka bilkul asar na hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U433",
+  "subject": "Urdu",
+  "q": "'Dil bagh bagh hona' ka mafhoom kya hai?",
+  "options": [
+   "Ghamgeen ho jana",
+   "Bagh mein jana",
+   "Phool khilna",
+   "Bahut khush hona"
+  ],
+  "answer": 3,
+  "explanation": "Dil bagh bagh hona = bahut khush hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U434",
+  "subject": "Urdu",
+  "q": "'Sar aankhon par bithana' se kya murad hai?",
+  "options": [
+   "Aankhein band kar lena",
+   "Sar mein dard hona",
+   "Sar par beth jana",
+   "Bahut izzat dena"
+  ],
+  "answer": 3,
+  "explanation": "Sar aankhon par bithana = bahut izzat dena.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U435",
+  "subject": "Urdu",
+  "q": "'Munh ki khana' ka kya matlab hai?",
+  "options": [
+   "Munh dho lena",
+   "Bhook lagna",
+   "Shikast/nakami khana",
+   "Khana kha lena"
+  ],
+  "answer": 2,
+  "explanation": "Munh ki khana = shikast ya nakami khana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U436",
+  "subject": "Urdu",
+  "q": "'Thook kar chaatna' se kya murad hai?",
+  "options": [
+   "Khana chaat lena",
+   "Zameen par thookna",
+   "Safai karna",
+   "Apni baat se phir jana"
+  ],
+  "answer": 3,
+  "explanation": "Thook kar chaatna = apni kahi hui baat se phir jana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U437",
+  "subject": "Urdu",
+  "q": "'Baat ka dhani hona' ka mafhoom kya hai?",
+  "options": [
+   "Baat bhool jana",
+   "Batein karte rehna",
+   "Apni baat ka pakka hona, waada nibhana",
+   "Baat chhupa lena"
+  ],
+  "answer": 2,
+  "explanation": "Baat ka dhani hona = apni baat ka pakka hona, waada nibhana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U438",
+  "subject": "Urdu",
+  "q": "'Pagri uchhalna' se kya murad hai?",
+  "options": [
+   "Pagri khareedna",
+   "Pagri saaf karna",
+   "Be-izzat karna",
+   "Pagri pehenna"
+  ],
+  "answer": 2,
+  "explanation": "Pagri uchhalna = kisi ko be-izzat karna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U439",
+  "subject": "Urdu",
+  "q": "'Khaak chhan'na' ka kya matlab hai?",
+  "options": [
+   "Mitti kha lena",
+   "Kheeti baari karna",
+   "Khaak ura dena",
+   "Mara mara phirna, bekaar ghoomna"
+  ],
+  "answer": 3,
+  "explanation": "Khaak chhan'na = mara mara phirna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U440",
+  "subject": "Urdu",
+  "q": "'Nau do gyarah hona' se kya murad hai?",
+  "options": [
+   "Bhag jana",
+   "Wapas aa jana",
+   "Ginti karna",
+   "Hisab lagana"
+  ],
+  "answer": 0,
+  "explanation": "Nau do gyarah hona = (darr ya shor se) bhag jana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U441",
+  "subject": "Urdu",
+  "q": "'Chaar chaand lagana' ka mafhoom kya hai?",
+  "options": [
+   "Raunaq/shaan barhana",
+   "Raat ko jagna",
+   "Chaand ko dekhna",
+   "Roshni kar dena"
+  ],
+  "answer": 0,
+  "explanation": "Chaar chaand lagana = kisi cheez ki raunaq ya shaan barhana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U442",
+  "subject": "Urdu",
+  "q": "'Ghari do ghari' se kya murad hai?",
+  "options": [
+   "Pure do ghante",
+   "Waqt zaya karna",
+   "Thori der ke liye",
+   "Ghadi dekhna"
+  ],
+  "answer": 2,
+  "explanation": "Ghari do ghari = thori der ke liye.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U443",
+  "subject": "Urdu",
+  "q": "'Teen mein na terah mein' ka kya matlab hai?",
+  "options": [
+   "Be-waq'at, be-faaida hona (gintee mein na hona)",
+   "Ginti mein tez hona",
+   "Hisab kitaab karna",
+   "Terhavan number hona"
+  ],
+  "answer": 0,
+  "explanation": "Teen mein na terah mein = be-waq'at ya be-faaida hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U444",
+  "subject": "Urdu",
+  "q": "'Dhol ke andar pol' se kya murad hai?",
+  "options": [
+   "Zahir mein kuch, batin mein kuch (andar se khokhla)",
+   "Dhol bajana",
+   "Shor macha dena",
+   "Dhol khareedna"
+  ],
+  "answer": 0,
+  "explanation": "Dhol ke andar pol = zahir aur batin mein farq; andar se khokhla hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U445",
+  "subject": "Urdu",
+  "q": "'Ulte baans Bareli ko' ka mafhoom kya hai?",
+  "options": [
+   "Seedha kaam karna",
+   "Baans kaatna",
+   "Ulti harkat karna (jahan cheez maujood ho wahin le jana)",
+   "Bareli ka safar karna"
+  ],
+  "answer": 2,
+  "explanation": "Ulte baans Bareli ko = ulti harkat karna; ye aik kahawat hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U446",
+  "subject": "Urdu",
+  "q": "'Haathi ke daant khane ke aur, dikhane ke aur' se kya murad hai?",
+  "options": [
+   "Haathi paalna",
+   "Daant saaf karna",
+   "Haathi ko khana khilana",
+   "Zahir aur batin ka farq, munafiqat"
+  ],
+  "answer": 3,
+  "explanation": "Ye kahawat zahir aur batin ke farq (munafiqat) par boli jati hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U447",
+  "subject": "Urdu",
+  "q": "'Zaroorat se bahut kam miqdaar' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Andher nagri chaupat raja",
+   "Billi ke khwab mein chhichhre",
+   "Oont ke munh mein zeera",
+   "Haathi ke daant khane ke aur dikhane ke aur"
+  ],
+  "answer": 2,
+  "explanation": "Oont ke munh mein zeera = zaroorat se bahut kam miqdaar (kahawat).",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U448",
+  "subject": "Urdu",
+  "q": "'Be-dhanga intezam, jahan na-insafi ho' ke liye kaun si kahawat hai?",
+  "options": [
+   "Dhol ke andar pol",
+   "Ulte baans Bareli ko",
+   "Chor ki darhi mein tinka",
+   "Andher nagri chaupat raja"
+  ],
+  "answer": 3,
+  "explanation": "Andher nagri chaupat raja = jahan be-dhanga intezam aur na-insafi ho.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U449",
+  "subject": "Urdu",
+  "q": "'Mujrim ki ghabraahat chehre se zahir hona' ke liye kaun si kahawat hai?",
+  "options": [
+   "Naak mein dam karna",
+   "Pagri uchhalna",
+   "Chor ki darhi mein tinka",
+   "Kaan bharna"
+  ],
+  "answer": 2,
+  "explanation": "Chor ki darhi mein tinka = mujrim ki ghabraahat zahir ho jana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U450",
+  "subject": "Urdu",
+  "q": "'Na-mumkin khwahish karna' ke liye kaun si kahawat boli jati hai?",
+  "options": [
+   "Ghari do ghari",
+   "Billi ke khwab mein chhichhre",
+   "Teen mein na terah mein",
+   "Din mein taare nazar aana"
+  ],
+  "answer": 1,
+  "explanation": "Billi ke khwab mein chhichhre = na-mumkin khwahish karna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U451",
+  "subject": "Urdu",
+  "q": "'Jhoot-moot rona, naqli aansu bahana' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Paani paani hona",
+   "Naani yaad aana",
+   "Taswe bahana",
+   "Aag babula hona"
+  ],
+  "answer": 2,
+  "explanation": "Taswe bahana = naqli aansu bahana, jhoot-moot rona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U452",
+  "subject": "Urdu",
+  "q": "'Nuqsan uthana' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Daal na galna",
+   "Hath malna",
+   "Kamar kasna",
+   "Baal bika karna"
+  ],
+  "answer": 3,
+  "explanation": "Baal bika karna = nuqsan uthana; hath malna = pachtana hota hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U453",
+  "subject": "Urdu",
+  "q": "'Dost ke bhes mein dushman' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Dil ka kala",
+   "Aasteen ka saanp",
+   "Munh ka meetha",
+   "Kaan ka kacha"
+  ],
+  "answer": 1,
+  "explanation": "Aasteen ka saanp = dost ke bhes mein chhupa dushman.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U454",
+  "subject": "Urdu",
+  "q": "'Bahut tang/pareshan karna' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Sar par sawaar hona",
+   "Aankh dikhana",
+   "Kaan bharna",
+   "Naak mein dam karna"
+  ],
+  "answer": 3,
+  "explanation": "Naak mein dam karna = bahut tang karna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U455",
+  "subject": "Urdu",
+  "q": "'Chugli karna' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Kaan dharna",
+   "Kaan bharna",
+   "Kaan katna",
+   "Kaan pakarna"
+  ],
+  "answer": 1,
+  "explanation": "Kaan bharna = chugli karna; kaan pakarna = tauba karna hota hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U456",
+  "subject": "Urdu",
+  "q": "'Sharminda hona' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Paani mein aag lagana",
+   "Paani paani hona",
+   "Paani pher dena",
+   "Paani ka bulbula"
+  ],
+  "answer": 1,
+  "explanation": "Paani paani hona = sharminda hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U457",
+  "subject": "Urdu",
+  "q": "'Kaam shuru hote hi mushkil aa jana' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Sar utha lena",
+   "Sar khuja lena",
+   "Sar mundate hi ole parna",
+   "Sar jhuka lena"
+  ],
+  "answer": 2,
+  "explanation": "Sar mundate hi ole parna = kaam shuru hote hi mushkil aa jana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U458",
+  "subject": "Urdu",
+  "q": "'Ilzam lagana' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Ungli dikhana",
+   "Ungli katna",
+   "Ungli uthana",
+   "Ungli pakarna"
+  ],
+  "answer": 2,
+  "explanation": "Kisi par ungli uthana = us par ilzam lagana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U459",
+  "subject": "Urdu",
+  "q": "'Rukawat dalna' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Taang araana",
+   "Taang torna",
+   "Taang khenchna",
+   "Taang pakarna"
+  ],
+  "answer": 0,
+  "explanation": "Taang araana = kisi kaam mein rukawat dalna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U460",
+  "subject": "Urdu",
+  "q": "'Tadbeer kaamyaab na hona' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Daal baantna",
+   "Daal pakana",
+   "Daal khana",
+   "Daal na galna"
+  ],
+  "answer": 3,
+  "explanation": "Daal na galna = tadbeer kaamyaab na hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U461",
+  "subject": "Urdu",
+  "q": "'Khushi manana' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Ghee ke diye jalana",
+   "Diye bujha dena",
+   "Ghee kha lena",
+   "Roshni kar dena"
+  ],
+  "answer": 0,
+  "explanation": "Ghee ke diye jalana = khushi manana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U462",
+  "subject": "Urdu",
+  "q": "'Apne hi ghar/idare mein kami ka hona' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Andhera hi andhera",
+   "Roshni ka ghar",
+   "Chiraag tale andhera",
+   "Ujala hi ujala"
+  ],
+  "answer": 2,
+  "explanation": "Chiraag tale andhera = apne hi ghar ya idare mein kami ka hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U463",
+  "subject": "Urdu",
+  "q": "'Mamuli baat ko barha charha kar pesh karna' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Baat taal dena",
+   "Baat ka batangar banana",
+   "Baat nibha lena",
+   "Baat khatm kar dena"
+  ],
+  "answer": 1,
+  "explanation": "Baat ka batangar banana = mamuli baat ko barha charha kar pesh karna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U464",
+  "subject": "Urdu",
+  "q": "'Sakht takleef/museebat mein phansna' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Naani yaad aana",
+   "Daadi yaad aana",
+   "Bachpan yaad aana",
+   "Ghar yaad aana"
+  ],
+  "answer": 0,
+  "explanation": "Naani yaad aana = sakht takleef mein phansna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U465",
+  "subject": "Urdu",
+  "q": "'Buri tarah hara dena' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Chhakke kha lena",
+   "Chhakke chhura dena",
+   "Maidaan maarna",
+   "Chhakka maarna"
+  ],
+  "answer": 1,
+  "explanation": "Chhakke chhura dena = buri tarah hara dena; maidaan maarna = jeetna hota hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U466",
+  "subject": "Urdu",
+  "q": "'Shadeed ghussa karna' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Aag babula hona",
+   "Aag bujhana",
+   "Aag lagana",
+   "Aag se khelna"
+  ],
+  "answer": 0,
+  "explanation": "Aag babula hona = shadeed ghusse mein aana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U467",
+  "subject": "Urdu",
+  "q": "'Hungama/shor machana' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Aasman sar par uthana",
+   "Shor sun'na",
+   "Sar jhuka lena",
+   "Aasman ko dekhna"
+  ],
+  "answer": 0,
+  "explanation": "Aasman sar par uthana = hungama machana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U468",
+  "subject": "Urdu",
+  "q": "'Poori koshish karna' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Aasman chhuna",
+   "Zameen khodna",
+   "Zameen aasman ek karna",
+   "Hath pair maarna"
+  ],
+  "answer": 2,
+  "explanation": "Zameen aasman ek karna = poori koshish karna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U469",
+  "subject": "Urdu",
+  "q": "'Sakht takleef aana, hosh ur jana' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Taaron bhari raat",
+   "Din raat ek karna",
+   "Din mein taare nazar aana",
+   "Taare ginna"
+  ],
+  "answer": 2,
+  "explanation": "Din mein taare nazar aana = sakht takleef aana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U470",
+  "subject": "Urdu",
+  "q": "'Bahut mushkil kaam karna' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Loha peetna",
+   "Chane ubaalna",
+   "Lohe ke chane chabana",
+   "Chane kha lena"
+  ],
+  "answer": 2,
+  "explanation": "Lohe ke chane chabana = bahut mushkil kaam karna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U471",
+  "subject": "Urdu",
+  "q": "'Bilkul asar na hona' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Kaan par joon na rengna",
+   "Kaan khare ho jana",
+   "Kaan mein ungli dena",
+   "Kaan dharna"
+  ],
+  "answer": 0,
+  "explanation": "Kaan par joon na rengna = kisi baat ka bilkul asar na hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U472",
+  "subject": "Urdu",
+  "q": "'Bahut khush hona' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Dil bhar aana",
+   "Dil toot jana",
+   "Dil jalna",
+   "Dil bagh bagh hona"
+  ],
+  "answer": 3,
+  "explanation": "Dil bagh bagh hona = bahut khush hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U473",
+  "subject": "Urdu",
+  "q": "'Bahut izzat dena' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Sar aankhon par bithana",
+   "Sar jhuka lena",
+   "Sar mundwa lena",
+   "Aankh dikhana"
+  ],
+  "answer": 0,
+  "explanation": "Sar aankhon par bithana = bahut izzat dena.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U474",
+  "subject": "Urdu",
+  "q": "'Shikast/nakami khana' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Munh dho lena",
+   "Munh bana lena",
+   "Munh ki khana",
+   "Munh chhupa lena"
+  ],
+  "answer": 2,
+  "explanation": "Munh ki khana = shikast ya nakami khana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U475",
+  "subject": "Urdu",
+  "q": "'Apni baat se phir jana' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Thook dena",
+   "Thook kar chaatna",
+   "Baat rakh lena",
+   "Baat pakar lena"
+  ],
+  "answer": 1,
+  "explanation": "Thook kar chaatna = apni baat se phir jana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U476",
+  "subject": "Urdu",
+  "q": "'Apni baat ka pakka hona, waada nibhana' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Baat ka dhani hona",
+   "Baat ghuma dena",
+   "Baat ka batangar banana",
+   "Baat taal dena"
+  ],
+  "answer": 0,
+  "explanation": "Baat ka dhani hona = apni baat ka pakka hona.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U477",
+  "subject": "Urdu",
+  "q": "'Be-izzat karna' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Pagri bandh lena",
+   "Topi pehenna",
+   "Pagri sambhalna",
+   "Pagri uchhalna"
+  ],
+  "answer": 3,
+  "explanation": "Pagri uchhalna = be-izzat karna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U478",
+  "subject": "Urdu",
+  "q": "'Mara mara phirna' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Mitti kha lena",
+   "Dhakke kha lena",
+   "Khaak chhan'na",
+   "Khaak ura dena"
+  ],
+  "answer": 2,
+  "explanation": "Khaak chhan'na = mara mara phirna.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U479",
+  "subject": "Urdu",
+  "q": "'Bhag jana' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Wapas aa jana",
+   "Nau do gyarah hona",
+   "Hisab chuka dena",
+   "Ginti karna"
+  ],
+  "answer": 1,
+  "explanation": "Nau do gyarah hona = bhag jana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U480",
+  "subject": "Urdu",
+  "q": "'Raunaq/shaan barhana' ke liye kaun sa muhavara hai?",
+  "options": [
+   "Chaandni raat",
+   "Chaar chaand lagana",
+   "Chaand par thookna",
+   "Chaand ko dekhna"
+  ],
+  "answer": 1,
+  "explanation": "Chaar chaand lagana = raunaq ya shaan barhana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U481",
+  "subject": "Urdu",
+  "q": "'Thori der ke liye' ke liye kaun sa muhavara durust hai?",
+  "options": [
+   "Do pahar",
+   "Aath pahar",
+   "Ghari do ghari",
+   "Ghari ghari"
+  ],
+  "answer": 2,
+  "explanation": "Ghari do ghari = thori der ke liye.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U482",
+  "subject": "Urdu",
+  "q": "'Aasteen ka saanp' ka durust jumla istemal kaun sa hai?",
+  "options": [
+   "Us ne aasteen mein saanp paal rakha hai.",
+   "Bagh mein aasteen ka saanp nikla.",
+   "Maine use dost samjha tha, magar wo to aasteen ka saanp nikla.",
+   "Wo aasteen ka saanp hai is liye zehreela hai."
+  ],
+  "answer": 2,
+  "explanation": "Pehle jumle mein muhavara apne asal ma'ani (dost ke bhes mein dushman) mein istemal hua hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U483",
+  "subject": "Urdu",
+  "q": "'Naak mein dam karna' ka durust istemal kaun se jumle mein hua hai?",
+  "options": [
+   "Naak mein dam karna sehat ke liye acha hai.",
+   "Bachon ne shor macha kar naak mein dam kar diya.",
+   "Us ne naak mein dam karke gehri saans li.",
+   "Doctor ne mareez ki naak mein dam kar diya."
+  ],
+  "answer": 1,
+  "explanation": "Doosre jumle mein muhavara apne asal ma'ani (bahut tang karna) mein aaya hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U484",
+  "subject": "Urdu",
+  "q": "Kaun se jumle mein 'paani paani hona' ka GHALAT istemal hua hai?",
+  "options": [
+   "Barish mein bheeg kar wo paani paani ho gaya.",
+   "Sab ke samne daant par wo paani paani ho gaya.",
+   "Ustaad ke sawal ka jawab na de saka to paani paani ho gaya.",
+   "Jhoot pakre jane par wo paani paani ho gaya."
+  ],
+  "answer": 0,
+  "explanation": "Teesre jumle mein lafzi ma'ani (bheegna) liya gaya hai jo ghalat hai; muhavare ka ma'ani sharminda hona hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U485",
+  "subject": "Urdu",
+  "q": "'Ghee ke diye jalana' ka durust istemal kaun se jumle mein hai?",
+  "options": [
+   "Bawarchi ne ghee ke diye jalaye.",
+   "Imtihan mein kamyabi par ghar mein ghee ke diye jalaye gaye.",
+   "Diye mein ghee daal kar jalaya gaya.",
+   "Ghee ke diye jalane se roshni hoti hai."
+  ],
+  "answer": 1,
+  "explanation": "Pehle jumle mein muhavara apne asal ma'ani (khushi manana) mein istemal hua hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U486",
+  "subject": "Urdu",
+  "q": "'Kaan bharna' ka durust istemal kaun se jumle mein hua hai?",
+  "options": [
+   "Us ne kaan mein tel daal kar kaan bhare.",
+   "Us ne malik ke kaan bhare, tabhi wo mujh se naraz hai.",
+   "Kaan bharna ek achi aadat hai.",
+   "Us ne malik ke kaan saaf kiye."
+  ],
+  "answer": 1,
+  "explanation": "Doosre jumle mein muhavara apne asal ma'ani (chugli karna) mein aaya hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U487",
+  "subject": "Urdu",
+  "q": "'Sar mundate hi ole parna' ka durust istemal kaun se jumle mein hai?",
+  "options": [
+   "Sar mundwana achi aadat hai.",
+   "Dukaan kholte hi nuqsan ho gaya; sar mundate hi ole par gaye.",
+   "Ole parne se fasal tabah ho gayi.",
+   "Naai ne sar munda to ole parne lage."
+  ],
+  "answer": 1,
+  "explanation": "Chauthe jumle mein muhavara apne asal ma'ani (kaam shuru hote hi mushkil) mein aaya hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U488",
+  "subject": "Urdu",
+  "q": "'Daal na galna' ka durust istemal kaun se jumle mein hua hai?",
+  "options": [
+   "Daal na gali to khana kharab ho gaya.",
+   "Daal gal jaye to khane mein maza aata hai.",
+   "Bawarchi ne daal achi tarah galai.",
+   "Us ne sifarish ki bahut koshish ki magar daal na gali."
+  ],
+  "answer": 3,
+  "explanation": "Pehle jumle mein muhavara apne asal ma'ani (tadbeer kaamyaab na hona) mein hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U489",
+  "subject": "Urdu",
+  "q": "'Chiraag tale andhera' ka durust istemal kaun se jumle mein hai?",
+  "options": [
+   "Chiraag ke neeche andhera hota hai.",
+   "Wo doosron ko ilm sikhata hai magar us ke apne bache jaahil hain; yehi to chiraag tale andhera hai.",
+   "Chiraag bujh gaya to andhera ho gaya.",
+   "Raat ko chiraag tale andhera tha."
+  ],
+  "answer": 1,
+  "explanation": "Chauthe jumle mein muhavara apne asal ma'ani (apne ghar mein kami) mein istemal hua hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U490",
+  "subject": "Urdu",
+  "q": "'Baat ka batangar banana' ka durust istemal kaun se jumle mein hua hai?",
+  "options": [
+   "Us ne baat sun kar khamoshi ikhtiyar ki.",
+   "Batangar khana mazedar hota hai.",
+   "Us ne baat khatm kar di.",
+   "Chhoti si baat thi, us ne baat ka batangar bana diya."
+  ],
+  "answer": 3,
+  "explanation": "Doosre jumle mein muhavara apne asal ma'ani mein aaya hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U491",
+  "subject": "Urdu",
+  "q": "Kaun se jumle mein 'nau do gyarah hona' ka GHALAT istemal hua hai?",
+  "options": [
+   "Shor sunte hi bache nau do gyarah ho gaye.",
+   "Ustaad ke aate hi shararti larke nau do gyarah ho gaye.",
+   "Us ne hisab ki copy mein nau do gyarah likhe.",
+   "Kutta dekh kar wo nau do gyarah ho gaya."
+  ],
+  "answer": 2,
+  "explanation": "Pehle jumle mein lafzi ginti li gayi hai jo ghalat hai; muhavare ka ma'ani bhag jana hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U492",
+  "subject": "Urdu",
+  "q": "'Thook kar chaatna' ka durust istemal kaun se jumle mein hai?",
+  "options": [
+   "Us ne jaldi se khana chaat liya.",
+   "Bacha thook kar chaat raha tha.",
+   "Pehle us ne waada kiya phir mukar gaya; thook kar chaat liya.",
+   "Us ne zameen par thooka."
+  ],
+  "answer": 2,
+  "explanation": "Chauthe jumle mein muhavara apne asal ma'ani (apni baat se phir jana) mein hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U493",
+  "subject": "Urdu",
+  "q": "'Aasteen ka saanp' ko 'aasteen ka naag' kehne ke baare mein durust baat kaun si hai?",
+  "options": [
+   "Muhavara apne lafzon mein bolna ghalat hai.",
+   "Naag aur saanp aik hi hain is liye koi farq nahi parta.",
+   "Aasteen ka naag kehna bhi durust hai.",
+   "Muhavare ke lafz nahi badle jate; 'aasteen ka saanp' hi durust hai, 'aasteen ka naag' ghalat hai."
+  ],
+  "answer": 3,
+  "explanation": "Muhavare ke lafz muqarrar hote hain; unhein badalna ghalat hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U494",
+  "subject": "Urdu",
+  "q": "'Zameen aasman ek karna' ka durust istemal kaun se jumle mein hua hai?",
+  "options": [
+   "Aasman se zameen par tez barish hui.",
+   "Us ne nokri ke liye zameen aasman ek kar diya.",
+   "Mazdoor ne khet mein zameen khodi.",
+   "Zameen aur aasman aapas mein mil gaye."
+  ],
+  "answer": 1,
+  "explanation": "Pehle jumle mein muhavara apne asal ma'ani (poori koshish karna) mein hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U495",
+  "subject": "Urdu",
+  "q": "Kaun se jumle mein 'munh ki khana' ka GHALAT istemal hua hai?",
+  "options": [
+   "Us ne jaldi jaldi munh ki khai aur school chala gaya.",
+   "Team ko final mein munh ki khana pari.",
+   "Election mein us ne munh ki khai.",
+   "Us ki saari tadbeerein nakam huin; us ne munh ki khai."
+  ],
+  "answer": 0,
+  "explanation": "Chauthe jumle mein lafzi ma'ani (khana khana) liya gaya hai jo ghalat hai; asal ma'ani shikast khana hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U496",
+  "subject": "Urdu",
+  "q": "'Dil bagh bagh hona' ka durust istemal kaun se jumle mein hai?",
+  "options": [
+   "Bete ki kamyabi ki khabar sun kar dil bagh bagh ho gaya.",
+   "Bahaar mein bagh mein phool khil gaye.",
+   "Wo shaam ko bagh mein sair ko gaya.",
+   "Us ka dil bagh mein betha hai."
+  ],
+  "answer": 0,
+  "explanation": "Pehle jumle mein muhavara apne asal ma'ani (bahut khush hona) mein istemal hua hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U497",
+  "subject": "Urdu",
+  "q": "'Dusron ko nasihat, khud mian fazihat' qawaid ki ro se kya hai?",
+  "options": [
+   "Kahawat (zarb-ul-masal)",
+   "Kinaya",
+   "Roz-marra",
+   "Muhavara"
+  ],
+  "answer": 0,
+  "explanation": "Ye poora jumla hai aur naseehat rakhta hai, is liye kahawat (zarb-ul-masal) hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U498",
+  "subject": "Urdu",
+  "q": "'Taswe bahana' qawaid ki ro se kya hai?",
+  "options": [
+   "Roz-marra",
+   "Kahawat",
+   "Tazmeen",
+   "Muhavara"
+  ],
+  "answer": 3,
+  "explanation": "Taswe bahana naqis tukra hai jo jumle ka hissa banta hai, is liye muhavara hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U499",
+  "subject": "Urdu",
+  "q": "'Oont ke munh mein zeera' qawaid ki ro se kya hai?",
+  "options": [
+   "Kahawat (zarb-ul-masal)",
+   "Muhavara",
+   "Isti'ara",
+   "Roz-marra"
+  ],
+  "answer": 0,
+  "explanation": "Ye mukammal ma'ani dene wala jumla hai, is liye kahawat hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U500",
+  "subject": "Urdu",
+  "q": "Muhavara aur kahawat mein bunyadi farq kya hai?",
+  "options": [
+   "Koi farq nahi, dono aik hain",
+   "Kahawat poora jumla hoti hai aur naseehat/tajurba rakhti hai, jabke muhavara naqis hota hai aur jumle mein istemal ka mohtaj hai",
+   "Muhavara poora jumla hota hai, kahawat naqis hoti hai",
+   "Dono roz-marra ke alfaaz hain"
+  ],
+  "answer": 1,
+  "explanation": "Kahawat mukammal jumla + naseehat; muhavara naqis tukra jo jumle ka hissa bane.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U501",
+  "subject": "Urdu",
+  "q": "Roz-marra se kya murad hai?",
+  "options": [
+   "Sher ka aik misra",
+   "Bol-chaal ka aam aur ma'roof tareeqa",
+   "Mushkil muhavaron ki fehrist",
+   "Purani kahawaton ka majmoo'a"
+  ],
+  "answer": 1,
+  "explanation": "Roz-marra = bol-chaal ka aam aur ma'roof tareeqa.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U502",
+  "subject": "Urdu",
+  "q": "Darj zeel mein KAHAWAT kaun si hai?",
+  "options": [
+   "Baal bika karna",
+   "Kaan bharna",
+   "Naak mein dam karna",
+   "Andher nagri chaupat raja"
+  ],
+  "answer": 3,
+  "explanation": "Andher nagri chaupat raja mukammal jumla hai, is liye kahawat hai; baqi teenon muhavare hain.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U503",
+  "subject": "Urdu",
+  "q": "Darj zeel mein MUHAVARA kaun sa hai?",
+  "options": [
+   "Chor ki darhi mein tinka",
+   "Dusron ko nasihat, khud mian fazihat",
+   "Ungli uthana",
+   "Billi ke khwab mein chhichhre"
+  ],
+  "answer": 2,
+  "explanation": "Ungli uthana naqis tukra hai (jumle ka hissa banta hai), is liye muhavara hai; baqi teenon kahawatein hain.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U504",
+  "subject": "Urdu",
+  "q": "Muhavara jumle mein istemal kiye baghair poora ma'ani kyun nahi deta?",
+  "options": [
+   "Kyunke us mein naseehat hoti hai",
+   "Kyunke wo roz-marra hai",
+   "Kyunke wo poora jumla hota hai",
+   "Kyunke wo naqis hota hai"
+  ],
+  "answer": 3,
+  "explanation": "Muhavara naqis hota hai, is liye jumle ka hissa ban kar hi poora ma'ani deta hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U505",
+  "subject": "Urdu",
+  "q": "'Dusron ko nasihat, khud mian fazihat' ka matlab kya hai?",
+  "options": [
+   "Naseehat ghor se sun'ni chahiye",
+   "Mian fazihat kisi shakhs ka naam hai",
+   "Doosron ko naseehat karna achi baat hai",
+   "Jo doosron ko naseehat kare magar khud us par amal na kare"
+  ],
+  "answer": 3,
+  "explanation": "Ye kahawat un logon par boli jati hai jo naseehat to karein magar khud amal na karein.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U506",
+  "subject": "Urdu",
+  "q": "'Billi ke khwab mein chhichhre' ki kahawat kab boli jati hai?",
+  "options": [
+   "Jab koi na-mumkin khwahish kare",
+   "Jab bura khwab aaye",
+   "Jab chhichhre mil jayein",
+   "Jab billi so rahi ho"
+  ],
+  "answer": 0,
+  "explanation": "Ye kahawat na-mumkin khwahish karne wale par boli jati hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U507",
+  "subject": "Urdu",
+  "q": "'Dhol ke andar pol' aur 'haathi ke daant khane ke aur dikhane ke aur' mein mushtarik nuqta kya hai?",
+  "options": [
+   "Dono khalis muhavare hain",
+   "Dono mein zahir aur batin ka farq bayan hua hai",
+   "Dono mein khushi ka izhar hai",
+   "Dono mein janwaron ka zikr hai"
+  ],
+  "answer": 1,
+  "explanation": "Dono mein zahir aur batin ke farq ka bayan hai.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U508",
+  "subject": "Urdu",
+  "q": "Kaun sa jora muhavara-ma'ani ke lihaz se DURUST hai?",
+  "options": [
+   "Kaan bharna - sun'na",
+   "Paani paani hona - tairna",
+   "Baal bika karna - nuqsan uthana",
+   "Taswe bahana - khush hona"
+  ],
+  "answer": 2,
+  "explanation": "Sirf aakhri jora durust hai; taswe bahana = jhoot-moot rona, kaan bharna = chugli, paani paani hona = sharminda.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U509",
+  "subject": "Urdu",
+  "q": "Kaun sa jora muhavara-ma'ani ke lihaz se GHALAT hai?",
+  "options": [
+   "Naak mein dam karna - tang karna",
+   "Daal na galna - tadbeer kaamyaab na hona",
+   "Aag babula hona - thanda hona",
+   "Zameen aasman ek karna - poori koshish karna"
+  ],
+  "answer": 2,
+  "explanation": "Aag babula hona = shadeed ghussa karna hota hai, thanda hona nahi; baqi teenon jore durust hain.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U510",
+  "subject": "Urdu",
+  "q": "PPSC mein muhavaron ke sawalat mein sab se aam trap kya hai?",
+  "options": [
+   "Bahut mushkil lafz istemal karna",
+   "Bahut lambe options dena",
+   "Literal (lafzi) ma'ani wala option dena jo aksar ghalat hota hai",
+   "Aasan sawal poochna"
+  ],
+  "answer": 2,
+  "explanation": "Lafzi ma'ani wala option aksar ghalat hota hai; hamesha mashhoor ma'ani chunein.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U511",
+  "subject": "Urdu",
+  "q": "'Bhag jana' ke ma'anon mein kaun sa muhavara istemal hota hai?",
+  "options": [
+   "Baat ka dhani hona",
+   "Nau do gyarah hona",
+   "Ghari do ghari",
+   "Sar aankhon par bithana"
+  ],
+  "answer": 1,
+  "explanation": "Nau do gyarah hona = bhag jana.",
+  "source": "PPSC Day 18"
+ },
+ {
+  "id": "U512",
+  "subject": "Urdu",
+  "q": "Tanha Tanha kis sha'ir ka pehla sha'iri majmua hai?",
+  "options": [
+   "Jaun Elia",
+   "Ahmed Faraz",
+   "Parveen Shakir",
+   "Faiz Ahmed Faiz"
+  ],
+  "answer": 1,
+  "explanation": "Tanha Tanha (1957) Ahmed Faraz ka pehla divan hai; Faiz ka koi is naam ka majmua nahi.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U513",
+  "subject": "Urdu",
+  "q": "Yadgar-e-Ghalib ke musannif kaun hain?",
+  "options": [
+   "Muhammad Hussain Azad",
+   "Altaf Hussain Hali",
+   "Deputy Nazir Ahmed",
+   "Shibli Nomani"
+  ],
+  "answer": 1,
+  "explanation": "Yadgar-e-Ghalib (1897) Hali ne Ghalib ki sawaneh ke taur par likhi.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U514",
+  "subject": "Urdu",
+  "q": "Begmat ke Aansu kis ne likhi?",
+  "options": [
+   "Zafar Ali Khan",
+   "Khwaja Hassan Nizami",
+   "Abul Kalam Azad",
+   "Hasrat Mohani"
+  ],
+  "answer": 1,
+  "explanation": "Begmat ke Aansu Khwaja Hassan Nizami ki mashhoor kitab hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U515",
+  "subject": "Urdu",
+  "q": "Shab-e-Rafta kis ki mashhoor nazm hai?",
+  "options": [
+   "Faiz Ahmed Faiz",
+   "Akhtar Shirani",
+   "Noon Meem Rashid",
+   "Majeed Amjad"
+  ],
+  "answer": 3,
+  "explanation": "Shab-e-Rafta Majeed Amjad ki mashhoor tareen nazmon mein se hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U516",
+  "subject": "Urdu",
+  "q": "2024 ke PPSC Assistant paper ke mutabiq Masnavi Murgh Nama kis ne likhi?",
+  "options": [
+   "Patras Bokhari",
+   "Ibn-e-Insha",
+   "Rasheed Ahmad Siddiqui",
+   "Mushtaq Ahmed Yusufi"
+  ],
+  "answer": 2,
+  "explanation": "24-11-2024 ke paper mein is ka jawab Rasheed Ahmad Siddiqui darj hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U517",
+  "subject": "Urdu",
+  "q": "Urdu ki pehli nasri kitab Sab Ras ke musannif kaun hain?",
+  "options": [
+   "Mullah Wajhi",
+   "Nusrati",
+   "Wali Dakkani",
+   "Fakhruddin Nizami"
+  ],
+  "answer": 0,
+  "explanation": "Sab Ras Mullah Wajhi ki dastan hai, Urdu nasr ki pehli kitab mani jati hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U518",
+  "subject": "Urdu",
+  "q": "Awadh Punch ke bani kaun thay?",
+  "options": [
+   "Ratan Nath Sarshar",
+   "Munshi Sajjad Hussain",
+   "Daya Narain Nigam",
+   "Abdul Halim Sharar"
+  ],
+  "answer": 1,
+  "explanation": "Awadh (Oudh) Punch 1877 mein Lucknow se Munshi Sajjad Hussain ne jari kiya.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U519",
+  "subject": "Urdu",
+  "q": "Risala Tahzeeb-ul-Akhlaq kis angrezi risalay ki tarz par jari hua?",
+  "options": [
+   "Rambler",
+   "Spectator",
+   "Tatler",
+   "Guardian"
+  ],
+  "answer": 2,
+  "explanation": "Sir Syed ne Tahzeeb-ul-Akhlaq (1870) angrezi risala Tatler ki tarz par nikala.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U520",
+  "subject": "Urdu",
+  "q": "Aangan novel ki musannifa kaun hain?",
+  "options": [
+   "Bano Qudsia",
+   "Khadija Mastoor",
+   "Hajira Masroor",
+   "Altaf Fatima"
+  ],
+  "answer": 1,
+  "explanation": "Aangan Khadija Mastoor ka mashhoor novel hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U521",
+  "subject": "Urdu",
+  "q": "Urdu ka pehla novel kaun sa mana jata hai?",
+  "options": [
+   "Mirat-ul-Uroos",
+   "Aag ka Darya",
+   "Fasana-e-Azad",
+   "Taubat-un-Nasooh"
+  ],
+  "answer": 0,
+  "explanation": "Mirat-ul-Uroos (1869) Urdu ka pehla novel mana jata hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U522",
+  "subject": "Urdu",
+  "q": "Taubat-un-Nasooh ke musannif kaun hain?",
+  "options": [
+   "Deputy Nazir Ahmed",
+   "Mirza Hadi Ruswa",
+   "Abdul Halim Sharar",
+   "Ratan Nath Sarshar"
+  ],
+  "answer": 0,
+  "explanation": "Taubat-un-Nasooh Deputy Nazir Ahmed ka doosra mashhoor novel hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U523",
+  "subject": "Urdu",
+  "q": "Fasana-e-Azad kis ne likha?",
+  "options": [
+   "Abdul Halim Sharar",
+   "Prem Chand",
+   "Deputy Nazir Ahmed",
+   "Ratan Nath Dhar Sarshar"
+  ],
+  "answer": 3,
+  "explanation": "Fasana-e-Azad Ratan Nath Dhar Sarshar ka talsalsul novel hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U524",
+  "subject": "Urdu",
+  "q": "Khuda ki Basti ke musannif kaun hain?",
+  "options": [
+   "Intizar Hussain",
+   "Abdullah Hussain",
+   "Mustansar Hussain Tarar",
+   "Shaukat Siddiqui"
+  ],
+  "answer": 3,
+  "explanation": "Khuda ki Basti Shaukat Siddiqui ka mashhoor novel hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U525",
+  "subject": "Urdu",
+  "q": "Raja Gidh ki musannifa kaun hain?",
+  "options": [
+   "Altaf Fatima",
+   "Khadija Mastoor",
+   "Qurratulain Hyder",
+   "Bano Qudsia"
+  ],
+  "answer": 3,
+  "explanation": "Raja Gidh Bano Qudsia ka falsafiyana novel hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U526",
+  "subject": "Urdu",
+  "q": "Musaddas-e-Hali ka asal naam kya hai?",
+  "options": [
+   "Muqaddama-e-Sher-o-Sha'iri",
+   "Yadgar-e-Ghalib",
+   "Hayat-e-Javed",
+   "Madd-o-Jazr-e-Islam"
+  ],
+  "answer": 3,
+  "explanation": "Musaddas-e-Hali ka asal unwan Madd-o-Jazr-e-Islam hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U527",
+  "subject": "Urdu",
+  "q": "Hayat-e-Javed kis ki sawaneh umri hai?",
+  "options": [
+   "Shibli Nomani",
+   "Altaf Hussain Hali",
+   "Mirza Ghalib",
+   "Sir Syed Ahmed Khan"
+  ],
+  "answer": 3,
+  "explanation": "Hayat-e-Javed mein Hali ne Sir Syed Ahmed Khan ki sawaneh likhi hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U528",
+  "subject": "Urdu",
+  "q": "Seerat-un-Nabi ki takmeel kis ne ki?",
+  "options": [
+   "Abul Kalam Azad",
+   "Muhammad Hussain Azad",
+   "Syed Sulaiman Nadvi",
+   "Shibli Nomani"
+  ],
+  "answer": 2,
+  "explanation": "Seerat-un-Nabi Shibli ne shuru ki, Syed Sulaiman Nadvi ne mukammal ki.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U529",
+  "subject": "Urdu",
+  "q": "Kashf-al-Mahjoob ke musannif kaun hain?",
+  "options": [
+   "Hazrat Ali Hajveri",
+   "Khwaja Moinuddin Chishti",
+   "Baba Fariduddin Ganjshakar",
+   "Sheikh Abdul Qadir Jilani"
+  ],
+  "answer": 0,
+  "explanation": "Kashf-al-Mahjoob Hazrat Ali Hajveri (Data Ganj Bakhsh) ki tasaneef hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U530",
+  "subject": "Urdu",
+  "q": "Al-Hilal akhbar kis ne jari kiya?",
+  "options": [
+   "Abul Kalam Azad",
+   "Muhammad Ali Jauhar",
+   "Zafar Ali Khan",
+   "Hasrat Mohani"
+  ],
+  "answer": 0,
+  "explanation": "Al-Hilal (1912) Abul Kalam Azad ne jari kiya tha.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U531",
+  "subject": "Urdu",
+  "q": "Kafan afsana kis ne likha?",
+  "options": [
+   "Ismat Chughtai",
+   "Krishan Chander",
+   "Saadat Hasan Manto",
+   "Prem Chand"
+  ],
+  "answer": 3,
+  "explanation": "Kafan Prem Chand ka mashhoor afsana hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U532",
+  "subject": "Urdu",
+  "q": "Godaan novel kis ne likha?",
+  "options": [
+   "Krishan Chander",
+   "Saadat Hasan Manto",
+   "Rajinder Singh Bedi",
+   "Prem Chand"
+  ],
+  "answer": 3,
+  "explanation": "Godaan Prem Chand ka aakhri aur mashhoor tareen novel hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U533",
+  "subject": "Urdu",
+  "q": "Anandi afsana kis ka hai?",
+  "options": [
+   "Ahmed Nadeem Qasmi",
+   "Ghulam Abbas",
+   "Prem Chand",
+   "Muhammad Hussain Azad"
+  ],
+  "answer": 1,
+  "explanation": "Anandi Ghulam Abbas ka mashhoor afsana hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U534",
+  "subject": "Urdu",
+  "q": "Qadam Rao Padam Rao ke musannif kaun hain?",
+  "options": [
+   "Wali Dakkani",
+   "Fakhruddin Nizami",
+   "Ram Chandar",
+   "Maulvi Noor Ahmed"
+  ],
+  "answer": 1,
+  "explanation": "Qadam Rao Padam Rao Fakhruddin Nizami ki qadeem masnavi hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U535",
+  "subject": "Urdu",
+  "q": "Faiz ke aakhri ayyam ka majmua kaun sa hai?",
+  "options": [
+   "Ghubar-e-Ayyam",
+   "Zindan Nama",
+   "Dast-e-Saba",
+   "Nuskha Haye Wafa"
+  ],
+  "answer": 0,
+  "explanation": "Ghubar-e-Ayyam Faiz ke aakhri ayyam ka majmua hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U536",
+  "subject": "Urdu",
+  "q": "Nuskha Haye Wafa kya hai?",
+  "options": [
+   "Faiz ki sawaneh umri",
+   "Faiz ka pehla majmua",
+   "Faiz ki mukammal sha'iri (kulliyat)",
+   "Faiz ke khutoot"
+  ],
+  "answer": 2,
+  "explanation": "Nuskha Haye Wafa Faiz ki mukammal sha'iri ka majmua (kulliyat) hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U537",
+  "subject": "Urdu",
+  "q": "Bang-e-Dara ki ishaat ka san kya hai?",
+  "options": [
+   "1935",
+   "1915",
+   "1924",
+   "1936"
+  ],
+  "answer": 2,
+  "explanation": "Bang-e-Dara 1924 mein shaya hua.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U538",
+  "subject": "Urdu",
+  "q": "Bal-e-Jibreel kab shaya hua?",
+  "options": [
+   "1938",
+   "1935",
+   "1930",
+   "1924"
+  ],
+  "answer": 1,
+  "explanation": "Bal-e-Jibreel 1935 mein shaya hua.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U539",
+  "subject": "Urdu",
+  "q": "Iqbal ki kaun si kitab mein un ka Urdu aur Farsi kalam akhatta chhapa hai?",
+  "options": [
+   "Bang-e-Dara",
+   "Zarb-e-Kaleem",
+   "Armaghan-e-Hijaz",
+   "Bal-e-Jibreel"
+  ],
+  "answer": 2,
+  "explanation": "Armaghan-e-Hijaz mein Iqbal ka Urdu aur Farsi kalam akhatta hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U540",
+  "subject": "Urdu",
+  "q": "Shikwa aur Jawab-e-Shikwa Iqbal ke kis majmue mein hain?",
+  "options": [
+   "Zarb-e-Kaleem",
+   "Bang-e-Dara",
+   "Armaghan-e-Hijaz",
+   "Bal-e-Jibreel"
+  ],
+  "answer": 1,
+  "explanation": "Shikwa aur Jawab-e-Shikwa Bang-e-Dara mein hain.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U541",
+  "subject": "Urdu",
+  "q": "Dard-e-Ashob kis ka sha'iri majmua hai?",
+  "options": [
+   "Faiz Ahmed Faiz",
+   "Ahmed Faraz",
+   "Nasir Kazmi",
+   "Munir Niazi"
+  ],
+  "answer": 1,
+  "explanation": "Dard-e-Ashob Ahmed Faraz ka doosra majmua hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U542",
+  "subject": "Urdu",
+  "q": "Dard-e-Ashob par Ahmed Faraz ko kaun sa award mila?",
+  "options": [
+   "Adamjee Literary Award",
+   "Sitara-e-Imtiaz",
+   "Nishan-e-Imtiaz",
+   "Hilal-e-Imtiaz"
+  ],
+  "answer": 0,
+  "explanation": "Dard-e-Ashob par Faraz ko Adamjee Literary Award mila.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U543",
+  "subject": "Urdu",
+  "q": "Shab Khoon kis ka sha'iri majmua hai?",
+  "options": [
+   "Faiz Ahmed Faiz",
+   "Ahmed Faraz",
+   "Parveen Shakir",
+   "Jaun Elia"
+  ],
+  "answer": 1,
+  "explanation": "Shab Khoon Ahmed Faraz ka sha'iri majmua hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U544",
+  "subject": "Urdu",
+  "q": "Khushbu kab shaya hua?",
+  "options": [
+   "1984",
+   "1980",
+   "1976",
+   "1970"
+  ],
+  "answer": 2,
+  "explanation": "Khushbu 1976 mein shaya hua.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U545",
+  "subject": "Urdu",
+  "q": "Sad-barg kis ka sha'iri majmua hai?",
+  "options": [
+   "Fahmida Riaz",
+   "Kishwar Naheed",
+   "Parveen Shakir",
+   "Ada Jafri"
+  ],
+  "answer": 2,
+  "explanation": "Sad-barg Parveen Shakir ka majmua hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U546",
+  "subject": "Urdu",
+  "q": "Gul-e-Naghma par Firaq Gorakhpuri ko kaun sa award mila?",
+  "options": [
+   "Sahitya Akademi Award",
+   "Adamjee Award",
+   "Jnanpith Award",
+   "Lenin Peace Prize"
+  ],
+  "answer": 0,
+  "explanation": "Gul-e-Naghma par Firaq ko Sahitya Akademi Award mila.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U547",
+  "subject": "Urdu",
+  "q": "Gul-e-Naghma kis ka sha'iri majmua hai?",
+  "options": [
+   "Faiz Ahmed Faiz",
+   "Akhtar Shirani",
+   "Firaq Gorakhpuri",
+   "Josh Malihabadi"
+  ],
+  "answer": 2,
+  "explanation": "Gul-e-Naghma Firaq Gorakhpuri ka mashhoor majmua hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U548",
+  "subject": "Urdu",
+  "q": "Zamindar akhbar kis ne jari kiya?",
+  "options": [
+   "Zafar Ali Khan",
+   "Muhammad Ali Jauhar",
+   "Abul Kalam Azad",
+   "Hasrat Mohani"
+  ],
+  "answer": 0,
+  "explanation": "Zamindar (1903, Lahore) Maulana Zafar Ali Khan ne jari kiya.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U549",
+  "subject": "Urdu",
+  "q": "Hamdard (Urdu) aur Comrade (English) akhbarat kis ne nikale?",
+  "options": [
+   "Hasrat Mohani",
+   "Maulana Muhammad Ali Jauhar",
+   "Shaukat Ali",
+   "Zafar Ali Khan"
+  ],
+  "answer": 1,
+  "explanation": "Hamdard aur Comrade Maulana Muhammad Ali Jauhar ne nikale.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U550",
+  "subject": "Urdu",
+  "q": "Urdu ki Aakhri Kitab kis ne likhi?",
+  "options": [
+   "Ibn-e-Insha",
+   "Mushtaq Ahmed Yusufi",
+   "Shafiq-ur-Rehman",
+   "Patras Bokhari"
+  ],
+  "answer": 0,
+  "explanation": "Urdu ki Aakhri Kitab Ibn-e-Insha ki mashhoor tanziya kitab hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U551",
+  "subject": "Urdu",
+  "q": "Chiragh Talay kis ka mazahiya majmua hai?",
+  "options": [
+   "Mushtaq Ahmed Yusufi",
+   "Shafiq-ur-Rehman",
+   "Rasheed Ahmad Siddiqui",
+   "Ibn-e-Insha"
+  ],
+  "answer": 0,
+  "explanation": "Chiragh Talay Mushtaq Ahmed Yusufi ka mazahiya majmua hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U552",
+  "subject": "Urdu",
+  "q": "Himaqatein kis ne likhin?",
+  "options": [
+   "Patras Bokhari",
+   "Ibn-e-Insha",
+   "Mushtaq Ahmed Yusufi",
+   "Shafiq-ur-Rehman"
+  ],
+  "answer": 3,
+  "explanation": "Himaqatein Shafiq-ur-Rehman ki mashhoor kitab hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U553",
+  "subject": "Urdu",
+  "q": "Patras ke Mazameen ke musannif kaun hain?",
+  "options": [
+   "Mirza Farhatullah Baig",
+   "Patras Bokhari",
+   "Rasheed Ahmad Siddiqui",
+   "Ibn-e-Insha"
+  ],
+  "answer": 1,
+  "explanation": "Patras ke Mazameen Patras Bokhari ke mazameen ka majmua hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U554",
+  "subject": "Urdu",
+  "q": "Mazamin-e-Rasheed kis ne likhe?",
+  "options": [
+   "Shafiq-ur-Rehman",
+   "Mushtaq Ahmed Yusufi",
+   "Rasheed Ahmad Siddiqui",
+   "Patras Bokhari"
+  ],
+  "answer": 2,
+  "explanation": "Mazamin-e-Rasheed Rasheed Ahmad Siddiqui ke mazameen hain.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U555",
+  "subject": "Urdu",
+  "q": "Ashufta Bayani Meri kis ki khud-nawisht hai?",
+  "options": [
+   "Qudratullah Shahab",
+   "Mumtaz Mufti",
+   "Josh Malihabadi",
+   "Rasheed Ahmad Siddiqui"
+  ],
+  "answer": 3,
+  "explanation": "Ashufta Bayani Meri Rasheed Ahmad Siddiqui ki khud-nawisht hai.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U556",
+  "subject": "Urdu",
+  "q": "Urdu sha'iri ke ilawa Ghalib ne kis sinf-e-nasr mein naam paida kiya?",
+  "options": [
+   "Khutoot",
+   "Afsana",
+   "Novel",
+   "Drama"
+  ],
+  "answer": 0,
+  "explanation": "Ghalib ne khutoot (khatoot) mein bhi aala maqam paya.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U557",
+  "subject": "Urdu",
+  "q": "Ghalib se pehle un ka takhallus kya tha?",
+  "options": [
+   "Asadullah",
+   "Asad",
+   "Ghalib",
+   "Mirza"
+  ],
+  "answer": 1,
+  "explanation": "Ghalib ka pehla takhallus Asad tha.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U558",
+  "subject": "Urdu",
+  "q": "Awadh Punch kahan se shaya hota tha?",
+  "options": [
+   "Lucknow",
+   "Hyderabad Deccan",
+   "Delhi",
+   "Lahore"
+  ],
+  "answer": 0,
+  "explanation": "Awadh Punch Lucknow se shaya hota tha.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U559",
+  "subject": "Urdu",
+  "q": "Tahzeeb-ul-Akhlaq kab jari hua?",
+  "options": [
+   "1877",
+   "1875",
+   "1870",
+   "1866"
+  ],
+  "answer": 2,
+  "explanation": "Tahzeeb-ul-Akhlaq 1870 mein jari hua.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U560",
+  "subject": "Urdu",
+  "q": "Umrao Jaan Ada kab shaya hua?",
+  "options": [
+   "1899",
+   "1879",
+   "1911",
+   "1905"
+  ],
+  "answer": 0,
+  "explanation": "Umrao Jaan Ada 1899 mein shaya hua.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U561",
+  "subject": "Urdu",
+  "q": "Ali Pur Ka Aeli kab shaya hua?",
+  "options": [
+   "1975",
+   "1969",
+   "1955",
+   "1961"
+  ],
+  "answer": 3,
+  "explanation": "Ali Pur Ka Aeli 1961 mein shaya hua.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U562",
+  "subject": "Urdu",
+  "q": "Aag ka Darya kab shaya hua?",
+  "options": [
+   "1969",
+   "1959",
+   "1955",
+   "1965"
+  ],
+  "answer": 1,
+  "explanation": "Aag ka Darya 1959 mein shaya hua.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U563",
+  "subject": "Urdu",
+  "q": "Mirat-ul-Uroos kab shaya hua?",
+  "options": [
+   "1877",
+   "1869",
+   "1857",
+   "1888"
+  ],
+  "answer": 1,
+  "explanation": "Mirat-ul-Uroos 1869 mein shaya hua.",
+  "source": "PPSC Day 19"
+ },
+ {
+  "id": "U564",
+  "subject": "Urdu",
+  "q": "Halqa-e-Arbab-e-Zauq ke qiyam ka bunyadi maqsad kya tha?",
+  "options": [
+   "Jadeed aur tajribati adab ki sarparasti",
+   "Siyasi inqilab barpa karna",
+   "Rawayati darbari adab ki hifazat",
+   "Mazhabi islah ki tehreek"
+  ],
+  "answer": 0,
+  "explanation": "Halqa 1939 mein jadeed (modernist) adab ki tehreek ke taur par qaim hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U565",
+  "subject": "Urdu",
+  "q": "Halqa-e-Arbab-e-Zauq kahan qaim hua?",
+  "options": [
+   "Lahore",
+   "Karachi",
+   "Delhi",
+   "Lucknow"
+  ],
+  "answer": 0,
+  "explanation": "Halqa 1939 mein Lahore mein qaim hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U566",
+  "subject": "Urdu",
+  "q": "Halqa-e-Arbab-e-Zauq ke baani mein kaun shaamil thay?",
+  "options": [
+   "Meeraji, N. M. Rashid aur Qayyum Nazar",
+   "Josh aur Faiz",
+   "Sir Syed aur Hali",
+   "Sirf Prem Chand"
+  ],
+  "answer": 0,
+  "explanation": "Meeraji, N. M. Rashid aur Qayyum Nazar Halqa ke baani thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U567",
+  "subject": "Urdu",
+  "q": "Halqa-e-Arbab-e-Zauq adab ke kis rujhan ki numaindagi karta tha?",
+  "options": [
+   "Taraqqi pasandi",
+   "Jadidiyat (modernism)",
+   "Romani tehrik",
+   "Dabistan-e-Lucknow"
+  ],
+  "answer": 1,
+  "explanation": "Halqa jadidiyat (modernist movement) ka numainda tha.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U568",
+  "subject": "Urdu",
+  "q": "Meeraji ka asal naam kya tha?",
+  "options": [
+   "Shabbir Hasan Khan",
+   "Nazar Muhammad Rashid",
+   "Syed Ahmad Shah",
+   "Sanaullah Dar"
+  ],
+  "answer": 3,
+  "explanation": "Meeraji ka asal naam Sanaullah Dar tha.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U569",
+  "subject": "Urdu",
+  "q": "Meeraji ka inteqal kab hua?",
+  "options": [
+   "1952",
+   "1946",
+   "1949",
+   "1942"
+  ],
+  "answer": 2,
+  "explanation": "Meeraji ka inteqal 1949 mein Lahore mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U570",
+  "subject": "Urdu",
+  "q": "N. M. Rashid ka pehla sha'iri majmua kaun sa hai?",
+  "options": [
+   "Iran mein Ajnabi",
+   "Gumaan",
+   "Mavra",
+   "La Insan"
+  ],
+  "answer": 2,
+  "explanation": "Mavra (1941) N. M. Rashid ka pehla majmua hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U571",
+  "subject": "Urdu",
+  "q": "Mavra kab shaya hua?",
+  "options": [
+   "1952",
+   "1941",
+   "1947",
+   "1936"
+  ],
+  "answer": 1,
+  "explanation": "Mavra 1941 mein shaya hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U572",
+  "subject": "Urdu",
+  "q": "Urdu mein aazaad nazm ke baani ke taur par kis ka naam liya jata hai?",
+  "options": [
+   "N. M. Rashid",
+   "Faiz Ahmed Faiz",
+   "Majeed Amjad",
+   "Josh Malihabadi"
+  ],
+  "answer": 0,
+  "explanation": "N. M. Rashid ne Mavra mein aazaad nazm ka aaghaz kiya.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U573",
+  "subject": "Urdu",
+  "q": "Halqa-e-Arbab-e-Zauq ne kis tehreek se apni alag pehchan banayi?",
+  "options": [
+   "Sir Syed tehrik",
+   "Ali Garh tehrik",
+   "Khilafat tehrik",
+   "Taraqqi Pasand Tehrik"
+  ],
+  "answer": 3,
+  "explanation": "Halqa ne Taraqqi Pasand Tehrik ke samaji rujhan ke muqable mein fanni tajribay ko ahmiyat di.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U574",
+  "subject": "Urdu",
+  "q": "Taraqqi Pasand Musannifeen ki pehli conference (1936) mein sadar aur secretary kaun thay?",
+  "options": [
+   "Faiz aur Ahmed Ali",
+   "Krishan Chander aur Ismat Chughtai",
+   "Sajjad Zaheer aur Prem Chand",
+   "Prem Chand aur Sajjad Zaheer"
+  ],
+  "answer": 3,
+  "explanation": "Pehle sadar Prem Chand aur pehle secretary Sajjad Zaheer thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U575",
+  "subject": "Urdu",
+  "q": "1932 mein shaya hone wali kis kitab ne Taraqqi Pasand Tehrik ki bunyad rakhi?",
+  "options": [
+   "Naqsh-e-Faryadi",
+   "Angaray",
+   "Shola-o-Shabnam",
+   "Mavra"
+  ],
+  "answer": 1,
+  "explanation": "Angaray (1932) ne taraqqi pasand adab ki bunyad rakhi.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U576",
+  "subject": "Urdu",
+  "q": "Prem Chand ne 1936 ke sadarti khutbe mein adab ka maqsad kya bataya?",
+  "options": [
+   "Adab awam ki khidmat aur samaji tabdeeli ke liye",
+   "Adab sirf tafreeh ke liye",
+   "Adab darbari tareef ke liye",
+   "Adab baraye adab"
+  ],
+  "answer": 0,
+  "explanation": "Prem Chand ke mutabiq adab ko awam ki khidmat aur samaji tabdeeli karni chahiye.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U577",
+  "subject": "Urdu",
+  "q": "Taraqqi Pasand Tehrik se wabasta numayan khaatoon musannifa kaun thin?",
+  "options": [
+   "Altaf Fatima",
+   "Hajira Masroor",
+   "Bano Qudsia",
+   "Rasheed Jahan"
+  ],
+  "answer": 3,
+  "explanation": "Rasheed Jahan Angaray ki musannifa aur taraqqi pasand tehreek ki numainda thin.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U578",
+  "subject": "Urdu",
+  "q": "Angaray kab shaya hua?",
+  "options": [
+   "1936",
+   "1928",
+   "1932",
+   "1940"
+  ],
+  "answer": 2,
+  "explanation": "Angaray 1932 mein shaya hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U579",
+  "subject": "Urdu",
+  "q": "Angaray mein kitne afsane shaamil thay?",
+  "options": [
+   "10",
+   "9",
+   "12",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "Angaray mein 10 afsane thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U580",
+  "subject": "Urdu",
+  "q": "Angaray ke musannifeen mein kaun shaamil NAHIN tha?",
+  "options": [
+   "Sajjad Zaheer",
+   "Rasheed Jahan",
+   "Ahmed Ali",
+   "Ismat Chughtai"
+  ],
+  "answer": 3,
+  "explanation": "Angaray ke 4 musannif Sajjad Zaheer, Ahmed Ali, Rasheed Jahan aur Mahmuduzzafar thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U581",
+  "subject": "Urdu",
+  "q": "Angaray ki ishaat ke baad British hukumat ne kya kiya?",
+  "options": [
+   "Sirf tax lagaya",
+   "Koi pabandi nahi lagayi",
+   "Musannifeen ko inaam diya",
+   "Kitab zabt kar ke ban kar di"
+  ],
+  "answer": 3,
+  "explanation": "British hukumat ne Angaray zabt kar ke us par pabandi laga di.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U582",
+  "subject": "Urdu",
+  "q": "Rasheed Jahan ka talluq adab ki kis tehreek se tha?",
+  "options": [
+   "Taraqqi Pasand Tehrik",
+   "Dabistan-e-Dilli",
+   "Halqa-e-Arbab-e-Zauq",
+   "Romani tehrik"
+  ],
+  "answer": 0,
+  "explanation": "Rasheed Jahan taraqqi pasand musannifa thin.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U583",
+  "subject": "Urdu",
+  "q": "Taraqqi Pasand Tehrik ke nazdeek adab ka maqsad kya tha?",
+  "options": [
+   "Sirf tafreeh",
+   "Darbari madh-sara'i",
+   "Mazhabi tableegh",
+   "Samaji tabdeeli aur awam ki khidmat"
+  ],
+  "answer": 3,
+  "explanation": "Taraqqi pasand adab ka maqsad samaji tabdeeli tha.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U584",
+  "subject": "Urdu",
+  "q": "Faiz Ahmed Faiz adab ki kis tehreek se wabasta rahe?",
+  "options": [
+   "Dabistan-e-Lucknow",
+   "Halqa-e-Arbab-e-Zauq",
+   "Taraqqi Pasand Tehrik",
+   "Romani tehrik"
+  ],
+  "answer": 2,
+  "explanation": "Faiz taraqqi pasand sha'ir thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U585",
+  "subject": "Urdu",
+  "q": "Angaray par pabandi ki bunyadi wajah kya batayi gayi?",
+  "options": [
+   "Ghalat tareekh",
+   "Plagiarism",
+   "Kamzor zaban",
+   "Akhlaq soz aur baghawat aamez mawaad"
+  ],
+  "answer": 3,
+  "explanation": "Angaray ko akhlaq soz aur baghawat aamez qarar de kar ban kiya gaya.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U586",
+  "subject": "Urdu",
+  "q": "Twilight in Delhi kis ka English novel hai?",
+  "options": [
+   "Mulk Raj Anand",
+   "Ahmed Ali",
+   "R. K. Narayan",
+   "Khushwant Singh"
+  ],
+  "answer": 1,
+  "explanation": "Twilight in Delhi Ahmed Ali (Angaray ke musannif) ka novel hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U587",
+  "subject": "Urdu",
+  "q": "Ahmed Ali ka talluq adab ki kis tehreek se tha?",
+  "options": [
+   "Taraqqi Pasand Tehrik",
+   "Halqa-e-Arbab-e-Zauq",
+   "Romani tehrik",
+   "Kisi tehreek se nahi"
+  ],
+  "answer": 0,
+  "explanation": "Ahmed Ali Angaray ke musannif aur taraqqi pasand adeeb thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U588",
+  "subject": "Urdu",
+  "q": "Faiz Ahmed Faiz ki paidaish kab hui?",
+  "options": [
+   "1907",
+   "1911",
+   "1915",
+   "1920"
+  ],
+  "answer": 1,
+  "explanation": "Faiz 13 February 1911 ko paida hue.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U589",
+  "subject": "Urdu",
+  "q": "Faiz Ahmed Faiz ki paidaish kahan hui?",
+  "options": [
+   "Sialkot",
+   "Amritsar",
+   "Delhi",
+   "Lahore"
+  ],
+  "answer": 0,
+  "explanation": "Faiz Sialkot mein paida hue.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U590",
+  "subject": "Urdu",
+  "q": "Faiz Ahmed Faiz ka inteqal kab hua?",
+  "options": [
+   "1986",
+   "1982",
+   "1984",
+   "1980"
+  ],
+  "answer": 2,
+  "explanation": "Faiz ka inteqal 20 November 1984 ko hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U591",
+  "subject": "Urdu",
+  "q": "Naqsh-e-Faryadi kab shaya hua?",
+  "options": [
+   "1952",
+   "1946",
+   "1941",
+   "1936"
+  ],
+  "answer": 2,
+  "explanation": "Naqsh-e-Faryadi (Faiz ka pehla majmua) 1941 mein shaya hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U592",
+  "subject": "Urdu",
+  "q": "Dast-e-Saba Faiz ne kin halaat mein likhi?",
+  "options": [
+   "Qaid ke dauran",
+   "Beirut mein qiyam ke dauran",
+   "Safar ke dauran",
+   "London mein qiyam ke dauran"
+  ],
+  "answer": 0,
+  "explanation": "Dast-e-Saba Rawalpindi Conspiracy Case mein qaid ke dauran likhi gayi.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U593",
+  "subject": "Urdu",
+  "q": "Zindan Nama kab shaya hua?",
+  "options": [
+   "1962",
+   "1956",
+   "1952",
+   "1984"
+  ],
+  "answer": 1,
+  "explanation": "Zindan Nama 1956 mein shaya hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U594",
+  "subject": "Urdu",
+  "q": "Faiz ka aakhri sha'iri majmua kis san mein shaya hua?",
+  "options": [
+   "1986",
+   "1978",
+   "1984",
+   "1981"
+  ],
+  "answer": 2,
+  "explanation": "Ghubar-e-Ayyam (aakhri majmua) 1984 mein shaya hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U595",
+  "subject": "Urdu",
+  "q": "Faiz ko Lenin Peace Prize kab mila?",
+  "options": [
+   "1958",
+   "1965",
+   "1962",
+   "1960"
+  ],
+  "answer": 2,
+  "explanation": "Faiz ko 1962 mein Lenin Peace Prize mila.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U596",
+  "subject": "Urdu",
+  "q": "Rawalpindi Conspiracy Case mein Faiz kab giraftar hue?",
+  "options": [
+   "1949",
+   "1953",
+   "1951",
+   "1955"
+  ],
+  "answer": 2,
+  "explanation": "Faiz 1951 mein Rawalpindi Conspiracy Case mein giraftar hue.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U597",
+  "subject": "Urdu",
+  "q": "Faiz Rawalpindi Conspiracy Case se kab riha hue?",
+  "options": [
+   "1960",
+   "1957",
+   "1955",
+   "1953"
+  ],
+  "answer": 2,
+  "explanation": "Faiz 1955 mein riha hue.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U598",
+  "subject": "Urdu",
+  "q": "Faiz kin akhbarat ke editor rahe?",
+  "options": [
+   "Dawn",
+   "Pakistan Times",
+   "Jang",
+   "Nawa-i-Waqt"
+  ],
+  "answer": 1,
+  "explanation": "Faiz Pakistan Times ke editor rahe.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U599",
+  "subject": "Urdu",
+  "q": "Mujh se pehli si muhabbat mere mehboob na maang kis ki nazm hai?",
+  "options": [
+   "Ahmed Faraz",
+   "Faiz Ahmed Faiz",
+   "N. M. Rashid",
+   "Sahir Ludhianvi"
+  ],
+  "answer": 1,
+  "explanation": "Ye Faiz ki mashhoor tareen nazm hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U600",
+  "subject": "Urdu",
+  "q": "Faiz ki nazm Hum Dekhenge ka asal unwaan kya hai?",
+  "options": [
+   "Zindan Nama",
+   "Wa yabqa wajhu rabbika",
+   "Subh-e-Azadi",
+   "Dast-e-Saba"
+  ],
+  "answer": 1,
+  "explanation": "Hum Dekhenge ka asal unwaan Qurani ayat Wa yabqa wajhu rabbika hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U601",
+  "subject": "Urdu",
+  "q": "Subh-e-Azadi nazm kis ne aur kis mauqe par likhi?",
+  "options": [
+   "Josh ne 1947 mein",
+   "Iqbal ne 1930 mein",
+   "Faiz ne 14 August 1947 par",
+   "Hali ne 1879 mein"
+  ],
+  "answer": 2,
+  "explanation": "Subh-e-Azadi Faiz ne 14 August 1947 par likhi.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U602",
+  "subject": "Urdu",
+  "q": "Dast-e-Saba kab shaya hui?",
+  "options": [
+   "1952",
+   "1960",
+   "1948",
+   "1956"
+  ],
+  "answer": 0,
+  "explanation": "Dast-e-Saba 1952 mein shaya hui.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U603",
+  "subject": "Urdu",
+  "q": "Mujh se pehli si muhabbat Faiz ke kis majmue mein shaamil hai?",
+  "options": [
+   "Dast-e-Saba",
+   "Ghubar-e-Ayyam",
+   "Zindan Nama",
+   "Naqsh-e-Faryadi"
+  ],
+  "answer": 3,
+  "explanation": "Ye nazm Naqsh-e-Faryadi mein shaamil hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U604",
+  "subject": "Urdu",
+  "q": "Faiz ka inteqal kis shehr mein hua?",
+  "options": [
+   "Karachi",
+   "Islamabad",
+   "Sialkot",
+   "Lahore"
+  ],
+  "answer": 3,
+  "explanation": "Faiz ka inteqal Lahore mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U605",
+  "subject": "Urdu",
+  "q": "Saba ke lughvi ma'ani kya hain?",
+  "options": [
+   "Subah ki hawa",
+   "Din ka ujala",
+   "Raat ka andhera",
+   "Shaam ki hawa"
+  ],
+  "answer": 0,
+  "explanation": "Saba subah ki thandi hawa ko kehte hain.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U606",
+  "subject": "Urdu",
+  "q": "Zindan Nama ka matlab kya hai?",
+  "options": [
+   "Safar nama",
+   "Jang nama",
+   "Qaid-khane ki yaadein",
+   "Azadi ka elaan"
+  ],
+  "answer": 2,
+  "explanation": "Zindan qaid-khane ko kehte hain.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U607",
+  "subject": "Urdu",
+  "q": "Lenin Peace Prize hasil karne wale Pakistani sha'ir kaun hain?",
+  "options": [
+   "Faiz Ahmed Faiz",
+   "Ahmad Faraz",
+   "Josh Malihabadi",
+   "Allama Iqbal"
+  ],
+  "answer": 0,
+  "explanation": "Faiz ko 1962 mein Lenin Peace Prize mila.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U608",
+  "subject": "Urdu",
+  "q": "Faiz ke kalam ka markazi mauzoo kya hai?",
+  "options": [
+   "Mazhabi wa'z",
+   "Sirf husn-o-ishq",
+   "Darbari madh",
+   "Ishq, inqilab aur insani azadi"
+  ],
+  "answer": 3,
+  "explanation": "Faiz ke han ishq aur inqilab aik doosre se jurre hain.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U609",
+  "subject": "Urdu",
+  "q": "Dast-e-Saba ke baad Faiz ka kaun sa majmua shaya hua?",
+  "options": [
+   "Ghubar-e-Ayyam",
+   "Naqsh-e-Faryadi",
+   "Mere Dil Mere Musafir",
+   "Zindan Nama"
+  ],
+  "answer": 3,
+  "explanation": "Dast-e-Saba (1952) ke baad Zindan Nama (1956) aaya.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U610",
+  "subject": "Urdu",
+  "q": "Meeraji ka inteqal kis shehr mein hua?",
+  "options": [
+   "Bombay",
+   "Karachi",
+   "Delhi",
+   "Lahore"
+  ],
+  "answer": 3,
+  "explanation": "Meeraji ka inteqal 1949 mein Lahore mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U611",
+  "subject": "Urdu",
+  "q": "Meeraji ki sha'iri ka khaas rujhan kya tha?",
+  "options": [
+   "Darbari qaseeda",
+   "Marsiya goi",
+   "Jadeed tajribati sha'iri",
+   "Hamd-o-naat"
+  ],
+  "answer": 2,
+  "explanation": "Meeraji jadeed tajribati sha'iri ke alambardar thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U612",
+  "subject": "Urdu",
+  "q": "N. M. Rashid ka poora naam kya tha?",
+  "options": [
+   "Noor Muhammad Rashid",
+   "Nazar Muhammad Rashid",
+   "Nasir Mahmood Rashid",
+   "Nazeer Muhammad Rashid"
+  ],
+  "answer": 1,
+  "explanation": "N. M. Rashid ka poora naam Nazar Muhammad Rashid tha.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U613",
+  "subject": "Urdu",
+  "q": "N. M. Rashid ne aazaad nazm ka tajurba sab se pehle kis majmue mein kiya?",
+  "options": [
+   "Iran mein Ajnabi",
+   "La Insan",
+   "Mavra",
+   "Gumaan"
+  ],
+  "answer": 2,
+  "explanation": "Mavra (1941) mein aazaad nazm ka pehla tajurba hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U614",
+  "subject": "Urdu",
+  "q": "Mavra ke ma'ani kya hain?",
+  "options": [
+   "Us paar / beyond",
+   "Warid hona",
+   "Andhera",
+   "Roshni"
+  ],
+  "answer": 0,
+  "explanation": "Mavra ke ma'ani us paar ya beyond hain.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U615",
+  "subject": "Urdu",
+  "q": "Josh Malihabadi ko kis laqab se yaad kiya jata hai?",
+  "options": [
+   "Sha'ir-e-Mashriq",
+   "Khuda-e-Sukhan",
+   "Sha'ir-e-Inqilab",
+   "Baba-e-Urdu"
+  ],
+  "answer": 2,
+  "explanation": "Josh ko Sha'ir-e-Inqilab kaha jata hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U616",
+  "subject": "Urdu",
+  "q": "Josh Malihabadi ka inteqal kab hua?",
+  "options": [
+   "1982",
+   "1980",
+   "1984",
+   "1978"
+  ],
+  "answer": 0,
+  "explanation": "Josh ka inteqal 1982 mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U617",
+  "subject": "Urdu",
+  "q": "Shola-o-Shabnam kis ka sha'iri majmua hai?",
+  "options": [
+   "Josh Malihabadi",
+   "Ahmad Faraz",
+   "Faiz Ahmed Faiz",
+   "Allama Iqbal"
+  ],
+  "answer": 0,
+  "explanation": "Shola-o-Shabnam Josh Malihabadi ka majmua hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U618",
+  "subject": "Urdu",
+  "q": "Josh Malihabadi ka abai shehr kaun sa tha?",
+  "options": [
+   "Delhi",
+   "Hyderabad Deccan",
+   "Lahore",
+   "Malihabad (Lucknow)"
+  ],
+  "answer": 3,
+  "explanation": "Josh Malihabad (Lucknow) mein paida hue.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U619",
+  "subject": "Urdu",
+  "q": "Hussain aur Inqilab kis ki mashhoor nazm hai?",
+  "options": [
+   "Mir Anees",
+   "Mir Dabeer",
+   "Mohsin Naqvi",
+   "Josh Malihabadi"
+  ],
+  "answer": 3,
+  "explanation": "Hussain aur Inqilab Josh ki mashhoor nazm hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U620",
+  "subject": "Urdu",
+  "q": "Majeed Amjad ka inteqal kab hua?",
+  "options": [
+   "1976",
+   "1972",
+   "1974",
+   "1970"
+  ],
+  "answer": 2,
+  "explanation": "Majeed Amjad ka inteqal 1974 mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U621",
+  "subject": "Urdu",
+  "q": "Majeed Amjad ka abai shehr kaun sa tha?",
+  "options": [
+   "Lahore",
+   "Sialkot",
+   "Multan",
+   "Jhang"
+  ],
+  "answer": 3,
+  "explanation": "Majeed Amjad Jhang mein paida hue.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U622",
+  "subject": "Urdu",
+  "q": "Majeed Amjad ka mashhoor diwan kaun sa hai?",
+  "options": [
+   "Shab-e-Rafta Ke Baad",
+   "Tanha Tanha",
+   "Dast-e-Saba",
+   "Mavra"
+  ],
+  "answer": 0,
+  "explanation": "Shab-e-Rafta Ke Baad Majeed Amjad ka diwan hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U623",
+  "subject": "Urdu",
+  "q": "Majeed Amjad zyada tar kis sinf mein likhte thay?",
+  "options": [
+   "Qaseeda",
+   "Ghazal",
+   "Marsiya",
+   "Nazm"
+  ],
+  "answer": 3,
+  "explanation": "Majeed Amjad nazm ke sha'ir thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U624",
+  "subject": "Urdu",
+  "q": "Ahmad Faraz ka inteqal kab hua?",
+  "options": [
+   "2004",
+   "2008",
+   "2010",
+   "2006"
+  ],
+  "answer": 1,
+  "explanation": "Ahmad Faraz ka inteqal 2008 mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U625",
+  "subject": "Urdu",
+  "q": "Ranjish hi sahi dil hi dukhane ke liye aa kis ki ghazal hai?",
+  "options": [
+   "Mirza Ghalib",
+   "Ahmad Faraz",
+   "Jaun Elia",
+   "Faiz Ahmed Faiz"
+  ],
+  "answer": 1,
+  "explanation": "Ye Ahmad Faraz ki mashhoor ghazal hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U626",
+  "subject": "Urdu",
+  "q": "Ahmad Faraz ka asal naam kya tha?",
+  "options": [
+   "Ahmed Ali",
+   "Syed Faraz Ali",
+   "Syed Ahmad Shah",
+   "Faraz Ahmed"
+  ],
+  "answer": 2,
+  "explanation": "Ahmad Faraz ka asal naam Syed Ahmad Shah tha.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U627",
+  "subject": "Urdu",
+  "q": "Ahmad Faraz ki sha'iri ka markazi rujhan kya hai?",
+  "options": [
+   "Darbari madh",
+   "Mazhabi wa'z",
+   "Ishq-o-inqilab",
+   "Mizah"
+  ],
+  "answer": 2,
+  "explanation": "Faraz ki sha'iri mein ishq aur inqilab dono hain.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U628",
+  "subject": "Urdu",
+  "q": "Parveen Shakir ka inteqal kab hua?",
+  "options": [
+   "1994",
+   "1996",
+   "1990",
+   "1992"
+  ],
+  "answer": 0,
+  "explanation": "Parveen Shakir ka inteqal 1994 mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U629",
+  "subject": "Urdu",
+  "q": "Parveen Shakir ka inteqal kahan hua?",
+  "options": [
+   "Islamabad",
+   "Karachi",
+   "Lahore",
+   "Rawalpindi"
+  ],
+  "answer": 0,
+  "explanation": "Parveen Shakir ka inteqal Islamabad mein road accident mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U630",
+  "subject": "Urdu",
+  "q": "Parveen Shakir kis peshe se wabasta thin?",
+  "options": [
+   "Teaching",
+   "Journalism",
+   "Banking",
+   "Civil service (CSP)"
+  ],
+  "answer": 3,
+  "explanation": "Parveen Shakir CSP officer thin.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U631",
+  "subject": "Urdu",
+  "q": "Parveen Shakir ki sha'iri ka markazi mauzoo kya hai?",
+  "options": [
+   "Mazhabi wa'z",
+   "Niswani jazbaat aur ishq",
+   "Jang-o-jadal",
+   "Siyasi tanqeed"
+  ],
+  "answer": 1,
+  "explanation": "Parveen Shakir niswani jazbaat ki sha'ira thin.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U632",
+  "subject": "Urdu",
+  "q": "Hamesha der kar deta hun main kis ki mashhoor nazm hai?",
+  "options": [
+   "Ahmad Faraz",
+   "Faiz Ahmed Faiz",
+   "Nasir Kazmi",
+   "Munir Niazi"
+  ],
+  "answer": 3,
+  "explanation": "Ye Munir Niazi ki mashhoor nazm hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U633",
+  "subject": "Urdu",
+  "q": "Munir Niazi ka inteqal kab hua?",
+  "options": [
+   "2008",
+   "2004",
+   "2006",
+   "2002"
+  ],
+  "answer": 2,
+  "explanation": "Munir Niazi ka inteqal 2006 mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U634",
+  "subject": "Urdu",
+  "q": "Munir Niazi ka abai ilaqa kaun sa tha?",
+  "options": [
+   "Lahore",
+   "Peshawar",
+   "Multan",
+   "Hoshiarpur (East Punjab)"
+  ],
+  "answer": 3,
+  "explanation": "Munir Niazi Hoshiarpur (East Punjab) mein paida hue.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U635",
+  "subject": "Urdu",
+  "q": "Jaun Elia ka asal naam kya tha?",
+  "options": [
+   "Jaun Muhammad",
+   "Syed Elia Jaun",
+   "Asghar Ali Naqvi",
+   "Syed Sibt-e-Asghar Naqvi"
+  ],
+  "answer": 3,
+  "explanation": "Jaun Elia ka asal naam Syed Sibt-e-Asghar Naqvi tha.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U636",
+  "subject": "Urdu",
+  "q": "Jaun Elia ka inteqal kab hua?",
+  "options": [
+   "1998",
+   "2002",
+   "2004",
+   "2000"
+  ],
+  "answer": 1,
+  "explanation": "Jaun Elia ka inteqal 2002 mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U637",
+  "subject": "Urdu",
+  "q": "Jaun Elia ka pehla sha'iri majmua kaun sa hai?",
+  "options": [
+   "Ya'ni",
+   "Lekin",
+   "Shayad",
+   "Gumaan"
+  ],
+  "answer": 2,
+  "explanation": "Shayad (1991) Jaun Elia ka pehla majmua hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U638",
+  "subject": "Urdu",
+  "q": "Jaun Elia ne apni zindagi ka bara hissa kahan guzara?",
+  "options": [
+   "Lahore",
+   "London",
+   "Karachi",
+   "Delhi"
+  ],
+  "answer": 2,
+  "explanation": "Jaun Elia Karachi mein muqeem thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U639",
+  "subject": "Urdu",
+  "q": "Risala Funoon ke mudeer kaun thay?",
+  "options": [
+   "Josh Malihabadi",
+   "Ibn-e-Insha",
+   "Faiz Ahmed Faiz",
+   "Ahmed Nadeem Qasmi"
+  ],
+  "answer": 3,
+  "explanation": "Ahmed Nadeem Qasmi Funoon ke mudeer thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U640",
+  "subject": "Urdu",
+  "q": "Ahmed Nadeem Qasmi ka inteqal kab hua?",
+  "options": [
+   "2008",
+   "2006",
+   "2002",
+   "2004"
+  ],
+  "answer": 1,
+  "explanation": "Ahmed Nadeem Qasmi ka inteqal 2006 mein hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U641",
+  "subject": "Urdu",
+  "q": "Ahmed Nadeem Qasmi ki paidaish kahan hui?",
+  "options": [
+   "Lahore",
+   "Anga (Khushab)",
+   "Sialkot",
+   "Multan"
+  ],
+  "answer": 1,
+  "explanation": "Qasmi 1916 mein Anga (Khushab) mein paida hue.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U642",
+  "subject": "Urdu",
+  "q": "Ahmed Nadeem Qasmi kin sho'bon mein mashhoor hain?",
+  "options": [
+   "Sirf drama",
+   "Sirf sha'iri",
+   "Afsana nigari aur sahafat dono",
+   "Sirf tanqeed"
+  ],
+  "answer": 2,
+  "explanation": "Qasmi afsana nigar aur sahafi dono thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U643",
+  "subject": "Urdu",
+  "q": "Rahman Baba ka asal naam kya tha?",
+  "options": [
+   "Abdul Rahman Mohmand",
+   "Rahman Gul",
+   "Rehman Khan",
+   "Abdul Rahim Khan"
+  ],
+  "answer": 0,
+  "explanation": "Rahman Baba ka asal naam Abdul Rahman Mohmand tha.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U644",
+  "subject": "Urdu",
+  "q": "Rahman Baba kis zaban ke sufi sha'ir thay?",
+  "options": [
+   "Punjabi",
+   "Pashto",
+   "Farsi",
+   "Urdu"
+  ],
+  "answer": 1,
+  "explanation": "Rahman Baba Pashto ke sufi sha'ir thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U645",
+  "subject": "Urdu",
+  "q": "Rahman Baba ki sha'iri ka markazi mauzoo kya hai?",
+  "options": [
+   "Jang-o-jadal",
+   "Ishq-e-majazi",
+   "Tasawwuf aur ishq-e-haqiqi",
+   "Darbari madh"
+  ],
+  "answer": 2,
+  "explanation": "Rahman Baba tasawwuf ke sha'ir thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U646",
+  "subject": "Urdu",
+  "q": "Rahman Baba ka mazar kahan hai?",
+  "options": [
+   "Delhi",
+   "Lahore",
+   "Peshawar",
+   "Kandahar"
+  ],
+  "answer": 2,
+  "explanation": "Rahman Baba ka mazar Peshawar mein hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U647",
+  "subject": "Urdu",
+  "q": "Ruba'i kitne misron par mushtamil hoti hai?",
+  "options": [
+   "2",
+   "3",
+   "6",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "Ruba'i mein 4 misre hote hain.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U648",
+  "subject": "Urdu",
+  "q": "Musaddas kitne misron ka band hota hai?",
+  "options": [
+   "4",
+   "10",
+   "8",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "Musaddas mein 6 misre hote hain.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U649",
+  "subject": "Urdu",
+  "q": "Haiku mein kitne misre hote hain?",
+  "options": [
+   "3",
+   "2",
+   "5",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "Haiku mein 3 misre hote hain.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U650",
+  "subject": "Urdu",
+  "q": "Musaddas-e-Hali kis sinf-e-sha'iri ki misaal hai?",
+  "options": [
+   "Haiku",
+   "Qit'a",
+   "Musaddas",
+   "Ruba'i"
+  ],
+  "answer": 2,
+  "explanation": "Musaddas-e-Hali musaddas ki sinf mein hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U651",
+  "subject": "Urdu",
+  "q": "Haiku asal mein kis mulk ki sinf-e-sha'iri hai?",
+  "options": [
+   "Japan",
+   "Arab",
+   "Iran",
+   "China"
+  ],
+  "answer": 0,
+  "explanation": "Haiku Japan ki sinf hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U652",
+  "subject": "Urdu",
+  "q": "Qit'a aur ghazal mein bunyadi farq kya hai?",
+  "options": [
+   "Koi farq nahi",
+   "Qit'a lambi hoti hai",
+   "Qit'a mein radeef nahi hota",
+   "Qit'a mein matla nahi hota"
+  ],
+  "answer": 3,
+  "explanation": "Qit'a mein matla ki shart nahi hoti.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U653",
+  "subject": "Urdu",
+  "q": "Meeraji aur N. M. Rashid ne Halqa ke zariye kis cheez ko challenge kiya?",
+  "options": [
+   "Marsiya goi",
+   "Naat goi",
+   "Rawayati sha'iri ki pabandiyon ko tajribati sha'iri se",
+   "Tarkeeb"
+  ],
+  "answer": 2,
+  "explanation": "Halqa ne rawayati pabandiyon ke khilaf tajribati sha'iri ki.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U654",
+  "subject": "Urdu",
+  "q": "Angaray ke musannifeen mein khaatoon musannifa kaun thin?",
+  "options": [
+   "Rasheed Jahan",
+   "Hajira Masroor",
+   "Qurratulain Hyder",
+   "Ismat Chughtai"
+  ],
+  "answer": 0,
+  "explanation": "Rasheed Jahan Angaray ki khaatoon musannifa thin.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U655",
+  "subject": "Urdu",
+  "q": "Dast-e-Tah-e-Sang kab shaya hua?",
+  "options": [
+   "1965",
+   "1979",
+   "1960",
+   "1971"
+  ],
+  "answer": 0,
+  "explanation": "Dast-e-Tah-e-Sang 1965 mein shaya hua.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U656",
+  "subject": "Urdu",
+  "q": "Sar-e-Wadi-e-Seena kis ka sha'iri majmua hai?",
+  "options": [
+   "Ahmad Faraz",
+   "Josh Malihabadi",
+   "N. M. Rashid",
+   "Faiz Ahmed Faiz"
+  ],
+  "answer": 3,
+  "explanation": "Sar-e-Wadi-e-Seena Faiz ka majmua hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U657",
+  "subject": "Urdu",
+  "q": "Sham-e-Shehr-e-Yaran kis ka sha'iri majmua hai?",
+  "options": [
+   "Munir Niazi",
+   "Ahmad Faraz",
+   "Nasir Kazmi",
+   "Faiz Ahmed Faiz"
+  ],
+  "answer": 3,
+  "explanation": "Sham-e-Shehr-e-Yaran Faiz ka majmua hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U658",
+  "subject": "Urdu",
+  "q": "Mere Dil Mere Musafir kis ka sha'iri majmua hai?",
+  "options": [
+   "Ahmad Faraz",
+   "Parveen Shakir",
+   "Jaun Elia",
+   "Faiz Ahmed Faiz"
+  ],
+  "answer": 3,
+  "explanation": "Mere Dil Mere Musafir Faiz ka majmua hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U659",
+  "subject": "Urdu",
+  "q": "Farhang-e-Talaffuz kis ki tehreer hai?",
+  "options": [
+   "Maulvi Abdul Haq",
+   "Syed Ahmed Dehlvi",
+   "Jameel Jalibi",
+   "Shan-ul-Haq Haqqi"
+  ],
+  "answer": 3,
+  "explanation": "Farhang-e-Talaffuz Shan-ul-Haq Haqqi ki tehreer hai.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U660",
+  "subject": "Urdu",
+  "q": "Qayyum Nazar ka Halqa-e-Arbab-e-Zauq mein kya kirdar tha?",
+  "options": [
+   "Mukhalif naqid",
+   "Baani members mein se ek",
+   "Koi talluq nahi",
+   "Sirf mehmaan sha'ir"
+  ],
+  "answer": 1,
+  "explanation": "Qayyum Nazar Halqa ke baani members mein se thay.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U661",
+  "subject": "Urdu",
+  "q": "Halqa-e-Arbab-e-Zauq aur Taraqqi Pasand Tehrik mein bunyadi farq kya tha?",
+  "options": [
+   "Halqa fanni tajribay par zor deta tha jabke Taraqqi Pasand samaji maqsad par",
+   "Koi farq nahi tha",
+   "Dono ek hi thay",
+   "Halqa purani tehreek thi"
+  ],
+  "answer": 0,
+  "explanation": "Halqa jadidiyat jabke Taraqqi Pasand samaji adab ki tehreek thi.",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U662",
+  "subject": "Urdu",
+  "q": "Faiz ke majmue sahi tarteeb mein kaun se hain?",
+  "options": [
+   "Naqsh-e-Faryadi, Zindan Nama, Dast-e-Saba, Ghubar-e-Ayyam",
+   "Ghubar-e-Ayyam, Dast-e-Saba, Zindan Nama, Naqsh-e-Faryadi",
+   "Dast-e-Saba, Naqsh-e-Faryadi, Zindan Nama, Ghubar-e-Ayyam",
+   "Naqsh-e-Faryadi, Dast-e-Saba, Zindan Nama, Ghubar-e-Ayyam"
+  ],
+  "answer": 3,
+  "explanation": "Sahi tarteeb: Naqsh-e-Faryadi (1941), Dast-e-Saba (1952), Zindan Nama (1956), Ghubar-e-Ayyam (1984).",
+  "source": "PPSC Day 20"
+ },
+ {
+  "id": "U663",
+  "subject": "Urdu",
+  "q": "Woh khaas naam jo hukumat ki taraf se diya jaye, kya kehlata hai?",
+  "options": [
+   "Laqab",
+   "Takhallus",
+   "Kunniyat",
+   "Khitab"
+  ],
+  "answer": 3,
+  "explanation": "Hukumat ki taraf se diya gaya khaas naam Khitab kehlata hai, masalan Shams-ul-Ulama.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U664",
+  "subject": "Urdu",
+  "q": "Wo murakkab jis mein izafat payi jaye, kya kehlata hai?",
+  "options": [
+   "Murakkab-e-atfi",
+   "Murakkab-e-adadi",
+   "Murakkab-e-tausifi",
+   "Murakkab-e-izafi"
+  ],
+  "answer": 3,
+  "explanation": "Izafat wale murakkab ko Murakkab-e-izafi kehte hain, masalan Kitab-e-Ali.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U665",
+  "subject": "Urdu",
+  "q": "Wo nazm jis mein kisi ki tareef bayan ki jaye, kya kehlati hai?",
+  "options": [
+   "Masnavi",
+   "Marsiya",
+   "Hamd",
+   "Qaseeda"
+  ],
+  "answer": 3,
+  "explanation": "Tareef bayan karne wali nazm Qaseeda kehlati hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U666",
+  "subject": "Urdu",
+  "q": "'Jannat' ka mutazad kya hai?",
+  "options": [
+   "Aakhirat",
+   "Dozakh",
+   "Firdaus",
+   "Jaza"
+  ],
+  "answer": 1,
+  "explanation": "'Jannat' ka mutazad 'Dozakh' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U667",
+  "subject": "Urdu",
+  "q": "'Duniya' ka mutazad kya hai?",
+  "options": [
+   "Kainat",
+   "Aalam",
+   "Jahan",
+   "Aakhirat"
+  ],
+  "answer": 3,
+  "explanation": "'Duniya' ka mutazad 'Aakhirat' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U668",
+  "subject": "Urdu",
+  "q": "'Haq' ka mutazad kya hai?",
+  "options": [
+   "Adl",
+   "Haqeeqat",
+   "Batil",
+   "Sach"
+  ],
+  "answer": 2,
+  "explanation": "'Haq' ka mutazad 'Batil' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U669",
+  "subject": "Urdu",
+  "q": "'Aashna' ka mutazad kya hai?",
+  "options": [
+   "Dost",
+   "Begana",
+   "Yaar",
+   "Habib"
+  ],
+  "answer": 1,
+  "explanation": "'Aashna' (jaan pehchan wala) ka mutazad 'Begana' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U670",
+  "subject": "Urdu",
+  "q": "'Mukhlis' ka mutazad kya hai?",
+  "options": [
+   "Dost",
+   "Ghaddar",
+   "Wafadar",
+   "Sadiq"
+  ],
+  "answer": 1,
+  "explanation": "'Mukhlis' (sacha/khalis) ka mutazad 'Ghaddar' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U671",
+  "subject": "Urdu",
+  "q": "'Wafa' ka mutazad kya hai?",
+  "options": [
+   "Ulfat",
+   "Jafa",
+   "Muhabbat",
+   "Ehad"
+  ],
+  "answer": 1,
+  "explanation": "'Wafa' ka mutazad 'Jafa' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U672",
+  "subject": "Urdu",
+  "q": "'Sehra' ka mutaradif kya hai?",
+  "options": [
+   "Kohsar",
+   "Jangal",
+   "Dasht",
+   "Wadi"
+  ],
+  "answer": 2,
+  "explanation": "'Sehra' ka mutaradif 'Dasht' hai (dono ke ma'ani registan).",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U673",
+  "subject": "Urdu",
+  "q": "'Gul' ka mutaradif kya hai?",
+  "options": [
+   "Shagufta",
+   "Kali",
+   "Gulab",
+   "Phool"
+  ],
+  "answer": 3,
+  "explanation": "'Gul' ka mutaradif 'Phool' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U674",
+  "subject": "Urdu",
+  "q": "'Shab' ka mutaradif kya hai?",
+  "options": [
+   "Shaam",
+   "Raat",
+   "Sahar",
+   "Andhera"
+  ],
+  "answer": 1,
+  "explanation": "'Shab' ka mutaradif 'Raat' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U675",
+  "subject": "Urdu",
+  "q": "'Aftab' ka mutaradif kya hai?",
+  "options": [
+   "Sitara",
+   "Sooraj",
+   "Roshni",
+   "Chaand"
+  ],
+  "answer": 1,
+  "explanation": "'Aftab' ka mutaradif 'Sooraj' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U676",
+  "subject": "Urdu",
+  "q": "'Mahtab' ka mutaradif kya hai?",
+  "options": [
+   "Sitara",
+   "Aftab",
+   "Sooraj",
+   "Chaand"
+  ],
+  "answer": 3,
+  "explanation": "'Mahtab' ka mutaradif 'Chaand' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U677",
+  "subject": "Urdu",
+  "q": "'Karam' ka mutaradif kya hai?",
+  "options": [
+   "Nafrat",
+   "Sitam",
+   "Zulm",
+   "Inaayat"
+  ],
+  "answer": 3,
+  "explanation": "'Karam' ka mutaradif 'Inaayat' hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U678",
+  "subject": "Urdu",
+  "q": "'Sabz qadam hona' muhavare ka mafhoom kya hai?",
+  "options": [
+   "Manhoos hona",
+   "Khush qismat hona",
+   "Mubarak qadam hona",
+   "Sabz-o-shadab hona"
+  ],
+  "answer": 0,
+  "explanation": "'Sabz qadam hona' ka matlab manhoos hona hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U679",
+  "subject": "Urdu",
+  "q": "'Golar ka phool khilna' se kya murad hai?",
+  "options": [
+   "Raaz mankashif hona",
+   "Ashya ka arzaan milna",
+   "Anhoni baat hona",
+   "Khushi ka izhar karna"
+  ],
+  "answer": 2,
+  "explanation": "'Golar ka phool khilna' anhoni baat hone par bola jata hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U680",
+  "subject": "Urdu",
+  "q": "'Aankhein pher kar namak bharna' se kya murad hai?",
+  "options": [
+   "Neend urana",
+   "Jabr karna",
+   "Ghussa dilana",
+   "Shadeed takleef dena"
+  ],
+  "answer": 3,
+  "explanation": "Is muhavare ka matlab shadeed takleef dena hai.",
+  "source": "PPSC Day 21"
+ },
+ {
+  "id": "U681",
+  "subject": "Urdu",
+  "q": "Urdu ka pehla novel nigar kise kaha jata hai?",
+  "options": [
+   "Deputy Nazir Ahmed",
+   "Prem Chand",
+   "Abdul Halim Sharar",
+   "Mirza Hadi Ruswa"
+  ],
+  "answer": 0,
+  "explanation": "Deputy Nazir Ahmed Urdu ke pehle novel nigar hain (Mirat-ul-Uroos).",
+  "source": "PPSC Day 21"
  }
 ]

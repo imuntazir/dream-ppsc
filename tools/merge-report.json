@@ -1,0 +1,37 @@
+{
+ "existing": 1454,
+ "source_a_total": 88,
+ "source_a_kept": 86,
+ "source_a_dupes": [
+  [
+   "F35",
+   "dup of existing CA17"
+  ],
+  [
+   "F47",
+   "dup of Source B item"
+  ]
+ ],
+ "source_b_total": 4052,
+ "source_b_kept": 4052,
+ "source_b_dupes": [],
+ "merged_total": 5592,
+ "per_subject": {
+  "English": 1519,
+  "Urdu": 683,
+  "Islamiat": 774,
+  "Pak Studies": 888,
+  "Current Affairs & GK": 646,
+  "Everyday Science": 657,
+  "Computer": 277,
+  "Math": 116,
+  "Economy & Budget": 32
+ },
+ "with_explanation": 4383,
+ "seed": 20261116,
+ "source_c": {
+  "attempted": true,
+  "added": 0,
+  "verdict": "SKIPPED - web sources found (docmcqs.com, educated.pk, ntsresults.pk, howtests.com e-books, Advanced PPSC commercial book) are SEO content farms / memory-based MCQs / copyrighted material with self-claimed or disclaimed answer keys; no per-item verifiable source. Existing bank already covers these subjects (5,592 items). No items added, no answers guessed."
+ }
+}

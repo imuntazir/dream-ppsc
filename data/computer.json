@@ -2392,5 +2392,1489 @@
   "answer": 1,
   "explanation": "Laser, Dot matrix, Inkjet printers hain — Pixel printer naam ka koi printer nahi.",
   "source": "PPSC Assistant paper 04-10-2026"
+ },
+ {
+  "id": "C177",
+  "subject": "Computer",
+  "q": "Zoom Apps is used for:",
+  "options": [
+   "Video conferencing",
+   "File sharing",
+   "Audio conferencing",
+   "Graphic designing"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "Standard computer knowledge"
+ },
+ {
+  "id": "C178",
+  "subject": "Computer",
+  "q": "What is the function of the Ctrl+C shortcut?",
+  "options": [
+   "Copy",
+   "Paste",
+   "Save",
+   "Cut"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "Standard computer knowledge"
+ },
+ {
+  "id": "C179",
+  "subject": "Computer",
+  "q": "Which of the following is an open-source operating system?",
+  "options": [
+   "Windows",
+   "MacOS",
+   "Linux",
+   "iOS"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "Standard computer knowledge"
+ },
+ {
+  "id": "C180",
+  "subject": "Computer",
+  "q": "Which is the most commonly used search engine?",
+  "options": [
+   "Google",
+   "Bing",
+   "DuckDuckGo",
+   "Yahoo"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "Standard computer knowledge"
+ },
+ {
+  "id": "C181",
+  "subject": "Computer",
+  "q": "What is the shortcut key for inserting a hyperlink?",
+  "options": [
+   "Ctrl+K",
+   "Ctrl+L",
+   "Ctrl+H",
+   "Ctrl+P"
+  ],
+  "answer": 0,
+  "explanation": null,
+  "source": "Standard computer knowledge"
+ },
+ {
+  "id": "C182",
+  "subject": "Computer",
+  "q": "What is the smallest unit of memory in a computer?",
+  "options": [
+   "Nibble",
+   "Byte",
+   "Bit",
+   "Word"
+  ],
+  "answer": 2,
+  "explanation": null,
+  "source": "Standard computer knowledge"
+ },
+ {
+  "id": "C183",
+  "subject": "Computer",
+  "q": "The abacus, one of the earliest calculating devices, was first used in:",
+  "options": [
+   "Egypt",
+   "China",
+   "Greece",
+   "India"
+  ],
+  "answer": 1,
+  "explanation": "The abacus is the earliest known calculating device; it was used in China for counting and simple arithmetic.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C184",
+  "subject": "Computer",
+  "q": "Napier's Bones, an early calculating tool made of rods, was invented by:",
+  "options": [
+   "John Napier",
+   "Gottfried Leibniz",
+   "Joseph Jacquard",
+   "Blaise Pascal"
+  ],
+  "answer": 0,
+  "explanation": "John Napier of Scotland invented Napier's Bones in 1617 for multiplication and division.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C185",
+  "subject": "Computer",
+  "q": "The Pascaline, the first mechanical calculator, was invented in 1642 by:",
+  "options": [
+   "Blaise Pascal",
+   "Gottfried Leibniz",
+   "Charles Babbage",
+   "John Napier"
+  ],
+  "answer": 0,
+  "explanation": "Blaise Pascal built the Pascaline in 1642; it could add and subtract numbers with gears and wheels.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C186",
+  "subject": "Computer",
+  "q": "The Stepped Reckoner, a calculator that could add, subtract, multiply and divide, was built by:",
+  "options": [
+   "Charles Babbage",
+   "Blaise Pascal",
+   "Howard Aiken",
+   "Gottfried Leibniz"
+  ],
+  "answer": 3,
+  "explanation": "Leibniz built the Stepped Reckoner in 1673; it was the first calculator able to do all four basic operations.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C187",
+  "subject": "Computer",
+  "q": "The Jacquard loom of 1804 used punched cards to control:",
+  "options": [
+   "The colour of the dye",
+   "The pattern woven into cloth",
+   "The length of the thread",
+   "The speed of the loom"
+  ],
+  "answer": 1,
+  "explanation": "Joseph Jacquard's loom read holes punched in cards to weave patterns automatically; the idea later inspired computer punched cards.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C188",
+  "subject": "Computer",
+  "q": "The Difference Engine, an early mechanical calculating machine, was designed in 1822 by:",
+  "options": [
+   "Alan Turing",
+   "Konrad Zuse",
+   "Charles Babbage",
+   "John von Neumann"
+  ],
+  "answer": 2,
+  "explanation": "Babbage designed the Difference Engine in 1822 to calculate mathematical tables automatically.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C189",
+  "subject": "Computer",
+  "q": "Herman Hollerith's tabulating machine, which used punched cards, was first used in the census of:",
+  "options": [
+   "1900 (Britain)",
+   "1890 (USA)",
+   "1880 (USA)",
+   "1891 (India)"
+  ],
+  "answer": 1,
+  "explanation": "Hollerith's punched-card machine counted the 1890 United States census far faster than counting by hand.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C190",
+  "subject": "Computer",
+  "q": "The Harvard Mark I, one of the first large automatic computers, was completed in 1944 under:",
+  "options": [
+   "Howard Aiken",
+   "Alan Turing",
+   "John Mauchly",
+   "John von Neumann"
+  ],
+  "answer": 0,
+  "explanation": "Howard Aiken led the building of the Harvard Mark I, finished in 1944 with the help of IBM engineers.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C191",
+  "subject": "Computer",
+  "q": "The Z3, the first working programmable computer, was built in 1941 by:",
+  "options": [
+   "Charles Babbage",
+   "Alan Turing",
+   "John Eckert",
+   "Konrad Zuse"
+  ],
+  "answer": 3,
+  "explanation": "Konrad Zuse of Germany completed the Z3 in 1941; it was the first fully working programmable computer.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C192",
+  "subject": "Computer",
+  "q": "ENIAC, the first general-purpose electronic digital computer, was completed in 1946 at the:",
+  "options": [
+   "Harvard University",
+   "University of Pennsylvania",
+   "University of Cambridge",
+   "Massachusetts Institute of Technology"
+  ],
+  "answer": 1,
+  "explanation": "ENIAC was built at the University of Pennsylvania by Eckert and Mauchly and switched on in 1946.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C193",
+  "subject": "Computer",
+  "q": "UNIVAC I, the first computer made for business use, was delivered in:",
+  "options": [
+   "1955",
+   "1961",
+   "1951",
+   "1946"
+  ],
+  "answer": 2,
+  "explanation": "UNIVAC I, delivered in 1951, was the first commercial computer; it was used by the US Census Bureau.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C194",
+  "subject": "Computer",
+  "q": "EDSAC, the first computer to run a stored program in regular service, was built in 1949 at:",
+  "options": [
+   "Harvard University",
+   "Oxford University",
+   "Cambridge University",
+   "Stanford University"
+  ],
+  "answer": 2,
+  "explanation": "EDSAC at Cambridge ran its first program in May 1949 and was the first stored-program computer in regular use.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C195",
+  "subject": "Computer",
+  "q": "The first generation of computers (1946-1959) was built using:",
+  "options": [
+   "Integrated circuits",
+   "Transistors",
+   "Vacuum tubes",
+   "Microprocessors"
+  ],
+  "answer": 2,
+  "explanation": "First-generation computers used vacuum tubes, which were large, hot and unreliable; ENIAC and UNIVAC I belong to this generation.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C196",
+  "subject": "Computer",
+  "q": "The second generation of computers (1959-1965) was built using:",
+  "options": [
+   "Vacuum tubes",
+   "Integrated circuits",
+   "Transistors",
+   "Microchips"
+  ],
+  "answer": 2,
+  "explanation": "Second-generation computers replaced vacuum tubes with transistors, which were smaller, faster and used less power.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C197",
+  "subject": "Computer",
+  "q": "The third generation of computers (1965-1971) was built using:",
+  "options": [
+   "Microprocessors",
+   "Transistors",
+   "Integrated circuits",
+   "Vacuum tubes"
+  ],
+  "answer": 2,
+  "explanation": "Third-generation computers used integrated circuits (ICs), many transistors packed on one small silicon chip.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C198",
+  "subject": "Computer",
+  "q": "The fourth generation of computers (1971 onwards) was built using:",
+  "options": [
+   "Vacuum tubes",
+   "Transistors",
+   "Integrated circuits only",
+   "Microprocessors"
+  ],
+  "answer": 3,
+  "explanation": "Fourth-generation computers use microprocessors, the whole CPU on a single chip, which made personal computers possible.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C199",
+  "subject": "Computer",
+  "q": "The fifth generation of computers is based on:",
+  "options": [
+   "Artificial intelligence and ULSI chips",
+   "Transistors only",
+   "Mechanical gears",
+   "Vacuum tubes"
+  ],
+  "answer": 0,
+  "explanation": "Fifth-generation computers aim at artificial intelligence, using ULSI (ultra-large-scale integration) chips and parallel processing.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C200",
+  "subject": "Computer",
+  "q": "Which of the following computers belongs to the first generation?",
+  "options": [
+   "IBM 360",
+   "IBM 1401",
+   "ENIAC",
+   "Apple II"
+  ],
+  "answer": 2,
+  "explanation": "ENIAC, built with vacuum tubes in 1946, is a first-generation computer; IBM 1401 is second generation and IBM 360 is third.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C201",
+  "subject": "Computer",
+  "q": "The IBM 1401, a famous business computer of the early 1960s, belongs to the:",
+  "options": [
+   "Third generation",
+   "First generation",
+   "Fourth generation",
+   "Second generation"
+  ],
+  "answer": 3,
+  "explanation": "The IBM 1401 used transistors, so it is a second-generation computer, widely used in business in the early 1960s.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C202",
+  "subject": "Computer",
+  "q": "The IBM System/360, introduced in 1964, belongs to the:",
+  "options": [
+   "Third generation",
+   "First generation",
+   "Second generation",
+   "Fourth generation"
+  ],
+  "answer": 0,
+  "explanation": "The IBM System/360 used integrated circuits, which makes it a third-generation computer family.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C203",
+  "subject": "Computer",
+  "q": "Machine language (binary code) was the main programming language of the:",
+  "options": [
+   "Third generation",
+   "First generation",
+   "Fourth generation",
+   "Second generation"
+  ],
+  "answer": 1,
+  "explanation": "First-generation computers were programmed in machine language, writing instructions directly in 0s and 1s.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C204",
+  "subject": "Computer",
+  "q": "Assembly language became common in the:",
+  "options": [
+   "Third generation",
+   "Fifth generation",
+   "Second generation",
+   "First generation"
+  ],
+  "answer": 2,
+  "explanation": "Assembly language, which uses short codes like ADD and MOV instead of 0s and 1s, became common in the second generation.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C205",
+  "subject": "Computer",
+  "q": "The CPU is called the brain of the computer because it:",
+  "options": [
+   "Displays pictures on the screen",
+   "Controls all operations and processes data",
+   "Stores all the files",
+   "Connects the computer to the internet"
+  ],
+  "answer": 1,
+  "explanation": "The CPU (Central Processing Unit) carries out instructions and controls the whole computer, so it is called its brain.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C206",
+  "subject": "Computer",
+  "q": "The ALU, a part of the CPU, is used to perform:",
+  "options": [
+   "Arithmetic and logical operations",
+   "Printing and scanning",
+   "Storing files permanently",
+   "Connecting to the network"
+  ],
+  "answer": 0,
+  "explanation": "The Arithmetic Logic Unit performs calculations such as addition and subtraction and logical comparisons such as greater than or less than.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C207",
+  "subject": "Computer",
+  "q": "The Control Unit (CU) of the CPU is responsible for:",
+  "options": [
+   "Storing data permanently",
+   "Directing the flow of data and instructions",
+   "Printing the output",
+   "Doing all the calculations"
+  ],
+  "answer": 1,
+  "explanation": "The Control Unit fetches instructions from memory, decodes them and tells the other parts of the computer what to do.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C208",
+  "subject": "Computer",
+  "q": "The three main parts of a CPU are the ALU, the Control Unit and:",
+  "options": [
+   "Monitor",
+   "Registers (memory)",
+   "Hard disk",
+   "Keyboard"
+  ],
+  "answer": 1,
+  "explanation": "A CPU is made of the ALU, the Control Unit and registers, the tiny high-speed memory cells inside the processor.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C209",
+  "subject": "Computer",
+  "q": "Registers are the fastest memory in a computer because they are located:",
+  "options": [
+   "On the hard disk",
+   "Inside the CPU itself",
+   "In the monitor",
+   "On a USB drive"
+  ],
+  "answer": 1,
+  "explanation": "Registers sit inside the CPU, so the processor can reach them faster than RAM, cache or any other memory.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C210",
+  "subject": "Computer",
+  "q": "The speed of a CPU is measured in:",
+  "options": [
+   "Pixels",
+   "Hertz (GHz)",
+   "Volts",
+   "Bytes"
+  ],
+  "answer": 1,
+  "explanation": "CPU speed is the number of clock cycles per second, measured in hertz; modern CPUs run at several gigahertz (GHz).",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C211",
+  "subject": "Computer",
+  "q": "The basic working cycle of a CPU is:",
+  "options": [
+   "Read - Write - Delete",
+   "Boot - Load - Shut down",
+   "Fetch - Decode - Execute",
+   "Input - Print - Save"
+  ],
+  "answer": 2,
+  "explanation": "The CPU fetches an instruction from memory, decodes what it means, and then executes it, repeating this cycle billions of times a second.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C212",
+  "subject": "Computer",
+  "q": "The motherboard is the:",
+  "options": [
+   "Screen of the computer",
+   "Chip that stores the operating system",
+   "Power cable of the computer",
+   "Main circuit board connecting all parts of the computer"
+  ],
+  "answer": 3,
+  "explanation": "The motherboard is the large circuit board that holds the CPU, memory and other parts and lets them communicate with each other.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C213",
+  "subject": "Computer",
+  "q": "A bus in a computer is a:",
+  "options": [
+   "Type of printer",
+   "Storage device",
+   "Pathway that carries data between parts",
+   "Kind of memory chip"
+  ],
+  "answer": 2,
+  "explanation": "A bus is a set of wires that carries data and signals between the CPU, memory and input/output devices.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C214",
+  "subject": "Computer",
+  "q": "BIOS, the program that starts a computer when it is switched on, is stored in:",
+  "options": [
+   "Hard disk",
+   "ROM",
+   "Cache memory",
+   "RAM"
+  ],
+  "answer": 1,
+  "explanation": "BIOS (Basic Input Output System) is stored in ROM, so it is present even when the computer is switched off.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C215",
+  "subject": "Computer",
+  "q": "POST, the self-test a computer runs when it is switched on, stands for:",
+  "options": [
+   "Personal Operating System Tool",
+   "Power Off System Test",
+   "Program Operating System Test",
+   "Power On Self Test"
+  ],
+  "answer": 3,
+  "explanation": "POST checks the memory, keyboard and other hardware when the computer starts, before the operating system loads.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C216",
+  "subject": "Computer",
+  "q": "The Intel 4004, released in 1971, was the world's first:",
+  "options": [
+   "Hard disk",
+   "Operating system",
+   "Microprocessor",
+   "Personal computer"
+  ],
+  "answer": 2,
+  "explanation": "The Intel 4004 of 1971 was the first commercial microprocessor, putting a whole CPU on one small chip.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C217",
+  "subject": "Computer",
+  "q": "The smallest unit of data in a computer is the:",
+  "options": [
+   "Byte",
+   "Nibble",
+   "Bit",
+   "Word"
+  ],
+  "answer": 2,
+  "explanation": "A bit is a single 0 or 1, the smallest unit of data; all computer data is built from bits.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C218",
+  "subject": "Computer",
+  "q": "A nibble is a group of:",
+  "options": [
+   "2 bits",
+   "8 bits",
+   "4 bits",
+   "16 bits"
+  ],
+  "answer": 2,
+  "explanation": "A nibble is half a byte, made of 4 bits; two nibbles make one byte.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C219",
+  "subject": "Computer",
+  "q": "One byte is equal to:",
+  "options": [
+   "8 bits",
+   "10 bits",
+   "4 bits",
+   "16 bits"
+  ],
+  "answer": 0,
+  "explanation": "One byte is a group of 8 bits and can store one character, such as the letter A.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C220",
+  "subject": "Computer",
+  "q": "How many bytes are there in one kilobyte (KB)?",
+  "options": [
+   "1024 bytes",
+   "1024 bits",
+   "1000 bytes",
+   "100 bytes"
+  ],
+  "answer": 0,
+  "explanation": "One kilobyte equals 1024 bytes; computers use 1024 because they work in powers of 2.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C221",
+  "subject": "Computer",
+  "q": "How many kilobytes make one megabyte (MB)?",
+  "options": [
+   "1000 KB",
+   "1024 KB",
+   "100 KB",
+   "1024 MB"
+  ],
+  "answer": 1,
+  "explanation": "One megabyte equals 1024 kilobytes, following the binary pattern of 1024 at every step.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C222",
+  "subject": "Computer",
+  "q": "How many megabytes make one gigabyte (GB)?",
+  "options": [
+   "1024 MB",
+   "100 MB",
+   "1000 MB",
+   "1024 KB"
+  ],
+  "answer": 0,
+  "explanation": "One gigabyte equals 1024 megabytes; a typical movie file is about 1 to 2 GB in size.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C223",
+  "subject": "Computer",
+  "q": "How many gigabytes make one terabyte (TB)?",
+  "options": [
+   "1024 MB",
+   "100 GB",
+   "1024 GB",
+   "1000 GB"
+  ],
+  "answer": 2,
+  "explanation": "One terabyte equals 1024 gigabytes; modern hard disks commonly hold 1 TB or more.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C224",
+  "subject": "Computer",
+  "q": "RAM is called volatile memory because it:",
+  "options": [
+   "Never loses its data",
+   "Works only with the internet",
+   "Cannot be written to",
+   "Loses its data when the power is switched off"
+  ],
+  "answer": 3,
+  "explanation": "RAM (Random Access Memory) holds data only while the computer is on; everything in RAM is lost when the power goes off.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C225",
+  "subject": "Computer",
+  "q": "ROM is called non-volatile memory because it:",
+  "options": [
+   "Can hold only 1 KB of data",
+   "Is slower than a hard disk",
+   "Keeps its data even when the power is off",
+   "Loses its data when the power is off"
+  ],
+  "answer": 2,
+  "explanation": "ROM (Read Only Memory) keeps its data without power, which is why the startup program BIOS is stored in it.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C226",
+  "subject": "Computer",
+  "q": "Cache memory is the fastest memory after registers, and it is placed:",
+  "options": [
+   "On the motherboard battery",
+   "Between the monitor and the keyboard",
+   "Inside the hard disk",
+   "Between the CPU and the RAM"
+  ],
+  "answer": 3,
+  "explanation": "Cache memory sits between the CPU and RAM and stores copies of data the CPU uses again and again, so the CPU waits less.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C227",
+  "subject": "Computer",
+  "q": "Primary memory of a computer consists of:",
+  "options": [
+   "RAM and ROM",
+   "Hard disk and pen drive",
+   "CD and DVD",
+   "Printer and scanner"
+  ],
+  "answer": 0,
+  "explanation": "Primary memory is the memory the CPU can reach directly: RAM (temporary) and ROM (permanent).",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C228",
+  "subject": "Computer",
+  "q": "A hard disk stores data on:",
+  "options": [
+   "Optical lenses",
+   "Flash chips only",
+   "Paper cards",
+   "Magnetic disks (platters)"
+  ],
+  "answer": 3,
+  "explanation": "A hard disk drive stores data magnetically on spinning metal platters; it keeps data even when the power is off.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C229",
+  "subject": "Computer",
+  "q": "Compared with a hard disk drive (HDD), a solid-state drive (SSD) is:",
+  "options": [
+   "Faster, because it has no moving parts",
+   "Slower, because it has no moving parts",
+   "Based on magnetic tape",
+   "Cheaper per gigabyte"
+  ],
+  "answer": 0,
+  "explanation": "An SSD stores data on flash memory chips with no moving parts, so it reads and writes much faster than a spinning hard disk.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C230",
+  "subject": "Computer",
+  "q": "A standard CD can store about how much data?",
+  "options": [
+   "700 MB",
+   "1.44 MB",
+   "4.7 GB",
+   "25 GB"
+  ],
+  "answer": 0,
+  "explanation": "A standard compact disc (CD) holds about 700 MB, enough for about 80 minutes of music or hundreds of documents.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C231",
+  "subject": "Computer",
+  "q": "Which of the following is an input device?",
+  "options": [
+   "Printer",
+   "Monitor",
+   "Speaker",
+   "Keyboard"
+  ],
+  "answer": 3,
+  "explanation": "A keyboard sends data into the computer, so it is an input device; a monitor, printer and speaker give out results.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C232",
+  "subject": "Computer",
+  "q": "The longest key on a computer keyboard is the:",
+  "options": [
+   "Enter key",
+   "Tab key",
+   "Shift key",
+   "Spacebar"
+  ],
+  "answer": 3,
+  "explanation": "The spacebar is the longest key on the keyboard; it inserts a space between words.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C233",
+  "subject": "Computer",
+  "q": "Most computer keyboards use the layout called:",
+  "options": [
+   "Dvorak only",
+   "AZERTY only",
+   "QWERTY",
+   "ABCD"
+  ],
+  "answer": 2,
+  "explanation": "The QWERTY layout, named after the first six letters of the top row, is the standard keyboard layout used worldwide.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C234",
+  "subject": "Computer",
+  "q": "A scanner is an input device used to:",
+  "options": [
+   "Store files",
+   "Play music",
+   "Print documents on paper",
+   "Copy pictures and documents into the computer"
+  ],
+  "answer": 3,
+  "explanation": "A scanner reads a paper document or photo and turns it into a digital image stored in the computer.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C235",
+  "subject": "Computer",
+  "q": "MICR, used by banks to read cheques, stands for:",
+  "options": [
+   "Magnetic Ink Character Recognition",
+   "Manual Ink Character Recorder",
+   "Magnetic Input Card Reader",
+   "Machine Information Code Reader"
+  ],
+  "answer": 0,
+  "explanation": "MICR reads the special magnetic-ink numbers printed at the bottom of bank cheques.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C236",
+  "subject": "Computer",
+  "q": "OMR (Optical Mark Recognition) is used to read:",
+  "options": [
+   "Barcodes on books",
+   "Answers marked on MCQ sheets",
+   "Handwritten letters",
+   "Fingerprints"
+  ],
+  "answer": 1,
+  "explanation": "OMR scanners read the darkened bubbles on exam answer sheets, which is how objective tests are marked quickly.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C237",
+  "subject": "Computer",
+  "q": "A barcode reader, commonly seen at shop counters, is a device that reads:",
+  "options": [
+   "Fingerprints of customers",
+   "Handwriting on bills",
+   "Magnetic strips on cards",
+   "Printed bars (barcodes) on products"
+  ],
+  "answer": 3,
+  "explanation": "A barcode reader scans the black bars printed on a product and finds its price and details in the shop's computer.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C238",
+  "subject": "Computer",
+  "q": "OCR technology is used to:",
+  "options": [
+   "Record human voice",
+   "Convert printed text into editable digital text",
+   "Connect to the internet",
+   "Print colour photos"
+  ],
+  "answer": 1,
+  "explanation": "OCR (Optical Character Recognition) reads printed or scanned text and turns it into text that can be edited on the computer.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C239",
+  "subject": "Computer",
+  "q": "Which of the following is an output device?",
+  "options": [
+   "Scanner",
+   "Keyboard",
+   "Mouse",
+   "Monitor"
+  ],
+  "answer": 3,
+  "explanation": "A monitor shows the results of processing on the screen, so it is an output device; a keyboard, mouse and scanner are input devices.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C240",
+  "subject": "Computer",
+  "q": "A laser printer prints using:",
+  "options": [
+   "Liquid ink sprayed through nozzles",
+   "Toner powder and a laser beam",
+   "A heated wax sheet",
+   "An inked ribbon and pins"
+  ],
+  "answer": 1,
+  "explanation": "A laser printer uses a laser beam and fine toner powder; it prints fast and is common in offices.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C241",
+  "subject": "Computer",
+  "q": "An inkjet printer prints by:",
+  "options": [
+   "Spraying tiny drops of liquid ink on paper",
+   "Pressing hot metal type",
+   "Striking an inked ribbon with pins",
+   "Using a laser beam and toner"
+  ],
+  "answer": 0,
+  "explanation": "An inkjet printer sprays tiny droplets of ink onto the paper; it is cheap and prints good colour photos at home.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C242",
+  "subject": "Computer",
+  "q": "A plotter is an output device used mainly to print:",
+  "options": [
+   "Large drawings, maps and engineering plans",
+   "Photos from a phone",
+   "Small text documents",
+   "Music on CDs"
+  ],
+  "answer": 0,
+  "explanation": "A plotter draws large-size output such as building plans, maps and charts, which a normal printer cannot handle.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C243",
+  "subject": "Computer",
+  "q": "System software differs from application software because system software:",
+  "options": [
+   "Can only play games",
+   "Is used only for typing letters",
+   "Manages the computer hardware and runs the system",
+   "Is bought from a shop"
+  ],
+  "answer": 2,
+  "explanation": "System software, such as the operating system, controls the hardware; application software, such as Word, does a user's task.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C244",
+  "subject": "Computer",
+  "q": "An operating system is a program that:",
+  "options": [
+   "Only browses the internet",
+   "Manages hardware, files and programs of a computer",
+   "Only types documents",
+   "Only prints papers"
+  ],
+  "answer": 1,
+  "explanation": "The operating system controls the processor, memory, files and devices, and lets the user run programs.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C245",
+  "subject": "Computer",
+  "q": "File management, memory management and process management are functions of the:",
+  "options": [
+   "Compiler",
+   "Printer driver",
+   "Operating system",
+   "Web browser"
+  ],
+  "answer": 2,
+  "explanation": "The operating system manages files, memory and running programs, and controls the input and output devices.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C246",
+  "subject": "Computer",
+  "q": "Linux is an example of a free and open-source:",
+  "options": [
+   "Spreadsheet",
+   "Word processor",
+   "Operating system",
+   "Web browser"
+  ],
+  "answer": 2,
+  "explanation": "Linux is a free, open-source operating system; its kernel was first written by Linus Torvalds in 1991.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C247",
+  "subject": "Computer",
+  "q": "The Linux operating system kernel was first written in 1991 by:",
+  "options": [
+   "Dennis Ritchie",
+   "Bill Gates",
+   "Steve Jobs",
+   "Linus Torvalds"
+  ],
+  "answer": 3,
+  "explanation": "Finnish student Linus Torvalds released the first Linux kernel in 1991; today Linux runs servers, phones and supercomputers.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C248",
+  "subject": "Computer",
+  "q": "UNIX, one of the oldest operating systems, was developed in 1969 at:",
+  "options": [
+   "Apple",
+   "IBM",
+   "Bell Laboratories",
+   "Microsoft"
+  ],
+  "answer": 2,
+  "explanation": "UNIX was developed at Bell Laboratories in 1969 and became the base for many later systems, including Linux and macOS.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C249",
+  "subject": "Computer",
+  "q": "MS-DOS, the early operating system of IBM personal computers, was released in 1981 by:",
+  "options": [
+   "Google",
+   "Apple",
+   "Intel",
+   "Microsoft"
+  ],
+  "answer": 3,
+  "explanation": "Microsoft supplied MS-DOS for the IBM PC in 1981; it was a text-based, single-user operating system.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C250",
+  "subject": "Computer",
+  "q": "The first version of Microsoft Windows was released in:",
+  "options": [
+   "1995",
+   "2001",
+   "1985",
+   "1975"
+  ],
+  "answer": 2,
+  "explanation": "Microsoft released Windows 1.0 in 1985, adding a graphical interface over MS-DOS.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C251",
+  "subject": "Computer",
+  "q": "The graphical user interface (GUI) with windows, icons and a mouse was first made popular on personal computers by the:",
+  "options": [
+   "IBM PC (1981)",
+   "Google Chromebook",
+   "Linux desktop",
+   "Apple Macintosh (1984)"
+  ],
+  "answer": 3,
+  "explanation": "The Apple Macintosh of 1984 made the GUI popular on personal computers, with icons, windows and a mouse pointer.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C252",
+  "subject": "Computer",
+  "q": "A compiler is a program that translates:",
+  "options": [
+   "Printed text into digital text",
+   "Pictures into sound",
+   "One line of code at a time",
+   "The whole source program into machine code at once"
+  ],
+  "answer": 3,
+  "explanation": "A compiler converts the entire program into machine code before it runs; if there is an error, it reports all of them together.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C253",
+  "subject": "Computer",
+  "q": "An interpreter differs from a compiler because it translates and runs a program:",
+  "options": [
+   "All at once before running",
+   "One line at a time",
+   "Without reading the code",
+   "Only after printing it"
+  ],
+  "answer": 1,
+  "explanation": "An interpreter reads, translates and executes a program line by line, so an error stops it at the faulty line.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C254",
+  "subject": "Computer",
+  "q": "An assembler is a translator program that converts:",
+  "options": [
+   "Binary code into sound",
+   "High-level language into pictures",
+   "Machine language into English",
+   "Assembly language into machine language"
+  ],
+  "answer": 3,
+  "explanation": "An assembler converts low-level assembly language, written with short codes like ADD and MOV, into machine code.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C255",
+  "subject": "Computer",
+  "q": "Machine language is the only language a computer understands directly, and it is written in:",
+  "options": [
+   "English words",
+   "Decimal numbers only",
+   "Binary code (0s and 1s)",
+   "Pictures and icons"
+  ],
+  "answer": 2,
+  "explanation": "Machine language uses only the binary digits 0 and 1; every other language must be translated into it before the computer can run it.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C256",
+  "subject": "Computer",
+  "q": "FORTRAN, developed in 1957, was the first widely used:",
+  "options": [
+   "High-level programming language",
+   "Web browser",
+   "Operating system",
+   "Spreadsheet program"
+  ],
+  "answer": 0,
+  "explanation": "FORTRAN (Formula Translation), developed by John Backus at IBM in 1957, was the first high-level language used for science and engineering.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C257",
+  "subject": "Computer",
+  "q": "In binary, the number 1010 equals which decimal number?",
+  "options": [
+   "8",
+   "12",
+   "9",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "Binary 1010 means 1x8 + 0x4 + 1x2 + 0x1 = 10 in decimal.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C258",
+  "subject": "Computer",
+  "q": "The binary number 1111 equals which decimal number?",
+  "options": [
+   "14",
+   "7",
+   "11",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "Binary 1111 means 8 + 4 + 2 + 1 = 15 in decimal.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C259",
+  "subject": "Computer",
+  "q": "The binary number 100 equals which decimal number?",
+  "options": [
+   "8",
+   "4",
+   "3",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "Binary 100 means 1x4 + 0x2 + 0x1 = 4 in decimal.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C260",
+  "subject": "Computer",
+  "q": "ASCII is a 7-bit code that can represent how many different characters?",
+  "options": [
+   "64",
+   "1024",
+   "256",
+   "128"
+  ],
+  "answer": 3,
+  "explanation": "ASCII uses 7 bits, giving 2 to the power 7 = 128 characters, covering letters, digits and symbols.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C261",
+  "subject": "Computer",
+  "q": "EBCDIC is an 8-bit character code that was mainly used by computers of:",
+  "options": [
+   "Google",
+   "Apple",
+   "IBM",
+   "Microsoft"
+  ],
+  "answer": 2,
+  "explanation": "EBCDIC is an 8-bit code developed by IBM for its mainframe computers.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C262",
+  "subject": "Computer",
+  "q": "Unicode is a character code designed to represent:",
+  "options": [
+   "Only numbers",
+   "Only English letters",
+   "Only pictures",
+   "Text in all the world's languages"
+  ],
+  "answer": 3,
+  "explanation": "Unicode can represent letters and symbols of nearly all the world's languages, unlike ASCII which covers mainly English.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C263",
+  "subject": "Computer",
+  "q": "The hexadecimal number system has a base of:",
+  "options": [
+   "2",
+   "8",
+   "16",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "Hexadecimal uses base 16, with digits 0-9 and letters A-F; it is used to write memory addresses and colours.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C264",
+  "subject": "Computer",
+  "q": "The octal number system has a base of:",
+  "options": [
+   "2",
+   "10",
+   "8",
+   "16"
+  ],
+  "answer": 2,
+  "explanation": "Octal uses base 8, with digits 0-7 only; it was used in early computer systems.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C265",
+  "subject": "Computer",
+  "q": "A LAN (Local Area Network) connects computers in a:",
+  "options": [
+   "Single room only with wires",
+   "Whole country",
+   "Several continents",
+   "Small area such as a room, office or building"
+  ],
+  "answer": 3,
+  "explanation": "A LAN links computers over a small area, such as one office or building, usually with high speed.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C266",
+  "subject": "Computer",
+  "q": "A WAN (Wide Area Network) connects computers over a:",
+  "options": [
+   "Large area such as cities, countries or the world",
+   "Single desk",
+   "Single building",
+   "Single room"
+  ],
+  "answer": 0,
+  "explanation": "A WAN covers a large geographical area, such as cities or countries; the internet is the largest example of a WAN.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C267",
+  "subject": "Computer",
+  "q": "A MAN (Metropolitan Area Network) is a network that covers a:",
+  "options": [
+   "Single room",
+   "City or large town",
+   "Whole country",
+   "Single computer"
+  ],
+  "answer": 1,
+  "explanation": "A MAN is bigger than a LAN and smaller than a WAN; it connects computers across a city.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C268",
+  "subject": "Computer",
+  "q": "A modem is a device that:",
+  "options": [
+   "Converts digital signals to analogue and back for the internet",
+   "Prints documents",
+   "Cools the CPU",
+   "Stores large files"
+  ],
+  "answer": 0,
+  "explanation": "A modem (modulator-demodulator) changes the computer's digital signals into analogue signals for a phone line, and back again.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C269",
+  "subject": "Computer",
+  "q": "The World Wide Web (WWW) was invented in 1989 by:",
+  "options": [
+   "Larry Page",
+   "Steve Jobs",
+   "Tim Berners-Lee",
+   "Bill Gates"
+  ],
+  "answer": 2,
+  "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Switzerland.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C270",
+  "subject": "Computer",
+  "q": "HTTP, used to open web pages, stands for:",
+  "options": [
+   "Home Tool Transfer Protocol",
+   "HyperText Transmission Process",
+   "HighText Transfer Program",
+   "HyperText Transfer Protocol"
+  ],
+  "answer": 3,
+  "explanation": "HTTP is the set of rules browsers use to fetch web pages; HTTPS is the secure version of it.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C271",
+  "subject": "Computer",
+  "q": "URL, the address of a web page, stands for:",
+  "options": [
+   "Uniform Resource Locator",
+   "Universal Record Link",
+   "United Resource Location",
+   "Uniform Reference Language"
+  ],
+  "answer": 0,
+  "explanation": "A URL is the full address of a page or file on the internet, such as www.example.com.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C272",
+  "subject": "Computer",
+  "q": "The first email was sent in 1971 by Ray Tomlinson, who chose which symbol to separate the username from the domain?",
+  "options": [
+   "%",
+   "@",
+   "#",
+   "$"
+  ],
+  "answer": 1,
+  "explanation": "Ray Tomlinson sent the first email in 1971 and chose the @ symbol to separate the user's name from the computer's name.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C273",
+  "subject": "Computer",
+  "q": "SMTP, the protocol used to send email, stands for:",
+  "options": [
+   "System Mail Transfer Protocol",
+   "Secure Mail Transfer Process",
+   "Simple Mail Transfer Protocol",
+   "Simple Mail Text Program"
+  ],
+  "answer": 2,
+  "explanation": "SMTP is the standard protocol for sending email from one mail server to another; POP3 is used to receive it.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C274",
+  "subject": "Computer",
+  "q": "Cloud storage means that data is stored on:",
+  "options": [
+   "A printer's memory",
+   "Only the computer's own hard disk",
+   "A CD kept at home",
+   "Remote servers on the internet, reached through a connection"
+  ],
+  "answer": 3,
+  "explanation": "In cloud storage, files are kept on servers on the internet, so they can be opened from any device; Google Drive and Dropbox are examples.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C275",
+  "subject": "Computer",
+  "q": "The Brain virus, the first computer virus for personal computers, appeared in 1986 and was written in:",
+  "options": [
+   "Lahore, Pakistan",
+   "Tokyo, Japan",
+   "London, Britain",
+   "California, USA"
+  ],
+  "answer": 0,
+  "explanation": "The Brain virus of 1986 was written in Lahore by the brothers Basit and Amjad Farooq Alvi; it infected the boot sector of floppy disks.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C276",
+  "subject": "Computer",
+  "q": "Google, the world's most used search engine, was founded in:",
+  "options": [
+   "1995",
+   "1998",
+   "1990",
+   "2004"
+  ],
+  "answer": 1,
+  "explanation": "Google was founded in 1998 by Larry Page and Sergey Brin while they were students at Stanford University.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C277",
+  "subject": "Computer",
+  "q": "Microsoft Corporation was founded in 1975 by:",
+  "options": [
+   "Larry Page and Sergey Brin",
+   "Bill Gates and Paul Allen",
+   "Jeff Bezos and Bill Gates",
+   "Steve Jobs and Steve Wozniak"
+  ],
+  "answer": 1,
+  "explanation": "Bill Gates and Paul Allen founded Microsoft in 1975; its first product was a BASIC interpreter for the Altair computer.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C278",
+  "subject": "Computer",
+  "q": "Apple Inc. was founded in 1976 by Steve Jobs, Steve Wozniak and:",
+  "options": [
+   "Bill Gates",
+   "Elon Musk",
+   "Jeff Bezos",
+   "Ronald Wayne"
+  ],
+  "answer": 3,
+  "explanation": "Apple was founded in 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne, who sold his share soon after.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C279",
+  "subject": "Computer",
+  "q": "The first search engine on the internet was:",
+  "options": [
+   "Yahoo",
+   "Bing",
+   "Archie",
+   "Google"
+  ],
+  "answer": 2,
+  "explanation": "Archie, created in 1990, was the first search engine; it indexed files stored on FTP servers.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C280",
+  "subject": "Computer",
+  "q": "A standard 3.5-inch floppy disk could store:",
+  "options": [
+   "1.44 MB",
+   "256 KB",
+   "4.7 GB",
+   "700 MB"
+  ],
+  "answer": 0,
+  "explanation": "The common 3.5-inch floppy disk held 1.44 MB of data and was the usual way to move files in the 1990s.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C281",
+  "subject": "Computer",
+  "q": "The CDC 6600, built in 1964 and regarded as the first supercomputer, was designed by:",
+  "options": [
+   "Seymour Cray",
+   "John von Neumann",
+   "Bill Gates",
+   "Charles Babbage"
+  ],
+  "answer": 0,
+  "explanation": "The CDC 6600 of 1964, designed by Seymour Cray, is regarded as the first supercomputer.",
+  "source": "PPSC Day 45"
+ },
+ {
+  "id": "C282",
+  "subject": "Computer",
+  "q": "The Java programming language was created in 1995 by:",
+  "options": [
+   "Dennis Ritchie",
+   "Bjarne Stroustrup",
+   "Guido van Rossum",
+   "James Gosling"
+  ],
+  "answer": 3,
+  "explanation": "James Gosling and his team at Sun Microsystems created Java in 1995; it is widely used for Android apps and web systems.",
+  "source": "PPSC Day 45"
  }
 ]

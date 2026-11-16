@@ -1,4 +1,4 @@
-# Contributing to Muft Tayyari
+# Contributing to Dream PPSC
 
 Thank you — this project only stays trustworthy if the community checks it.
 

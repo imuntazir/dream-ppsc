@@ -1,6 +1,6 @@
-/* Muft Tayyari — free PPSC / FPSC exam preparation.
+/* Dream PPSC — free PPSC / FPSC exam preparation.
    Static PWA. All progress lives in localStorage on the user's own device.
-   Questions: 1,454 verified past-paper MCQs (data/questions.json). */
+   Questions: 5,592 verified past-paper MCQs (data/questions.json). */
 'use strict';
 
 const SUBJECTS = [
@@ -184,7 +184,7 @@ function renderHome(app) {
   }).join('');
   app.innerHTML = `
     <div class="hero">
-      <h1>Muft Tayyari 🎓</h1>
+      <h1>Dream PPSC 🎓</h1>
       <p class="big"><b>${QUESTIONS.length.toLocaleString()}</b> verified past-paper MCQs — free forever.</p>
       <p>Practice subject-wise, take a real 100-question timed mock, revise only what you got wrong, and take the daily challenge. No account, no ads, no fees.</p>
       <div class="btn-row">
